@@ -1,0 +1,63 @@
+﻿0	呵呵, 原來你在這裡呀
+1	<username/> ?
+2	<username/>.. 在這裡啊.
+3	啊! <username/>. 你好!
+4	<username/> . 很開心見到你.
+5	<username/> !
+6	您好
+7	是<username/> 啊!
+8	是<username/> [?male:哥哥/姐姐]!
+9	哎呀, <username/> 
+10	<username/> .
+11	原來在這裡呀, <username/> .
+12	哎呀~ 在這裡呀~
+13	<username/> . 在這裡呢.
+14	嗚哇! <username/>!
+15	原來, 你在這裡?
+16	啊, 你在這裡呢.
+17	....
+18	..喀隆. <username/>.
+19	<username/> 
+20	..原來在這裡呀.
+21	<username/>. 在這裡啊.
+22	哎呀膝蓋啊..
+23	哼哼.. 是這裡嗎?
+24	好久不見. <username/> .
+25	是<username/> 啊. 咳... 咳...
+26	啊.. <username/> 
+27	原來在這裡呀.
+28	<username/> .
+29	在這裡呀.
+30	哎呀, <username/>. 原來在這裡?
+31	原來是你呀.
+32	哎, 哎.
+33	噢噢.. 是這裡嗎?
+34	<username/>! 你好~
+35	喔齁齁! 看來是這裡.
+36	呃哼.
+37	<username/> , 見到你很高興~!
+38	…你好
+39	呀! <username/>!!
+40	<username/>.
+41	您好
+42	<username/>.
+43	<username/>. 這裡呀
+44	噢耶! 是這裡?
+45	....
+46	<username/>!
+47	<username/>.
+48	哇啊啊!!! <username/> !!
+49	<username/> .
+50	<username/> .
+51	...<username/>.
+52	^^
+53	原來在這裡呀.
+54	<username/> !
+55	<username/> .
+56	<username/>!!
+57	哎呀, <username/> .
+58	啊! <username/>!
+59	........<username/>
+60	哎呀,是這裡嗎? ....<username/>!
+61	好久沒有外出了,我有點興奮耶.
+62	.....哈....

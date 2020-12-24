@@ -1,0 +1,126 @@
+<portraitAnimation image="NPCportrait_Cethlenn.dds">
+
+<clipInformations number='18'>
+    <clipInformation x1="   0" y1="  12" x2=" 378" y2=" 511" originX="   0" originY="  12" />
+    <clipInformation x1=" 428" y1="   0" x2=" 511" y2="  40" originX=" 177" originY="  95" />
+    <clipInformation x1=" 428" y1="  41" x2=" 511" y2="  81" originX=" 177" originY="  95" />
+    <clipInformation x1=" 428" y1="  82" x2=" 511" y2=" 122" originX=" 177" originY="  95" />
+    <clipInformation x1=" 428" y1=" 123" x2=" 511" y2=" 163" originX=" 177" originY="  95" />
+    <clipInformation x1=" 428" y1=" 164" x2=" 511" y2=" 204" originX=" 177" originY="  95" />
+    <clipInformation x1=" 428" y1=" 205" x2=" 511" y2=" 245" originX=" 177" originY="  95" />
+    <clipInformation x1=" 428" y1=" 246" x2=" 511" y2=" 286" originX=" 177" originY="  95" />
+    <clipInformation x1=" 428" y1=" 287" x2=" 511" y2=" 327" originX=" 177" originY="  95" />
+    <clipInformation x1=" 381" y1="   0" x2=" 420" y2="  22" originX=" 194" originY=" 149" />
+    <clipInformation x1=" 381" y1="  26" x2=" 420" y2="  48" originX=" 194" originY=" 149" />
+    <clipInformation x1=" 381" y1="  52" x2=" 420" y2="  74" originX=" 194" originY=" 149" />
+    <clipInformation x1=" 381" y1="  78" x2=" 420" y2=" 100" originX=" 194" originY=" 149" />
+    <clipInformation x1=" 381" y1=" 104" x2=" 420" y2=" 126" originX=" 194" originY=" 149" />
+    <clipInformation x1=" 428" y1=" 328" x2=" 511" y2=" 368" originX=" 177" originY="  95" />
+    <clipInformation x1=" 381" y1=" 130" x2=" 420" y2=" 152" originX=" 194" originY=" 149" />
+    <clipInformation x1=" 428" y1=" 369" x2=" 511" y2=" 409" originX=" 177" originY="  95" />
+    <clipInformation x1=" 381" y1=" 157" x2=" 420" y2=" 179" originX=" 194" originY=" 149" />
+</clipInformations>
+<animations number='11'>
+    <animation index='0' name='base'>
+        <background>
+            <clips number='1'>
+                <clip value=" 0 " />
+            </clips>
+        </background>
+    </animation>
+    <animation index='1' name='normal'>
+        <background>
+            <clips number='1'>
+                <clip value=" 1 " />
+            </clips>
+        </background>
+        <frame index='0' duration='0.06'>
+            <clips number='1'>
+                <clip value=" 2 " />
+            </clips>
+        </frame>
+        <frame index='1' duration='0.15'>
+            <clips number='1'>
+                <clip value=" 3 " />
+            </clips>
+        </frame>
+        <frame index='2' duration='0.06'>
+            <clips number='1'>
+                <clip value=" 1 " />
+            </clips>
+        </frame>
+    </animation>
+    <animation index='2' name='angry'>
+        <background>
+            <clips number='2'>
+                <clip value=" 9 " />
+                <clip value=" 4 " />
+            </clips>
+        </background>
+    </animation>
+    <animation index='3' name='angry2'>
+        <background>
+            <clips number='2'>
+                <clip value=" 10 " />
+                <clip value=" 5 " />
+            </clips>
+        </background>
+    </animation>
+    <animation index='4' name='smile'>
+        <background>
+            <clips number='2'>
+                <clip value=" 11 " />
+                <clip value=" 6 " />
+            </clips>
+        </background>
+    </animation>
+    <animation index='5' name='painful'>
+        <background>
+            <clips number='2'>
+                <clip value=" 12 " />
+                <clip value=" 7 " />
+            </clips>
+        </background>
+    </animation>
+    <animation index='6' name='surprise'>
+        <background>
+            <clips number='2'>
+                <clip value=" 13 " />
+                <clip value=" 8 " />
+            </clips>
+        </background>
+    </animation>
+    <animation index='7' name='surge'>
+        <background>
+            <clips number='2'>
+                <clip value=" 15 " />
+                <clip value=" 14 " />
+            </clips>
+        </background>
+    </animation>
+    <animation index='8' name='happy'>
+        <background>
+            <clips number='2'>
+                <clip value=" 17 " />
+                <clip value=" 16 " />
+            </clips>
+        </background>
+    </animation>
+    <animation index='9' name='mad'>
+        <background>
+            <clips number='2'>
+                <clip value=" 8 " />
+                <clip value=" 9 " />
+            </clips>
+        </background>
+    </animation>
+    <animation index='10' name='concentrate'>
+        <background>
+            <clips number='2'>
+                <clip value=" 3 " />
+                <clip value=" 13 " />
+            </clips>
+        </background>
+    </animation>
+</animations>
+</portraitAnimation>

@@ -1,0 +1,100 @@
+<portraitAnimation image="NPCportrait_BBB.dds">
+
+<clipInformations number='16'>
+    <clipInformation x1="   0" y1="   0" x2=" 429" y2=" 511" originX="   0" originY="   0" />
+    <clipInformation x1=" 441" y1="   0" x2=" 511" y2="  34" originX=" 102" originY=" 101" />
+    <clipInformation x1=" 441" y1="  35" x2=" 511" y2="  69" originX=" 102" originY=" 101" />
+    <clipInformation x1=" 441" y1="  70" x2=" 511" y2=" 104" originX=" 102" originY=" 101" />
+    <clipInformation x1=" 441" y1=" 105" x2=" 511" y2=" 139" originX=" 102" originY=" 101" />
+    <clipInformation x1=" 441" y1=" 140" x2=" 511" y2=" 174" originX=" 102" originY=" 101" />
+    <clipInformation x1=" 441" y1=" 175" x2=" 511" y2=" 209" originX=" 102" originY=" 101" />
+    <clipInformation x1=" 441" y1=" 210" x2=" 511" y2=" 244" originX=" 102" originY=" 101" />
+    <clipInformation x1=" 441" y1=" 245" x2=" 511" y2=" 279" originX=" 102" originY=" 101" />
+    <clipInformation x1=" 441" y1=" 280" x2=" 511" y2=" 314" originX=" 102" originY=" 101" />
+    <clipInformation x1=" 475" y1=" 322" x2=" 511" y2=" 342" originX=" 120" originY=" 159" />
+    <clipInformation x1=" 475" y1=" 345" x2=" 511" y2=" 365" originX=" 120" originY=" 159" />
+    <clipInformation x1=" 475" y1=" 368" x2=" 511" y2=" 388" originX=" 120" originY=" 159" />
+    <clipInformation x1=" 475" y1=" 391" x2=" 511" y2=" 411" originX=" 120" originY=" 159" />
+    <clipInformation x1=" 475" y1=" 414" x2=" 511" y2=" 434" originX=" 120" originY=" 159" />
+    <clipInformation x1=" 475" y1=" 437" x2=" 511" y2=" 457" originX=" 120" originY=" 159" />
+</clipInformations>
+<animations number='8'>
+    <animation index='0' name='base'>
+        <background>
+            <clips number='1'>
+                <clip value=" 0 " />
+            </clips>
+        </background>
+    </animation>
+    <animation index='1' name='normal'>
+        <background>
+            <clips number='1'>
+                <clip value=" 1 " />
+            </clips>
+        </background>
+        <frame index='0' duration='0.06'>
+            <clips number='1'>
+                <clip value=" 2 " />
+            </clips>
+        </frame>
+        <frame index='1' duration='0.15'>
+            <clips number='1'>
+                <clip value=" 3 " />
+            </clips>
+        </frame>
+        <frame index='2' duration='0.06'>
+            <clips number='1'>
+                <clip value=" 1 " />
+            </clips>
+        </frame>
+    </animation>
+    <animation index='2' name='ignore'>
+        <background>
+            <clips number='2'>
+                <clip value=" 10 " />
+                <clip value=" 4 " />
+            </clips>
+        </background>
+    </animation>
+    <animation index='3' name='smile'>
+        <background>
+            <clips number='2'>
+                <clip value=" 5 " />
+                <clip value=" 11 " />
+            </clips>
+        </background>
+    </animation>
+    <animation index='4' name='surprise'>
+        <background>
+            <clips number='2'>
+                <clip value=" 12 " />
+                <clip value=" 6 " />
+            </clips>
+        </background>
+    </animation>
+    <animation index='5' name='happy'>
+        <background>
+            <clips number='2'>
+                <clip value=" 13 " />
+                <clip value=" 7 " />
+            </clips>
+        </background>
+    </animation>
+    <animation index='6' name='angry'>
+        <background>
+            <clips number='2'>
+                <clip value=" 14 " />
+                <clip value=" 8 " />
+            </clips>
+        </background>
+    </animation>
+    <animation index='7' name='mad'>
+        <background>
+            <clips number='2'>
+                <clip value=" 15 " />
+                <clip value=" 9 " />
+            </clips>
+        </background>
+    </animation>
+</animations>
+</portraitAnimation>

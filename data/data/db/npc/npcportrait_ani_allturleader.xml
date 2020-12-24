@@ -1,0 +1,137 @@
+<portraitAnimation image="NPCportrait_Allturleader.dds">
+
+<clipInformations number='20'>
+    <clipInformation x1="   0" y1="   5" x2=" 323" y2=" 511" originX="   0" originY="   5" />
+    <clipInformation x1=" 324" y1=" 440" x2=" 351" y2=" 511" originX=" 324" originY=" 440" />
+    <clipInformation x1=" 422" y1="   0" x2=" 511" y2="  51" originX=" 153" originY=" 101" />
+    <clipInformation x1=" 422" y1="  52" x2=" 511" y2=" 103" originX=" 153" originY=" 101" />
+    <clipInformation x1=" 422" y1=" 104" x2=" 511" y2=" 155" originX=" 153" originY=" 101" />
+    <clipInformation x1=" 422" y1=" 156" x2=" 511" y2=" 207" originX=" 153" originY=" 101" />
+    <clipInformation x1=" 422" y1=" 208" x2=" 511" y2=" 259" originX=" 153" originY=" 101" />
+    <clipInformation x1=" 422" y1=" 260" x2=" 511" y2=" 311" originX=" 153" originY=" 101" />
+    <clipInformation x1=" 422" y1=" 312" x2=" 511" y2=" 363" originX=" 153" originY=" 101" />
+    <clipInformation x1=" 422" y1=" 364" x2=" 511" y2=" 415" originX=" 153" originY=" 101" />
+    <clipInformation x1=" 422" y1=" 416" x2=" 511" y2=" 467" originX=" 153" originY=" 101" />
+    <clipInformation x1=" 329" y1="   0" x2=" 418" y2="  51" originX=" 153" originY=" 101" />
+    <clipInformation x1=" 329" y1="  78" x2=" 370" y2=" 100" originX=" 178" originY=" 159" />
+    <clipInformation x1=" 329" y1=" 104" x2=" 370" y2=" 126" originX=" 178" originY=" 159" />
+    <clipInformation x1=" 329" y1=" 130" x2=" 370" y2=" 152" originX=" 178" originY=" 159" />
+    <clipInformation x1=" 329" y1=" 156" x2=" 370" y2=" 178" originX=" 178" originY=" 159" />
+    <clipInformation x1=" 329" y1=" 182" x2=" 370" y2=" 204" originX=" 178" originY=" 159" />
+    <clipInformation x1=" 329" y1=" 208" x2=" 370" y2=" 230" originX=" 178" originY=" 159" />
+    <clipInformation x1=" 329" y1=" 235" x2=" 370" y2=" 257" originX=" 178" originY=" 159" />
+    <clipInformation x1=" 329" y1=" 262" x2=" 370" y2=" 284" originX=" 178" originY=" 159" />
+</clipInformations>
+<animations number='12'>
+    <animation index='0' name='base'>
+        <background>
+            <clips number='2'>
+                <clip value=" 1 " />
+                <clip value=" 0 " />
+            </clips>
+        </background>
+    </animation>
+    <animation index='1' name='normal'>
+        <background>
+            <clips number='1'>
+                <clip value=" 2 " />
+            </clips>
+        </background>
+        <frame index='0' duration='0.06'>
+            <clips number='1'>
+                <clip value=" 3 " />
+            </clips>
+        </frame>
+        <frame index='1' duration='0.15'>
+            <clips number='1'>
+                <clip value=" 4 " />
+            </clips>
+        </frame>
+        <frame index='2' duration='0.06'>
+            <clips number='1'>
+                <clip value=" 2 " />
+            </clips>
+        </frame>
+    </animation>
+    <animation index='2' name='smile'>
+        <background>
+            <clips number='2'>
+                <clip value=" 12 " />
+                <clip value=" 2 " />
+            </clips>
+        </background>
+    </animation>
+    <animation index='3' name='smile2'>
+        <background>
+            <clips number='2'>
+                <clip value=" 13 " />
+                <clip value=" 5 " />
+            </clips>
+        </background>
+    </animation>
+    <animation index='4' name='stiffen'>
+        <background>
+            <clips number='2'>
+                <clip value=" 14 " />
+                <clip value=" 6 " />
+            </clips>
+        </background>
+    </animation>
+    <animation index='5' name='realize'>
+        <background>
+            <clips number='2'>
+                <clip value=" 15 " />
+                <clip value=" 7 " />
+            </clips>
+        </background>
+    </animation>
+    <animation index='6' name='fury'>
+        <background>
+            <clips number='2'>
+                <clip value=" 16 " />
+                <clip value=" 8 " />
+            </clips>
+        </background>
+    </animation>
+    <animation index='7' name='sad'>
+        <background>
+            <clips number='2'>
+                <clip value=" 17 " />
+                <clip value=" 9 " />
+            </clips>
+        </background>
+    </animation>
+    <animation index='8' name='resolute'>
+        <background>
+            <clips number='2'>
+                <clip value=" 18 " />
+                <clip value=" 10 " />
+            </clips>
+        </background>
+    </animation>
+    <animation index='9' name='embarrassed'>
+        <background>
+            <clips number='2'>
+                <clip value=" 19 " />
+                <clip value=" 11 " />
+            </clips>
+        </background>
+    </animation>
+    <animation index='10' name='urgent'>
+        <background>
+            <clips number='2'>
+                <clip value=" 16 " />
+                <clip value=" 10 " />
+            </clips>
+        </background>
+    </animation>
+    <animation index='11' name='relief'>
+        <background>
+            <clips number='2'>
+                <clip value=" 15 " />
+                <clip value=" 9 " />
+            </clips>
+        </background>
+    </animation>
+</animations>
+</portraitAnimation>

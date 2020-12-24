@@ -1,0 +1,1467 @@
+﻿animaltraininguse.1	訓練杖已無法使用.
+animaltraininguse.2	需要裝備訓練杖和訓練用誘餌.
+animaltraininguse.3	訓練野生動物.
+animaltraininguse.4	請選擇要訓練的動物.
+animaltraininguse.5	成功訓練{0}.
+animaltraininguse.6	訓練失敗.
+animaltraininguse.7	訓練失敗.
+animaltraininguse.8	好像需要怪物再弱一些才能訓練.
+animaltraininguse.9	訓練失敗.
+animaltraininguse.10	現在無法使用.
+animaltraininguse.11	好像無法訓練.
+animaltraininguse.12	對訓練有所反應,好像放棄了逃跑.
+animaltraininguse.13	對訓練好像有反應,再嘗試一下.
+animaltraininguse.14	好像無法訓練.
+animaltraininguse.15	無法使用訓練木杖.
+animaltraininguse.16	無法使用訓練誘餌.
+animaltraininguse.17	在變身為闇黑武士的狀態下, 無法訓練.
+anotherdivinity.1	必須解除變身.
+anotherdivinity.2	必須解除半神化.
+areaofregenerationuse.1	[邊境之痕]不足無法使用特性.
+areaofregenerationuse.2	現在特性技術無法使用.
+arrowrevolver2use.1	無法使用已過期的武器.
+arrowrevolveruse.1	無法使用已過期的武器.
+backstepuse.1	目前無法使用技能. {0}秒之後再試試看.
+barrieruse.3	需要鋼瓶.
+barrieruse.4	缺少可使用的防護壁結晶
+barrieruse.5	缺少可使用的防護壁結晶
+barrieruse.6	無法再設置 防護壁
+barrieruse.7	無法設置防護壁區域
+barrieruse.8	無法使用防護壁區域
+barrieruse.9	此位置無法設置 防護壁.
+barrieruse.10	無法再設置 防護壁
+barrieruse.11	要設置防護壁位置有移動物體
+barrieruse.12	防護壁結晶不存在
+barrieruse.13	防護壁結晶使用失敗
+bashuse.1	因為武器耐久度為 0, 因此無法使用猛擊.
+bashuse.2	想要使用猛擊的話, 需要近距離戰鬥才能武器.
+berserkeruse.1	現在無法變為狂戰士戰士. {0}秒復活後開始可以變為狂戰士戰士.
+blacksmithuse.1	已過期.
+blacksmithuse.2	在臨時物品欄的道具無法進行生産.
+blacksmithuse.3	{0} 專用道具.
+blacksmithuse.4	透過特性 [洞察之眼]判讀設計圖後可以製作.
+blizzardstrikeuse.1	需要集魔杖.
+blizzardstrikeuse.2	魔法不足而 {0} 技能被取消了.
+blizzardstrikeuse.3	{0} 技能的使用時間剩下 10秒
+blizzardstrikeuse.4	集魔杖的耐久度變為 0而無法使用雹暴.
+bloomingmemory.1	給予主人套用 {0}效果.\n召喚寵物的狀態中 {1} 技能修練經驗值 {2}.{3}倍套用.
+blowingballoonuse.1	需要漏氣的氣球.
+boltout.1	天打雷劈獲得.
+boltoutuse.1	現在無法使用技能. 請於{0}秒之後再試試看.
+breathofladecause.1	今天再也無法使用.
+bunshinuse.1	怪物的靈魂不足{0}個.
+bunshinuse.2	지금은 사용할 수 없을 것 같다.
+campfireuse.1	橋上不能放置營火.
+campfireuse.2	스키 이벤트 중에는 캠프 파이어를 설치할 수 없습니다.
+campfireuse.3	沒有木柴, 或是木柴不夠.
+campfireuse.4	木柴不夠.
+campfireuse.5	沒有木柴, 或是木柴不夠.
+campfireuse.6	無法使用的區域.
+campfireuse.7	變成甜蜜狀態. 起來的話{0}分鐘內可獲得以下的效果 . \n所有能力 {1} 增加\n最大生命值 {2}增加\n最大魔法值 {3} 增加\n最大耐力值 {4} 增加\n最大傷害 {5} 增加\n暴擊 {6} 增加\n防禦 {7} 增加\n保護 {8} 增加\n魔法防禦 {9} 增加\n魔法保護 {10} 增加\n戰鬥經驗值 {11}% 增加
+campfireuse.8	坐著接收氣息.到甜蜜狀態前剩下 {0}分.
+campfireuse.9	坐著接收氣息.到甜蜜狀態前剩下 {0}秒.
+campfireuse.10	已經是甜蜜狀態. 坐著接收氣息.
+campfireuse.11	變成爽快的心情狀態. 起來的話, 在{0}分鐘內可獲得如下效果. \n所有能力值 {1} 增加\n最大生命力 {2}增加\n最大魔力 {3} 增加\n最大耐力 {4} 增加\n最大傷害 {5} 增加\n暴擊 {6} 增加\n防禦 {7} 增加\n保護 {8} 增加\n魔法防禦 {9} 增加\n魔法保護 {10} 增加\n戰鬥經驗值 {11}% 增加
+campfireuse.12	坐著接收氣息. 到疲勞完全消散前剩下 {0}分鐘.
+campfireuse.13	坐著接收氣息. 到疲勞完全消散前剩下 {0}秒.
+campfireuse.14	已經擁有爽快心情. 坐著接收氣息.
+campfireuse.15	身體變溫暖的感覺.\n營火周圍 {0}充滿溫暖而且有濃厚的香味.\n附近採取充分的休息.
+carpentryuse.1	需要木工作業台.
+carpentryuse.2	需要木工作業台.
+carpentryuse.3	距離木工作業台太遠
+carpentryuse.4	Production Form\n生產技能形式
+carpentryuse.5	需要木工作業台.
+carpentryuse.6	距離木工作業台太遠
+carpentryuse.7	Production Form\n生產技能形式
+carpentryuse.8	距離木工作業台太遠
+carpentryuse.9	完成可以與神匹敵, 最高品質的 {0} !
+carpentryuse.10	你的誠意感動了上天!  這次製作出不輸給任何商品的優質品 {0} !
+carpentryuse.11	完成了比大眾 {0}更高水準的 {0} .
+carpentryuse.12	雖然沒有特別優質, 但耐久度比商店的物品更高.
+carpentryuse.13	跟商店的商品品質差不多
+carpentryuse.14	雖然品質不是很好, 但只要好好整修, 還是可以變強.
+carpentryuse.15	雖然完成了, 但只有品質不太好的 {0} 
+carpentryuse.16	竟然製作出這麼草率的 {0}.\n就算賣給店家, 也會被嫌棄.
+carpentryuse.17	製作{0}成功
+carpentryuse.18	製作失敗
+carpentryuse.19	{0} 專用生產品.
+carpentryuse.20	{0} 專用生產品.
+chainburstuse.1	已發動黑闇解放效果中.
+chaingunuse.1	無法使用已過期的武器.
+chainspinningslashuse.1	沒有攻擊對象.
+chargingfistuse.1	目前無法使用技能. {0}秒之後再試試看.
+cloakinguse.1	在使用技能或是動作中,不能使用.
+cloakinguse.2	魔法值不足.
+cloakinguse.3	戰鬥中不能使用.\n請在{0}秒後再試一次.
+cloakinguse.4	在交易或是和NPC對話中,不能使用.
+cloakinguse.5	魔法值不足,不能夠再隱藏模樣了.
+cloakinguse.6	在參加搶旗活動中無法使用.
+cloakinguse.7	參加去海邊吧活動中不能使用.
+cloakinguse.8	騎士競技大賽時無法使用.
+cloakinguse.9	現在 {0}{} 無法使用.
+closer.1	好像太靠近對方的樣子.
+closer.2	距離對方好像太遠的樣子.
+clothaction.1	獲得服裝動作.
+clothactionuse.1	穿上動作服裝才可使用.
+clothactionuse.2	穿上動作服裝才可使用.
+cloudmakinguse.1	需要鋼瓶.
+cloudmakinguse.2	目前無法使用技能.請過{0}秒後再試.
+cloudmakinguse.3	無法使用技能的區域
+cloudmakinguse.4	雲的結晶不足
+cloudmakinguse.5	因雲的結晶不足無法使用技能
+collectinguse.1	用此瓶好像無法進行採集.
+collectinguse.2	{0}成功採集蘑菇.
+collectinguse.3	木筏在搖晃, 無法採集.
+collectinguse.4	熱氣球在搖晃, 無法採集.
+collectinguse.5	距離太遠無法採集.
+collectinguse.6	今天無法再這羊身上採集到羊毛了.
+collectinguse.7	無法再從這隻動物上進行採集.
+collectinguse.8	無法再從這隻動物上進行採集.
+conditionsupportuse.1	{0} 狀態無法支援.
+conditionsupportuse.2	再繼續隱身似乎沒有意義.
+conditionsupportuse.3	隱身的耐性似乎更多了.
+conditionsupportuse.4	[邊境之痕]不足無法使用特性.
+conditionsupportuse.5	向[{0}]獲得了{1}狀態支援.
+conditionsupportuse.6	向[{0}]支援了{1}狀態.
+conditionsupportuse.7	向[{0}]{1} 套用了{1}狀態.
+conditionsupportuse.8	向[{0}]獲得了特別組合的 {1} 狀態支援.
+conditionsupportuse.9	向[{0}]支援了特別組合的 {1} 狀態.
+conditionsupportuse.10	向[{0}]套用了特別組合的 {1} 狀態.
+conditionsupportuse.11	{0}秒後,可以支援隱身狀態
+confusionuse.1	已被眩惑了!
+cookinguse.1	已過期.
+cookinguse.2	已過期.
+cookinguse.3	料理材料的保存期限已過.
+cookinguse.4	只能在料理大會會場內使用的材料.
+cookinguse.5	只能在料理大會中使用的材料.
+cookinguse.6	只有料理大會的參加者才能使用料理大會用材料.
+cookinguse.7	只有料理大會的參加者才能使用料理大會用材料.
+cookinguse.8	可以享有天國之味的料理完成!
+cookinguse.9	看似非常美味的料理完成!
+cookinguse.10	看似有夠味的料理完成.
+cookinguse.11	料理完成.
+cookinguse.12	擔心味道的料理完成.
+counterattackuse.1	裝備騎槍時無法使用該當技能.
+crossbusteruse.1	現在好像不能使用.
+crossbusteruse.2	目前無法使用技能. {0}秒之後再次使用.
+cruelslashuse.1	首先要選擇對象.
+cruelslashuse.2	是無法攻擊的對象.
+cruelslashuse.3	只能向倒下的敵人使用.
+cruelslashuse.4	此對象無法攻擊.
+cruelslashuse.5	對象距離太遠.
+cruelslashuse.6	首先要選擇對象.
+crystalmakinguse.1	若要製造結晶需要有濕式火盆.
+crystalmakinguse.2	若要製造結晶,附近必須有濕式火盆.
+crystalmakinguse.3	必須具備相關技能才能製造結晶.
+crystalmakinguse.4	製造{0}成功.
+crystalmakinguse.5	製造{0}失敗.
+crystalmakinguse.6	{0} 專用生產品.
+cylinderexplosionuse.1	壓力不足.
+cylinderexplosionuse.2	需要火的結晶 5個.
+cylinderexplosionuse.3	鋼瓶的壓力不足, 高壓火爆技能被取消了.
+cylinderexplosionuse.4	壓力不足.
+cylinderexplosionuse.5	需要火的結晶 5個.
+darkknighttransformuse.1	이벤트 아레나에서는 변신을 해제할수 없습니다
+darkstorm.1	提升{0} 技能等級獲得了獎勵修煉值.
+darkstorm.2	因{0} 技能修煉值不足等級下降了.
+darkstorm.3	因{0} 技能修煉值不足若連續使用等級將會下降.
+darkstormuse.1	目前無法使用技能.請過{0}秒後再試.
+darkstormuse.2	{0} 因技能修煉值不足無法使用.
+dashpunchuse.1	目前無法使用技能. {0}秒之後再試試看.
+deathofshadowuse.1	給你錫古的力量.\n喚醒在暗影石沉睡的\n黑暗之靈...
+deathofshadowuse.2	米列希安, \n利用帕爾赫德的力量\n為弗魔族偉大的力量開啟覺醒之眼.
+deathofshadowuse.3	時間已到.\n將釋放弗魔族的黑暗.
+defenceuse.1	裝備騎槍時無法使用該當技能.
+demigodravenattack.1	提升{0} 技能的等級獲得了優惠修煉值.
+demigodravenattack.2	{0} 技能的修煉值不足而等級下降.
+demigodravenattack.3	{0} 技能的修煉值不足而連續使用時等級會下降.
+demigodravenattackuse.1	目前無法使用技能. 請在{0}秒後再次使用.
+demigodravenattackuse.2	{0} 技能的修煉值不足而無法使用.
+demigodravenattackuse.3	附近沒有目標時無法使用
+demigodshieldofgodnessuse.1	{0} 無法使用技能的狀態.
+demigodshieldofgodnessuse.2	目前無法使用技能. 請在{0}秒後再次使用.
+demigodspearofgod.1	{0} 升級技能來獲得獎勵修煉值.
+demigodspearofgod.2	{0} 因技能修煉值不足等級下降了.
+demigodspearofgod.3	{0} 因技能修煉值不足如果連續使用等級有可能會下降.
+demigodspearofgoduse.1	目前無法使用技能.請過{0}秒後再試.
+demigodspearofgoduse.2	{0} 因技能修煉值不足無法使用.
+demigodspearofgoduse.3	附近沒有目標時無法使用
+demigodspearofgoduse.4	消耗布里歐納克的力量使矛的力量極大化.
+demigodspiritofshadowuse.1	靈魂已經出竅了.
+demigodspiritofshadowuse.2	無法吸收靈魂.
+demigodspiritofshadowuse.3	沒有吸收的靈魂.
+demigodspiritofshadowuse.4	沒有目標無法使用.
+demigodspiritofshadowuse.5	沒有目標無法使用.
+demigodspiritofshadowuse.6	靈魂完全吸收了.
+demigodspiritofshadowuse.7	沒有吸收的靈魂.
+demigodspiritofshadowuse.8	靈魂已經出竅了.
+demigodspiritofshadowuse.9	無法吸收靈魂.
+demigodspiritofshadowuse.10	沒有吸收的靈魂.
+demigodspiritofshadowuse.11	沒有找到可以攻擊的對象.
+demigodtransform.1	{0} 升級技能來獲得獎勵修煉值.
+demigodtransform.2	{0} 因技能修煉值不足等級下降了.
+demigodtransform.3	{0} 因技能修煉值不足如果連續使用等級有可能會下降.
+demigodtransformuse.1	{0} 因技能修煉值不足無法使用.
+demigodtransformuse.2	現在不是可以半神化的狀態.
+dicethrowinguse.1	骰子應放在右手上.
+dicethrowinguse.2	找不到骰子.
+dicethrowinguse.3	骰子應放在右手上.
+dicethrowinguse.4	找不到骰子.
+dischargeuse.1	要使用技能需要電的結晶.
+dischargeuse.2	無法使用的對象.
+dischargeuse.3	無法使用火花. 請過{1}分後再次使用.
+dischargeuse.4	無法使用火花. 請過{1}秒後再次使用.
+dischargeuse.5	無法使用火花. 請過{1}分後再次使用.
+dissolutionuse.1	如要分解,附近需要有乾式火盆.
+dissolutionuse.2	如要分解,附近需要有乾式火盆.
+dissolutionuse.3	如要分解,附近需要有乾式火盆.
+dissolutionuse.4	雙手閒置,可以進行分解.
+dissolutionuse.5	{0} 分解成功 \n
+dissolutionuse.6	{0} {1}個 \n
+dissolutionuse.7	獲得{0} {1}個.
+dissolutionuse.8	{0} 分解失敗.
+dissolutionuse.9	道具錯誤.
+divinelinkuse.1	沒有可使用技能的對象.
+divinelinkuse.2	對象距離太遠.
+divinelinkuse.3	靈魂連接10秒後會被解除.
+divinelinkuse.4	在整體的狀態下無法使用該技能.
+divinelinkuse.5	寵物正在守護個人商店, 因此無法使用該技能.
+divinelinkuse.6	펫 레벨 : {0} \n디바인 링크 펫 스탯 증가 요청량 : 방어{1}, 보호{2}, \n서브스킬 추가 증가량 : 방어{3}, 보호{4}
+dorchaconversionuse.1	生命力不足, 無法使用效果.
+dorchaconversionuse.2	無法再獲得黑闇值.
+dorchasnatchuse.1	沒有確定對象.
+dragonfearruse.1	巨龍的咆哮, 使得忠誠的寵物也不禁發抖
+dragonpetbreathfireuse.1	目前無法使用技能.請過{0}秒後再試.
+dragonpetbreathiceuse.1	目前無法使用技能. {0}秒後再次進行.
+dragonpetbreathstoneuse.1	目前無法使用技能. {0}秒之後再試試看.
+dragonpetbreaththunderuse.1	目前無法使用技能.請過{0}秒後再試.
+dragonpetdevilcryuse.1	目前無法使用技能. {0}秒之後再試試看.
+dragonpetdevilcryuse.2	惡魔消滅技能使用失敗.
+dragonpetdevilcryuse.3	惡魔消滅技能使用失敗.
+dragonthunderuse.1	天氣似乎因不明力量而變得陰霾.
+drawingartistuse.1	線描畫
+drawingartistuse.2	鮮明的線描畫
+drawingartistuse.3	溫柔的點描畫
+dressshapeshift.1	獲得服裝動作2技能
+dressshapeshiftuse.1	想要使用相關技能，必須穿上有服裝動作第2 技能的服裝才可以 
+dressshapeshiftuse.2	想要使用相關技能，必須穿上有服裝動作第2 技能的服裝才可以 
+dressshapeshiftuse.3	想要使用相關技能，必須穿上有服裝動作第2 技能的服裝才可以 
+dropkickuse.1	目前無法使用技能. {0}秒之後再試試看.
+dropkickuse.2	必須要先鎖定對象.
+dualgunattackuse.1	必須要先鎖定對象.
+dualgunattackuse.2	必須要先鎖定對象.
+egobluntspecialattackuse.1	此武器已無法再使用.
+egocylinderspecialattackuse.1	此鋼瓶無法再使用.
+egoswordspecialattackuse.1	此武器已無法再使用.
+egowandspecialattackuse.1	此魔杖已無法再使用.
+elementaluse.1	已強化的狀態
+elementaluse.2	跟鋼瓶和盾牌鋼瓶一起套用才可
+elementaluse.3	所有屬性還沒滿
+elfmagicmissile.1	최종 데미지: %f, 활 데미지: %f, 마법 데미지: %f, 유지 시간 팩터: %f, 추가 속성 효과: %f
+elfmagicmissile.2	最後傷害: {0}, 弓箭傷害: {1}, 魔法傷害: {2}, 維持時間因數: {3}, 追加屬性效果: {4}
+elfmagicmissileuse.1	好像一定要裝備弓或魔杖.
+elfmagicmissileuse.2	這個魔杖好像無法施展技能.
+elfmagicmissileuse.3	這個魔杖好像無法施展技能.
+elfmagicmissileuse.4	時間已過,技能已取消.
+elfmagicmissileuse.5	엘븐 미사일 범위: 파이어(%1.f) 아이스 (%1.f) 라이트닝(%1.f)
+elfmagicmissileuse.6	魔箭迫擊範圍: 火({0}) 冰 ({1}) 雷({2})
+elftransformuse.1	目前無法變身.
+elftransformuse.2	今天無法再使用.
+elftransformuse.3	{0}已發動
+elftransformuse.4	{0}已發動
+elftransformuse.5	獸化不包括在免費遊戲中.
+emergencyescapeuse.1	解除變身才可逃脫危險
+emergencyescapeuse.2	現在 {0}{} 無法使用.
+enchant2use.1	雖然在魔力賦予失敗了但因為有魔力賦予保護藥水的效果而不會減少耐久度.
+enchant2use.2	雖然在魔力賦予失敗了但因為有魔力賦予保護藥水的效果而不會減少耐久度.
+enchant2use.3	在6等級以上的魔力賦予失敗時,對象道具消失\n蘊藏在武器上的精靈也一起消失.\n要進行魔力賦予嗎?
+enchantuse.1	使用期限已到.
+ensembleplayuse.1	音樂知識和演奏技能的等級達到C才能進行合奏.
+ensembleplayuse.2	只有進入合奏隊伍,才能進行合奏.
+ensembleplayuse.3	樂器已經損壞,無法進行合奏.
+ensembleplayuse.4	使用期已過的樂器無法進行合奏.
+ensembleplayuse.5	用魔法樂譜是無法進行合奏.
+ensembleplayuse.6	需要手持樂器.
+ensembleplayuse.7	必須要參加合奏隊伍或召喚可合奏的夥伴才可進行合奏.
+ensemblesinguse.1	歌唱必須要為A等級, 音樂知識要為C等級以上才能合唱
+fakedeathuse.1	在無法行動的狀態下,不能使用.
+fakedeathuse.2	現在不能使用.
+fakedeathuse.3	現在 {0}{} 無法使用.
+fertilizinguse.1	沒有擁有田地而無法使用.
+fertilizinguse.2	在田地裡灑下種子才可以進行作業.
+fertilizinguse.3	在其他作業中而無法開始作業.
+fertilizinguse.4	今天已經無法再進行作業了.
+fertilizinguse.5	無法進行作業.
+fertilizinguse.6	可以在自己所有的農地上使用.
+fertilizinguse.7	田地裡給予肥料.
+finalshotuse.1	必須裝置遠距離武器和投射物.
+finalshotuse.2	技能終了前10秒.
+finalshotuse.3	必須裝置遠距離武器和投射物.
+finalshotuse.4	必須裝置遠距離武器和投射物.
+finalshotuse.5	有障礙物,無法移動.
+finalshotuse.6	在終極射擊的瞬間無法連續使用移動.
+finalshotuse.7	時間不足,無法瞬移到那個位置.
+finalshotuse.8	耐力不足,無法進行瞬前移動.
+finalshotuse.9	技能終了前10秒.
+finalstrikeuse.1	終焉斬擊技能的使用時間剩下10秒.
+finalstrikeuse.2	武器的耐久度為 0因此似乎無法使用終焉斬擊.
+finalstrikeuse.3	若想要使用終焉斬擊,需要近距離戰鬥才能武器.
+fireballuse.1	充分使用火焰後\n必須讓武器上累積火焰屬性才行.
+fireballuse.2	集魔杖的耐久度變為 0而無法使用火球.
+fireballuse.3	需要魔杖或火焰魔杖.
+fireshielduse.1	現在寵物無法使用道具. {0}秒後請再次嘗試.
+firstaiduse.1	無法使用繃帶.
+firstaiduse.2	對戰中的角色無法使用包紮.
+firstaiduse.3	寵物身上必須有繃帶
+firstaiduse.4	戰鬥中無法使用.
+fishinguse.1	無法使用已過期的釣竿進行釣魚.
+fishinguse.2	無法使用釣魚椅子的地點.
+fishinguse.3	無法使用釣魚椅子的地點.
+fishinguse.4	請先整理臨時物品欄中的物品.
+flamealchemyuse.1	需要鋼瓶.
+flamealchemyuse.2	火的結晶不足,無法使用技能.
+flamealchemyuse.3	火的結晶不足,無法攻擊敵人.
+flownhotairballoonuse.1	在此地方無法使用熱氣球.
+flownhotairballoonuse.2	現在無法使用熱氣球.
+flownhotairballoonuse.3	使用熱氣球失敗.
+flownskylanternuse.1	在此無法施放天燈.
+flownskylanternuse.2	目前無法施放天燈.
+formchangeuse.1	戰鬥中無法使用.\n請{0}秒後再次嘗試.
+freehands.1	雙手要空的才可
+freestylejamuse.1	在這裡無法舉辦即興演奏.
+freestylejamuse.2	即興演奏主辦者必須要套用樂器或麥克風才行.
+freestylejamuse.3	目前為樂譜錯誤, 或無法開始演奏的狀態.
+freestylejamuse.4	在集中觀賞模式中無法使用即興演奏.
+fynnsbeadsshininguse.1	芬恩之鈴道具的耐久度為0,所以無法使用.
+fynnsbeadsshininguse.2	為了使用芬恩寶珠閃耀,右手需要有芬恩之鈴.
+fynnsbeadsshininguse.3	{0}的閃耀成功了!
+fynnsbeadsshininguse.4	閃耀失敗了...\n{0}被破壞了...
+fynnscraftuse.1	芬恩之鈴道具的耐久度為0,所以無法使用.
+fynnscraftuse.2	為了使用芬恩的手工藝,右手需要有芬恩之鈴.
+fynnscraftuse.3	{0} 製作大成功!!!
+fynnsynchuse.1	芬恩之鈴道具的耐久度為0,所以無法使用.
+fynnsynchuse.2	為了使用芬恩同步,右手需要有芬恩之鈴.
+fynnsynchuse.3	沒有召喚的寵物,故無法進行芬恩同步.
+fynnsynchuse.4	菲尼寵物無法進行芬恩同步..
+fynnsynchuse.5	目前召喚的寵物,無法進行芬恩同步.
+fynnsynchuse.6	目前召喚的寵物,無法進行芬恩同步.
+fynnsynchuse.7	戰鬥中或是在戰鬥地區,無法進行芬恩同步.
+fynnsynchuse.8	戰鬥中或是在戰鬥地區,無法進行芬恩同步.
+fynnsynchuse.9	因玩家無法行動,無法進行芬恩同步.
+fynnsynchuse.10	因寵物無法行動,無法進行芬恩同步.
+fynnsynchuse.11	只有累積等級達50以上的寵物,才能進行芬恩同步.
+fynnsynchuse.12	沒有物品欄的寵物無法成為芬恩寵物.
+fynnsynchuse.13	{0} 等級
+fynnsynchuse.14	{0}小時 {1}分
+fynnsynchuse.15	{0}{}以芬恩寵物成長.\n
+fynnsynchuse.16	{0}的菲尼變得更強了.\n
+fynnsynchuse.17	{0}的菲尼變得更強了.\n(由於芬恩同步大成功,芬恩寵物精通和屬性技能的修練經驗值5倍獲得)\n
+fynnsynchuse.18	{0}的菲尼變得更強了.
+fynnsynchuse.19	\n(大成功{0}次,成功{1}次)\n
+fynnsynchuse.20	\n累積等級 : {0}增加
+fynnsynchuse.21	\nPP : {0}增加
+fynnsynchuse.22	\n召喚時間 : {0}增加
+fynnsynchuse.23	\n背包 : {0}個新增
+fynnsynchuse.24	({0}個更換)
+fynnsynchuse.25	\n獲得特技
+fynnsynchuse.26	\n芬恩寵物精通 : {0}
+fynnsynchuse.27	\n屬性 : {0}
+fynnsynchuse.28	\n芬恩寶珠欄位 : {0}個新增
+fynnsynchuse.29	\n朋友召喚欄位 : {0}個新增
+fynnsynchuse.30	{0}{}以芬恩寵物成長.
+fynnsynchuse.31	對夥伴無法進行芬恩同步.
+fynnsynchuse.32	{0}等級({1})
+fynnsynchuse.33	{0} {1}等級({2})
+fynnsynchuse.34	\n(由於芬恩同步大成功,芬恩寵物精通和屬性技能的修練經驗值5倍獲得)
+fynnybloominguse.1	芬恩之鈴道具的耐久度為0,所以無法使用.
+fynnybloominguse.2	為了使用菲尼綻放, 右手需要有芬恩之鈴.
+fynnybloominguse.3	可選擇綻放籠子使用菲尼綻放技能.\n綻放籠子可設置在浪漫農場.
+fynnybloominguse.4	{0} 菲尼寵物的綻放完成!
+gachaponsynthesisuse.1	합성을 할 수 없는 아이템입니다.
+gachaponsynthesisuse.2	합성 재료를 다시 확인 해 주세요.
+gachaponsynthesisuse.3	{0} 님께서 아이바의 합성 키트를 사용하여 {1} 아이템을 획득하였습니다.
+gachaponsynthesisuse.4	아이바의 합성 키트를 사용한 합성에 성공하여 {0}{을} 얻었습니다.
+gachaponsynthesisuse.5	아이바의 합성 키트를 사용한 합성에 실패했습니다.
+gardeninguse.1	不是庭園樹.
+gardeninguse.2	無法直接整修. 請詢問庭園師爾菲.
+gardeninguse.3	其它玩家使用中.
+gardeninguse.4	無法直接整修. 請詢問庭園師爾菲.
+gardeninguse.5	超過限制時間.
+giantfullswing.1	輸入的值超過了最大冷卻(charging)時間,採用的冷卻時間為0.最大冷卻時間 : {0}
+giantfullswing.2	巨人暴烈猛擊冷卻時間: {0}
+giantfullswing.3	傷害值: {0}%
+giantfullswinguse.1	好像要裝備可以進行近距離攻擊的武器.
+giantfullswinguse.2	因耐久度為0,所以不能使用暴烈猛擊.
+giantfullswinguse.3	好像要裝備可以進行近距離攻擊的武器.
+giantfullswinguse.4	因耐久度為0,所以不能使用暴烈猛擊.
+giantfullswinguse.5	好像沒有使用巨人暴烈猛擊的對象.
+giantfullswinguse.6	好像沒有使用巨人暴烈猛擊的對象.
+giantfullswinguse.7	技能使用時間已過,已被取消.
+giantthrowattackuse.1	裝備可投擲武器的比較好.
+giantthrowattackuse.2	無法繼續使用此擲矛器.
+giantthrowattackuse.3	裝備擲矛器的比較好.
+giantthrowattackuse.4	使用期限已過,不能繼續使用擲矛器.
+giantthrowattackuse.5	目前無法使用技能.請過{0}秒後再試.
+gianttransformuse.1	目前的狀態下,無法變身.
+gianttransformuse.2	今天無法再使用.
+gianttransformuse.3	巨人獸化特殊技能已啟動.
+gianttransformuse.4	獸化不包括在免費遊戲中.
+glovethrowingsnowuse.1	손이 시려 눈을 던질 수 없을 것 같다.
+goldentimeuse.1	已強化的狀態
+goldentimeuse.2	已強化的狀態
+goldentimeuse.3	跟鋼瓶和盾牌鋼瓶一起套用才可
+goldstrikeuse.1	到技能再次使用時間還剩餘{0}秒.
+goldstrikeuse.2	丟出的金幣不足.
+groupmotion.1	所有成員都必須要套用上團體動作裝備.
+groupmotion.2	所有成員都必須要套用上相同團體動作的裝備.
+groupmotion.3	獲得團體動作
+groupmotionuse.1	想要使用團體動作的話，就不能裝備上任何裝備才行.
+groupmotionuse.2	想要使用團體動作的話，就不能裝備上其他裝備才行.
+groupmotionuse.3	展開翅膀動作進行期間無法使用.
+gunfrenzyuse.1	耐力值不足無法使用技能.
+gunfrenzyuse.2	現在無法使用技能. {0}秒後請再試一次.
+gunreloaduse.1	現在無法使用.
+gunreloaduse.2	魔力子彈過盛無法使用.
+gunreloaduse.3	魔力子彈不足無法使用.
+gunreloaduse.4	魔力子彈不足無法使用.
+hammergameuse.1	不是榔頭遊樂設施.
+hammergameuse.2	不是可以參加遊戲的玩家.
+handicraftuse.1	已過期.
+handicraftuse.2	聖誕節活動期間只能會做.
+handicraftuse.3	{0} 專用生產品.
+healing2use.1	對戰中的角色無法使用治癒.
+healing2use.2	戰鬥中無法使用.
+healing2use.3	因為耐力不足因此無法對自己使用治癒技能.
+helperapi.1	道具錯誤.
+helperapi.2	需要鋼瓶.
+helperapi.3	現在無法使用{0}. {1}分後請再試試看.
+helperapi.4	現在無法使用{0}. {1}秒後請再試試看.
+helperapi.5	現在無法使用{0}. {1}分{2}秒後請再試試看.
+helperapi.6	現在 {0}無法使用. 請在{1}分鐘後使用.
+helperapi.7	現在 {0}無法使用. 請在{1}秒後使用.
+helperapi.8	現在  {0}無法使用. 請在 {1}分 {2}秒後使用.
+helperapi.9	需要設置高塔 鋼瓶才能使用.
+helperapi.10	需要鋼瓶或高塔鋼瓶.
+helperapi.11	冰
+helperapi.12	火
+helperapi.13	雷
+helperapi.14	集魔杖的 {0} 屬性會被強化為 {1}階段.
+helperapi.15	為拳套裝備的話就可以使用.
+helperapi.16	需裝上人偶手把,才可以使用技能.
+helperapi.17	需裝上人偶手把,才可以使用技能.
+helperapi.18	需著裝雙槍才會使用.
+helperapi.19	魔力子彈不足.
+helperapi.20	結晶不足.
+helperapi.21	結晶不足.
+helperapi.22	該樂器無法在此進行使用的樣子.
+helperapi.23	需要裝備上樂器或麥克風才能使用
+helperapi.24	需要樂器
+helperapi.25	需要麥克風
+helperapi.26	樂器損壞了
+helperapi.27	麥克風損壞了
+helperapi.28	樂器的使用期限已經過了
+helperapi.29	麥克風的使用期限已經過了
+helperapi.30	現在無法發揮出幻想的合唱效果
+helperapi.31	現在無法發揮出幻想的合唱效果
+helperapi.32	需要裝上手裏劍
+helperapi.33	需裝備鎖鍊鐮刃.
+helperapi.34	此武器無法再繼續使用.
+helperapi.35	使用期限過期的武器無法再使用.
+helperapi.36	儲存的結晶所剩不多了.
+heulwenengineeringuse.1	生產技能物.
+heulwenengineeringuse.2	{0} 是專用生產物.
+heulwenengineeringuse.3	所需距離和目標太遠.
+heulwenengineeringuse.4	要一次做出像這樣的生產品但魔法不足.
+iceshielduse.1	現在寵物無法使用道具. {0}秒後請再次嘗試.
+icespearuse.1	需要裝備冰矛魔杖.
+icespearuse.2	無法對選擇的對象使用.
+icespearuse.3	充分使用冰矛後\n必須讓武器上充分累積冰矛屬性才行.
+icespearuse.4	集魔杖的耐久度變為 0而無法使用冰刃.
+icespearuse.5	需要魔杖或冰矛魔杖.
+imprintfragarachuse.1	無法使用刻印 : 弗拉加拉赫的狀態.
+infectionuse.1	因達雷克不明的力量,導致身體不聽使喚.
+infiniteslashuse.1	無法向船外區域移動.
+insectcontroluse.1	沒有擁有此田地而無法使用.
+insectcontroluse.2	在田地裡灑下種子才可以進行作業.
+insectcontroluse.3	在其他作業中而無法開始作業.
+insectcontroluse.4	今天已經無法再進行作業了.
+insectcontroluse.5	無法進行作業.
+insectcontroluse.6	可以在自己的田裡使用.
+insectcontroluse.7	在田地裡抓害蟲.
+installkioskuse.1	沒有使用{0}的關係無法設置小賣店.
+installkioskuse.2	小賣店可以雜貨店購買.
+installkioskuse.3	沒有可以使用的小賣店.
+installkioskuse.4	沒有可以使用的小賣店.
+installkioskuse.5	小賣店要在背包裡才能使用.
+installkioskuse.6	無法設置小賣店的位置.
+installkioskuse.7	無法設置小賣店的位置.
+installkioskuse.8	無法設置小賣店的位置.
+installkioskuse.9	距離其他人的小賣店太近而無法設置.
+installkioskuse.10	{0}的小賣店
+installkioskuse.11	도용 카드 결재로 인한 피해 방지를 위해 거래불가 프로텍션이 적용 중입니다.\n거래불가 프로텍션은 {0}일 {1}시간 {2}분 후 해제되며,\n적용 기간 중에는 아이템 거래관련 행동이 제한됩니다.\n거래불가 프로텍션 해제 후, 다시 시도해 주세요.
+installkioskuse.12	거래불가 프로텍션
+installturret.1	了解裝備塔座鋼瓶和解除的動作.
+installturretuse.1	向研發塔座鋼瓶的鍊金術師學習使用方法\n應該在使用上會更完美.
+installturretuse.2	此地帶不穩而無法設置塔座鋼瓶.
+installturretuse.3	在室內無法設置.
+installturretuse.4	無法設置的塔座鋼瓶.
+installturretuse.5	目前為無法設置塔座鋼瓶的狀態.
+installturretuse.6	需要塔座鋼瓶.
+intensiveprovocationuse.1	[邊境之痕]不足無法使用特性.
+intensiveprovocationuse.2	[邊境之痕]不足無法使用特性.
+intensiveprovocationuse.3	[{0}]的集中引誘效果,向 [{1}]發動了.\n套用了與嘲諷疊加的追加效果.\n暫時集中了所有怪物們的意識.
+intensiveprovocationuse.4	[{0}]的集中引誘效果,向 [{1}]發動了.\n暫時集中了所有怪物們的意識.
+interveneuse.1	無法使用攔截的狀態.
+lancecharge.1	在太靠近的地方無法使用騎槍相關技能.
+lancechargeuse.1	裝備騎槍才能使用該技能.
+lancechargeuse.2	是無法使用騎槍衝擊的騎寵.
+lancechargeuse.3	太沉重而無法使用.
+lancechargeuse.4	寵物的主人才能使用.
+lancestanceuse.1	裝備騎槍才能使用該技能.
+lancestanceuse.2	現在無法使用技能. {0}秒後再次進行.
+lifedrainalchemyuse.1	生命力充滿時無法使用吸取生命.
+lifedrainalchemyuse.2	闇黑武士變身中無法使用吸取生命.
+lifedrainalchemyuse.3	如要使用吸取生命必需裝備鋼瓶.
+lifedrainalchemyuse.4	如要使用吸取生命,必須有吸取生命結晶.
+lifedrainalchemyuse.5	如要使用吸取生命,必須有吸取生命結晶.
+lifedrainalchemyuse.6	脫離攻擊可能範圍,技能取消.
+lifedrainalchemyuse.7	對方已沒有可吸取的生命力
+lifedrainalchemyuse.8	現在不能吸收該對象的生命.
+lifedrainalchemyuse.9	目前吸取生命無效.
+lifedrainalchemyuse.10	解除闇黑武士的狀態下,無法使用吸取生命.
+lightningroaduse.1	因為魔杖的耐久度為 0, 因此無法使用雷氣鎖鏈的樣子.
+lightningshielduse.1	現在寵物無法使用道具. {0}秒後請再次嘗試.
+magiccraftuse.1	生產技能物.
+magiccraftuse.2	{0} 是專用生產物.
+magiccraftuse.3	所需距離和目標太遠.
+magiccraftuse.4	要一次做出像這樣的生產品但魔法不足.
+makechocostatueuse.1	結束活動.
+makechocostatueuse.2	已經沒有耐久度無法使用.
+makechocostatueuse.3	一定要持有巧克力材料才可以製作怪物巧克力.
+makechocostatueuse.4	沒辦法照這怪物製作怪物巧克力.
+makechocostatueuse.5	對已經無法行動的怪物製作巧克力是太殘忍的事情.
+makechocostatueuse.6	怪物消失.
+makechocostatueuse.7	製作怪物巧克力失敗.
+makechocostatueuse.8	成功製作怪物巧克力.
+makechocostatueuse.9	製作怪物巧克力失敗.
+makechocostatueuse.10	沒有巧克力材料.
+makechocostatueuse.11	沒有巧克力材料.
+makefaliasportaluse.1	創出的法利亞斯區域已經存在著. 請退出隊伍後再次進行.
+makefaliasportaluse.2	已經創出的法利亞斯區域存在著. 請退出隊伍後再次進行.
+makefaliasportaluse.3	在搭乘的狀態無法使用.
+makefaliasportaluse.4	在此地方無法使用.
+makefaliasportaluse.5	在此地方無法使用.
+makefaliasportaluse.6	在此地方無法使用.\n請到其它的地方使用.
+makefaliasportaluse.7	為了要開啟通往法利亞斯的門\n需要法利亞斯的碎片.
+makefaliasportaluse.8	在此地方無法使用.\n請到其它的地方使用.
+makefaliasportaluse.9	為了要開啟通往法利亞斯的門\n需要法利亞斯的碎片.
+makeillusiondecaluse.1	逐漸失去力氣.
+manaforminguse.1	使用魔力凝聚需要濕式火盆.
+manaforminguse.2	使用魔力凝聚附近必須有濕式火盆.
+manaforminguse.3	製造{0}成功.
+manaforminguse.4	製造{0}失敗.
+manaforminguse.5	{0} 專用生產品.
+manarecoveryuse.1	魔杖或集魔杖
+manashielduse.1	魔法值不足,魔法盾技能已被取消.
+manashielduse.2	無法使用魔法盾的狀態.
+manashielduse.3	魔法值不足,無法使用魔法盾技能.
+marionettecontroluse.1	正在使用其他技能.
+marionettecontroluse.2	只有人偶活著狀態之下才可以進行操縱.
+marionettecontroluse.3	休息途中無法操縱人偶.
+marionettecontroluse.4	隱身中無法操縱人偶.
+marionettesummonuse.1	耐力值不足無法使用技能.
+marionettesummonuse.2	此地方無法使用.
+marionettesummonuse.3	정숙 지역 안에 있으므로 소환을 할 수 없습니다.
+metalextractionuse.1	{0}要進行需要乾式火盆.
+metalextractionuse.2	{0}要進行附近需要有乾式火盆.
+metalextractionuse.3	{0} 製作成功.
+metalextractionuse.4	{0} 製作失敗.
+metallurgyuse.1	工具耐久度變為0無法使用.
+metallurgyuse.2	已超過使用期限.
+metallurgyuse.3	要使用淘金術,右手必需裝備淘金用篩子.
+metallurgyuse.4	無法在帳蓬內使用.
+metallurgyuse.5	無法在船上使用.
+metallurgyuse.6	未找到任何物品.
+metallurgyuse.7	未找到任何物品.
+metallurgyuse.8	裝備耐久度全部下降.
+metallurgyuse.9	裝備耐久度全部下降.
+metallurgyuse.10	淘金失敗.
+metallurgyuse.11	這並不是我所可以去採集的淘金地.
+meteorstrikeuse.1	集魔杖的耐久度變為 0而無法使用火石狂熱.
+meteorstrikeuse.2	需要集魔杖.
+mightofladecause.1	今天再也無法使用.
+millinguse.1	{0} 專用生產品.
+movingcastinguse.1	耐力值不足.移動投擲技能取消.
+movingcastinguse.2	移動投擲無法使用的狀態.
+movingcastinguse.3	耐力不足無法使用移動投擲.
+msg.administrativepicking.fail	撿取物品失敗.
+msg.administrativepicking.success	撿取物品成功.
+msg.advreading_alreadyread	已經閱讀過的書.
+msg.advreading_bookvanished	黑色魔法印章的力量使書消失了
+msg.advreading_fail	仔細讀了這本書卻無法理解裡面的內容.
+msg.advreading_sealvanished	魔法印章好像消失了.
+msg.advreading_successbutnoresult	認真讀完一本書. 但現在對我沒什麼幫助.
+msg.arrowrevolver.unable_durability	這個武器無法再使用.
+msg.arrowrevolver_cannot_brokenbow	這把弓無法夠再繼續使用了.
+msg.arrowrevolver_weaponbroken	這把弓無法夠再繼續使用了.
+msg.bigblessing_cannot_expired	無法使用超過有效期限的物品.
+msg.bigblessing_used	裝備物品上使用了大型祝福藥水.
+msg.bigelemental.success	在裝備物品上使用{0}.
+msg.blacksmith.just_before	只剩下最後的階段.
+msg.blacksmith.progressed	完成{0}%.
+msg.blacksmith_forgerequired	需要冶煉台.
+msg.blacksmith_manualbroken	這張圖無法繼續使用了.
+msg.blacksmith_quality_best	花費心思認真製作,完成了毫不遜色的{0}
+msg.blacksmith_quality_better	完成了比一般常見的{0}更高水平的{0}.
+msg.blacksmith_quality_dec	(品質降低)
+msg.blacksmith_quality_dec_item	附加材料和工具的配合起了反效果.(品質降低)
+msg.blacksmith_quality_even	(品質 0%)
+msg.blacksmith_quality_even_item	好像附加材料和工具配合得不是很好.(品質 0%)
+msg.blacksmith_quality_god	完成了與'神的作品一樣最高品質'的 {0}!
+msg.blacksmith_quality_inc	(品質 +1%)
+msg.blacksmith_quality_inc_item_best	附加材料和工具配合的不錯.(品質 +{0}%)
+msg.blacksmith_quality_inc_item_better	附加材料和工具配合的好.(品質 +{0}%)
+msg.blacksmith_quality_inc_item_normal	附加材料和工具的配合出現些許的效果.(品質 +{0}%)
+msg.blacksmith_quality_normal	和商店販售的物品比起來,品質差不多.
+msg.blacksmith_quality_reasonable	這個程度的話,可以比商店賣的物品使用更久.
+msg.blacksmith_quality_waste	雖然是我做的{0}. 但是做的十分粗糙.即使要賣給別人\n.也只能用非常廉價的價格販售.
+msg.blacksmith_quality_worse	雖然品質有點差,但修理一下就好了.
+msg.blacksmith_quality_worst	雖然完成了,但做出品質差的{0}.
+msg.blacksmith_resultbad	製作失敗...
+msg.blacksmith_resultbest	製作非常成功~!!!
+msg.blacksmith_resultfailbutitemcreated	雖然做的不怎樣. 但也總算完成了.
+msg.blacksmith_resultgood	製作成功~!!!
+msg.blacksmith_resultgood2	製作成功~!!!
+msg.blacksmith_resultgoodbuttooeasy	雖然做成了.但東西太簡單了.
+msg.blacksmith_resultworst	製作太失敗...
+msg.blacksmith_tool_required_prepare	需要右手拿鐵錘.\n左手拿圖.
+msg.blacksmith_toolbroken	無法繼續使用鐵匠鐵錘.
+msg.blacksmith_toolrequired	需要右手拿鐵錘.\n左手拿設計圖.
+msg.blessing_complete	在物品上使用祝福藥水.
+msg.blessing_select_item	選擇要祝福的物品
+msg.blockworld.auth_warning	要使用此技能必須要有 GM以上的權限才行\n必須要有 GM 或是 devCAT 的稱號才行.
+msg.blockworld.instruction	點擊地面會有衝突支柱, 點擊衝突支柱的話支柱會消失.\n此技能是管理者技能,在Log裡面會留下使用記錄,所以使用時請注意.
+msg.campfire.not_enough_firewoods	因為木柴不足,無法使用技能.
+msg.campfire_campsharing_enabled	營火中不停的吃東西的話,沒多久就會胖到變成二個人.
+msg.campfire_fell	身體感覺變暖和.
+msg.campfire_make_desc	可以生營火
+msg.campfire_make_requirementdesc	木柴
+msg.campfire_make_title	生營火
+msg.campfire_notusable_position	這裡是不能使用營火的位置(地方)
+msg.campfire_relaxation_effect	增加休息技能的恢復速度
+msg.campfire_something_intersected	營火使用的位置有移動的物體
+msg.campfire_too_near_from_another	跟附近的營火過於接近
+msg.campfire_toonarrow	地方太小,沒有辦法使用營火
+msg.campkit_cannot_expired	無法使用超過有效期限的物品.
+msg.chaingun_cannot_brokenbow	這把弓無法再使用了.
+msg.chaingun_cannot_noarrow	需要5隻以上的箭.
+msg.collecting.cannot_from_keeper_pet	當寵物看守個人商店時, 無法採集.
+msg.collecting.cannot_in_camp	在露營內無法採集.
+msg.collecting.cannot_in_ship	在船內無法進行採集.
+msg.collecting.master_not_permitted	主人拒絕採集.
+msg.collecting.pet_not_permitted	拒絕採集.
+msg.compose.bardsong_added	在樂譜{0}增加
+msg.compose_selectscrol	選擇記錄樂譜的卷軸.
+msg.cook.know_essential_1	瞭解了{0}裡包含了{1}的事實.
+msg.cook.know_essential_2	{0}的材料理像是包含了{1}.
+msg.cooking_cannot_broken	無法再使用的{0}.
+msg.cooking_cannot_noprop	為了做{0}所需要的{0}
+msg.cooking_failed	料理失敗
+msg.cooking_helpmsg_less	{0}像是少放了{1}~{2}.
+msg.cooking_helpmsg_much	{0}像是多放了{1}~{2}.
+msg.cooking_quality_best	完成了看起來非常好吃的料理!
+msg.cooking_quality_better	完成了看起來非常可口的料理.
+msg.cooking_quality_normal	料理完成
+msg.cooking_quality_worse	完成了不知什麼口味的料理.
+msg.cooking_quality_worst	完成了看起來非常難吃的料理.
+msg.cooking_tool_required_prepare	料理時,雙手需要拿著料理工具.
+msg.darknight.free_user	與主線任務相關的功能\n不包括在免費遊戲中.
+msg.darknight.pvp_disabled	變身為闇黑武士的狀態下無法跟聖騎士 PVP.
+msg.darknight.pvp_disabled_with_paladin	變身為闇黑武士的狀態下無法跟聖騎士 PVP.
+msg.darknight.pvp_enabled	變身為闇黑武士的狀態下,可以和聖騎士PVP.
+msg.darknight.tamescroll_not_found	沒有黑色魔族卷軸.
+msg.darknight.transform_begin	開始闇黑武士的特殊技能.
+msg.darknight.transform_disabled	目前無法變身.
+msg.darknight.you_have_to_pay	與主線任務相關的功能\n不包括在免費遊戲中.
+msg.darknignt.pvp_enabled_with_paladin	變身為闇黑武士的狀態下,可以和聖騎士PVP.
+msg.darknignt.special_skill_on	開始闇黑武士的特殊技能.
+msg.dyeing_cannot_expired	染色藥水超過有限期限.
+msg.dyeing_cannot_expired2	無法使用超過有效期限的物品.
+msg.dyeing_select_item	請選擇要染色的物品.
+msg.enchant2_item_lost_warning	在6等級以上的魔力賦予失敗時, 對象的道具會消失.\n你要進行魔力賦予嗎?
+msg.enchant2_item_lost_warning_title	Warnign\n警告
+msg.enchant2_no_option_to_enchant	沒有可以賦予魔力的屬性.\n已過使用期限的卷軸.
+msg.enchant2_scroll_broken	此卷軸無法繼續進行魔力賦予.
+msg.enchant2_select_item	選擇物品要進行魔力賦予.\n魔力賦予等級 {0}\n成功機率 : {1}
+msg.enchant2_tool_required	要右手拿魔法粉.左手拿魔力賦予卷軸.
+msg.enchant2_use_level_limit	要使用此魔力賦予卷軸魔力賦予技能等級需在5級以上.
+msg.enchant2_use_level_limit2	要使用此魔力賦予卷軸魔力賦予技能等級需在5級以上.
+msg.enchant2_warning_two_option_enchant	無法同時擁有兩個屬性.\n 點燃卷軸賦予魔力.並分配屬性.
+msg.enchant_cannot_brokenscroll	這個卷軸無法夠再進行魔力賦予.
+msg.enchant_use_expired_scroll	沒有魔力賦予的屬性.\n已過使用期限的卷軸.
+msg.enchant_use_scroll_not_durability_max	只用此卷軸無法進行魔力賦予.
+msg.enchant_use_scroll_warning_two_option	無法同時擁有二種屬性.\n使用卷軸進行魔力賦予,並分配屬性.
+msg.enchant_use_select_item	請選擇要進行魔力賦予的物品.\n魔力賦予等級 {0}\n成功機率 : {1}
+msg.enchant_use_select_item_elemental	選擇物品進行魔力賦予.\n成功機率 : {0}
+msg.fireball.unable_nowand	需要一個火杖.
+msg.firstaid_bandage_needed	需要一個以上的繃帶
+msg.firstaid_fail_target_moved	對象移動了,所以失敗.
+msg.fishing.level_limit	你要使用{0}時的技能缺乏或等級不足.
+msg.fishing.level_limit2	你要使用{0}時的技能缺乏或等級不足.
+msg.fishing.unable_durability	此釣竿無法再使用.
+msg.fishing.unable_notool	想要釣魚,右手要持釣竿,\n左手要有魚餌箱.
+msg.fishing.unable_too_close	周圍有其他人,所以無法釣魚.
+msg.guild_create.already_have_guildstone	已設有公會石.
+msg.guild_create.failed_guildstone	裝置公會石失敗. 請確認周圍是否有其他公會石.
+msg.guild_create.no_guild_master	只有公會長能夠裝置公會石.
+msg.guildpendant_not_field	公會石只能設在平原.
+msg.guildpendant_to_near_from_another	附近有其他的公會石.
+msg.guildpendant_unallowdposition	無法設定公會石的地方.
+msg.guildpendant_unallowdposition2	無法設定公會石的地方.
+msg.guildpendant_use_info	使用公會印記設定公會石,創建公會.\n公會石無法設在室內或村落裡或道路上.\n公會石一旦設定好.就無法在移動.請慎重決定.
+msg.handicraft.broken_tool	手工藝工具的耐久度為0, 所以無法使用.
+msg.handicraft.no_tool	必須有手工藝的工具.
+msg.handicraft_manualbroken	說明書無法繼續使用了.
+msg.handicraft_manualbroken_prepare	說明書無法繼續使用了.
+msg.handicraft_toolbroken	手工藝工具無法繼續使用了.
+msg.handicraft_toolbroken_prepare	手工藝工具無法繼續使用了.
+msg.handicraft_toolrequired	要在右手拿手工藝工具.左手拿基本材料或說明書的狀態使用.
+msg.housing.inventory_gold_max	因金庫飽和而無法支付生產費.生產中斷.
+msg.housing.pay_prop_using	已支付使用費 {0}個金幣.
+msg.housing.prop_durability_zero	已到達此生產工具的使用次數,所以無法再使用了.
+msg.housing.prop_incompleted	無法使用未完成的生產工具.
+msg.housing.prop_not_enough_money	使用需要{0}個金幣.
+msg.housing.prop_not_found	房屋主人已經去除生產工具了.
+msg.housing.prop_rental_fee_changed	房屋主人變更使用費用.\n請確認使用費用後再試試看.\n變更: {0} -> {1}個金幣
+msg.housing.prop_unusable	不是可以使用的狀態.\n請向房屋主人詢問.
+msg.icebolt_notenogh_mana	魔法值不足.無法使用技能.
+msg.icebolt_notenogh_stamina	耐力不足.無法使用技能.
+msg.infinite_slash.10seconds_left	使用無限斬擊技能的時間還剩下10秒.
+msg.infinite_slash.cannot_use_yet	現在不能使用技能.請在{0}秒後再試一次.
+msg.infinite_slash.cannot_warp_by_distance	距離太遠,無法使用瞬間移動.
+msg.infinite_slash.cannot_warp_by_obstruction	中間有障礙物,無法接近目標.
+msg.infinite_slash.cannot_warp_by_stamina	耐力值不足,無法接近目標.
+msg.lrod.cannot_find_anything	找不到任何東西的樣子.
+msg.lrod.cannot_use_here	好像不能在這裡使用的樣子.
+msg.milling_productionview_title	Production Form\n生產技能形式
+msg.milling_success	{0} 製作成功
+msg.milling_windmill_inactivated	風車沒有轉動.
+msg.milling_windmill_needed	需要風車.
+msg.paladin.pvp_disabled_with_darknight	變身為聖騎士的狀態無法和闇黑武士PVP.
+msg.paladin.pvp_enabled_with_darknight	變身為聖騎士的狀態可以和闇黑武士PVP.
+msg.paladin.skill_effect	{0}已發動
+msg.paladin.skill_effect2	{0}已發動
+msg.paladin.skill_on	{0}發動.
+msg.paladin.unable_cannot_freeuser	與主線任務相關的功能\n不包括在免費遊戲中.
+msg.paladin.unable_cannot_more	今天無法再使用.
+msg.paladin.unable_transform_status	目前無法變身.
+msg.partyhealing.no_healer_wand	需要治癒魔杖.
+msg.play_resultbad	真是遜到爆的演奏.|真是太丟人啦~!
+msg.play_resultbad_higherscroll	這首曲子對我來說有點難.|要演奏好這首曲子還需要多加練習一下.
+msg.play_resultbest	超級完美的演奏.|簡直就是天籟之音.
+msg.play_resultgood	演奏得還可以.|這次的演奏還算不錯.
+msg.play_resultgood_higherscroll	演奏得還可以.|對於演奏有了些信心囉.
+msg.play_resultworst	演奏真的是差勁的無話可說,到底要如何才能彈的這麼爛...
+msg.play_resultworst_higherscroll	難度過高的曲子無法演奏的很好.這真是胡亂彈琴一通...
+msg.play_resultworst_lowerscroll	這麼簡單的曲子都演奏不好...|看來要移民去火星好了.
+msg.play_resultworst_lowerscroll_goodplay	雖然演奏的很好但曲目似乎太簡單而無法練習..
+msg.play_toolbroken	樂器已損壞,無法繼續演奏了.
+msg.playing.bard_no_effect	此次的演奏似乎沒有效果.
+msg.poison_potion_added	塗抹毒.
+msg.poison_potion_pick_item	請選擇要塗抹毒的道具.
+msg.portionmaking.successmsg	製作{0}成功.
+msg.portionmaking.title	Production Form\n生產技能的形式
+msg.portionmaking.unable_durability	無法再使用該藥水調製工具.
+msg.portionmaking.unable_insuff_mana	魔力不足,無法同時來製作這些產品.
+msg.portionmaking.unable_notool	要製造藥水的話,需要有藥水調製工具.
+msg.powershot_cannot_brokenbow	這把弓無法再繼續使用了.
+msg.rangedattack_weaponbroken	這把弓無法再繼續使用了.
+msg.refine_cannot_barehand	要想要進行提煉的動作,右手必須是空的.
+msg.refine_fail	製作失敗
+msg.refine_forge_required	需要槳.
+msg.refine_prop_inactivated	水車沒有轉動.\n轉動水車才能使用槳.
+msg.refine_prop_required	需要槳.
+msg.refine_success	{0} 製作成功
+msg.sketch.cannot_earn_exp	好像沒有特別的地方了.
+msg.sketch.cannot_find_sketchbook	找不到素描書籍.
+msg.sketch.cannot_sketch_dead_monster	不能對怪物屍體進行素描.
+msg.sketch.cannot_sketch_goodchar	不能對不是怪物的角色進行素描.
+msg.sketch.cannot_sketch_moving_monster	由於移動了,所以無法進行素描.
+msg.sketch.cannot_sketch_now	現在不能進行素描. 請在{0}之後再試一次.
+msg.sketch.exploexp	探險經驗值 +{0} exp
+msg.sketch.invalid_monster	無法素描的怪物.
+msg.sketch.invalid_prop	無法素描的物品.
+msg.sketch.minute	{0}分
+msg.sketch.second	{0}秒
+msg.sketch.sketch_general_prop	對地形地物進行素描.
+msg.sketch.sketch_monster	對{0}進行了素描.
+msg.sketch.sketch_prop	對{0}進行了素描.
+msg.tailoring.just_before	只剩下最後階段
+msg.tailoring.progressed	完成{0}%.
+msg.tailoring_failbutitemcreated	雖然做得不怎麼好,但總算完成了.
+msg.tailoring_manualbroken	衣服樣本無法繼續使用了.
+msg.tailoring_quality_best	經過一番認真製作,完成了與眾不同的{0}!
+msg.tailoring_quality_better	完成了比一般常見的{0}更高水平的 {0}.
+msg.tailoring_quality_dec	(品質降低)
+msg.tailoring_quality_dec_item	附加材料和物品的配合做了反效果.(品質降低)
+msg.tailoring_quality_even	(品質 0%)
+msg.tailoring_quality_even_item	好像附加材料和工具的配合不是很好.(品質 0%)
+msg.tailoring_quality_god	完成了與[神的作品]一樣最高品質'的 {0}!
+msg.tailoring_quality_inc	(品質 +1%)
+msg.tailoring_quality_inc_item_best	附加材料和工具配合得不合錯.(品質 +{0}%)
+msg.tailoring_quality_inc_item_better	附加材料和工具配合得好.(品質 +{0}%)
+msg.tailoring_quality_inc_item_normal	附加材料和工具配合得比較有效.(品質 +{0}%)
+msg.tailoring_quality_normal	和商店賣的物品的品質差不多.
+msg.tailoring_quality_reasonable	這個程度.可以比商店賣的物品使用得更久.
+msg.tailoring_quality_waste	雖然是我做的{0}. 但是做的十分粗糙.即使要賣給\n.也只能用非常廉價的價格販售.
+msg.tailoring_quality_worse	品質有點差.但修理一下就好了.
+msg.tailoring_quality_worst	完成了.但做了個品質差的{0}.
+msg.tailoring_resultbad	做衣服失敗...
+msg.tailoring_resultbest	衣服做得非常成功~!!!
+msg.tailoring_resultgood	做衣服成功~!!!
+msg.tailoring_resultgood2	做衣服成功~!!!
+msg.tailoring_resultgoodbuttooeasy	衣服雖然做完了.但好像做的簡單了點.
+msg.tailoring_resultworst	衣服做的非常失敗...
+msg.tailoring_toolbroken	裁縫工具無法繼續使用了.
+msg.tailoring_toolrequired	要右手拿裁縫工具.\n左手拿衣服樣本.
+msg.tame.desc	馴服怪物.
+msg.tame.fail	不能馴服.
+msg.tame.info_tame_time	{0}分期間
+msg.tame.no_scroll	沒有黑色魔族卷軸.
+msg.tame.select_moster	請選擇要馴服的怪物.
+msg.tame.select_tame_target	請選擇要馴服的動物.
+msg.tame.success	{0}已被馴服.
+msg.tame.trying_tame	馴服動物.
+msg.tame.unable_tame	已經是被馴服的動物了.
+msg.taming.select_monster_to_tame	請選擇要馴服的怪物.
+msg.taming.try_to_tame	馴服怪物.
+msg.thunder.need_wand	需要雷矢魔杖.
+msg.townback_cannot_expired	無法使用超過有效期限的物品.
+msg.townbackuse_ask_partyback	要與周圍的隊伍成員一起移動嗎?
+msg.townbackuse_ask_use	您真的要移動?
+msg.transform.cannot_be_normal_in_arena	在萊比格鬥競技場無法解除變身
+msg.transform.cannot_be_normal_in_event_arena	이벤트 아레나에서는 변신을 해제할수 없습니다
+msg.transform.cannot_transform_to_darknight	現在不是可以變身的狀態.
+msg.untrain_cannot_expired	無法使用超過有效期限的物品.
+msg.use_resurrection.party_resurr_confirm	您要使用嗎?
+msg.use_resurrection.unable_find_char	沒有能夠復活的角色.
+msg.usebomb.item_expired	無法使用超過有效期限的物品.
+msg.useitemressurection_info_rewardexp	角色復活 exp +{0}
+msg.useitemresurrection_remote_failed	角色的名稱輸入錯誤,或者該角色不是無法行動的狀態.
+msg.weaving2_fail	製作失敗
+msg.weaving2_farfrom_prop	與手紡車或織布機的距離太遠.
+msg.weaving2_productionview_title	Production Form\n生產技能形式
+msg.weaving2_prop_required	需要手紡車或織布機.
+msg.weaving2_success	{0} 製作成功
+msg.weaving_cannot_barehand	紡織時手裡無法拿任何東西.
+msg.weaving_cannot_notool	需要手紡車或織布機.
+msg.weaving_cannot_tool_toofar	與手紡車或織布機的距離太遠.
+msg.windmill_unusable_withnotarget	沒有目標時無法使用.
+musicbattlefielduse.1	{0} 效果消失.
+musicbattlefielduse.2	{0}的 {1}{發} 出迴響.\n
+musicbattlefielduse.3	{0}優秀的 {1}{發}出迴響.\n
+musicbattlefielduse.4	{0}天籟之音的 {1}{發}出迴響.\n
+musicbattlefielduse.5	最小攻擊力增加{0}%.\n
+musicbattlefielduse.6	最大攻擊力增加 {0}%.\n
+musicbattlefielduse.7	暴擊增加 {0}%.
+musiccontractspaceuse.1	{0} 效果消失.
+musiccontractspaceuse.2	{0}的 {1}{發} 出迴響.\n
+musiccontractspaceuse.3	{0}優秀的 {1}{發}出迴響.\n
+musiccontractspaceuse.4	{0}天籟之音的 {1}{發}出迴響.\n
+musiccontractspaceuse.5	이동速度增加{0}%.\n
+musicharvestuse.1	{0} 效果消失.
+musicharvestuse.2	{0}的 {1}{發} 出迴響.\n
+musicharvestuse.3	{0}優秀的 {1}{發}出迴響.\n
+musicharvestuse.4	{0}天籟之音的 {1}{發}出迴響.\n
+musicharvestuse.5	生產成功率增加{0}% .\n
+musicharvestuse.6	採集成功率增加{0}% .\n
+musicharvestuse.7	採集速度增加{0}%.\n
+musiclightspeeduse.1	{0} 效果消失.
+musiclightspeeduse.2	{0}的 {1}{發} 出迴響.\n
+musiclightspeeduse.3	{0}優秀的 {1}{發}出迴響.\n
+musiclightspeeduse.4	{0}天籟之音的 {1}{發}出迴響.\n
+musiclightspeeduse.5	施展魔法速度增加{0}%.\n
+musiclightspeeduse.6	施展鍊金術速度增加{0}%.\n
+musiclightspeeduse.7	攻擊速度增加{0}%.\n
+musicpatienceuse.1	{0}效果消失.
+musicpatienceuse.2	{0}的 {1}{發} 出迴響.\n
+musicpatienceuse.3	{0}優秀的 {1}{發}出迴響.\n
+musicpatienceuse.4	{0}天籟之音的 {1}{發}出迴響.\n
+musicpatienceuse.5	防禦增加{0} .\n
+musicpatienceuse.6	保護增加{0} .\n
+musicpatienceuse.7	恢復魔法速度增加{0}%.\n
+musicpatienceuse.8	恢復耐力值速度增加{0}%.
+musicpatienceuse.9	魔法防禦 {0} 增加.\n
+musicpatienceuse.10	魔法保護 {0} 增加.\n
+musicpeaceuse.1	{0}的 {1}{發} 出迴響.\n
+musicpeaceuse.2	{0}優秀的 {1}{發}出迴響.\n
+musicpeaceuse.3	{0}天籟之音的 {1}{發}出迴響.\n
+musicpeaceuse.4	使{0}名敵人睡覺.\n
+musicpeaceuse.5	沒有可施放睡覺的敵人.\n
+musicsinginguse.1	樂譜沒有歌唱的部份
+musicsinginguse.2	真是完美的歌唱|有如歌神附身後的美妙歌唱
+musicsinginguse.3	這是個不錯的歌|開始對歌唱有些信心了
+musicsinginguse.4	這是個不錯的歌|這次的歌還不錯
+musicsinginguse.5	多虧歌聲這次農作物才有辦法長得這麼好
+musicsinginguse.6	這首歌對我來說來是一首很難的歌|要唱好這首歌的話,看來還需要再多加練習才行
+musicsinginguse.7	羞愧的歌唱|不知道別人知不知道,但這首歌唱起來失誤挺多的
+musicsinginguse.8	這不是我可以唱的出來的歌|實在唱得不好
+musicsinginguse.9	這次的歌唱好像毀了|實在唱得不好
+musicsinginguse.10	歌唱的不錯, 不過這首歌水準較低無法做為練習
+musicsinginguse.11	雖然是首簡單的歌, 不過實在唱得不好|選歌和歌唱都是羞愧的水準
+musicsinginguse.12	農作物們似乎並不喜歡我的歌聲
+musicsinginguse.13	樂譜中似乎沒有唱歌部分的樣子.
+naturalmagicshielduse.1	現在寵物無法使用道具. {0}秒後請再次嘗試.
+newegocylinderincarnate.1	鋼瓶
+newegomagicincarnate.1	集魔杖
+newegomagicincarnate.2	魔杖
+newegomeleeincarnate.1	單手劍
+newegomeleeincarnate.2	單手鈍器
+newegomeleeincarnate.3	單手斧
+newegomeleeincarnate.4	雙手劍
+newegomeleeincarnate.5	雙手鈍器
+newegomeleeincarnate.6	雙手斧
+newegomeleeincarnate.7	鎖鏈鐮刃
+newegomeleeincarnate.8	拳套
+newegomeleeincarnate.9	騎槍
+newegomeleeincarnate.10	手把
+newegorangeincarnate.1	弓
+newegorangeincarnate.2	弩
+newegorangeincarnate.3	瓦安特式擲矛器
+newegorangeincarnate.4	雙槍
+newegorangeincarnate.5	手裏劍
+newegoskillbase.1	必須裝備{0}精靈武器,才可進行使用.
+newegoskillbase.2	必須裝備{0}精靈武器,才可進行使用.
+newegoskillbase.3	精靈實體化能量為100%時,可使用.
+newegoskillbase.4	透過{0}效果,可再使用一次實體化技能.
+newegoskillbase.5	因為武器耐久度為 0,所以無法使用實體化技能.
+nuckalaveeswimminguse.1	奈克拉維無力化成功.
+paladintransformuse.1	이벤트 아레나에서는 변신을 해제할수 없습니다
+paperairplaneuse.1	摺紙飛機時雙手應無物品.
+paperairplaneuse.2	還有正在飛行中的紙飛機.\n請稍候片刻再進入.
+paperairplaneuse.3	還需要1張紙.
+paperairplaneuse.4	紙飛機無法飛行.
+paperairplaneuse.5	無法製作紙飛機.
+paperairplaneuse.6	還需要1張紙.
+partyhealinguse.1	因{0}的隊伍治療效果增加了 {1} 的防禦.
+partyhealinguse.2	隊伍治療效果消失.
+partyhealinguse.3	再一次使用隊伍治療, 就會有冷卻時間.
+partyhealinguse.4	{0}用組隊治療效果來增加防禦 {1} 魔法防禦 {2}
+partyhealinguse.5	1人組隊在戰鬥中無法使用.
+pegasuspetholyrushuse.1	目前無法使用技能. {0}秒之後再次使用.
+perfumemakinguse.1	Production Form\n生產技能品
+perfumemakinguse.2	{0}專用生產品.
+perfumemakinguse.3	{0}專用生產品.
+perfumemakinguse.4	要製作出這樣的生產品魔法是不夠的
+perfumemakinguse.5	{0}製作成功.
+petchinesezombietornado.1	殭屍找不到主人的位置只能在原地進行攻擊.
+petdetectionuse.1	探測被中斷了.
+petdetectionuse.2	無法探測的地區
+petdetectionuse.3	無法使用探測的狀態
+petdetectionuse.4	魔力不足而無法開始探測
+petdetectionuse.5	開始進行探測.
+petdetectionuse.6	結束探測.
+petenjoyparkbususe.1	已經是愉快心情的狀態.
+petenjoyparkbususe.2	{0}分{1}秒後,會成為能夠\n再次獲得愉快的Japari公園效果的狀態.
+petenjoyparkbususe.3	{0}秒後,會成為能夠\n再次獲得愉快的Japari公園效果的狀態.
+petexcitedalocombo.1	跟上我的節拍!
+petexcitedalocombo.2	因為你的關係導致我的興致都沒了, 給我負責喔!
+petexcitedalocombo.3	你不能再配合得精準一點嗎?
+petforgetmenot.1	想起與布蘿妮的回憶.\n防禦 {1} 增加.\n保護 {2} 增加.\n魔力恢復速度 {3}% 增加.\n耐力恢復速度 {4}% 增加.
+pethideuse.1	主人騎乘後才能使用.
+pethideuse.2	已經隱身中.
+petmakebubbleuse.1	주인이 데브캣 타이틀을 달고 있으면 100% 성공
+petmakebubbleuse.2	被泡沫困住失敗了.
+petsealuse.1	使用此勳章後無法轉讓寵物.
+petsealuse.2	請召喚寵物後選擇.
+petsealuse.3	請選擇要轉讓的寵物.
+petsealuse.4	只能轉讓自己召喚的寵物.
+petsealuse.5	此寵物無法轉讓.
+petsealuse.6	寵物不是召喚的狀態.
+petsealuse.7	此寵物無法轉讓.
+petsealuse.8	寵物的背包清空後才能轉讓.
+petsealuse.9	超出寵物可轉讓的次數上限而無法再轉讓.
+petsealuse.10	{0} 寵物轉讓了
+petsealuse.11	轉讓寵物失敗.\n請稍候再進行.
+petsealuse.12	無法轉讓此寵物.
+petsealuse.13	所選擇的寵物為菲尼寵物.\n確定要對菲尼寵物使用轉讓勳章嗎?
+petwarpmasteruse.1	早上 6點才能再次使用.
+petwarpmasteruse.2	魔力不足無法使用技能.
+petwarpmasteruse.3	耐力不足無法使用技能.
+petwarpmoveuse.1	目前無法使用技能. {0}秒之後請再試試看
+petwarpmoveuse.2	沒有可移動的地區或無可以移動的地方.
+petwarpmoveuse.3	移動失敗.
+petwarpregisteruse.1	目前無法使用技能. {0}秒之後請再試試看
+petwarpregisteruse.2	你會記得這個地方嗎?
+petwarpregisteruse.3	該地區已儲存.
+petwisperoftuan.1	對主人與組隊成員使用{0}.
+pfhousinginstallfurnitureuse.1	此為無法設置的家具.
+pfhousinginstallfurnitureuse.2	離開了可設置的區域.
+pfhousinginstallfurnitureuse.3	此地方無法設置.
+pfhousinginstallfurnitureuse.4	超過了設置物的限制.
+pfhousingredesignfurnitureuse.1	此為無法設置的家具.
+pfhousingredesignfurnitureuse.2	離開了可設置的區域.
+pfhousingredesignfurnitureuse.3	此地方無法設置.
+pfhousingredesignfurnitureuse.4	設施物設置個數超過限制.
+phantomfearuse.1	因遊魂怒吼寵物, 夥伴被解除召喚.
+phantomfearuse.2	因遊魂怒吼寵物, 夥伴被解除召喚.
+phoenixpetflameofresurrectionuse.1	鳳凰被取消召喚.
+phoenixpetflameofresurrectionuse.2	目前無法使用技能. {0}秒之後再試試看
+phoenixpetflameofresurrectionuse.3	復活花火技能已套用上.
+phoenixpetflameofresurrectionuse.4	技能使用失敗.
+pillageuse.1	無法使用.
+piperofhamelinuse.1	裝備樂器才能演奏.
+piperofhamelinuse.2	裝備樂器才能演奏.
+piperofhamelinuse.3	沒有可以使用的樂器.
+piperofhamelinuse.4	以目前的等級是無法使用此樂器演奏.
+piperofhamelinuse.5	耐力不足而眩惑的演奏技能被取消了.
+piperofhamelinuse.6	眩惑的演奏技能可使用時間剩下 10秒
+playinginstrument.2	\n生命+{0}恢復
+playinginstrument.3	\n耐力 +{0}恢復
+playinginstrument.4	\n魔法值 +{0}恢復
+playinginstrumentuse.1	無法使用已過期的樂器進行演奏.
+playinginstrumentuse.2	保護鏡子的某種力量好像消失了.
+playinginstrumentuse.3	公演中無法使用.
+playinginstrumentuse.4	因魔力和耐力不足, 演奏被中斷.
+playinginstrumentuse.5	因魔力不足, 演奏被中斷.
+playinginstrumentuse.6	因耐力不足, 演奏被中斷.
+playinginstrumentuse.7	演奏的效果消失.
+playinginstrumentuse.8	技能等級不足而無法呈現樂譜的效果.
+playinginstrumentuse.9	用一般樂器, 無法呈現樂譜的效果.
+playinginstrumentuse.10	多虧演奏農作物好像有好好成長.
+playinginstrumentuse.11	農作物好像不太喜歡我的演奏.
+playinginstrumentuse.12	不是正常的樂譜.
+playinginstrumentuse.13	無法再使用的樂譜.
+playinginstrumentuse.14	不是演奏兼職進行中.
+playinginstrumentuse.15	無法演奏的地區.
+playinginstrumentuse.16	已經有在演奏的人.\n請在演奏結束後進行.
+playinginstrumentuse.17	{0} 後可以使用.
+playinginstrumentuse.18	蛋裡的鳳凰好像很開心.
+playinginstrumentuse.19	對鳳凰蛋沒有效果了.
+playinginstrumentuse.20	樂譜沒有樂器的部份
+playinginstrumentuse.21	樂譜中似乎沒有樂器部分的樣子.
+playwithpetuse.1	必須有1個以上的寵物遊戲組合.
+playwithpetuse.2	無法和菲尼寵物使用.
+potionmakinguse.1	已過期.
+potionmakinguse.2	{0} 專用生產品.
+poundinguse.1	目前無法使用技能. {0}秒之後再試試看.
+poundinguse.2	必須要先鎖定對象.
+poundinguse.3	已經被猛烈突擊打到昏倒的對象,就無法對該對象使用猛烈突擊.
+poundinguse.4	對手似乎沒有昏倒的樣子.
+poundinguse.5	請靠近使用
+poundinguse.6	必須要先鎖定對象.
+poundinguse.7	目前無法使用的樣子.
+powershotuse.1	無法使用已過期的武器.
+publicperformanceuse.1	設置募款箱.
+publicperformanceuse.2	開始樂器演奏的話,就會設置募款箱.
+publicperformanceuse.3	演奏中不能取消.
+puppetmastersmashuse.1	似乎暫時無法使用此技能進行攻擊!
+rageimpactuse.1	耐力不足.
+rageimpactuse.2	因為武器的耐久度為 0, 無法使用憤怒衝擊.
+rageimpactuse.3	想要使用憤怒衝擊的話, 需要近距離戰鬥才能武器.
+ragingthrustuse.1	沒有攻擊對象.
+ragingthrustuse.2	沒有攻擊對象.
+rangedattackuse.1	無法使用已過期的武器.
+rangeegosubstantiationuse.1	這把弓無法再繼續使用了.
+raremineralogy.1	附近沒有稀原礦石.
+raremineralogy.2	距離太遠無法採集.
+raremineralogyuse.1	需要修理裝備的樣子.
+raremineralogyuse.2	為了使用珍奇礦物學右手要拿著錐子才可以.
+raremineralogyuse.3	附近沒看到可以採集的礦物.
+raremineralogyuse.4	附近沒看到可以採集的礦物.
+raremineralogyuse.5	沒有礦石.
+raremineralogyuse.6	沒有剩餘下來的礦石.
+raremineralogyuse.7	礦石採集失敗.
+readytofly.1	現在感覺無法飛行
+recoveryuse.1	目前無法使用技能. {0}秒之後再試試看.
+refineuse.1	無法使用熔爐.\n請詢問附近NPC關於熔爐的使用方法.
+refineuse.2	{0} 專用生產品.
+relaxationuse.1	2人用釣魚椅子附近無法使用技能.
+relaxationuse.2	跟別的頒獎台太近
+relaxationuse.3	這裡是無法安裝頒獎台的地方
+relaxationuse.4	剪刀石頭布廣告中無法使用技能.
+relaxationuse.5	가위바위보 대결 중에는 스킬을 사용 할 수 없습니다.
+relaxationuse.6	無法坐在椅子的狀態.
+relaxationuse.7	沒有適合的道具.
+relaxationuse.8	與其他設置物品距離太近.
+relaxationuse.9	因取消休息, 冥想時間已被初始化.
+relicinvestigationuse.1	이 아이템은 직접 복원할 수 없을것 같다. 보이트에게 가져가 보자.
+rolemotionbase.1	出現 {0} 效果\n變為 {1}.
+rolemotionbase.2	{0} 效果消失.
+rolemotionbaseuse.1	目前不是可以使用劇中角色技能的狀態.
+rolemotionbaseuse.2	在使用其他劇中角色的技能中.
+rolemotionbaseuse.3	目前無法使用技能.請過{0}秒後再試.
+runawayuse.1	沒有效果似的...
+rush.1	在過於接近的距離下無法使用突擊技能.
+rushuse.1	要拿著盾才可使用突擊技能.
+rushuse.2	用損壞的盾無法使用突擊技能.
+rushuse.3	使用期限已到.
+rushuse.4	使用遠距離攻擊武器的狀態下無法使用突擊技能.
+rushuse.5	要拿著盾.
+rushuse.6	체인 블레이드를 든 상태로는 돌진을 사용할 수 없습니다
+sandstormuse.1	需要有鋼瓶.
+sandstormuse.2	土的結晶不足,無法使用技能.
+sandstormuse.3	土的結晶不足,無法使用技能.
+sandstormuse.4	使{0}的眼睛失明失敗.
+sandstormuse.5	使{0}的眼睛失明失敗.
+sandstormuse.6	使{0}的眼睛失明成功.
+sandstormuse.7	鋼瓶不能用於沙暴的使用.
+sandstormuse.8	現在好像無法讓他失明.
+scarer.1	穿著萬聖節服裝才能使用.
+scentofdeath.1	因得到花瓣的保護,熬過了芙露亞的攻擊!
+screwupperuse.1	目前無法使用技能. {0}秒之後再試試看.
+screwupperuse.2	請靠近使用
+screwupperuse.3	必須要先鎖定對象.
+seesawjumpuse.1	[develop, GM 專用] 反應時間: {0} ms   高度: {1} m
+seesawjumpuse.2	跳跳板設置為無法使用的位子.
+seesawjumpuse.3	現在不是中秋節跳跳板活動期間.
+seesawjumpuse.4	沒有可以使用的跳跳板.
+seesawjumpuse.5	一個人無法玩跳跳板
+seesawjumpuse.6	現在高度 %4.2fm
+shadowbindinguse.1	周圍誰都不在
+shadowstealthuse.1	因耐力不足無法使用技能.
+shadowstealthuse.2	現在 {0}{} 無法使用.
+shockwaveuse.1	魔法不足.
+shockwaveuse.2	耐久度為0所以無法使用.
+shockwaveuse.3	需要集魔杖或魔杖.
+shootingrushuse.1	沒有攻擊對象.
+shootingrushuse.2	沒有攻擊對象.
+shovelinguse.1	必須要裝備改變地形的道具.
+shovelinguse.2	看來在此地無法改變地形.
+shovelinguse.3	看來在此地無法改變地形.
+shovelinguse.4	物品的耐久度是為0, 所以無法使用物品.
+shurikencharginguse.1	對象離你太遠
+shurikencharginguse.2	對象不存在
+shurikencharginguse.3	無法攻擊的對象
+smashuse.1	체인 블레이드를 든 상태로는 스매시를 사용할 수 없습니다
+snowstormuse.1	現在不能使用技能.請在{0}秒後再試一次.
+snowstormuse.2	因冰雪的結晶不夠而無法使用技能.
+snowstormuse.3	沒有可以使用的冰雪的結晶.
+snowstormuse.4	無法對選擇的對象使用.
+snowstormuse.5	無法對選擇的對象使用.
+snowstormuse.6	沒有可以使用的冰雪的結晶.
+snowstormuse.7	沒有可以使用的冰雪的結晶.
+snowstormuse.8	無法攻擊.
+solidarityofpower.1	{0}/{1}傷害累積後攻擊
+solidarityofpoweruse.1	隊員的特性 [力量團聚]使用中.\n隊員的特性使用結束後才可以進行使用.
+solidarityofpoweruse.2	[邊境石]不足無法使用特性.
+somersaultkickuse.1	目前無法使用技能. {0}秒之後再試試看.
+somersaultkickuse.2	必須要先鎖定對象.
+specteruse.1	被召喚的寵物為了躲避鬼魂躲了起來.
+spidershotuse.1	需要遠距離武器.
+spidershotuse.2	需要遠距離武器.
+spidershotuse.3	耐久度為0所以無法使用.
+spidershotuse.4	需要蜘蛛網陷阱.
+spidershotuse.5	需要蜘蛛網陷阱.
+spidershotuse.6	技能無法使用.
+splintershotuse.1	這把弓無法再繼續使用了.
+splintershotuse.2	無法使用已過期的武器.
+splintershotuse.3	目前無法使用技能.請過{0}秒後再試.
+sprinklewater.1	不能對敵對關係的對象使用.
+sprinklewater.2	不能對無法行動的對象使用.
+sprinklewater.3	不能對裝死的對象使用.
+sprinklewater.4	不能對睡著的對象使用.
+sprinklewater.5	找不到目標.
+sprinklewateruse.1	不能對移動中的對象使用.
+stageticketmakinguse.1	需要魔法手紡車.
+stageticketmakinguse.2	距離魔法手紡車太遠.
+stageticketmakinguse.3	Form\n生產技能形式
+stageticketmakinguse.4	需要魔法手紡車.
+stageticketmakinguse.5	距離魔法手紡車太遠.
+stageticketmakinguse.6	Form\n生產技能形式
+stageticketmakinguse.7	製作{0}成功
+stageticketmakinguse.8	製作失敗
+stageticketmakinguse.9	{0} 專用生產品.
+stampedeuse.1	武器的耐久度為 0因此似乎無法使用蜂擁.
+stampedeuse.2	若想要使用蜂擁,需要近距離戰鬥才能武器.
+stopthereuse.1	只有套用聖誕槌之後才能使用該技能.
+stopthereuse.2	無法向已經為石化狀態的對象使用.
+sulienecology.1	附近沒有希里原結晶.
+sulienecology.2	距離太遠無法採集.
+sulienecologyuse.1	需要修理裝備的樣子.
+sulienecologyuse.2	為了使用希里原生態學右手要拿著被雷劈的酢木枴杖才可以.
+sulienecologyuse.3	附近沒有可採集的植物標本.
+sulienecologyuse.4	沒有礦石.
+sulienecologyuse.5	沒有剩餘下來的礦石.
+sulienecologyuse.6	植物標本採集失敗.
+summongolemuse.1	超出我可以召喚的境界.
+summonhydrause.1	跟鋼瓶和盾牌鋼瓶一起套用才可
+supportpuppetattack.1	獲得結衣的支援攻擊.
+supportpuppetattack.2	支援飛行娃娃技能
+supportpuppetattack.3	獲得.
+supportpuppetattackuse.1	現在無法使用技能. {0}秒後再進行.
+supportshotuse.1	無法使用已過期的武器.
+synthesisuse.1	如要進行合成附近必須有乾式火盆.
+synthesisuse.2	雙手閒置,可以進行合成
+synthesisuse.3	不是有效道具.
+synthesisuse.4	依照配方合成成功並獲得 {0}.
+synthesisuse.5	合成成功並獲得{0}.
+synthesisuse.6	合成失敗.
+synthesisuse.7	無法在此火盆進行合成.
+synthesisuse.8	정상적으로 합성을 할 수 없는 아이템입니다.
+tailoringuse.1	已過期.
+tailoringuse.2	在臨時物品欄的道具無法進行生産.
+tailoringuse.3	{0} 專用道具.
+tauntuse.1	沒有人受到嘲諷技能的影響.
+thunderlionlightningstrikeuse.1	距離對方太近或太遠時\n或者在中間有障礙物時,無法使用技能.
+thunderlionlightningstrikeuse.2	必須要指定對象才可使用技能.
+thunderuse.2	充分使用雷矢後\n必須讓武器上累積雷矢屬性才行.
+thunderuse.3	集魔杖的耐久度變為 0而無法使用雷擊.
+thunderuse.4	需要魔杖或雷矢魔杖.
+urgentshotuse.1	現在無法使用技能.
+useitemaddseasoning.1	請選擇需要加入調味料的食物.
+useitemaddseasoninguse.1	原本調味料的效果消失.\n要繼續嗎?
+useitemaddseasoninguse.2	食物中添加調味料.
+useitemaddseasoninguse.3	這食物好像什麼效果都沒有.
+useitemantimacrouse.1	無法使用.
+useitemantimacrouse.2	對{0}使用測驗炸彈.
+useitemantimacrouse.3	正在測驗外掛中.
+useitemantimacrouse.4	只對戰鬥或採集中的角色可以使用.
+useitemantimacrouse.5	{0} 分後可以再次使用.
+useitemantimacrouse.6	{0} 分後可以再次使用.
+useitemantimacrouse.7	一天只可使用二十次.
+useitemantimacrouse.8	一個角色一天只可使用一次.
+useitemantimacrouse.9	此為無法使用的地區.
+useitemantimacrouse.10	這是最近通過測驗的角色.
+useitembarrieruse.1	防護壁太薄.
+useitembarrieruse.2	要設置防護壁位置有移動物體
+useitembigblessinguse.1	裝備神聖的道具會有祝福效果. 要使用大型祝福藥水嗎?
+useitemblessinguse.1	聖火效果消失.\n要繼續嗎?
+useitembombuse.1	公演中無法使用.
+useitembombuse.2	無法在此地區使用此物品.
+useitembondingcharacteruse.1	지금은 사용할 수 없습니다. 잠시 후에 다시 시도 하세요.
+useitembondingcharacteruse.2	이미 경험치 링크된 캐릭터가 있는 대상입니다.
+useitembondingcharacteruse.3	현재 다른 대상과의 링크를 준비중입니다.
+useitembondingcharacteruse.4	300레벨 미만의 초보자만 선택이 가능합니다.
+useitembondingcharacteruse.5	경험치 링크 대상을 선택해 주세요
+useitembondingcharacteruse.6	지금은 사용할 수 없습니다. {0}초 후에 다시 시도 하세요
+useitembondingcharacteruse.7	경험치 링크를 진행중인 캐릭터 입니다
+useitembondingcharacteruse.8	경험치 링크가 취소 되었습니다
+useitemcampfirekituse.1	橋上不能放置營火.
+useitemcampfirekituse.2	스키 이벤트 중에는 캠프 파이어를 설치할 수 없습니다.
+useitemcampfirekituse.3	無法使用的區域.
+useitemcampfirekituse.4	身體變溫暖的感覺.\n營火周圍 {0}充滿溫暖而且有濃厚的香味.\n附近採取充分的休息.
+useitemcampfirekituse.5	無法在此區域設置該道具.
+useitemcampfirekituse.6	길드전 지역에서는 설치할 수 없습니다.
+useitemchattingcolorchange.1	聊天的文字顏色變更了.
+useitemcherrytreekituse.1	無可使用的櫻花煙火工具.
+useitemdragonsupportuse.1	目前巨龍召喚中.
+useitemdragonsupportuse.2	目前巨龍召喚中.
+useitemdragonsupportuse.3	目前巨龍召喚中.
+useitemdragonsupportuse.4	黃金巨龍
+useitemdragonsupportuse.5	只有巨龍騎士才能看到 亞多利爾的號角.
+useitemdragonsupportuse.6	今日無法再使用.
+useitemdragonsupportuse.7	只有巨龍騎士才能看到 亞多利爾的號角.
+useitemdragonsupportuse.8	今日無法再使用.
+useitemdragonsupportuse.9	此地似乎無法召喚巨龍.
+useitemdragonsupportuse.10	只有巨龍騎士才能看到 亞多利爾的號角.
+useitemdragonsupportuse.11	今日無法再使用.
+useitemdragonsupportuse.12	此地似乎無法召喚巨龍.
+useitemdragonsupportuse.13	目前似乎無法召喚 巨龍.
+useitemdragonsupportuse.14	似乎無法召喚巨龍.
+useitemdragonsupportuse.15	因為有牆壁無法召喚亞多利爾.
+useitemdragonsupportuse.16	亞多利爾對這號角無反應.
+useitemdragonsupportuse.17	{0} {1} {2}
+useitemdragonsupportuse.18	無法使用的區域.
+useitemdragonsupportuse.19	在這裡無法使用亞多利爾的號角.
+useitemdungeonpassuse.1	只有在地下城祭壇才可使用.
+useitemdungeonpassuse.2	超過有效期限的物品無法使用
+useitemdungeonpassuse.3	此地下城不能以無限制地下城通行證到達.
+useitemdungeonpassuse.4	寵物無法使用.
+useitemdungeonpassuse.5	於使用其他技能狀態之下無法使用.
+useitemdungeonpassuse.6	於其他狀態之下無法使用.
+useitemdungeonpassuse.7	無法於戰鬥狀態之下進行使用.
+useitemdungeonpassuse.8	無法使用無限制地下城通行證.
+useitemdungeonpassuse.9	不是無限制地下城通行證.
+useitemdungeonpassuse.10	並無持有無限制地下城通行證.
+useitemdungeonpassuse.11	找不到地下城.
+useitemdungeonpassuse.12	並不是該地下城的大廳.
+useitemdungeonpassuse.13	並不是該地下城的地下城成員.
+useitemdungeonpassuse.14	正打算去的地下城大廳和現在地下城的大廳不一樣.
+useitemdungeonpassuse.15	要進入的地下城群組跟目前的群組不同.
+useitemelathaitemuse.1	生魂好像感覺很痛苦.
+useitemelathaitemuse.2	好像毫無效果.
+useitemenchantuse.1	雖然在魔力賦予失敗了但因為有魔力賦予保護藥水的效果而不會減少耐久度.
+useitemenchantuse.2	在6等級以上的魔力賦予失敗時,對象道具消失\n蘊藏在武器上的精靈也一起消失.\n要進行魔力賦予嗎?
+useitemfeedfishuse.1	周圍沒有海狗.
+useitemfeedfishuse.2	要丟到附近.
+useitemfeedfishuse.3	{1}吃了{0}丟出去的魚.
+useitemfossilrestorationuse.1	化石復原完整.
+useitemfossilrestorationuse.2	化石復原得很好.
+useitemfossilrestorationuse.3	復原得勉強可以使用.
+useitemfossilrestorationuse.4	好不容易看出形態.
+useitemfossilrestorationuse.5	化石復原失敗.
+useitemfossilrestorationuse.6	水晶被打磨的很完美.
+useitemfossilrestorationuse.7	水晶被打磨的很優秀.
+useitemfossilrestorationuse.8	水晶被打磨的尚且能用.
+useitemfossilrestorationuse.9	打磨水晶失敗.
+useitemguildpendantuse.1	使用公會創立許可證可以設置公會表示公會石.\n但, 設置公會石之後若公會服務到期的話公會石會被刪除.\n公會石不可以設置在室內或村落, 以及路上還有因為公會石是一設置就無法移動所以要慎重地決定哦.
+useitemguildpendantuse.2	現在無法設置公會石.
+useitemholyfire.1	請選擇要使用聖火來祝福的道具
+useitemholyfireuse.1	祝福藥水的效果消失.\n要繼續嗎?
+useitemholyfireuse.2	使用聖火\n
+useitemiceminekituse.1	缺少可使用的冰地雷
+useitemiceminekituse.2	處於無法設置冰地雷的區域
+useitemiceminekituse.3	處於無法設置冰地雷的區域
+useitemiceminekituse.4	冰地雷周邊似乎無法設置新的冰地雷
+useiteminstallfacilityuse.1	無法設置.
+useiteminstallfacilityuse.2	材料不足.
+useiteminstallfacilityuse.3	超出農場領域.
+useiteminstallfacilityuse.4	有其他施設物設置在此.
+useiteminstallfacilityuse.5	設置位置上有角色.
+useiteminstallfacilityuse.6	無法設置.
+useiteminstallfacilityuse.7	材料不足.
+useiteminstallfacilityuse.8	材料不足.
+useiteminstallfacilityuse.9	沒有成功設置.
+useiteminstallfacilityuse.10	 밀린 유지비를 지불해 주세요
+useiteminstallfacilityuse.11	在走廊放置家具時無法進行擴大工程.\n首先請先整理走廊.
+useitemlroduse.1	需要裝備探測器.
+useitemlroduse.2	這個探測器無法使用.
+useitemmanaforminguse.1	需要鋼瓶
+useitemmanaforminguse.2	缺少可使用的 魔力凝聚結晶.
+useitemmanaforminguse.3	需要魔力凝聚技能.
+useitemmixpaintuse.1	想要{0}需要染料混合大鍋.
+useitemmixpaintuse.2	想要{0}附近需要有染料混合大鍋.
+useitemmixpaintuse.3	選擇的染料不存在.
+useitemmixpaintuse.4	沒有擁有選擇的染料.
+useitemmixpaintuse.5	不是正常的染料.
+useitemmixpaintuse.6	沒有選擇的設施或是不是染料混合大鍋.
+useitemmixpaintuse.7	需要染料混合大鍋.
+useitemmixpaintuse.8	選擇的染料不存在.
+useitemmixpaintuse.9	沒有擁有選擇的染料.
+useitemmixpaintuse.10	不是正常的染料.
+useitemmixpaintuse.11	染料混合正常產出想要的顏色
+useitemmixpaintuse.12	染料的比例有誤而產出異想的顏色
+useitemmorrighansfeatheruse.1	諾亞達的諸劍分散在法利亞斯時請使用茉麗安的羽毛
+useitemnamecolorchange.1	名稱及聊天的顏色變更了
+useitempaintfacilityuse.1	沒有擁有選擇的染料.
+useitempaintfacilityuse.2	不是正常的染料.
+useitempaintfacilityuse.3	是無法刷油漆的部位.
+useitempaintfacilityuse.4	是無法移除刷漆的部位.
+useitempaintfacilityuse.5	沒以選擇的設施物.
+useitempaintfacilityuse.6	不是正常的設施物.
+useitempaintfacilityuse.7	不是正常的染料.
+useitempaintfacilityuse.8	{0}的部位 {1}上使用 {2}刷漆.
+useitempaintfacilityuse.9	{0}的部分移除了 {1}的油漆.
+useitempuppetresurrection.1	人偶已是完美的狀態不需修理.
+useitempuppetresurrection.2	無法用這個工具來修理人偶. 請使用專用藥水或完整修理工具.
+useitempuppetresurrection.3	無法用這個工具來修理人偶. 請使用專用藥水或更好的修理工具.
+useitempuppetresurrectionuse.1	召喚人偶後再使用
+useitempuppetresurrectionuse.2	成功使用道具修理了人偶. 跟新的一樣乾淨.
+useitempuppetresurrectionuse.3	成功使用道具修理了人偶. 臨時修理的部分也修復的不錯.
+useitempuppetresurrectionuse.4	成功使用道具修理了人偶. 所有部分可以順利的動作了.
+useitemrecalluse.1	沒有可使用的物品.
+useitemrecalluse.2	對戰中無法召喚巨魔像.
+useitemrecalluse.3	只有裝備鋼瓶的條件下才能召喚 巨魔像.
+useitemrecalluse.4	已經有召喚的怪物.
+useitemrecalluse.5	召喚時必須有結晶體.
+useitemredesignfacilityuse.1	無法重新配置.
+useitemredesignfacilityuse.2	超出農場領域.
+useitemredesignfacilityuse.3	有其他施設物設置在此.
+useitemredesignfacilityuse.4	移動位置上有角色.
+useitemredesignfacilityuse.5	無法設置.
+useitemredesignfacilityuse.6	沒有成功重新配置.
+useitemredesignfacilityuse.7	 밀린 유지비를 지불해 주세요
+useitemrepairpropuse.1	此為無法使用的地區
+useitemrepairpropuse.2	無法使用超過有效期限的物品.
+useitemrepairpropuse.3	此為無法使用的位置
+useitemrepairpropuse.4	附近有其他物體無法設置.
+useitemrepairpropuse.5	無法設置在腳上.
+useitemrepairpropuse.6	設置位置上有移動物體
+useitemrepairpropuse.7	附近有其他物體因此無法設置.
+useitemresurrectionuse.1	該角色在無法復活的地區.
+useitemscanuse.1	已經存在強力的果實效果,只會浪費果實.
+useitemscanuse.2	無法使用阿蘭特的果實的地區
+useitemscanuse.3	套用支援結衣時無法使用阿蘭特的果實.
+useitemscanuse.4	裝備支援飛行娃娃的狀態下無法使用阿蘭特果實.
+useitemsealitem.1	請選擇要封印的道具
+useitemsealitemuse.1	封印道具成功.
+useitemseesawuse.1	現在不是中秋節跳跳板活動期間.
+useitemseesawuse.2	無法使用跳跳板組裝工具.
+useitemseesawuse.3	無法使用已經超過有效期間的跳跳板組裝工具.
+useitemseesawuse.4	無法組裝跳跳板的地方.
+useitemseesawuse.5	空間太小無法玩跳跳板.
+useitemseesawuse.6	無法組裝跳跳板的地方.
+useitemseesawuse.7	在附近已經有設置跳跳板.
+useitemseesawuse.8	在附近有障礙物無法組裝跳跳板.
+useitemsketchuse.1	夜間探險經驗值 +{0} exp
+useitemsketchuse.2	夜間探險經驗值 +{0} exp
+useitemsketchuse.3	沒有圖畫紙.
+useitemsketchuse.4	不能繼續進行素描了.
+useitemsketchuse.5	由於距離太遠, 所以無法素描.
+useitemsketchuse.6	由於距離太遠, 所以無法素描.
+useitemsoulstoneuse.1	針對已占領的怪物才可以使用.
+useitemsoulstoneuse.2	不能對別的玩家占領的怪物上使用.
+useitemsoulstoneuse.3	有馴服的怪物時無法使用.
+useitemsoulstoneuse.4	為無法使用的對象.
+useitemsupport.1	請選擇要使用輔助藥水的道具.
+useitemsupportuse.1	道具有輔助作用了.
+useitemsupportuse.2	無法使用在無法修理的道具上.
+useitemsupportuse.3	無法使用在無法進行魔力賦予的道具上.
+useitemsupportuse.4	該道具無法在使用.
+useitemsupportuse.5	用美容專用硬幣所購買到的道具是無法用的.
+useitemtownbackuse.1	這個物品只能在指定的地區內才能使用.
+useitemtownbackuse.2	在船上不能使用鑰匙.
+useitemtownbackuse.3	不能進入沒有被發現的遺跡.
+useitemtownbackuse.4	在飛行中不能使用.
+useitemtownbackuse.5	只能在住宅區使用. 若在室內時請到室外使用.
+useitemtownbackuse.6	在影子世界無法使用.
+useitemtownbackuse.7	目前無法使用.
+useitemtownbackuse.8	無法在農場使用.
+useitemtownbackuse.9	運送模式時無法傳送.
+useitemtownbackuse.10	隊員中有運送中的角色.
+useitemtownbackuse.11	這是在美容室所無法使用的道具.
+useitemtownbackuse.12	目前其他的傳送正進行中.請稍後再試
+useitemtownbackuse.13	目前其他的傳送正進行中.請稍後再試
+useitemtownbackuse.14	只有新手才可使用
+useitemtownbackuse.15	在這個地方無法使用.
+useitemtownbackuse.invalid_region_group	無法移動到該當地區.
+useitemunsealitem.1	請選擇要解除封印的道具.\n選擇道具之後過現實時間 72個小時會解除封印.
+useitemunsealitemuse.1	解除封印道具成功.\n現實時間72個小時之後會解除封印道具.
+useitemuntrainkituse.1	升段考試申請時無法使用.
+useumbrella.1	裝備雨傘才能使用.
+usewing.1	必須要套用翅膀之下才能使用.
+usewing.2	搭乘木筏狀態之下無法進行使用.
+usewing.3	搭乘熱氣球狀態之下無法進行使用.
+visionofladecause.1	今天再也無法使用.
+wandslashuse.1	現在不能使用技能.請在{0}秒後再試一次.
+wandslashuse.2	需要魔杖
+wandslashuse.3	需要魔杖
+wandslashuse.4	需要集魔杖.
+warpcontinentuse.1	經過12點就可以再次使用.
+warpuse.1	現在無法移動. 請在{0}秒後再次進行.
+warpuse.2	搭乘中是無法移動的.
+waterballoonthrowinguse.1	不是在活動進行中無法使用.
+waterballoonthrowinguse.2	不是在活動進行中無法使用.
+waterballoonthrowinguse.3	水球不足.
+waterballoonthrowinguse.4	對象距離太遠.
+waterballoonthrowinguse.5	無法向目標丟水球.
+watercannonuse.1	需要鋼瓶.
+watercannonuse.2	水之結晶不足,無法使用技能.
+watercannonuse.3	水之結晶不足,無法攻擊敵人.
+waterdrop.1	已進入陷阱. 陷阱會在3秒後被發動.
+wateringuse.1	您未持有農田因此無法使用.
+wateringuse.2	在農田灑下種子才能開始作業.
+wateringuse.3	若進行其他工作就無法進行作業.
+wateringuse.4	今天無法再繼續作業.
+wateringuse.5	目前無法進行作業.
+wateringuse.6	可以在自己的農田上使用.
+wateringuse.7	農田已灌溉水分.
+weavinguse.1	{0} 專用生產品.
+weavinguse2.1	{0} 專用生產品.
+whitedragonfearuse.1	怪物因憤怒而失去了理性.
+windbreakeruse.1	耐力值不足,暴風防護技能取消.
+windbreakeruse.2	好像只有裝備了盾牌才可以使用暴風防護
+windbreakeruse.3	現在無法使用技能. {0}秒後再試一試
+windbreakeruse.4	暴風防護技能的使用時間所剩不多了.
+windofhealing.1	拉姆周圍颳起了颶風.\n生命力已恢復 {0}.\n負傷已恢復 {1}.\n{2}秒內獲得下列效果.\n防禦 {3} 增加\n保護 {4} 增加\n魔力恢復速度 {5}% 增加\n耐力恢復速度 {6}% 增加\n移動速度 {7}% 增加
+window.refine_production_view_title	Production Form\n生產技能形式
+window.weaving_form_title	Production Form\n生產技能形式
+windpressureuse.1	需要鋼瓶.
+windpressureuse.2	風之結晶不足,無法使用技能.
+windpressureuse.3	目前無法使用技能.請在{0}秒後再試.
+windpressureuse.4	風之結晶不足,無法攻擊敵人.
+windpressureuse.5	如要連續使用旋風衝擊,鋼瓶承受力不足.
+wirebinding.1	無法使用的對象.
+yarnbindinguse.1	被繩子綁住無法動彈.
+yarnbindinguse.2	擺脫了繩子的捆綁.

@@ -1,0 +1,307 @@
+﻿1	風之歌
+2	看夕陽
+3	休息
+4	搖籃曲
+5	野花江邊
+6	母羊與小羊
+7	懶人之歌
+8	暗黑詛咒
+9	半月
+10	星光閃爍的夜晚
+11	蜘蛛遊行
+12	W-man
+13	朋友
+14	芝麻開門
+15	堅定的心
+16	快樂的圖畫課
+17	有勇氣的少年
+18	湖水與天鵝
+19	盜賊的腳步
+20	沉睡的你
+21	結婚進行曲
+22	生日快樂曲
+23	你的眼神
+24	BnB 完整版本
+25	星空
+26	魔法之光
+27	黑夜裡孤獨人
+28	月光
+29	湖水上的橋
+30	甜蜜的嘆息
+31	愉快的中餐
+32	面臨危險時還保持愉快的心情
+33	精靈的翅膀
+34	玫瑰
+35	玫瑰謝了
+36	下午茶
+37	與你一起舞蹈
+38	悲傷的呼喊
+39	白色瓷娃娃
+40	偶爾回憶起你
+41	落葉之舞
+42	錘下的月光
+43	流浪者
+44	小村落
+45	夢幻色彩的禮物箱子
+46	杜巴頓 II
+47	杜巴頓
+48	喜歡百合嗎?
+49	過去的歲月像風一樣
+50	懷念逝去的聖者
+51	親切的女老師
+52	面無表情的可愛女孩
+53	可愛寶貝搖擺-獨奏曲
+54	小時後外婆說給我聽的故事-獨奏曲
+55	抵達新路程- 旋律(長笛)
+56	抵達新路程- 低音(魯特琴)
+57	抵達新路程-優美旋律(曼陀林,吉他)
+58	可愛寶貝搖擺- 旋律(長笛)
+59	可愛寶貝搖擺低音(魯特琴)
+60	可愛寶貝搖擺- 伴奏(豎笛)
+61	可愛寶貝搖擺- 伴奏(蕭姆管)
+62	可愛寶貝搖擺- 優美旋律(曼陀林,吉他)
+63	HanStone
+64	HanStone
+65	HanStone
+66	HanStone
+67	HanStone
+68	HanStone
+69	HanStone
+70	HanStone
+71	HanStone
+72	HanStone
+73	HanStone
+74	HanStone
+75	HanStone
+76	HanStone
+77	HanStone
+78	HanStone
+79	HanStone
+80	HanStone
+81	HanStone
+82	HanStone
+83	
+84	
+85	HanStone
+86	
+87	HanStone
+88	HanStone
+89	HanStone
+90	HanStone
+91	HanStone
+92	HanStone
+93	HanStone
+94	HanStone
+95	HanStone
+96	HanStone
+97	HanStone
+98	HanStone
+99	HanStone
+100	HanStone
+101	HanStone
+102	HanStone
+103	HanStone
+104	HanStone
+105	HanStone
+106	HanStone
+107	HanStone
+108	HanStone
+109	HanStone
+110	HanStone
+111	HanStone
+112	HanStone
+113	HanStone
+114	
+115	海倫
+116	HanStone
+117	HanStone
+118	HanStone
+119	HanStone
+120	海倫
+121	海倫
+122	海倫
+123	海倫
+124	海倫
+125	魔法音樂
+126	不詳
+127	沙漠的孤獨日出
+128	HanStone
+129	帕爾赫德族的王子
+130	布莉安娜
+139	貝里
+147	任誰都可以輕鬆演奏的小酒吧樂譜
+148	風之歌
+149	看夕陽
+150	可愛寶貝搖擺-獨奏曲
+151	小時後外婆說給我聽的故事-獨奏曲
+152	風之歌
+153	看夕陽
+154	休息
+155	催眠曲
+156	野花江邊
+157	母羊與小羊
+158	懶人之歌歌唱
+159	暗黑詛咒
+160	半月
+161	星光閃爍的夜晚
+162	蜘蛛遊行
+163	W-man
+164	好友
+165	芝麻開門
+166	堅定的心
+167	快樂的圖畫課
+168	有勇氣的少年
+169	湖水與天鵝
+170	盜賊的腳步
+171	沉睡的你
+172	結婚進行曲
+173	生日快樂曲
+174	你的眼神
+175	BnB 完整版本
+176	星空
+177	魔法之光
+178	黑夜裡孤獨人
+179	月光
+180	湖水上的橋
+181	甜蜜的嘆息
+182	愉快的中餐
+183	面臨危險時還保持愉快的心情
+184	精靈的翅膀
+185	玫瑰
+186	玫瑰謝了
+187	下午茶
+188	與你一起舞蹈
+189	悲傷的呼喊
+190	白色瓷娃娃
+191	偶爾回憶起你
+192	落葉之舞
+193	錘下的月光
+194	流浪者
+195	小村落
+196	夢幻色彩的禮物箱子
+197	杜巴頓 II
+198	杜巴頓
+199	喜歡百合嗎?
+201	杜巴頓
+202	杜巴頓 II
+203	面無表情的可愛女孩
+205	休息-歌唱(男性)
+206	HanStone
+207	HanStone
+208	海倫
+209	HanStone
+210	HanStone
+211	HanStone
+212	HanStone
+213	HanStone
+214	HanStone
+215	HanStone
+216	HanStone
+217	HanStone
+218	HanStone
+219	HanStone
+220	HanStone
+221	HanStone
+222	HanStone
+223	HanStone
+224	HanStone
+225	HanStone
+226	HanStone
+227	HanStone
+228	HanStone
+229	HanStone
+230	HanStone
+231	HanStone
+232	HanStone
+233	HanStone
+234	HanStone
+235	HanStone
+236	HanStone
+237	HanStone
+238	HanStone
+239	HanStone
+240	HanStone
+241	HanStone
+242	HanStone
+243	HanStone
+244	HanStone
+245	HanStone
+246	HanStone
+247	HanStone
+248	HanStone
+249	HanStone
+250	HanStone
+251	HanStone
+252	HanStone
+253	HanStone
+254	HanStone
+255	HanStone
+256	HanStone
+257	HanStone
+258	HanStone
+259	HanStone
+260	喜歡百合嗎?
+261	與你一起舞蹈-歌唱(女性)
+266	小時後外婆說給我聽的故事
+267	小時後外婆說給我聽的故事
+268	MABINOGI
+269	MABINOGI
+270	小時候奶奶播給我聽的古老傳說-獨奏曲
+273	面臨危險時還保持愉快的心情
+274	精靈的翅膀
+275	玫瑰
+276	玫瑰謝了
+277	下午茶
+278	與你一起舞蹈
+279	悲傷的呼喊
+280	白色瓷娃娃
+281	偶爾回憶起你
+282	落葉之舞
+283	錘下的月光
+284	流浪者
+285	小村落
+286	夢幻色彩的禮物箱子
+287	杜巴頓 II
+288	杜巴頓
+289	喜歡百合嗎?
+290	過去的歲月像風一樣
+291	懷念逝去的聖者
+292	親切的女老師
+293	面無表情的可愛女孩
+294	HanStone
+295	HanStone
+296	HanStone
+297	HanStone
+298	HanStone
+299	HanStone
+300	HanStone
+301	HanStone
+302	HanStone
+303	HanStone
+304	HanStone
+305	HanStone
+306	HanStone
+307	HanStone
+308	HanStone
+309	HanStone
+310	HanStone
+311	HanStone
+312	HanStone
+313	HanStone
+314	等級 0
+315	等級 1
+316	等級 2
+317	等級 3
+318	等級 4
+319	等級 5
+320	等級 6
+321	等級 7
+322	等級 8
+323	等級 9
+324	等級 10
+325	等級 11
+326	等級 12
+327	等級 13
+328	等級 14
+329	等級 15
+330	고요한 밤

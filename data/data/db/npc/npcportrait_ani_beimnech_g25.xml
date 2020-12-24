@@ -1,0 +1,15 @@
+<portraitAnimation image="NPCportrait_beimnech_G25.dds">
+
+<clipInformations number='1'>
+    <clipInformation x1="   0" y1="   0" x2=" 441" y2=" 511" originX="   0" originY="   0" />
+</clipInformations>
+<animations number='1'>
+    <animation index='0' name='base'>
+        <background>
+            <clips number='1'>
+                <clip value=" 0 " />
+            </clips>
+        </background>
+    </animation>
+</animations>
+</portraitAnimation>

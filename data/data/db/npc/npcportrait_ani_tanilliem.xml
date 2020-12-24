@@ -1,0 +1,90 @@
+<portraitAnimation image="NPCportrait_Tanilliem.dds">
+
+<clipInformations number='14'>
+    <clipInformation x1="   0" y1="  65" x2=" 341" y2=" 511" originX="   0" originY="  65" />
+    <clipInformation x1=" 390" y1="   0" x2=" 511" y2="  63" originX="  82" originY=" 162" />
+    <clipInformation x1=" 390" y1="  64" x2=" 511" y2=" 127" originX="  82" originY=" 162" />
+    <clipInformation x1=" 390" y1=" 128" x2=" 511" y2=" 191" originX="  82" originY=" 162" />
+    <clipInformation x1=" 390" y1=" 192" x2=" 511" y2=" 255" originX="  82" originY=" 162" />
+    <clipInformation x1=" 390" y1=" 256" x2=" 511" y2=" 319" originX="  82" originY=" 162" />
+    <clipInformation x1=" 390" y1=" 320" x2=" 511" y2=" 383" originX="  82" originY=" 162" />
+    <clipInformation x1=" 343" y1="   0" x2=" 384" y2="  42" originX=" 124" originY=" 226" />
+    <clipInformation x1=" 343" y1="  48" x2=" 384" y2="  90" originX=" 124" originY=" 226" />
+    <clipInformation x1=" 343" y1="  96" x2=" 384" y2=" 138" originX=" 124" originY=" 226" />
+    <clipInformation x1=" 390" y1=" 384" x2=" 511" y2=" 447" originX="  82" originY=" 162" />
+    <clipInformation x1=" 343" y1=" 144" x2=" 384" y2=" 186" originX=" 124" originY=" 226" />
+    <clipInformation x1="   0" y1="   0" x2=" 121" y2="  63" originX="  82" originY=" 162" />
+    <clipInformation x1=" 343" y1=" 192" x2=" 384" y2=" 234" originX=" 124" originY=" 226" />
+</clipInformations>
+<animations number='7'>
+    <animation index='0' name='base'>
+        <background>
+            <clips number='1'>
+                <clip value=" 0 " />
+            </clips>
+        </background>
+    </animation>
+    <animation index='1' name='normal'>
+        <background>
+            <clips number='1'>
+                <clip value=" 1 " />
+            </clips>
+        </background>
+        <frame index='0' duration='0.06'>
+            <clips number='1'>
+                <clip value=" 2 " />
+            </clips>
+        </frame>
+        <frame index='1' duration='0.15'>
+            <clips number='1'>
+                <clip value=" 3 " />
+            </clips>
+        </frame>
+        <frame index='2' duration='0.06'>
+            <clips number='1'>
+                <clip value=" 1 " />
+            </clips>
+        </frame>
+    </animation>
+    <animation index='2' name='angry'>
+        <background>
+            <clips number='2'>
+                <clip value=" 7 " />
+                <clip value=" 4 " />
+            </clips>
+        </background>
+    </animation>
+    <animation index='3' name='blanky'>
+        <background>
+            <clips number='2'>
+                <clip value=" 8 " />
+                <clip value=" 5 " />
+            </clips>
+        </background>
+    </animation>
+    <animation index='4' name='serious'>
+        <background>
+            <clips number='2'>
+                <clip value=" 9 " />
+                <clip value=" 6 " />
+            </clips>
+        </background>
+    </animation>
+    <animation index='5' name='nullface'>
+        <background>
+            <clips number='2'>
+                <clip value=" 10 " />
+                <clip value=" 11 " />
+            </clips>
+        </background>
+    </animation>
+    <animation index='6' name='happy'>
+        <background>
+            <clips number='2'>
+                <clip value=" 13 " />
+                <clip value=" 12 " />
+            </clips>
+        </background>
+    </animation>
+</animations>
+</portraitAnimation>

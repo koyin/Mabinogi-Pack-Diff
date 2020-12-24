@@ -1,0 +1,2954 @@
+﻿actionnewegotalk.1	<title name='NONE'/><face name='normal'/>(請選擇關鍵字,和精靈進行對話.)
+actionrhythmminigame.1	因Client的數據毀損無法開始. 請再次安裝client後再使用.
+actionrhythmminigame.2	分數 : {0} 分\n 計量表 : {1} %
+actionrhythmminigame.3	梅林正在跳耀中
+airballoondefenseminigame.1	追上敵人的熱氣球!
+airballoondefenseminigame.2	無法追上敵人的熱氣球.
+airballoondefenseminigame.3	長戰中
+airballoondefenseminigame.4	掉落的熱氣球上無法使用
+airballoondefenseminigame.5	沒有足夠的發火石
+airballoondefenseminigame.6	無法使用發火石
+airballoondefenseminigame.7	熱氣球已恢復
+bindingdebuff.1	失效時間
+boost.1	{0:potion}的效果似乎逐漸在消失.
+campfirecandlehandler.1	生命力 / 魔法 / 耐力恢復速度 {0}% 增加
+campfirecandlehandler.2	攻擊延遲減少效果 {0}% 增加
+campfirecandlehandler.3	釣魚成功率及魚大小更正 +{0}
+campfirecandlehandler.4	採集速度 {0}% 增加
+campfirecandlehandler.5	製作成功率 {0}% 增加
+campfirecandlehandler.6	{0}的香氣混合溫暖的熱氣滲入身體.\n{1}
+campfirecandlehandler.7	{0}的殘香消失了.
+chainburst.1	黑闇解放效果發動了.
+chainburst.2	黑闇解放效果消失了
+couplelink.1	發動情侶同步.\n最大傷害值 {0} 增加\n最小傷害值 {1} 增加\n 移動速度 {2}% 增加
+couplelink.2	情侶同步解除了.
+couplelink.3	情侶同步發動.\n音樂增益技能效果 {0}增加\n音樂增益技能持續時間 {1} 秒增加\n 移動速度 {2}%增加
+create_char_title	Create New Character\n請創立新的角色
+delegatecontroller_marionette.1	距離過遠而無法操縱人偶.\n人偶操縱術被取消了.
+delegatecontroller_pet.1	跟寵物的距離太遠.
+directory.cache	\\Mabinogi\\Cashe
+directory.playdata	\\Mabinogi\\Playdata
+directory.screenshot	\\Mabinogi\\遊戲擷圖
+directory.supplement	\\Mabinogi\\檔案
+emergencyescape.1	危險逃脫持續時間剩下 {0}秒
+etc.intro_nexon	(株) NEXON
+etc.intro_text1	愛爾琳
+etc.intro_text2	獲得到祝福.
+etc.intro_text3	望著美麗的夜空
+etc.intro_text4	我們能夠感受
+etc.intro_text5	被愛包圍著...
+etc.intro_text6	豐碩的大地
+etc.intro_text7	茂盛的樹林
+etc.intro_text8	所有
+etc.intro_text9	內心澎湃
+etc.intro_text10	感覺到被祝福的大地
+etc.intro_text11	在溫暖的營火前
+etc.intro_text12	用歌聲來唱出你的故事吧.
+etc.logout_commercial_webpage	http://www.mabinogi.com.tw
+facility_mouseactionpolicy.1	存在目前正在進行調查的寵物.請先完成探險隊調查,或進行中斷.
+fantasymelodyhandler.1	獲得旋律舞步效果.\n\n效果持續的期間裝備道具的耐久度會慢慢減弱.
+fantasymelodyhandler.2	旋律舞步效果消失.
+fantasymelodyhandler.3	獲得受到祝福的旋律舞步效果.\n\n效果持續的期間裝備道具的耐久度消耗會慢慢減弱.\n獲得音樂增益技能效果 3 增加的效果.
+fantasymelodyhandler.4	受到祝福的旋律舞步效果消失.
+fantasymelodyhandler.5	스위트 로즈 멜로디 스텝 효과를 받습니다.\n\n효과가 지속되는 동안 장비 아이템의 내구력이 천천히 떨어집니다.\n음악버프 스킬 효과 5 증가의 효과를 받습니다.
+fantasymelodyhandler.6	스위트 로즈 멜로디 스텝 효과가 사라집니다.
+goldentime.1	黃金時間效果10秒後消失
+gunfrenzy.1	開啟雙槍射擊.
+gunfrenzy.2	關閉雙槍射擊.
+hackshield.1	檢測到Auto mouse. (類型 {0})
+hackshield.2	檢測到Auto Macro.
+hackshield.3	偵測到向保護 API Hooking行為.
+hackshield.4	\n\n函數名稱 : {0}\nModule 名稱 : {1}\n
+hackshield.5	阻擋外掛驅動程式沒有讀取到.
+hackshield.6	有發生訊息掛鉤且沒有阻擋到.
+hackshield.7	發現debug 追查.
+hackshield.8	變更debug 追查.
+hackshield.9	發現遊戲外掛.
+hackshield.10	偵測到異常記憶體連線.\n{0}
+hackshield.11	Hackshield 相關 Module變更.
+hackshield.12	Hackshield Engine 功能異常.
+hackshield.13	CODE不同.
+hackshield.14	偵測到Hackshield 保護 Module上有記憶體串改. 地址 : {0}
+hackshield.15	{0} 檔案被串改. 請重新協助安裝瑪奇.
+hackshield.16	警告
+hackshield.17	Hackshield Module上傳來非正常因子.
+hackshield.18	Hackshield Module沒有初始化的狀態.
+hackshield.19	目前流程執行到互換性模式.
+hackshield.20	不正常的 Hackshield 授權 Key.
+hackshield.21	Hackshield 檔案錯誤. 請重新安裝瑪奇.
+hackshield.22	在其他遊戲或是流程上已經在使用 Hackshield.
+hackshield.23	偵測到在電腦執行 debug . 請終止debug的執行後再次重新執行.
+hackshield.24	執行檔的CODE有串改.
+hackshield.25	不是管理者權限而無法執行.
+hackshield.26	可以開始Hackshield 外掛程式偵測 Engine.
+hackshield.27	無法生產Hackshield 驅動程式檔案.
+hackshield.28	無法登記Hackshield 驅動程式.
+hackshield.29	無法開始Hackshield 驅動程式.
+hackshield.30	無法開始Hackshield 偵測Thread.
+hackshield.31	需要Hackshield Module的更新.
+hackshield.32	在Hackshield發生錯誤.
+hackshield.33	\n請拍下這畫面後和錯誤小幫手一起回報.\n錯誤編號 : {0}
+hackshield.34	警告
+hackshield.35	無法讀取HSUpdate.env 檔案.
+hackshield.36	無法寫入HSUpdate.env 檔案.
+hackshield.37	無法連線到Hackshield 更新伺服器上.
+hackshield.38	無法找到與Hackshield 更新相關的檔案.
+hackshield.39	超過更新傳送時間.
+hackshield.40	Hackshield 更新中發生錯誤.
+hackshield.41	\n請拍下這畫面後和錯誤小幫手一起回報.\n錯誤編號 : {0}
+hackshield.42	警告
+hackshield.43	認證過程中有傳送到錯誤因子.
+hackshield.44	認證過程中連線到錯誤的記憶體中.
+hackshield.45	記憶體不足.
+hackshield.46	認證訊息錯誤.
+hackshield.47	認證過程中有偵測到debug.
+hackshield.48	Hackshield的 Module 路徑錯誤或是 Module異常.
+hackshield.49	認證過程中有發生錯誤.\n請拍下這畫面後和錯誤小幫手一起回報.\n錯誤編號 : {0}
+hackshield.50	警告
+hackshield.51	認證過程中有發生錯誤.\n請拍下這畫面後和錯誤小幫手一起回報.\n錯誤編號 : {0}
+hackshield.52	警告
+hackshield.53	Hackshield Module上傳送到異常的因子.
+hackshield.54	Hackshield Module沒有初始化狀態.
+hackshield.55	目前流程執行到互換性模式..
+hackshield.56	不正常的 Hackshield 授權 Key.
+hackshield.57	Hackshield 檔案錯誤. 請重新安裝瑪奇.
+hackshield.58	在其他遊戲或是流程上已經在使用 Hackshield.
+hackshield.59	偵測到在電腦執行 debug . 請終止debug的執行後再次重新執行.
+hackshield.60	執行檔的CODE有串改.
+hackshield.61	不是管理者權限而無法執行.
+hackshield.62	可以開始Hackshield 外掛程式偵測 Engine.
+hackshield.63	無法生產Hackshield 驅動程式檔案.
+hackshield.64	無法登記Hackshield 驅動程式.
+hackshield.65	無法開始Hackshield 偵測Thread.
+hackshield.66	無法開始Hackshield 偵測Thread.
+hackshield.67	需要Hackshield Module的更新.
+hackshield.68	在Hackshield發生錯誤.
+hackshield.69	\n請拍下這畫面後和錯誤小幫手一起回報.\n錯誤編號 : {0}
+hackshield.70	警告
+hackshield.71	無法讀取HSUpdate.env 檔案.
+hackshield.72	無法寫入HSUpdate.env 檔案.
+hackshield.73	無法連線到Hackshield 更新伺服器上.
+hackshield.74	無法找到與Hackshield 更新相關的檔案.
+hackshield.75	超過更新傳送時間.
+hackshield.76	Hackshield 更新中發生錯誤.
+hackshield.77	\n請拍下這畫面後和錯誤小幫手一起回報.\n錯誤編號 : {0}
+hackshield.78	警告
+hackshield.79	認證過程中有傳送到錯誤因子.
+hackshield.80	認證過程中連線到錯誤的記憶體中.
+hackshield.81	記憶體不足.
+hackshield.82	認證訊息錯誤.
+hackshield.83	認證過程中有偵測到debug.
+hackshield.84	Hackshield的 Module 路徑錯誤或是 Module異常.
+hackshield.85	認證過程中有發生錯誤.\n請拍下這畫面後和錯誤小幫手一起回報.\n錯誤編號 : {0}
+hackshield.86	警告
+hackshield.87	很抱歉造成不便.\n\n發生有關Hackshield的問題.\n\n錯誤內容 : {0}\n錯誤編號 : {1}\n\n發生的錯誤訊息複製到clipboard上.\n請把這編號在資安中心公告中查詢後 (ctrl+v)\n應對該當問題排除.\n\n在資安中心獲得資訊困難時\n請透過BUG REPORT回報板的錯誤報告小幫手回報.\n\n\n點擊[確認] 按鈕就可以移動到資安中心.\n目前執行中的CLIENT會結束.\n\n
+hackshield.88	Hackshield錯誤
+hackshield.89	因為速度核心系統時間有變更.
+hackshield.90	Hackshield Module無法開始.\n請重新安裝CLIENT.
+hsmoduleinit.1	認證過程中有發生錯誤.
+hsmoduleinit.2	Hackshield已經在執行中.
+hsmoduleinit.3	DLL 檔案有被串改.
+hsmoduleinit.4	無法尋找HSUpdate.env 檔案.
+hsmoduleinit.5	Hackshield Update Module初始化失敗.
+hsmoduleinit.6	因為hosts 檔案 Hackshield 更新地址強制轉換.
+hsmoduleinit.7	Hackshield 更新中發生錯誤. (錯誤編號 : {0})
+hsmoduleinit.8	{0} 檔案被串改.
+hsmoduleinit.9	Hackshield 更新設定檔案異常.
+hsmoduleinit.10	NexonGuard 실행에 문제가 발생하였습니다.
+interactionclient.1	互動({0})讀取中...
+interactionclient.2	互動({0}) 讀取完成.
+interactionclient.3	互動({0})的情報不正確讀取失敗. 互動的運作終止.
+interactionhelper.1	無姓名
+ladecaconditionhandler.1	拉狄卡的氣息
+ladecaconditionhandler.2	拉狄卡的視線
+ladecaconditionhandler.3	拉狄卡的力量
+ladecaconditionhandler.4	{0}的持續時間剩下 {1}秒.
+mabinogimain.1	寄出
+mabinogimain.2	보내기 버튼을 누르시면 개발사에 발생한 문제 상황에 대한 정보가 전달됩니다.
+mabinogimain.4	.
+mabinogimain.6	[보내기]를 눌러 발생한 문제 상황에 대해 정보를 보내주시면 문제를 해결하는데 큰 도움이 됩니다. 보내시겠습니까? ([보내기]를 눌러 정보를 보내주실 때 이용하신 컴퓨터 사양 정보가 포함될 수 있습니다.)
+magicattackenhance.1	{0:potion}的好像快要消失了.
+maintitle.c1	瑪奇 Mabinogi C1
+maintitle.c2	瑪奇 Mabinogi C2
+maintitle.closebeta	瑪奇 mabinogi CB測試
+maintitle.default	新瑪奇 mabinogi
+maintitle.eg	瑪奇 Mabinogi EG
+maintitle.g1	瑪奇 Mabinogi G1
+maintitle.g2	瑪奇 Mabinogi G2
+maintitle.g3	瑪奇 Mabinogi G3
+maintitle.g4	瑪奇 Mabinogi G4
+maintitle.openbeta	瑪奇 mabinogi OB測試
+messages.1	瑪奇 G5
+messages.2	瑪奇 G6
+messages.3	PC사양 자가 진단 서비스 바로가기
+messages.4	確認
+messages.5	取消
+messages.6	瑪奇 G7
+messages.7	mabinogi G8
+messages.8	mabinogi C3 - 鍊金術師
+msg.account_creat_failed	新創帳號失敗
+msg.adv_item.notice_msg	如果想要得到特殊禮物的物品,請點選右下方的方塊.
+msg.agetext_0	年齡限制 : {0}歲 ~ {1}歲
+msg.agetext_1	年齡限制 : {0}歲以上
+msg.agetext_2	年齡限制 : (0)歲以下
+msg.arbeit.success_frequency	{0} 兼職     {1}回成功率 {2}%
+msg.arbeit_completed	{0} 完成!\n向{1}報告
+msg.arena_logout_safety_notice	競技場登出保護.離開競技場將會結束
+msg.authorize_failed_use_command	沒有使用該指令的權限.
+msg.camp.abandon_cancel_btn	Cancel\n取消
+msg.camp.abandon_msg	帳篷內有人.\n\n當帳篷內有人,開始收帳篷時,\n就會放棄該帳篷的主人.\n所有人離開時,帳篷會消失.\n放棄帳篷的主人時,就無法在帳篷復活.
+msg.camp.abandon_ok_btn	OK\n確認
+msg.camp.abandon_title	Warning\n通知
+msg.camp.already_have	已經擁有其他帳篷,所以無法建立新帳篷.
+msg.camp.expired	有效期限已過,無法使用.
+msg.camp.generate_tooltip	使用中
+msg.camp.leave_msg	離開的話,帳篷會消失.\n您要離開嗎?
+msg.camp.leave_title	Leaving Camp\n離開帳篷.
+msg.campsharing_cancel	取消
+msg.campsharing_info	圍坐在營火前的人們可互相分享食物. \n不論人數都會平分全部食物的50%.\n您要進行營火分享嗎?
+msg.campsharing_info_title	Camp Sharing\n營火分享
+msg.campsharing_message_requiring	分享食物時可以發送訊息給他人
+msg.campsharing_no	否
+msg.campsharing_ok	是
+msg.cannot_attack	無法攻擊
+msg.cannot_drop_in_camp	在帳篷內無法丟棄物品.
+msg.cannot_drop_item	無法丟棄物品!
+msg.cannot_use_item	無法使用物品.
+msg.card_help	如要創立新角色.請按 '新角色'鍵\n想要重生的話,請選擇要重生的角色後,按'重生'鍵.
+msg.castle_info_not_found	無法找到所連結的房屋,或是城堡的情報.
+msg.channel_move_desc	移動分流時, 跟登出一樣會有處罰.\n\n- 進行中的兼職將會取消    \n- 在地下城內冒險將會被移動到地下城祭壇休息區\n- 如有組隊則會另開隊伍               \n- 登出處罰        \n\n
+msg.channel_move_notify	進行這動作後移動到 {0}.\n為了移動到{0}的話需要使用專用分流.\n\n
+msg.character_aging_message	角色成長為{0}歲
+msg.character_explo_levelup_message	Exploration Level Up!\n探險等級提升為{0}!
+msg.character_levelup	Level Up!\n等級變為 {0}!
+msg.chat_add_friend_failed_cannot_find	搜尋不到{0}的角色,無法加入成為好友.\n開始使用即時聊天系統時,只能加入至少有登入過遊戲一次以上的玩家.
+msg.chat_add_friend_failed_full	非常抱歉,在您的人物中\n{0},\n已有{1}名以上的好友,所以無法再新增.
+msg.chat_add_friend_failed_logout	只有在登入即時聊天系統的狀態下,才可新增好友.
+msg.chat_add_self	無法將自己設定為好友
+msg.chat_ban_failed_cannot_find	沒有{0} 這個名字,無法封鎖.
+msg.chat_ban_failed_logout	只有在登入的狀態下才可封鎖
+msg.chat_ban_self	無法封鎖自己.
+msg.chat_closing_window_by_logout	已經登出,將無法繼續使用此頁面.
+msg.chat_confirm_friend_failed_full	很抱歉,在您的角色中\n{0},\n已有{1}名以上的好友.無法再新增.\n刪除其中至少一名以上的好友後.從新登入.
+msg.chat_connection_closed_etc	與即時聊天伺服器斷線.稍後將會重新登入.
+msg.chat_connection_closed_etc.development	與即時聊天伺服器斷線.
+msg.chat_friend_deleted	好友中{0}已被刪除,相關的個人資訊也將一併移除.
+msg.chat_friend_state_changed	{0}狀態成為 {1}.
+msg.chat_id_password_mismatch	訊息連接失敗.請於重新登入後再試.
+msg.chat_id_password_mismatch.development	帳號或密碼錯誤,請重新輸入.
+msg.chat_invalid_charactername	角色名稱異常.請將此角色/伺服器訊息上傳到BUG頁面.
+msg.chat_login_from_othersite	你已經在其他地方登入,稍後將自動重試.
+msg.chat_login_from_othersite.development	已登入到其他電腦,將中斷連線.
+msg.chat_sendmessage_failed	下列訊息傳送失敗.
+msg.chat_server_connection_failed	連線失敗,稍後將重新連線.
+msg.chat_server_connection_failed.development	連線失敗,請稍後再試.
+msg.chat_server_unavailable	目前沒有可以連線的伺服器,稍後將重新連線.
+msg.chat_server_unavailable.development	目前伺服器無法使用,請稍後再試.
+msg.chat_someone_added_me	您的好友向你介紹新的角色.\n下列的角色將被視為一個.\n\n{0}
+msg.chat_unable_while_offline	'顯示為離線'狀態下,無法打開對話窗.
+msg.chat_unban_failed_logout	只有在登入狀態,解除封鎖其他使用者.
+msg.collect_reward_failed	沒有獲得補償.
+msg.collectionbook.already_rewarded	已得到補償
+msg.collectionbook.complete_rate	完成度 {0}%
+msg.collectionbook.rewardable	可得到補償
+msg.combat.weapon_weaker_than_barehand	比拿著{0} 攻擊, 乾脆空手攻擊較好吧.|{0}來當武器也沒有用. 空手攻擊就好.|{0} 把它拿著攻擊比空手攻擊不好的感覺.|{0}的攻擊比空手脆弱!
+msg.confirm_use_coupon	要使用這個優惠券獲得補償嗎?
+msg.connect_failed_to_localserver	伺服器連線失敗
+msg.create_char_fail_max	創立新角色失敗.\n\n* 創立角色的上限為 20名.
+msg.create_character_fail_max_80	創立新角色失敗.\n\n* 新角色與種族無關最多可創立80名.
+msg.create_dungeon_time	現在時間 {0}年 {1}月 {2}日 {3}時 {4}分 發生情況
+msg.create_pet_fail_max	創立新寵物角色失敗.\n\n*寵物角色最多可以創立 20隻.
+msg.critical_hit	暴擊!!!
+msg.critical_hit_msg	暴擊!!!
+msg.cutscene_leader_skips_demo	隊長跳過開場動畫.
+msg.cutscene_wait	請稍後...
+msg.cutscene_wait_for_leader	隊長還在欣賞開場動畫
+msg.destroy_item_confirm	真的要放棄並刪除{0}嗎?
+msg.dev.bank_not_savable	無法存於銀行
+msg.dev.bank_not_sharable	無法共有銀行
+msg.dev.is_proxy	代理人
+msg.dev.keep_owner	保留所有權
+msg.dev.not_destructable	無法破壞
+msg.dev.not_enchantable	無法魔力賦予
+msg.dev.not_removable	無法清除
+msg.dev.not_repairable	無法修理
+msg.dev.not_tradable	無法交易
+msg.dev.region_fixed	區域固定
+msg.dungeon_create_waiters	等待地下城產生,離地下城生成還有{0}名.
+msg.dungeon_logout_safety_notice	地下城離開保護,離開地下城時將會結束.
+msg.dungeon_pass_tooltip	\n到{0}
+msg.dungeon_pass_tooltip_expire	超過有效期限
+msg.ego_talk_equip	想和精靈武器對話的話,先裝備精靈武器.
+msg.enchant.scroll_only_warning	若不使用魔力賦予的技能,而只使用卷軸時,\n不管賦予成功失敗與否,卷軸都會消失.\n確定只使用卷軸進行魔力賦予嗎?
+msg.enchant.scroll_only_warning_title	Warning\n通知
+msg.enchant_bad	施展魔法失敗!
+msg.enchant_best	施展魔法非常成功!!!
+msg.enchant_good	施展魔法成功!
+msg.enchant_scroll_expired_prefix	超過有效期限
+msg.enchant_scroll_expired_suffix	超過有效期限
+msg.enchant_scroll_expiretime_prefix	\n到{0}
+msg.enchant_scroll_expiretime_suffix	\n到{0}
+msg.enchant_scroll_prefix	接頭
+msg.enchant_scroll_suffix	接尾
+msg.enchant_worst	施展魔法完全失敗!!!
+msg.engine_initializing	Initialize Pleione Engine...\nPleione引擎初始化中...
+msg.enter_world	Have entered the world.\n進入mabinogi世界.
+msg.equip_ego_weapon_request	想和精靈武器對話的話,先裝備精靈武器.
+msg.error.1	顯示卡未能正常初始化而無法開始遊戲.\n\n如果在nVidia系列的顯示卡持續發生無法執行的問題,\n請先更新最新版本後再試一次.\n詳細內容請參考常見的Q&A.\n\n
+msg.error.2	您的系統上安裝的顯示卡\n並不支援遊戲中顯示功能.\n無法再進行遊戲.
+msg.error.3	很抱歉.
+msg.error.4	為執行Mabinogi必須安裝 9.0或以上版本的 DirectX. \n請先下載最新版本的DirectX安裝執行.
+msg.error.5	造成您的不便很抱歉.\n\n關於所發生的問題狀況說明已複製到版上.\n請將此內容回報到Bug留言板.(ctrl+v)\n我們將會解決這些問題.\n\n在回報問題時,請使用'Mabinogi錯誤報告小幫手'\n對我們確認與修正問題將很有幫助.\n按'確認'將會移動到Bug留言板.\n該客戶端程式將終止.\n
+msg.error.6	Mabinogi : 執行中發生問題
+msg.error.7	Mabinogi
+msg.error.8	錯誤報告
+msg.error.9	Mabinogi支援最新的Windows. 因此不必適用\n互換性模式. 為使用者所使用的Windows功能能夠全部\n有效用. 有必要解除互換性模式.\n\n您要解除互換性模式嗎?
+msg.error.10	請注意!
+msg.error.11	請先解除互換性模式後,重新執行.
+msg.error.12	Mabinogi
+msg.error.13	解除了互換性模式.\n請重新執行Mabinogi.
+msg.error.14	已執行其他Mabinogi客戶端程式中.
+msg.error.15	您的系統中所安裝的顯示卡\n並無法確保Mabinogi遊戲正常運作的顯示卡.\n該顯示卡並不支援執行Mabinogi所需的\n基本重要功能.\n繼續執行可能發生遊戲無法正常執行等的\n問題. \n\n您要繼續執行嗎?\n
+msg.error.16	http://www.mabinogi.com.tw/bugreport
+msg.fix_charge_10x	修理費用10倍
+msg.gdi_startup	準備中
+msg.gift_help	若要接收禮物,請按下「查看」按鈕.
+msg.gm.confirm_force_open_door	要打開這扇門嗎?
+msg.gm.not_move_silencemode	開啟禁言模式的情況下,請不要進行移動.
+msg.guild_create.agreed	{0}同意創立公會.
+msg.guild_create.agreement_request	您同意隊伍的隊長{0}創立 {1}公會嗎?
+msg.guild_create.agreement_request_title	Guild Create Agreement\n創立公會同意
+msg.guild_create.already_guildmember	目前為已加入公會的狀態.
+msg.guild_create.confirm_create	所有隊員皆同意創立公會. 您要創立公會嗎?
+msg.guild_create.confirm_create_title	Guild Create Confirm\n確認創立公會
+msg.guild_create.create_request	要求創立公會成功. 請先等候隊員同意為止. 如果要重新嘗試,需要再組隊.
+msg.guild_create.create_request_failed	要求創立公會失敗. 請先組隊後再嘗試.
+msg.guild_create.daylimit	{0}最近加入公會後,尚未超過一星期,所以無法加入公會.
+msg.guild_create.disagreed	{0}拒絕創立公會.
+msg.guild_create.insufficient_member	想要創立公會,必須為5名隊伍的隊長才可以.
+msg.guild_create.no_pet	隊伍當中包含了寵物角色, 所以無法創立公會.
+msg.guild_distroy	解散公會.\n若要完全解散公會約需要1分鐘.
+msg.guild_distroy_failure	解散公會失敗
+msg.guild_failure	失敗
+msg.guild_join_awaiting_notice	已申請加入此公會.\n待公會長核准才能成為公會員.
+msg.guild_name_usable_failure	無法使用此名稱.\n請重新輸入.
+msg.guild_name_usable_success	可以使用的名稱.
+msg.guild_success	成功
+msg.guild_transition_master	公會長成功交接.\n若要完全交換公會長職位約需要1分鐘.
+msg.guildchat_logout_or_invalid	沒有連接到聊天系統.或是無效的公會
+msg.guildchat_unavaiable_notice	很抱歉. 現在無法使用公會聊天功能.
+msg.house_prop_confirm	必須支付使用費{0}的金幣 .\n請問要使用嗎?
+msg.house_prop_unavailable	無法使用的狀態.\n請向房屋主人詢問.
+msg.immune_magic_rate	<color=3>魔法攻擊自動防禦率 : {0}%</color>
+msg.immune_melee_rate	<color=3>近距離攻擊自動防禦率 : {0}%</color>
+msg.immune_ranged_rate	<color=3>遠距離攻擊自動防禦率 : {0}%</color>
+msg.inventory_cannot_throw_pocket_containing	無法丟棄裝有物品的背包.
+msg.inventory_cannot_use_bag	由於玩家沒有購買倉儲空間服務功能所以無法打開背包.\n若要取出包包內的物品請使用'解除背包'指令.
+msg.ipservice_timeout_notice	Premium網咖服務時間已到期.
+msg.item.directbank_tradable	可進行銀行交易
+msg.item.directbank_untradable	無法進行銀行交易
+msg.item.durability	使用次數 {0}/{1}
+msg.item.skill_restriction	此物品只有等級: {0} {1} 以上的角色才可以配戴
+msg.item_attack	攻擊 {0}~{1}
+msg.item_attackspeed_fast	快速度
+msg.item_attackspeed_normal	普通速度
+msg.item_attackspeed_slow	慢速度
+msg.item_attackspeed_veryfast	非常快速
+msg.item_attackspeed_veryslow	非常緩慢
+msg.item_burnup_failed	銷毀失敗
+msg.item_buy_failed	無法購買物品
+msg.item_check_description	請把下列金額支付給擁有人.
+msg.item_check_tooltip	金幣{0} Gold
+msg.item_coupon_reward_tooltip	此優惠券的補償
+msg.item_critical	暴擊率 {0}%
+msg.item_defense	防禦力 {0}
+msg.item_drop_failed	無法丟棄此物品.
+msg.item_durability	耐久度 {0}/{1}
+msg.item_durability_current	使用次數 {0}/{1}
+msg.item_exp	熟練度 {0} ({1}%)
+msg.item_exploquest	探險任務
+msg.item_give_failed	無法贈送此物品.
+msg.item_give_failed_not_givable_item	此物品無法送給其他人.
+msg.item_give_failed_toofar	對方距離太遠,無法贈送物品.
+msg.item_guildpendant_bind	\n\n<color=1> 公會 在<color=2>{0}<color=1>成立
+msg.item_maker_blacksmith	鐵匠
+msg.item_maker_cloth	裁縫師
+msg.item_maker_default	製作師
+msg.item_maker_desc	{0:rank} {1:jobclass} {2:name}的作品
+msg.item_maker_heulwenengineering	稀原工學者
+msg.item_maker_magiccraft	魔法工藝者
+msg.item_nogive_property	無法轉移給其他人
+msg.item_original	(原始)
+msg.item_pickup_failed_general	無法撿取物品.
+msg.item_pickup_failed_invalid_item	沒有物品
+msg.item_pickup_failed_inventory_insertion_failed	物品無法放入儲物欄.
+msg.item_pickup_failed_no_authority	沒有撿取的權限.|這不是屬於我的物品.|這不是我能撿取的物品.|這是別人的東西所以無法檢取.
+msg.item_pickup_failed_no_authority2	沒有撿取的權限.|這不是屬於我的物品.|這不是我能撿取的物品.|這是別人的東西所以無法撿取.
+msg.item_pickup_failed_notenough_space	儲物欄已沒有空位可放
+msg.item_pickup_faled_unique	僅能擁有一件的物品.
+msg.item_protect	保護 {0}
+msg.item_remove_failed	無法破壞此物品.
+msg.item_reversion	{0} 專用物品
+msg.item_sell_failed	無法販售物品.
+msg.item_size_desc	\n\n大小:{0}cm
+msg.item_skill_limit	技能限制 : {0}等級 {1} 以上
+msg.item_skill_restrict	這物品是 {0}{是} {1} 等級以上的角色才可以裝備.
+msg.item_tooltip.exploquest	探險任務
+msg.item_tooltip.general_prop_sketched	地形地物的素描
+msg.item_tooltip.keyexploquest	必要的探險任務
+msg.item_tooltip.monster_sketched	{0}的素描
+msg.item_tooltip.prop_sketched	{0}的素描
+msg.item_tooltip.require_explolevel	所需的探險等級: {0}
+msg.item_tooltip.time_remaining	挑戰結束時間: 剩下{0}秒
+msg.item_upgrade	已改造次數 {0} / 可改造次數 {1}
+msg.item_upgraded	{0}升級為 {1} .
+msg.item_valance	平衡性 {0}%
+msg.item_weapontype_hitcount	{0} {1}擊武器
+msg.item_weapontype_ranged	{0} 遠距武器
+msg.item_wounddamage	負傷率 {0}~{1}%
+msg.license.cumulated_gold	累積金額 : {0} Gold
+msg.license.deposit_commission	換錢手續費率 {0}%
+msg.license.gold_limit	額度 {0} Gold
+msg.license.not_usable	無法使用
+msg.license.sell_commission	販售手續費率 {0}%
+msg.license.selling_price	販售金額 : {0} Gold
+msg.license.unusable_area	無法使用的地區
+msg.license.usable_area	可使用的地區
+msg.lobby_cancel_character_delete_failed	回復角色失敗.
+msg.lobby_cardtype_discount	(折價卡)
+msg.lobby_cardtype_prize	(產品卡)
+msg.lobby_cardtype_test	(測試卡)
+msg.lobby_character_create_failed	創新角色時發生錯誤.\n\n您或許使用到與其他玩家相同的名稱\n請使用其他名稱.
+msg.lobby_character_create_failed_age	創新角色時發生錯誤.\n\n*這是以您現在的年齡不可進入的伺服器.\n*請閱讀各個伺服器的說明之後.重新選擇.
+msg.lobby_character_create_failed_card_condition	創新角色時發生錯誤.\n\n*選擇到無法使用再生卡的外型.
+msg.lobby_character_create_failed_card_error	創新角色時發生錯誤.\n\n*角色卡的資訊異常.\n*擷取現在的畫面後.請洽客服中心.
+msg.lobby_character_create_failed_internal_error	創新角色時發生錯誤.\n\n*角色生成時發生錯誤.\n*擷取現在畫面之後.請洽客服中心.
+msg.lobby_character_create_failed_old	創新角色時發生錯誤.\n\n您或許使用到與其他玩家相同的名稱\n請使用其他名稱.
+msg.lobby_character_create_failed_same_name	創新角色時發生錯誤.\n\n*其他玩家使用中或在遊戲中內無法使用.\n*請使用其他名字.
+msg.lobby_character_create_failed_too_many	創新角色時發生錯誤.\n\n* 角色與寵物的總數超過20.
+msg.lobby_character_create_failed_unknown_error	創新角色時發生錯誤.\n\n*角色生成時發生錯誤({0}).\n*擷取現在畫面之後.請洽客服中心.
+msg.lobby_character_delete_failed	角色刪除失敗.
+msg.lobby_character_delete_failed2	角色刪除失敗.
+msg.lobby_charactercard	<角色卡>
+msg.lobby_charactercard_basic	<基本角色卡>
+msg.lobby_charactercard_basic_discount	<基本角色卡 (優惠)>
+msg.lobby_charactercard_basic_promotion	<基本角色卡 (商品)>
+msg.lobby_charactercard_basic_testserveronly	<基本角色卡 (測試伺服器>
+msg.lobby_charactercard_event	<活動重生卡>
+msg.lobby_charactercard_event_rebirth	免費角色創立卡
+msg.lobby_charactercard_free	<免費卡>
+msg.lobby_charactercard_premium	<優質角色卡>
+msg.lobby_charactercard_premium_2005_summer	<限量 優質角色卡>\n2005年夏季限量商品
+msg.lobby_charactercard_premium_2005_summer_discount	<限量 優質角色卡(優惠)>\n2005年夏季限量商品
+msg.lobby_charactercard_premium_2005_summer_discount_reduced	<限量 優質角色卡(優惠 )>
+msg.lobby_charactercard_premium_2005_summer_reduced	<限量 優質角色卡>
+msg.lobby_charactercard_premium_2005_winter	<限量 優質角色卡>\n2005年冬季限量商品
+msg.lobby_charactercard_premium_2005_winter_discount	<限量 優質角色卡(優惠)>\n2005年冬季限量商品
+msg.lobby_charactercard_premium_2005_winter_discount_reduced	<限量 優質角色卡(優惠)>
+msg.lobby_charactercard_premium_2005_winter_reduced	<限量 優質角色卡>
+msg.lobby_charactercard_premium_discount	<優質角色卡(優惠)>
+msg.lobby_charactercard_premium_promotion	<優質角色卡(商品)>
+msg.lobby_gift_type	{0}的禮物
+msg.lobby_local_duplicated	名稱已經存在.
+msg.lobby_name_available	"{0}"\n可以使用
+msg.lobby_name_not_available	"{0}"\n無法使用的名稱.
+msg.lobby_notice	Notice\n公告
+msg.lobby_petcard	<寵物角色卡>
+msg.lobby_petcard_race	<'{0}' 角色卡>
+msg.lobby_read_character	正在讀取角色資料.
+msg.lobby_read_character_fromcard	正在讀取角色資料.
+msg.lobby_read_character_old	正在讀取角色資料.
+msg.login.blocked	帳號已停止. {0}小時{1}分鐘之後將解除.
+msg.login.booting	目前正在維護伺服器中.\n請稍後重新登入.
+msg.login.char_invalid	角色資料上發生問題.\n需要時間恢復角色.
+msg.login.inf_blocked	帳號鎖定{0}請洽客服中心查詢.
+msg.login.internal_error	該帳號發生問題.
+msg.login.ip_blocked	在目前的位置上無法連線遊戲.
+msg.login.lack_age	對不起.年齡12歲以下的帳戶.無法登入.
+msg.login.unblocked	解除停權帳號.
+msg.login_delay_dialog_msg	先前的連接異常結束.正在進行角色資料的\n完整保存.請稍待30秒後再連線.
+msg.login_delay_dialog_ok	確認\nOK
+msg.login_delay_dialog_title	Message\n訊息
+msg.login_failed_general	登入失敗
+msg.login_failed_id_password_mismatch	可能原因如下： \n\n1.您尚未升級為beanfun!樂豆帳號，請您關閉遊戲並進行GASH帳號升級，完成後請由遊戲官網使用beanfun! 樂豆登入遊戲。 \n\n2.您已升級為beanfun!樂豆帳號，請由遊戲官網使用beanfun! 樂豆登入遊戲。 \n\n3.未升級beanfun!的瑪奇香港帳號，請重新確認所輸入的帳號/密碼及大小寫是否正確。 \n\n台灣beanfun!官網：https://tw.beanfun.com/ \n香港beanfun!官網：https://www.gamania.com.hk/
+msg.login_failed_server_full	使用者過多.連線失敗
+msg.moonstone_tooltip	<color=0>使用月長石碎片的話\n可以移動到採集場所.\n移動的場所 : [<color=3>{0}<color=0>]
+msg.move_channel_failed	分流移動失敗.
+msg.nao_support.recharged	娜歐支援服務增加一次.
+msg.no_collect_invalid_item	無法增加物品.
+msg.no_collect_not_completed	無法放入未完成的物品.
+msg.no_collect_target_item	非收集對象.
+msg.no_title	沒有稱號
+msg.none_attackable_target	不可攻擊的對象.
+msg.noskill_available_touse_thisprop	沒有能夠使用這個裝置的技能.
+msg.noskill_available_touse_thisprop2	無法使用這個裝置.
+msg.notice_pause_auto_combat	自動戰鬥暫時中斷.
+msg.order_scroll_expired	指令時間已過.
+msg.order_scroll_tooltip	這指令書裡寫著在 {0} {1}裡將會出現{2}.
+msg.party_expmode_changed	{0}把隊伍的經驗值分配規則改成[{1}]的方式
+msg.party_finishrule_changed	{0} 把隊伍的完成規則改成了[{1}] 模式.
+msg.party_join_failed_invalid_password	密碼錯誤,無法加入隊伍.
+msg.party_kicked	驅逐出了隊伍.
+msg.party_leader_changed	{0}成為隊裡的隊長.
+msg.party_member_out	{0} 脫離隊伍.
+msg.party_newmember	{0} 加入隊伍.
+msg.party_newmember2	{0} 加入隊伍.
+msg.party_newmember3	{0} 加入隊伍.
+msg.party_out	脫離了隊伍.
+msg.party_quest_changed	{0} 把團隊任務改成了 [{1}].
+msg.party_quest_removed	{0} 刪除了團隊任務.
+msg.party_start_recruiting	開始招募隊員.
+msg.party_stop_recruiting	停止招募隊員.
+msg.pet.ai_on	指示為可以任意戰鬥.
+msg.pet.confirm_give_item	要給{0}嗎?
+msg.pet.favor_status	目前愛情度 : {0}
+msg.pet.food_status	目前空腹度 : {0}%
+msg.pet.have_not_revive	{0}並沒有寵物專用的救援工具.
+msg.pet.healing_ai_on	指示為戰鬥中可以使用治癒.
+msg.pet.idle_msg	讓他做想要的事吧...|不管他嗎...|還是讓他休息...
+msg.pet.idle_off	要準備行動!|走!|醒來!
+msg.pet.in_summon	召喚中.
+msg.pet.in_unsummoning	解除召喚中.
+msg.pet.life_status	目前生命 : {0}%
+msg.pet.loyalty_status	目前忠誠度 : {0}
+msg.pet.meet_mate_control	與{0}成為夥伴.
+msg.pet.meet_mate_summon	{0}和{1}成為夥伴.
+msg.pet.not_collect_pet	無法進行採集動作的寵物角色.
+msg.pet.not_collect_pet2	無法進行採集動作的寵物角色.
+msg.pet.pickup_ai_on	開始撿取道具.
+msg.pet.pickup_fail_put	{0}的物品欄已經沒有剩餘空間了.
+msg.pet.pickup_gold	{0}撿取 {1}金幣.
+msg.pet.pickup_inventory_full	{0}的物品欄已經塞滿了 .
+msg.pet.pickup_item_bundle	{0}撿取 {1} {2}個
+msg.pet.pickup_item_single	{0}撿取 {1} .
+msg.pet.remain_time	剩餘召喚時間 : {0}分
+msg.pet.separate_mate_control	與夥伴分離.
+msg.pet.separate_mate_summon	{0}與夥伴分離.
+msg.pet.start_other_collect	允許其他人的採集
+msg.pet.started_attack	{0}開始攻擊 {1}.
+msg.pet.started_keeper	{0}開始看守個人商店.
+msg.pet.status_dead	{0}目前是無法動彈的狀態.
+msg.pet.status_hunger1	{0}看起來非常飢餓.
+msg.pet.status_hunger2	{0}看起來有些飢餓.
+msg.pet.status_hunger3	{0}看起來有一點點飢餓.
+msg.pet.status_hunger4	{0}看起來是飽足的狀態.
+msg.pet.status_hunger5	{0}看起來已經是充分飽足的狀態.
+msg.pet.status_life1	{0}無法行動了.
+msg.pet.status_life2	{0}看起來需要緊急治療.
+msg.pet.status_life3	{0}看起來需要治療.
+msg.pet.status_life4	{0}看起來有些不舒服.
+msg.pet.status_life5	{0}看起來很健康.
+msg.pet.status_life6	{0}看起來非常健康.
+msg.pet.stop_other_collect	拒絕其他人的採集.
+msg.pet.stopped_keeper	{0}中斷了看守個人商店.
+msg.pet.summon_status_title	Message\n訊息
+msg.pet.summon_timeout_warning	{0}的召喚時間剩下 {1}分.
+msg.pet.summoned_msg	召喚了{0}.
+msg.pet.support_ai_on	指示在戰鬥時給予支援.
+msg.pet.time_limit	{0}的召喚時間, 已經全部使用完畢了.
+msg.pet.time_remain_msg	{0}的召喚時間, 剩下{1}分鐘.
+msg.pet.unable_give_item	無法給予 {0}.
+msg.pet_pvp.begin	寵物對戰開始!
+msg.pet_pvp.loser	{0}對戰失敗.
+msg.pet_pvp.loser_desc	{0}對戰失敗.
+msg.pet_pvp.start	寵物對戰開始!
+msg.pet_pvp.winner	{0}對戰勝利!
+msg.pet_pvp.winner_desc	{0}對戰勝利!
+msg.pet_timeout_unsummon	可召喚的時間不足, 即將解除召喚.
+msg.petcard_help	欲召喚新寵物的角色, 請按 '新寵物'鍵. \n如要重生, 請選擇要重生的角色後, 按 '重生'鍵.
+msg.playtime_almost_out_notice	今天的遊戲時間快結束了.
+msg.playtime_out_notice	今天的遊戲時間結束.
+msg.ps_shop.opened	成立商店.\n當離開商店 5m以上,商店就會關閉.\n在開啟商店的情況想要移動到較遠的地方,請召喚寵物看守商店.
+msg.ps_shop.opened2	成立商店.\n當離開商店 5m以上,商店就會關閉.\n在開啟商店的情況想要移動到較遠的地方,請召喚寵物看守商店.
+msg.ps_shop.set_title	請輸入個商人商店的名稱.
+msg.ps_shop.set_value	請設定物品的價格.
+msg.ps_shop.unable_pet	寵物角色無法開啟個人商店.
+msg.pvp_arena_life_recovered	{0} {1} 恢復
+msg.pvp_arena_mana_recoverd	{0} {1} 恢復
+msg.pvp_arena_round_end_alive	回合結束.
+msg.pvp_arena_round_end_died	回合結束.
+msg.pvp_arena_stamina_recovered	{0} {1} 恢復
+msg.pvp_arena_wound_recovered	負傷恢復 {0}
+msg.quest_almost_expired	接近限制時間
+msg.quest_complete	[O]
+msg.quest_complete2	[O]
+msg.quest_complete_scroll	任務完成
+msg.quest_completed	{0} 完成!\n向{1}報告.
+msg.quest_expired	超過完成時間
+msg.quest_expired2	超過完成時間
+msg.quest_expired_already	超過完成時間
+msg.quest_objective_completed	{0} 任務目標全部達成.
+msg.quest_received	[{0}] 接受任務.
+msg.quest_remain_time_day	愛琳時間{0}日內完成
+msg.quest_remain_time_day_hour	愛琳時間{0}日 {1}小時內完成
+msg.quest_remain_time_hour	愛琳時間{0}小時以內完成
+msg.quest_remove_scroll	刪除任務 Remove Scroll
+msg.quest_scroll_result	完成任務獎勵
+msg.quest_scroll_time_day	愛琳時間{0}日以內完成
+msg.quest_scroll_time_day_hour	愛琳時間{0}日 {1}小時以內完成
+msg.quest_scroll_time_expiretime	限制時間 :
+msg.quest_scroll_time_hour	愛琳時間{0}小時內完成
+msg.quest_scroll_time_veryshort	非常短
+msg.remain_playtime_notice_hour	今天的遊戲時間還剩 {0}小時.
+msg.remain_playtime_notice_hour_minute	今天的遊戲時間還剩 {0}小時 {1}分.
+msg.remain_playtime_notice_minute	今天的遊戲時間還剩 {0}小時.
+msg.score_composer	作曲者 : {0}
+msg.score_level	難易度 :
+msg.score_level_other	{0}級
+msg.score_level_training	習作
+msg.score_title	題目 : {0}
+msg.scroll_durability	耐久度 {0}%
+msg.scroll_remain_uses	剩餘使用次數 {0}
+msg.server_select_failed_no_authority	沒有權限進入所選的伺服器.
+msg.service_expire_bag	倉儲空間服務到期,.袋子已關閉.\n若要取出袋內的物品請使用'放出袋子'命令.
+msg.shutdown_alarm	約{0}秒後自動登出
+msg.shutdown_alarm_title	Notification\n通告
+msg.skill.another_skill_using	其他技能使用中
+msg.skill_insufficent_ability_info	* AP(技能值)不足無法升級.*\n\nAP在角色升級時會提升.\n角色的經驗值在修煉每個技能時會自動上升\n修煉技能可以獲得 AP\n完成任務也可以獲得AP.\n角色的年齡在增長時也可以獲得 AP\n讓時間慢慢流逝也可以.\n\n需要技能值 : {0} AP\n目前技能值 : {1} AP
+msg.skill_know	獲得了{0}技能.
+msg.stone	變成石化.
+msg.stone_release	解除石化.
+msg.stone_skill	變成石化.
+msg.stone_skill_end	解除石化.
+msg.title_add	得到'{0}'稱號
+msg.title_know	了解'{0}'稱號
+msg.title_removed	刪除了稱號
+msg.title_use	使用'{0}'稱號
+msg.toofar_to_talk	距離太遠無法對話.
+msg.tooltip.house_bidding	招標中
+msg.tooltip.house_empty	空的商店
+msg.tooltip.house_owner	{0}的商店
+msg.tooltip.item_repair_cost_down	修理費減少 {0}%
+msg.tooltip.item_repair_cost_up	修理費增加 {0}%
+msg.tooltip.no_enchant_level_limit	魔力賦予不受等級限制.
+msg.tooltip.poison_durability	毒耐久度 : {0}%
+msg.tooltip.poison_immune	毒免疫率 : {0}%
+msg.tooltip.posion_attackrate	毒攻擊率 : {0}%
+msg.tooltip.wedding	{0}跟{1}的婚禮
+msg.trade_canceled	取消交易.
+msg.trade_success	交易成功.
+msg.ui_load_failed	無法讀取用戶端界面的情報.
+msg.ui_loading	正在讀取玩家的界面情報.
+msg.upgrade	升級 {0}/{1}
+msg.use_item.need_skill	要使用{0}的話 ,必須要可使用 {1}技能.
+msg.use_item.pet_cannot_use_agepotion	無法使用寵物角色.
+msg.use_item.title_use_agepotion	Warning\n通知
+msg.use_item.use_agepotion_msg	使用增加年齡的藥水, 角色就會增加1歲.\n真的要使用嗎?
+msg.use_item_riding_fail	目前無法使用.
+msg.valentine_cancel	取消
+msg.valentine_info	可以在情人節禮送出代表自己心意的巧克力.\n要使用巧克力快遞服務嗎?\n(如果只是要吃吃看,請選擇不是)
+msg.valentine_info_title	Send Chocolate\n寄送巧克力
+msg.valentine_no	否
+msg.valentine_ok	是
+msg.valentine_receiver_requiring	輸入收件人的ID與訊息.
+msg.warn_unable_untrain_skill	此為無法降級的技能.\n您要升級嗎?
+msg.warp_moonstone_tooltip	<color=0>使用月長石碎片的話,可以移動到採集場所.\n移動的場所 : [<color=3>{0}<color=0>]
+msg.warp_scroll_tooltip	使用<color=0>的話,將移動到指定的目的地.\n目的地:[<color=3>{0}<color=0>]
+msg.whiteday_info	可以在白色情人節裡送出代表自己心意的糖果.\n要使用糖果快遞服務嗎?\n(如果只是要吃吃看,請選擇不是)
+msg.whiteday_info_title	Send Candy\n寄送糖果
+msg.xmas_info	可以在聖誕節裡送出代表自己心意的蛋糕.\n要使用蛋糕快遞服務嗎?\n(如果只是要吃吃看,請選擇不是)
+msg.xmas_info_title	Send Cake\n寄送蛋糕
+ngs.1	NGS 錯誤
+ngs.2	造成不便之處, 敬請見諒.\n\n發生NGS相關問題.\n\n錯誤code : {0}\n\n發生問題的錯誤code已被複製至剪貼簿.\n請壓縮Mabinogi>BlackCipher 資料夾, 並將錯誤code一併\n寄送至客服單位.\n\n\n目前執行中的client已被終止.\n\n
+oasischatsystem.1	已經指示在戰鬥時等待命令.
+oasisrulesystem.1	寵物模式切換到 \"{0}\".
+oasisrulesystem.2	使用寵物 AI \"{0}\"失敗.
+oasisrulesystem.3	使用寵物 AI \"{0}\"失敗.
+oasisrulesystem.4	以 \"{0}\"來使用為寵物AI.
+partyexpbuff.1	發動組隊效果.\n組隊成員所有戰鬥經驗值獲得量 {0}% 增加
+partyexpbuff.2	組隊效果解除了.
+pleione.4	\\新瑪奇\\寵物角色 AI
+pleione.5	\\新瑪奇\\設定
+pleione.6	\\Mabinogi\\動畫
+pleione.7	\\新瑪奇\\圖畫對話
+pleione.8	\\Mabinogi\\互動
+pleioneaccount.0	{0}시간이 경과했습니다. 잠시 쉬었다 하시기 바랍니다.
+pleioneaccount.1	{0}시간이 경과했습니다
+pleioneaccount.2	건전한 인터넷문화 정착을 위해 넥슨 회원가입시 반드시 본인의 주민등록번호를 입력해주세요.
+pleioneaccount.3	본 게임은 12세 이용가입니다.
+pleioneaccount.4	안전한 계정관리를 위해 주기적으로 게임 비밀번호를 변경하시기 바랍니다.
+pleioneaccount.5	다른 유저에게 절대 개인 정보를 주지 마세요.
+pleioneaccountmsg.1	已有其他寵物角色被召喚.
+pleioneaccountmsg.2	瑪奇優質服務使用剩餘時間 {0}小時 {1}分
+pleioneaccountmsg.3	瑪奇優質服務使用剩餘時間 {0}小時
+pleioneaccountmsg.4	瑪奇優質服務使用剩餘時間 {0}分
+pleioneaccountmsg.5	瑪奇優質服務使用暫時關閉
+pleioneaccountmsg.6	瑪奇優質服務使用結束
+pleioneaccountmsg.7	美容專用硬幣不足.\n請儲值美容專用硬幣.
+pleioneaccountmsg.8	購買.\n剩餘{0}個美容專用硬幣.
+pleioneaccountmsg.9	{0} : 시설물을 설치하는 데 {1}폰이 사용되었습니다.
+pleioneaccountmsg.10	{0} : 設施設置不過需要花費{1}美容專用硬幣.
+pleioneaccountmsg.11	{0} : 設施物設置需使用{1}美容室代幣.\n剩餘{2}美容室代幣.
+pleioneaccountmsg.12	마비노기 프리미엄 플러스 팩 이용이 {0}시간 {1}분 남았습니다
+pleioneaccountmsg.13	마비노기 프리미엄 플러스 팩 이용이 {0}시간 남았습니다
+pleioneaccountmsg.14	마비노기 프리미엄 플러스 팩 이용이 {0}분 남았습니다
+pleioneaccountmsg.15	마비노기 프리미엄 플러스 팩 이용이 잠시 후에 종료됩니다
+pleioneaccountmsg.16	마비노기 프리미엄 플러스 팩 이용이 종료되었습니다
+pleioneaccountmsg.17	獲得{0} 美容室代幣了.\n剩下{1} 美容室代幣. 
+pleioneaccountmsg.18	使用{0} 美容室代幣了.\n剩下{1} 美容室代幣. 
+pleionechina2018authsystem.3	청소년 건강 보호를 위해 해당 시간에는 접속이 불가능 합니다.
+pleionecontrollercharactercmd.1	請問要給演奏者物品嗎?
+pleionecontrollercharactercmd.2	寵物角色不存在.
+pleionecontrollercharactercmd.3	這讓我騎有點太小了吧.
+pleionecontrollercharactercmd.4	在這兒玩雪橇,雪橇有可能會破碎.
+pleionecontrollercharactercmd.5	因寵物的附近有障礙物,所以無法玩雪橇.
+pleionecontrollercharactercmd.6	看來現在無法使用此技能.
+pleionecontrollercharactercmd.7	在沒有乘船的狀態下好像無法使用槳.
+pleionecontrollercharactercmd.8	好像無法使用其他船隻的槳.
+pleionecontrollercharactercmd.9	從熱氣球上下去嗎?
+pleionecontrollercharactercmd.10	從熱氣球上下去嗎?
+pleionecontrollercharactercmd.11	使用表情動作時無法搭乘寵物.
+pleionecontrollercharactercmd.12	在終極射擊準備中無法使用其他技能.
+pleionecontrollercharactercmd.13	在終極射擊使用時只能使用遠距離攻擊技能.
+pleionecontrollercharactercmd.14	在暴風防護準備時無法使用其他技能.
+pleionecontrollercharactercmd.15	使用暴風防護時只能使用嘲諷技能.
+pleionecontrollercharactercmd.16	在失去行動能力的狀態下,不能坐到頭上.
+pleionecontrollercharactercmd.17	在暴風防護準備時只能使用嘲諷與旋風擺蓮腿.
+pleionecontrollercharactercmd.18	中級木柴
+pleionecontrollercharactercmd.19	高級木柴
+pleionecontrollercharactercmd.20	優質木柴
+pleionecontrollercharactercmd.21	木柴
+pleionecontrollercharactercmd.22	要在用{0}製作的營火中\n燒毀{1}嗎?\n可以獲得少量的經驗值和道具, 或是魔力賦予卷軸和魔法粉為報酬喔
+pleionecontrollercharactercmd.23	要在用{0}製作的營火中\n燒毀{1}嗎?\n可以獲得少量的經驗值和道具為報酬.\n 為了萃取魔力賦予需要魔法值藥草和祝福藥劑.
+pleionecontrollercharactercmd.24	要在用{0}製作的營火中\n燒毀{1}嗎?\n可以獲得少量的經驗值和道具為報酬.
+pleionecontrollercharactercmd.25	要在用{0}製作的營火中\n燒毀{1}嗎?\n可以獲得少量的經驗值和道具為報酬.\n 為了萃取魔力賦予需要魔法值藥草和祝福藥劑.
+pleionecontrollercharactercmd.26	此道具無法再次撿取. 要繼續嗎?
+pleionecontrollercharactercmd.27	搬運貿易品的時候無法戰鬥.\n點擊<hotkey name=\"Riding\"/>鍵讓交易品放下來後進行戰鬥.
+pleionecontrollercharactercmd.28	Notice\n公告
+pleionecontrollercharactercmd.29	傳達炸彈中...
+pleionecontrollercharactercmd.30	請到女神像前觸摸.
+pleionecontrollercharactercmd.31	夥伴的雙手都裝備著武器或盾的狀態之下無法穿上.
+pleionecontrollercharactercmd.32	現在無法進行交換的樣子.
+pleionecontrollercharactercmd.33	在飛行的狀態下無法乘坐寵物.
+pleionecontrollercharactercmd.34	跟對方距離太遠.
+pleionecontrollercharactercmd.35	離對方太近了.
+pleionecontrollercharactercmd.36	黑手黨遊戲進行中. 確定要觀戰嗎?
+pleionecontrollercharactercmd.37	發動暴風防護中只可使用近距離戰鬥才能技能與巨人暴烈猛擊.
+pleionecontrollercharactercmd.38	嘉年華會即時抽獎活動只有代表角色才能進行.
+pleionecontrollercharactercmd.39	細緻工匠中無法搭乘.
+pleionecontrollercharactercmd.40	即席抽獎活動只有活動代表角色才能夠進行.
+pleionecontrollercharactercmd.41	無法使用其他人的農場上的探險隊佈告欄.
+pleionecontrollercharactercmd.42	要在營火精靈訪問的營火中燃燒 {0}嗎?\n集滿燃燒量條的話,營火精靈將會給予參與燃燒的其中一名人員精靈的報答.\n或是燃燒 10次以上時可以獲得燃燒的火花結晶.
+pleionecontrollercharacteretc.0	{0}{이}正在警戒身分不明的敵人.\n看來要下馬才能移動的樣子.
+pleionecontrollercharacteretc.1	此為無法操縱人偶的距離.\n人偶控制已解除.
+pleionecontrollercharacteretc.2	跟寵物的距離太遠.
+pleionecontrollercharacterprocess.1	對寵物下達命令失敗.
+pleionecontrollercharacterprocess.2	{0}似乎沒有注意到所以沒聽見的樣子.
+pleionecutscenemgrmsg.1	虛擬內存不足略過影片撥放.
+pleionegameguard.1	發現Keylogger駭客工具.
+pleionegameguard.2	正在執行GameGuard. 因此稍後或是重新啟動後再進行執行.
+pleionegameguard.3	遊戲重複執行或是GameGuard已經執行中. 請遊戲結束後再執行.
+pleionegameguard.4	GameGuard初使化錯誤. 重新啟動後再執行或是先結束會產生衝突問題的軟體後再執行.
+pleionegameguard.5	沒有GameGuard檔案或被更改. 請安裝GameGuard Setup檔案.
+pleionegameguard.6	windows一部份系統有損傷. 請重新安裝Internet Explorer(IE).
+pleionegameguard.7	GameGuard執行失敗. 請重新安裝GameGuard Setup 檔案.
+pleionegameguard.8	發現非法軟體. 請先把不需要的軟體移除後再執行.
+pleionegameguard.9	取消GameGuard更新. 若一直無法連接的話請調整網路設定與個人防火牆設定.
+pleionegameguard.10	因為病毒或spyware而Hooking失敗.請下載最新防毒軟體後進行掃描全電腦.
+pleionegameguard.11	GameGuard初始化錯誤或是舊版本GameGuard檔案. 請安裝GameGuard Setup檔案後再執行遊戲.
+pleionegameguard.12	沒有ini檔案或是被更改. 安裝GameGuard Setup檔案即可解決此問題.
+pleionegameguard.13	npgmup.des 初使化錯誤. 請刪除GameGuard資料夾後再執行遊戲.
+pleionegameguard.14	跟GameGuard 更新伺服器連接失敗. 稍後再執行或是, 調整個人防火牆設定.
+pleionegameguard.15	沒有完成GameGuard更新. 請先把防毒軟體結束後再執行,或是使用 PC 管理軟體調整設定.
+pleionegameguard.16	監控病毒以及駭客工具的單元下載失敗.可能記憶體不足或中毒.
+pleionegameguard.17	進行GameGuard中發生錯誤. 把在Game資料夾裡 GameGuard 資料夾的 *.erl 檔案都寄給 Game1@inca.co.kr 回報.
+pleionegameguard.18	沒有Administrator 權限. 軟體最初執行是需要由Administrator 權限來執行.
+pleionegameguard.19	nProtect KeyCrypt 硬碟版本有錯誤. 請系統重新啟動後再執行.
+pleionegameguard.20	正在使用WindowsXP 互換性模式. 現在在軟體上刪除了互換性模式. 請重新開始軟體.
+pleionegameguard.21	發現非許可軟體. 把此畫面拍圖後跟錯誤回報助理一起回報.\n錯誤號碼 : {0}
+pleionegameguard.22	在GameGuard發生錯誤. 把此畫面拍圖後跟錯誤回報助理一起回報.\n錯誤號碼 :{0}
+pleionegameguard.23	警告
+pleionegameguard.24	發生尚未登錄的錯誤. 把此畫面拍圖後跟錯誤回報助理一起回報.\n錯誤號碼 :{0}
+pleionegameguard.25	鍵盤保安單元尚未啟動.
+pleionegameguard.26	遊戲登錄初始化錯誤 : {0}
+pleionegameguard.27	檢測到加速器
+pleionegameguard.28	發現遊戲外掛: {0}
+pleionegameguard.29	遊戲或遊戲登錄方式調整.
+pleioneglobalconsole.1	DLL load錯誤
+pleioneglobalconsole.2	{0}檔案load失敗.\n請再次安裝client.
+pleioneglobalconsolekeyboard.1	ESC, F1~F12, TAB, Enter鍵和其他系統控制鍵無法指定為快速鍵.
+pleioneglobalconsolekeyboard.2	(개발모드전용) 캡션, 프랍이름, 아이템이름을 숨김/해제합니다.
+pleioneglobalconsolekeyboard.3	打開角色簡化選項.
+pleioneglobalconsolekeyboard.4	關閉角色簡化選項.
+pleioneglobalconsolekeyboard.5	ESC, 1~=, F1~F12, Enter 鍵和其它系統控制鍵無法指定快捷鍵.
+pleionehotkeymgr.1	(快速鍵 '{0}')
+pleionehotkeytext.1	使用在技能視窗的第一技能
+pleionehotkeytext.2	使用在技能視窗的第二技能
+pleionehotkeytext.3	使用在技能視窗的第三技能
+pleionehotkeytext.4	使用在技能視窗的第四技能
+pleionehotkeytext.5	使用在技能視窗的第五技能
+pleionehotkeytext.6	使用在技能視窗的第六技能
+pleionehotkeytext.7	使用在技能視窗的第七技能
+pleionehotkeytext.8	使用在技能視窗的第八技能
+pleionehotkeytext.9	使用在技能視窗的第九技能
+pleionehotkeytext.10	切換成技能視窗的第一選項
+pleionehotkeytext.11	切換成技能視窗的第二選項
+pleionehotkeytext.12	切換成技能視窗的第三選項
+pleionehotkeytext.13	切換成技能視窗的第四選項
+pleionehotkeytext.14	切換成技能視窗的第五選項
+pleionehotkeytext.15	第一號心情動作
+pleionehotkeytext.16	第二號心情動作
+pleionehotkeytext.17	第三號心情動作
+pleionehotkeytext.18	第四號心情動作
+pleionehotkeytext.19	第五號心情動作
+pleionehotkeytext.20	第六號心情動作
+pleionehotkeytext.21	第七號心情動作
+pleionehotkeytext.22	第八號心情動作
+pleionehotkeytext.23	第九號心情動作
+pleionehotkeytext.24	第十號心情動作
+pleionehotkeytext.25	取消技能
+pleionehotkeytext.26	任務視窗
+pleionehotkeytext.27	變更武器
+pleionehotkeytext.28	開閉頭盔
+pleionehotkeytext.29	乘坐/離開
+pleionehotkeytext.30	寵物視窗
+pleionehotkeytext.31	物品欄
+pleionehotkeytext.32	設定開閉物品欄的裝備欄
+pleionehotkeytext.33	時間視窗
+pleionehotkeytext.34	隊伍視窗
+pleionehotkeytext.35	開閉招募隊員視窗
+pleionehotkeytext.36	開閉介面
+pleionehotkeytext.37	自動戰鬥/手動戰鬥
+pleionehotkeytext.38	設定攻擊目標時是否包含自己
+pleionehotkeytext.39	技能視窗
+pleionehotkeytext.40	好友視窗
+pleionehotkeytext.41	使用解毒藥水
+pleionehotkeytext.42	使用生命藥水
+pleionehotkeytext.43	使用負傷回復藥水
+pleionehotkeytext.44	使用魔法藥水
+pleionehotkeytext.45	使用鳳凰羽毛
+pleionehotkeytext.46	使用耐力藥水
+pleionehotkeytext.47	吃食物
+pleionehotkeytext.48	紀錄訊息視窗
+pleionehotkeytext.49	轉換紀錄訊息視窗的選項
+pleionehotkeytext.50	設定紀錄訊息視窗的分離選項
+pleionehotkeytext.51	自動視角/使用者視角
+pleionehotkeytext.52	探險(L-Rod)
+pleionehotkeytext.53	角色視窗
+pleionehotkeytext.54	觀看角色視窗的下一個選項
+pleionehotkeytext.55	起飛/著陸
+pleionehotkeytext.56	緊急逃離炸彈B
+pleionehotkeytext.57	動作視窗
+pleionehotkeytext.58	開閉顯示角色名稱
+pleionehotkeytext.59	地圖
+pleionehotkeytext.60	跟精靈武器進行對話
+pleionehotkeytext.61	戰鬥模式/普通模式
+pleionehotkeytext.62	視野距離遠距離
+pleionehotkeytext.63	視野距離普通距離
+pleionehotkeytext.64	開閉高級光源效果
+pleionehotkeytext.65	召喚第一個寵物
+pleionehotkeytext.66	召喚第二個寵物
+pleionehotkeytext.67	召喚第三個寵物
+pleionehotkeytext.68	召喚第四個寵物
+pleionehotkeytext.69	召喚第五個寵物
+pleionehotkeytext.70	召喚第六個寵物
+pleionehotkeytext.71	召喚第七個寵物
+pleionehotkeytext.72	召喚第八個寵物
+pleionehotkeytext.73	召喚第九個寵物
+pleionehotkeytext.74	召喚第十個寵物
+pleionehotkeytext.75	解除召喚寵物
+pleionehotkeytext.76	寵物物品欄
+pleionehotkeytext.77	讓寵物坐下
+pleionehotkeytext.78	讓寵物過來
+pleionehotkeytext.79	讓寵物撒嬌
+pleionehotkeytext.80	寵物尋找個人商店
+pleionehotkeytext.81	角色簡化選項
+pleionehotkeytext.82	切換成技能視窗的第六選項
+pleionehotkeytext.83	切換成技能視窗的第七選項
+pleionehotkeytext.84	影像記錄
+pleionehotkeytext.85	前進
+pleionehotkeytext.86	後退
+pleionehotkeytext.87	向左旋轉
+pleionehotkeytext.88	向右旋轉
+pleionehotkeytext.89	圖畫對話
+pleionehotkeytext.90	緊急逃脫 B+ 炸彈
+pleionehotkeytext.91	基本設定
+pleionehotkeytext.92	瑪奇英雄傳設定
+pleionehotkeytext.93	楓之谷設定
+pleionehotkeytext.94	DNF設定
+pleionehotkeytext.95	龍之谷設定
+pleionehotkeytext.96	天堂1 設定
+pleionehotkeytext.97	天堂2 設定
+pleionehotkeytext.98	AION永恆紀元設定
+pleionehotkeytext.99	魔獸世界 設定
+pleionehotkeytext.100	使用者定義設定
+pleionehotkeytext.101	農場資訊視窗
+pleionehotkeytext.102	往左邊移動
+pleionehotkeytext.103	往右邊移動
+pleionehotkeytext.104	鍵盤動作
+pleionehotkeytext.105	轉換為快捷鍵1號
+pleionehotkeytext.106	轉換為快捷鍵2號
+pleionehotkeytext.107	轉換為快捷鍵3號
+pleionehotkeytext.108	轉換為快捷鍵4號
+pleionehotkeytext.109	轉換為快捷鍵5號
+pleionehotkeytext.110	轉換為快捷鍵6號
+pleionehotkeytext.111	轉換為快捷鍵7號
+pleionehotkeytext.112	轉換為快捷鍵8號
+pleionehotkeytext.113	往前移動
+pleionehotkeytext.114	往後移動
+pleionehotkeytext.115	基本設定(滑鼠操作)
+pleionehotkeytext.116	基本設定(鍵盤操作)
+pleionehotkeytext.117	技能視窗切換為 8號項目
+pleionehotkeytext.118	第1 個夥伴召喚
+pleionehotkeytext.119	第2 個夥伴召喚
+pleionehotkeytext.120	第3 個夥伴召喚
+pleionehotkeytext.121	第4 個夥伴召喚
+pleionehotkeytext.122	第5 個夥伴召喚
+pleionehotkeytext.123	切換成技能視窗的第9選項
+pleionehotkeytext.124	切換成技能視窗的第10選項
+pleionehotkeytext.125	美容室情報視窗
+pleionehotkeytext.126	移向指定目標
+pleionehotkeytext.127	緊急逃脫 B 炸彈系列
+pleionehotkeytext.128	才能情報視窗
+pleionehotkeytext.129	使用人偶藥水
+pleionehotkeytext.130	使用人偶修理工具
+pleionehotkeytext.131	變身日誌視窗
+pleionehotkeytext.132	給寵物生命力藥水
+pleionehotkeytext.133	給寵物魔法藥水
+pleionehotkeytext.134	給寵物耐力藥水
+pleionehotkeytext.135	智能系統
+pleionehotkeytext.136	迷你地圖臨時放大
+pleionehotkeytext.137	轉換為1號裝備欄位
+pleionehotkeytext.138	轉換為2號裝備欄位
+pleionehotkeytext.139	轉換為3號裝備欄位
+pleionehotkeytext.140	轉換為4號裝備欄位
+pleionehotkeytext.141	轉換為5號裝備欄位
+pleionehotkeytext.142	轉換為6號裝備欄位
+pleionehotkeytext.143	轉換為7號裝備欄位
+pleionehotkeytext.144	轉換為8號裝備欄位
+pleionehotkeytext.145	回憶錄
+pleionehotkeytext.146	特性
+pleionehotkeytext.147	追加上端技能欄位轉換
+pleionehotkeytext.148	互動養成
+pleionehotkeytext.153	精靈視窗
+pleionehotkeytext.154	寵物/夥伴狀態查看
+pleionehotkeytext.155	寵物朋友召喚1號欄位
+pleionehotkeytext.156	寵物朋友召喚2號欄位
+pleionehotkeytext.157	寵物朋友召喚3號欄位
+pleionehotkeytext.158	寵物朋友召喚4號欄位
+pleionehotkeytext.159	寵物朋友召喚5號欄位
+pleionehotkeytext.160	寵物技能1號欄位
+pleionehotkeytext.161	寵物技能2號欄位
+pleionehotkeytext.162	寵物技能3號欄位
+pleionehotkeytext.163	寵物技能4號欄位
+pleionehotkeytext.164	寵物技能5號欄位
+pleionehotkeytext.165	寵物芬恩寶珠技能1號欄位
+pleionehotkeytext.166	寵物芬恩寶珠技能2號欄位
+pleionehotkeytext.167	寵物芬恩寶珠技能3號欄位
+pleionehotkeytext.168	寵物特技欄位
+pleionehotkeytext.169	觀看已召喚寵物的技能
+pleionehotkeytext.170	特性組合1 發動
+pleionehotkeytext.171	特性組合2 發動
+pleionehotkeytext.172	特性組合3 發動
+pleionehotkeytext.173	特性組合4 發動
+pleionehotkeytext.174	特性組合5 發動
+pleionelobby_msg.1	要召喚新生成的寵物角色嗎?
+pleionelobby_msg.2	新生成的寵物角色讀取失敗.
+pleionelobby_msg.3	要以購買的卡片生成新寵物角色嗎?
+pleionelobby_msg.4	寵物角色創建失敗.\n請詢問管理者.
+pleionelobby_msg.5	創出寵物失敗.\n\n* 角色不管種族共可創出 {0}個.
+pleionelobby_msg.6	推薦[{0}]伺服器的[{1}].
+pleionelobby_msg.7	不存在的角色.
+pleionelobby_msg.8	不存在的角色或沒有推薦的權限.
+pleionelobby_msg.9	확인
+pleionelobby_msg.10	본인 확인이 완료된 후 다시 로그인을 해주시기 바랍니다.
+pleionelobby_msg.11	重生失敗.
+pleionelobby_msg.12	重生失敗.({0})\n
+pleionelobby_msg.13	這是不可重生的寵物
+pleionelobby_msg.14	不是可重生的期間
+pleionelobby_msg.15	不是可重生的年齡
+pleionelobby_msg.16	重生時所使用的卡片有問題
+pleionelobby_msg.17	選擇的髮型有問題
+pleionelobby_msg.18	選擇的臉型有問題
+pleionelobby_msg.19	選擇的髮色有問題
+pleionelobby_msg.20	擇的膚色有問題
+pleionelobby_msg.21	擇的眼睛顏色有問題
+pleionelobby_msg.22	選擇的眼睛有問題
+pleionelobby_msg.23	選擇的嘴型有問題
+pleionelobby_msg.24	洽詢客服
+pleionelobby_msg.25	商城道具保管箱中有道具,因此無法刪除角色.
+pleionelobby_msg.26	動物角色創建失敗.\n\n*包含動物角色的所有角色，最多只能創建共{0}個.
+pleionelobby_msg.27	召喚寵物的狀態下無法使用.\n請解除寵物召喚以後重新嘗試.
+pleionelobby_render.1	等待刪除的角色無法登入.
+pleionelogin.0	휴대폰 인증 데이타 초기화 중입니다.\n잠시 후 로그인하십시오.
+pleionelogin.1	인증 중 다른 IP에서 접속을 하였습니다.\n{0} 후에 다시 로그인하십시오.
+pleionelogin.2	휴대폰 인증사 또는 이동 통신사 장애로 인하여 휴대폰 인증없이 로그인하였습니다.
+pleionelogin.3	Message\n訊息
+pleionelogin.4	채널링 로그인을 실패했습니다.
+pleionelogin.5	채널링 로그인을 실패했습니다.
+pleionelogin.6	서버 오류가 발생했습니다. 잠시 후 다시 시도해주세요.
+pleionelogin.7	서버로 잘못된 인자가 전송되었습니다. GM에게 문의하시기 바랍니다.
+pleionelogin.8	인증에 실패했습니다. GM에게 문의하시기 바랍니다.
+pleionelogin.9	請稍後重新登入.
+pleionelogin.10	휴면계정으로 계정 사용이 정지되었습니다.\n자세한 사항은 2008년 7월 24일자 휴면 계정 안내 공지 및 마비노기 게임 서비스 이용약관을 참고하시기 바라며, \n계정 정지 해제를 원하실 경우 마비노기 고객지원센터(Tel: 1588-1977)로 문의하시기 바랍니다.\n감사합니다.
+pleionelogin.11	넥슨 비가맹 PC방에서는 로그인을 할 수 없습니다.
+pleionelogin.12	넥슨 정기 점검 중에는 PC방에서 로그인을 할 수 없습니다.
+pleionelogin.13	넥슨 웹 사이트를 통해서만 로그인이 가능합니다.
+pleionelogin.14	偵測到有人試圖盜用, 因此為了保護帳號, 臨時限制連線.\n想要解除連線限制時, 請洽客服中心(電話: 8024-2002).\n謝謝.
+pleionelogin.15	設定要素錯誤.
+pleionelogin.16	ID 또는 PASSWORD가 틀립니다.
+pleionelogin.17	접속 시간이 경과하였습니다.
+pleionelogin.18	인증 서버 점검중입니다.
+pleionelogin.19	지원되지 않는 국가입니다.
+pleionelogin.20	국가 설정이 없습니다.
+pleionelogin.21	서버 정보가 없습니다.
+pleionelogin.22	잘못된 IP  정보입니다.
+pleionelogin.23	현재는 웹 로그인이 지원되지 않습니다.
+pleionelogin.24	입력하신 넥슨 아이디에는 여러개의 마비노기 계정이 존재합니다\n\n마비노기 홈페이지에서 이중 하나를 대표 계정으로 설정을 하신 후에\n넥슨 아이디로 로그인이 가능합니다.
+pleionelogin.25	넥슨아이디나 암호가 올바르지 않습니다.\n\n한글/영어가 틀리지 않은지,\n대소문자가 올바로 구분되어 입력되었는지\n확인해보세요.
+pleionelogin.26	目前登入的電腦為為不是登記的電腦.\n首先請在官網登記.
+pleionelogin.27	이용하고 계신 계정의 NEXON ID는 [간단회원]입니다.\n[간단회원]의 로그인 서비스는 종료했습니다.\n[NEXON회원]으로 변경을 부탁드립니다
+pleionelogin.28	2차 비밀번호가 일치하지 않습니다.
+pleionelogin.29	현재까지 {0}회 틀렸습니다.\n5회부터는 로그인이 제한됩니다.
+pleionelogin.30	로그인 할 수 없습니다.
+pleionelogin.31	2차 비밀번호를 5회이상 잘못입력되어 로그인이 제한되었습니다.
+pleionelogin.32	Please visit and login to our website to agree\nto the new Terms of Use first to play Mabinogi.
+pleionelogin.33	Your account has been blocked due to chargeback / reversed payment.\nPlease contact Customer Support on www.nexoneu.com for further queries.
+pleionelogin.34	죄송합니다. 나이가 만 12세 미만인 계정으로는 로그인할 수 없습니다.
+pleionelogin.35	이메일ID로만 로그인할 수 있습니다.\n이메일ID로 전환 후 로그인해주세요.
+pleionelogin.36	오후 {0}시
+pleionelogin.37	오전 {0}시
+pleionelogin.38	청소년보호법 제23조에 따라\n16세 미만의 청소년은 {0:minTime}부터 {1:maxTime}까지 로그인이 제한됩니다.\n\n관련된 문의사항은 넥슨 고객센터로 문의 바랍니다.
+pleionelogin.39	고객님의 계정은 장기간 로그인하지 않아, 계정 보호 상태로 설정되었습니다.\n마비노기 홈페이지에 로그인하시면 계정 보호 상태를 해제하실 수 있습니다.
+pleionelogin.40	마비노기 계정을 생성하는 데 실패했습니다.\n잠시 후 다시 시도해주세요.\n\n문제가 지속되면 넥슨 고객센터로 문의해주시기 바랍니다.
+pleionelogin.41	로그인 중 오류가 발생했습니다.\n잠시 후 다시 시도해주세요.\n\n문제가 지속되면 넥슨 고객센터로 문의해주시기 바랍니다.
+pleionelogin.42	이메일ID로 전환된 사용자입니다.\n이메일ID로 로그인해주세요.
+pleionelogin.48	마비노기 계정 목록을 불러오는데 실패했습니다.
+pleionelogin.49	선택시간이 초과되었습니다.\n다시 로그인해주시기 바랍니다.
+pleionelogin.50	세션정보가 올바르지 않습니다({0}).\n다시 로그인해주시기 바랍니다.
+pleionelogin.52	Failed to chagneNexon ID on item market.\n(0x%08X)
+pleionelogin.53	현재 로그인한 컴퓨터에서는 게임에 접속할 수 없습니다.
+pleionelogin.54	사용 정지된 계정입니다.\n자세한 사항은 마비노기 홈페이지 고객센터를 통하여 문의해주시기 바랍니다.
+pleionelogin.55	아이디나 비밀번호가 올바르지 않습니다.\n\n한글/영어를 다르게 입력한 건 아닌지,\n대소문자를 올바로 구분해 입력했는지 확인해 보세요.
+pleionelogin.57	일일 이용 가능한 게임 시간대를 초과하여, 잠시 후 접속이 종료됩니다.
+pleionelogin.58	일일 이용 가능한 게임 시간대를 초과하여, {0}분 후 접속이 종료됩니다.
+pleioneloginstage.1	오류가 발생했습니다. 잠시 후 다시 시도해주세요.
+pleioneloginstage.2	보안 오류입니다.
+pleioneloginstage.3	Issuer의 ID가 잘못되었습니다.
+pleioneloginstage.4	設定要素錯誤.
+pleioneloginstage.5	알 수 없는 오류가 발생했습니다. 잠시 후 다시 시도해주세요..
+pleioneloginstage.6	인증서버의 내부오류가 발생하였습니다. 잠시 후 다시 시도해주세요.
+pleioneloginstage.7	ID나 비밀번호가 잘못되었습니다. 확인 후 다시 로그인해주세요.
+pleioneloginstage.8	이 계정은 블럭된 상태입니다. GM에게 문의하시기 바랍니다.
+pleioneloginstage.9	인증 서버가 정기점검중입니다. 공지를 확인하시고 점검이 끝난 후 다시 로그인해주세요.
+pleioneloginstage.10	시스템 오류가 발생했습니다. 잠시 후 다시 로그인해주세요.
+pleioneloginstage.11	이 IP는 블럭된 상태입니다. GM에게 문의하시기 바랍니다.
+pleioneloginstage.12	계정이 잠겨져 있습니다. GM에게 문의하시기 바랍니다.
+pleioneloginstage.13	과도한 접속 시도가 이루어졌습니다. GM에게 문의하시기 바랍니다.
+pleioneloginstage.14	SMC 인증 방식에 문제가 발생했습니다.
+pleioneloginstage.15	보안 오류가 발생했습니다. GM에게 문의하시기 바랍니다.
+pleioneloginstage.16	보안 모듈을 읽는데 실패했습니다. 게임을 재설치하시기 바랍니다.
+pleioneloginstage.17	보안 모듈을 읽는데 실패했습니다.
+pleioneloginstage.18	신분 정보가 완전하지 않습니다. 공식홈페이지에서 추가 완성 해주세요.
+pleioneloginstage.19	암호화 문자열 성공여부 : {0} \n
+pleioneloginstage.20	인증서버 초기화에 실패하였습니다.
+pleioneloginstage.21	요청 시간이 초과하였습니다.
+pleioneloginstage.22	인증 코드 오류입니다.
+pleioneloginstage.23	암호 보호정보 오류입니다.
+pleioneloginstage.24	계정 혹은 암호 오류입니다.
+pleioneloginstage.25	사용정지 당한 계정아이디 입니다.
+pleioneloginstage.26	차단된 IP 입니다.
+pleioneloginstage.27	중복 로그인 입니다.
+pleioneloginstage.28	기타 오류 혹은 인증 과정에 문제가 생겼습니다.
+pleioneloginstage.29	클로즈 베타 기간 입니다.
+pleioneloginstage.30	서버가 점검 상태에 있습니다.
+pleioneloginstage.31	모바일 게임 유저 신분정보가 완전하지 않습니다.
+pleioneloginstage.32	알 수 없는 이유로 인증에 실패하였습니다({0}).
+pleioneloginstage.33	해당 계정은 사용 불가능합니다. 고객상담센터에 연락하시길 바랍니다.
+pleioneloginstage.34	토큰 비번 입력 오류입니다. [세기천성 계정관리 APP]를 다시 확인하시길 바랍니다.
+pleioneloginstage.35	계정이 등록 정보 수정 정지기간중에 있음.자세한 사항은 고객센터로 문의하세요!
+pleioneloginstage.36	비밀번호 유효기간이 만료되었습니다. 비밀번호를 변경해 주세요.
+pleionemessenger.1	{0} [{1}] 新增您為好友.\n您同意嗎?
+pleionemessenger.2	{0} [{1}]\n登入.
+pleionemessenger.3	有{0} [{1}] 傳送的\n短訊.
+pleionemessenger.4	未連線聊天工具, 或是家庭非有效的狀態.
+pleionemessenger.5	未連接聊天工具,或是家庭成員非有效的狀態.
+pleionemessenger.6	未讀取的紙條有 {0}個.
+pleionemessengerbase.1	封鎖
+pleionemessengerbase.2	邀請中
+pleionemessengerbase.3	離線
+pleionemessengerbase.4	線上
+pleionemessengerbase.5	秘密
+pleionemessengerbase.6	外出用餐
+pleionemessengerbase.7	離開
+pleionemessengerbase.8	戰鬥中
+pleionemessengerbase.9	開啟個人商店中
+pleionemessengerbase.24	不知道狀態
+pleionemessengerbase.25	剛剛登入不久
+pleionemessengerbase.26	{0}分鐘前登入
+pleionemessengerbase.27	無法獲知登入時間
+pleionemessengerbase.28	{0}小時前登入
+pleionemessengerbase.29	{0}天前登入
+pleionemessengerbase.30	{0}周前登入
+pleionemessengerbase.31	{0}周以上沒有登入
+pleionemessengerbase.32	모바일
+pleionemessengerbase.33	迷你遊戲中
+pleionemessengerbase.34	迷你遊戲中
+pleionemessengerbase.35	迷你遊戲中
+pleionemessengerclient_impl.1	其他 (ETC)
+pleionemessengerclient_impl.2	已經新增為好友.
+pleionemessengerclient_impl.3	無法找到好友. 請您確認角色名稱與所在伺服器.
+pleionemessengerclient_impl.4	無法再新增好友.
+pleionemessengerclient_impl.5	自己帳號的角色無法新增為好友.
+pleionemessengerclient_impl.6	寵物角色無法新增為好友.
+pleionemessengerclient_impl.7	因不明原因導致無法新增好友. \n請稍候再試,若還是會發生錯誤的情況,請您至官方網站內進行回報.
+pleionemessengerclient_impl.8	傳送短訊.
+pleionemessengerclient_impl.9	找不到收件者.
+pleionemessengerclient_impl.10	傳送短訊失敗. 請稍候再試.
+pleionemessengerclient_impl.11	無法獲得公會成員資訊.
+pleionemessengerclient_impl.12	封鎖清單
+pleionemessengerclient_impl.13	對方的好友清單人數已滿而無法增加.
+pleionemessengerclient_impl.14	(모바일)
+pleionemessengerclient_impl.15	{0} 進入家庭分流了.
+pleionemessengerclient_impl.16	{0} 從家庭分流中退出了.
+pleionemessengerclient_impl.17	\n(因發生問題有 {0}個紙條無法送出.)
+pleionemessengersession.1	{0} 離開.
+pleionemessengersession.2	{0} 進入.
+pleionemessengersession.3	{0} [{1}] 說\n
+pleionenexonmsgr.1	넥슨 로그인 인증 과정에서 SSO 인증 서버에 접근할 수 없는 오류가 발생했습니다.
+pleionenexonmsgr.2	넥슨 로그인 인증 서비스가 점검중입니다.
+pleionenexonmsgr.3	허용되지 않은 IP주소로 접근하였습니다.
+pleionenexonmsgr.4	운영자에 의해 사용이 제한됩니다.
+pleionenexonmsgr.5	패스포트에 오류가 있어서 로그인 할 수 없습니다.
+pleionenexonmsgr.6	아이디가 존재하지 않습니다.
+pleionenexonmsgr.7	잘못된 암호를 입력하였습니다.
+pleionenexonmsgr.8	비밀번호가 만료되었습니다. 비밀번호 변경 후 다시 접속하세요.
+pleionenexonmsgr.9	이메일 인증을 하지 않았습니다. 이메일 인증 후 다시 접속하세요.
+pleionenexonmsgr.10	허용되지 않은 IP에서 접속하였습니다. 접속이 제한된 상태입니다.
+pleionenexonmsgr.11	비밀번호를 변경 후 다시 접속하세요.
+pleionenexonmsgr.12	메신저 모듈 초기화에 문제가 있어서 접속할 수 없습니다.
+pleionenexonmsgr.13	메신저 모듈 초기화 과정에 실패하였습니다.
+pleionenexonmsgr.14	넥슨 로그인 인증에서 오류가 발생했습니다.
+pleionenexonmsgr.15	넥슨 로그인 인증에서 오류가 발생했습니다. (오류코드 : {0})
+pleionenexonmsgr.16	넥슨 로그인 인증에서 오류가 발생했습니다. (오류코드 : {0})
+pleionenexonmsgr.17	해외 로그인 차단 기능이 실행되었습니다. 넥슨닷컴에서 로그인하시면 본인확인을 통해 안전하게 로그인 할 수 있습니다.
+pleionenexonmsgr.18	고객님의 넥슨ID는 현재 보호모드가 적용 중입니다. 넥슨닷컴에서 로그인 하시면 본인확인 후 비밀번호 재설정을 통하여 안전하게 로그인 할 수 있습니다.
+pleionenexonmsgr.19	회원가입 완료를 위해 이메일 인증이 필요합니다.\n인증메일 확인 후 다시 시도해주세요.
+pleionenexonmsgr.20	고객님의 넥슨ID는 휴면상태입니다. 넥슨닷컴 로그인을 통해 휴면 해제후 서비스를 이용할 수 있습니다.
+pleioneslotroulette_render.1	想要創出新的夥伴角色時請使用 '新夥伴' 按鈕\n想要重生時選擇想要重生的角色後點選 '重生' 按鈕.
+pleionesurveymanager.1	精靈
+pleionesurveymanager.2	巨人
+pleionesurveymanager.3	人類
+pleioneusecard.1	創造新角色失敗了.\n\n* 創立角色的上限為各種族分別20位.
+pleioneusecard.2	創新角色失敗.\n\n* 無法尋找角色卡的資訊.\n* 把現在這畫面截取後在BUG回報或客服中心詢問.
+pleioneusecard.3	創出新角色失敗.\n\n* 角色不管種族共可創出 {0}個.
+pleioneusecard.4	目前因為伺服器合併準備無法創建角色,不便之處還請見諒.
+pleioneusecard.5	動物角色創建失敗.\n\n*包含動物角色的所有角色，最多只能創建共{0}個.
+pleioneusecard2.1	Create New Partner\n請製作新夥伴
+pleioneusecard2render.1	{0} 伺服器
+pleioneusecardrender.1	{0} 伺服器
+plw_achievement.1	'{0}' 成就日記獲得初始化.
+plw_achievement.2	{0} in Mabinogi
+plw_actioneffect.1	海狗很會接住拋出的魚來吃.
+plw_actioneffect.2	身體變小感覺可以通過狹小的洞口.
+plw_actioneffect.3	迷你藥水的效果失效 身體慢慢恢復原狀.
+plw_actioneffect.4	參加王城派對經驗值 +{0} exp
+plw_actioneffect.5	出現Lucky Bonus了 (幸運 {0})
+plw_actioneffect.6	出現Huge Lucky Bonus了 (幸運 {0})
+plw_actioneffect.7	{0}秒後死亡的怪物會復活.
+plw_actioneffect.8	從{0}{}獲得的評價等級變為{1}{}!
+plw_actionmove.1	目標脫離攻擊範圍技能可能取消.
+plw_actionmsg.1	向{0}發出了召喚請求.\n 正在等待應答.
+plw_actionmsg.2	cancel\n取消
+plw_actionmsg.3	無法找到{0}.
+plw_actionmsg.4	召喚{0}失敗.
+plw_actionmsg.5	召喚好友成功.
+plw_actionmsg.6	召喚好友請求被拒絕.
+plw_actionmsg.7	取消了召喚好友.
+plw_actionmsg.8	{0}發出了召喚請求.\n接受請求嗎?
+plw_actionmsg.9	對方取消了好友召喚.
+plw_actionmsg.10	AP增加{0}.
+plw_actionmsg.11	有障礙物而無法跳躍.
+plw_additionalequipsystem.1	無法使用額外裝備欄位的狀態.
+plw_advertisecomponent.0	收到{0}發的廣告.
+plw_advertisecomponent.1	廣告時間已到期.
+plw_advertisecomponent.2	現在無法使用.
+plw_airballoon.1	可以飛行的熱氣球. 即便是其他人製作的熱氣球,加入到隊伍當中也可以一起乘坐.
+plw_apskilltrain.1	確定要消費{0} AP修練技能嗎? \n 目前持有 AP : {1}
+plw_apskilltrain.2	AP不足無法修練技能. 修練時需要 {0} AP. \n 目前持有 AP : {1}
+plw_apskilltrain.3	技能修練成功
+plw_apskilltrain.4	無法修練.
+plw_auctionmgr.1	道具不存在.
+plw_auctionmgr.2	獲取銀行情報失敗了.
+plw_auctionmgr.3	密碼錯誤.\n
+plw_auctionmgr.4	目前無被登錄的物品\n無法查詢最低價情報.
+plw_auctionmgr.5	獲取情報失敗了.\n請稍後再嘗試.
+plw_auctionmgr.6	[拍賣場]\n道具被販賣了.
+plw_auctionmgr.7	[拍賣場]\n道具競標失敗了.
+plw_auctionmgr.8	[拍賣場]\n道具得標了.
+plw_aviationcomponent.1	為了進行移動需提高高度.
+plw_aviationcomponent.2	目前方向無法繼續移動.
+plw_aviationcomponent.3	中斷自動導航移動.
+plw_aviationcomponent.4	無法飛行區域,將初始化自動導航.
+plw_aviationcomponent.5	這裡是禁止飛行的區域.
+plw_aviationcomponent.6	這裡是禁止起降的區域.
+plw_aviationcomponent.7	休息狀態下不可起飛.
+plw_aviationcomponent.8	這裡是禁止起降的區域.
+plw_aviationcomponent.9	飛行高度必須控制在15m以內方可著陸.
+plw_aviationcomponent.10	按下\'V\'鍵進行著陸.
+plw_aviationcomponent.11	高度: %.1fm
+plw_aviationcomponent.12	高度: {0}m
+plw_aviationcomponent.13	按下<hotkey name=\"TakeOff\"/>鍵後著陸
+plw_aviationcomponent.14	交易中無法飛行.
+plw_aviationcomponent.15	跟寵物一起時無法飛行.
+plw_bankmgr.1	請{0}秒之後再次進行.
+plw_bankmgr.2	銀行沒有開啟.
+plw_bankmgr.3	密碼錯誤.
+plw_bankmgr.4	發生錯誤.
+plw_bankmgr.5	密碼錯誤.
+plw_banquet.1	{0}秒後
+plw_banquet.2	約 {0}分後
+plw_banquet.3	{0}分後
+plw_banquet.4	稍後王城宴會就會開始.
+plw_banquet.5	{0:n分m秒後} 王城宴會就會開始.
+plw_banquet.6	稍後王城宴會就要結束了.
+plw_banquet.7	{0:n分m秒後} 王城宴會就要結束了.
+plw_banquet.8	請選擇要贈送的食物. 只能贈送等級高的料理.
+plw_banquet.9	請留下向{0}的感謝訊息.\n這訊息將會以紙條傳達給 {0} .
+plw_banquet.10	餐桌
+plw_banquet.11	王城有提供滿漢大餐.\n要享用這份料理嗎?
+plw_banquet.12	吃
+plw_banquet.13	贈送食物
+plw_banquet.14	取消
+plw_banquet.15	料理已送出.
+plw_banquet.16	料理好像都沒有了.
+plw_banquet.17	目前肚子還是飽飽的. 等一下再吃好了.
+plw_banquet.18	決定了餐點的主題!\n立看版成功.
+plw_banquet.19	刪除餐點主題!
+plw_banquet.20	這個餐點主題已經有人使用了.\n換個主題吧!
+plw_banquet.21	這種內容不能當主題.
+plw_banquet.22	主題 : {0}\n提案者 : {1}\n\n在{2}可以變更.
+plw_banquet.23	不是本人指定的主題無法刪除.
+plw_banquet.24	無法刪除主題.
+plw_bardboardmgr.1	沒有樂譜
+plw_bardboardmgr.2	騎乘中無法抄寫樂譜.
+plw_bardboardmgr.3	正在使用其他技能無法抄寫樂譜.
+plw_bardboardmgr.4	沒有作曲技能無法抄寫.
+plw_bardboardmgr.5	我的作曲實力還不足以抄寫該曲目!
+plw_bardboardmgr.6	{0} 等級
+plw_bardboardmgr.7	練習
+plw_bardboardmgr.8	樂譜內容已被登錄.
+plw_bardboardmgr.9	樂譜內容登錄失敗.
+plw_bardboardmgr.10	{0} / {1}
+plw_bardboardmgr.11	已推薦.
+plw_bardboardmgr.12	作曲者評論修正成功.
+plw_bardboardmgr.13	作曲者評論修正失敗.
+plw_bardboardmgr.14	樂譜內容刪除成功. 
+plw_bardboardmgr.15	樂譜內容刪除失敗. 
+plw_beautyshop.1	進入美容室.
+plw_beautyshop.2	無法進入美容室.
+plw_beautyshop.3	從美容室出來.
+plw_beautyshop.4	購買.\n剩餘{0}個美容專用硬幣.
+plw_beautyshop.5	要求變成不好的外型.
+plw_brionacsword.1	{0}項目修練了{1}次.
+plw_brionacsword.2	吸取火花讓封印的力量甦醒
+plw_brionacsword.3	布里歐納克的力量消失了.
+plw_brionacsword.4	布里歐納克無法再生
+plw_brionacsword.5	布里歐納克再生了 {0} 點
+plw_brionacsword.6	布里歐納克封印的力量覺醒了
+plw_campfirespiritmgr.1	營火精靈用力隱藏惋惜的心情回到家裡去了
+plw_campfirespiritmgr.2	營火精靈轉達感謝給了報答後離開了
+plw_campfirespiritmgr.3	{0}分流 {1}中 {2} 設置的營火有營火精靈造訪了.
+plw_campfirespiritprop.1	將道具放到營火中燃燒送給營火精靈當禮物吧.\n - 燃燒經驗值 2倍, 反覆燃燒無懲罰
+plw_cashitem.1	선택한 상품의 청약철회가 완료 되었습니다.
+plw_cashitem.2	청약철회 과정에 문제가 발생하였습니다. \n 잠시 뒤에 다시 시도해 보세요.
+plw_cashitem.3	청약철회가 불가능한 상품입니다.
+plw_cashitem.4	구매한지 7일이 초과되어 청약철회가 불가능합니다.
+plw_cashitem.5	상품의 가격이 0원인 상품은 청약철회를 신청 할 수 없습니다.
+plw_cashitem.6	청약 철회이 불가능한 상품입니다.\n 오류번호 : {0} 
+plw_castle.0	將公會保管的金幣\n{0}個金幣轉移到城堡.\n\n城堡所保管的金幣 : {1}金幣\n公會所保管的金幣 : {2}金幣
+plw_castle.1	將公會所保管的金幣轉移到城堡失敗.\n\n城堡所保管的金幣 : {0}金幣\n公會所保管的金幣 : {1}金幣
+plw_castle.2	將城堡所保管的金幣\n{0}個金幣轉移到公會.\n\n城堡所保管的金幣 : {1}金幣\n公會所保管的金幣 : {2}金幣
+plw_castle.3	將城堡所保管的金幣轉移到公會失敗.\n\n城堡所保管的金幣 : {0}金幣\n公會所保管的金幣 : {1}金幣
+plw_characteraction.1	正在適應變化後的鼻子. 請在{0}秒後使用.
+plw_characteraction.3	該道具選擇的方法無法抵銷.
+plw_characteraction.4	已改造/細工/魔力賦予/聚能的道具. \n確定要進行燃燒嗎?
+plw_characteraction.5	此道具無法再購入. 確定要販賣嗎?
+plw_charactercommonapi.1	雙手閒置才可進行鍊成
+plw_characteretc.1	청소년보호법에 따라 한 시간 후부터 다음날 오전 6시까지 16세 미만의 게임 이용이 제한됩니다.
+plw_characteretc.2	청소년보호법에 따라 30분 후부터 다음날 오전 6시까지 16세 미만의 게임 이용이 제한됩니다.
+plw_characteretc.3	청소년보호법에 따라 5분 후부터 다음날 오전 6시까지 16세 미만의 게임 이용이 제한됩니다.
+plw_characteretc.4	청소년보호법에 따라 지금부터 다음날 오전 6시까지 16세 미만의 게임 이용이 제한됩니다.
+plw_characterevent.1	因為超過20歲的關係可以免費重生.\n重生完可以重置年齡及等級,而技能可以繼續延用.\n重置等級後獲得AP也變得容易,比現在還能更快速讓角色成長.\n要進行重生嗎?
+plw_characterevent.2	重生
+plw_characterevent.3	取消
+plw_characterevent.4	目前在進行貿易交易中. 貿易交易中無法重生.
+plw_charactervmmessage.1	請選擇要修理的物品.
+plw_charactervmmessage.2	修理成功.
+plw_charactervmmessage.3	修理失敗.
+plw_charactervmmessage.4	請選擇要提升耐久度的物品.
+plw_charactervmmessage.5	耐久度提升.
+plw_charactervmmessage.6	耐久度提升失敗.
+plw_charactervmmessage.7	目前參加考試的人數不足.\n如要繼續,可以和較低階段的玩家一起參加考試.\n但參加升段考試所獲得的經驗值將只有正常值的一半.\n你要和較低階段的玩家一起參加升段考試嗎?
+plw_charactervmmessage.8	請寫上想要實現的願望內容.
+plw_charactervmmessage.9	按照你所擁有的許願紙條數量可以兌換禮物.\n目前你擁有{0}個許願紙條.\n要兌換嗎?
+plw_charactervmmessage.10	兌換許願紙條
+plw_charactervmmessage.11	Yes\n要兌換
+plw_charactervmmessage.12	No\n不要兌換
+plw_charactervmmessage.13	摧毀防護壁失敗
+plw_charactervmmessage.14	這裡不存在可使用無限制地下城通行證到達的地下城.
+plw_charactervmmessage.15	無法顯示無限制地下城通行證清單介面.
+plw_charactervmmessage.16	傳送圖畫對話時失敗.
+plw_charactervmmessage.17	傳送圖畫對話時失敗.
+plw_charactervmmessage.18	{0}的圖畫對話傳送接收失敗.
+plw_charactervmmessage.19	黃金連續技卡片的使用期限延長了.
+plw_charactervmmessage.20	連續技卡片的使用期限延長了.
+plw_charactervmmessage.21	連續技卡片延長卷使用失敗.
+plw_charactervmmessage.22	使用連續技卡片復活卷.
+plw_charactervmmessage.23	使用連續技卡片復活卷失敗.
+plw_charactervmmessage.24	有效期限剩餘 5日不到的連續技卡片有 {0}個.
+plw_charactervmmessage.25	從台灣6週年紀年彩蛋中無法獲得道具. 
+plw_charactervmmessage.26	使用連續技卡片復活卷.
+plw_charactervmmessage.27	使用連續技卡片復活卷失敗.
+plw_charactervmmessage.28	有效期限剩餘 5日不到的連續技卡片有 {0}個.
+plw_charactervmmessage.29	無法獲得道具. 
+plw_charactervmmessage.30	Fishing\n一起來釣魚
+plw_charactervmmessage.31	提出與{0}一起釣魚享樂. 要答應嗎?
+plw_charactervmmessage.32	答應
+plw_charactervmmessage.33	拒絕
+plw_charactervmmessage.34	修理失敗. 耐久度下降1 .
+plw_charactervmmessage.35	連續技卡片使用期限移除.
+plw_charactervmmessage.36	連續技卡片限制解除卷使用失敗.
+plw_charactervmmessage.37	登記瞬間移動書籍{0}號.
+plw_charactervmmessage.38	無法登記的狀態.
+plw_charactervmmessage.39	移動到[{0}]地點.
+plw_charactervmmessage.40	一天只限於使用一次. 整點會重置.
+plw_charactervmmessage.41	無法移動到該地點.
+plw_charactervmmessage.42	無法使用.
+plw_charactervmmessage.43	成功變更寵物的顏色.
+plw_charactervmmessage.44	寵物的顏色變更失敗
+plw_charactervmmessage.45	Confirm\n確認
+plw_charactervmmessage.46	於3秒內接收{0}的炸彈!
+plw_charactervmmessage.47	沒有儲存之地.
+plw_charactervmmessage.48	移動到{0}{} .\n請問真的要進行移動嗎?
+plw_charactervmmessage.49	移動到所儲存的地區.\n請問確定要進行移動嗎?
+plw_charactervmmessage.50	沒有足夠的金額可收看連續劇.
+plw_charactervmmessage.51	沒有可以收看連續劇的道具.
+plw_charactervmmessage.52	沒有足夠的卷可收看連續劇.
+plw_charactervmmessage.53	現在正收看別的連續劇.
+plw_charactervmmessage.54	錯誤的金幣:請再試一次.
+plw_charactervmmessage.55	已經看過的章節,請使用重播功能.
+plw_charactervmmessage.56	英雄的支援角色選定.
+plw_charactervmmessage.57	這是不存在的角色.請再次選擇
+plw_charactervmmessage.58	提出一起休息
+plw_charactervmmessage.59	申請{0}和一起休息.要允許嗎?
+plw_charactervmmessage.60	必需要學習休息技能才可使用.
+plw_charactervmmessage.61	地下城入口
+plw_charactervmmessage.62	感應到獎金地下城!\n你要探索地下城嗎?\n失敗的話地下城會消失
+plw_charactervmmessage.63	[{0}]任務進行中.\n請問要刪除現有的任務接收新的任務嗎?
+plw_charactervmmessage.64	智能(Smart)任務沒有種類的區別只能接收到一個.\n請問要接收[{0}]任務嗎?
+plw_charactervmmessage.65	智能系統
+plw_charactervmmessage.66	아이템 사용이 실패했습니다.
+plw_charactervmmessage.67	無法使用重置按鍵.
+plw_charactervmmessage.68	恭喜你.已完成賓果.\n\n按關閉鍵的話賓果盤會變重置喔.
+plw_charactervmmessage.69	투표권이 없습니다.
+plw_charactervmmessage.70	儲值已完成.\n可重置次數:{0},剩下的美容專用硬幣:{1}
+plw_charactervmmessage.71	沒有儲值.請確認
+plw_charactervmmessage.72	현재 투표할 수 없습니다.
+plw_charactervmmessage.73	{0} 號顏色 {1}
+plw_charactervmmessage.74	邀請一起乘坐
+plw_charactervmmessage.75	{0}邀請一起乘坐 .\n你要接收嗎?
+plw_charactervmmessage.76	瑪奇同人故事登錄失敗.\n請稍後再試.
+plw_charactervmmessage.77	與NPC對話中或使用佈告欄中無法閱覽.
+plw_charactervmmessage.78	無法移動的狀態.
+plw_charactervmmessage.79	為無法使用銀行交易的狀態.
+plw_charactervmmessage.80	提醒
+plw_charactervmmessage.81	沒有搜尋結果.
+plw_charactervmmessage.82	必須與待求助者位於相同分流才可進行確認.
+plw_charactervmmessage.83	成功輸入了邀請代碼.
+plw_charactervmmessage.84	輸入邀請代碼失敗. 請確認正確的邀請代碼後重新輸入.
+plw_charactervmmessage.85	為無法使用銀行交易的狀態.
+plw_charactervmmessage.86	通知
+plw_charactervmmessage.87	找不到費用資訊.
+plw_charactervmmessage.88	道具已被發放.
+plw_charactervmmessage.89	道具購買失敗.
+plw_charactervmmessage.90	眼睛外型已改變為 {0}{ }.
+plw_charactervmmessage.91	設施因設置超過5分鐘而解除,為可以重新設置狀態.
+plw_charactervmmessage.92	很接近的
+plw_charactervmmessage.93	輪到{0} 順序了! 請在平台旁紅毯上等待!\n目前進行排隊號碼是 {1} . \n\n注意 : 輪到本人順序時不在紅毯上的話,排隊將取消
+plw_charactervmmessage.94	約 5分後
+plw_charactervmmessage.95	約 10分後
+plw_charactervmmessage_view.1	{0}在{1}\n邀請一起乘坐.\n要同意嗎?
+plw_charactervmmessage_view.2	無法推薦其他伺服器的玩家角色.
+plw_charactervmmessage_view.3	對方若非夢幻回憶的代表角色則無法推薦好友.
+plw_charactervmmessage_view.4	只有目前在相同頻道連線中的角色可輸入推薦碼.
+plw_charactervmmessage_view.5	目前無法使用芬恩同步.\n請稍後再試.
+plw_charactervmmessage_view.6	超過有效時間無法再寄出邀請.
+plw_checkbagcomponent.1	確定要將{0}放到{1}中嗎?
+plw_checkbagcomponent.2	再也無法放入支票.
+plw_checkbagcomponent.3	請選擇欲取出的支票.
+plw_combatant.1	這點程度無法造成傷害.
+plw_combatant.2	需要進行更強力的攻擊.
+plw_combatmgretc.1	對於採取防禦態勢的敵人只能採用重擊技能來攻擊.
+plw_combocard.1	無法使用連續技卡片自由設定功能.
+plw_combocard.2	此為到期的連續技卡片.
+plw_combocard.3	此為無法自由設定的連續技卡片.
+plw_combocard.4	既有技能不正確無法自由設定.
+plw_combocard.5	欲替換的技能不正確無法自由設定.
+plw_combocard.6	傷害獎勵不正確無法自由設定.
+plw_combocard.7	因未知的錯誤無法自由設定連續技卡片.
+plw_combocard.8	升段徽章不足.
+plw_combocard.9	為無法自由設定連續技卡片的狀態.
+plw_commerce.1	貿易品說明
+plw_commerce.2	基本情報
+plw_commerce.3	目前數量{0}個
+plw_commerce.4	佔位置{0}個
+plw_commerce.5	每個重量 {0}
+plw_commerce.6	運送資訊
+plw_commerce.7	生產地點 <color=5>{0}</color>
+plw_commerce.8	購買價格 <color=5>{0} 杜卡特</color>
+plw_commerce.9	販賣時預設價格
+plw_commerce.10	<color=4>在這貿易所購買的貿易品.</color>
+plw_commerce.11	<color=5>{0} 杜卡特</color>
+plw_commerce.12	戰鬥結束.
+plw_commerce.13	點擊<hotkey name=\"Riding\"/>鍵就可以再次運送貿易品.
+plw_commerce.14	錯誤
+plw_commerce.15	錯誤
+plw_commerce.16	成為<ttfenglish size=22>等級 {0}
+plw_commerce.17	{0} 信用度
+plw_commerce.18	{0:productName} {1:productCount}{2:productUnit}
+plw_commerce.19	交換情報
+plw_commerce.20	叫出材料目錄的錯誤
+plw_commerce.21	\n {0} {1}
+plw_commerce.22	<color=2>\n {0} {1}</color>
+plw_commerce.23	交換所需的材料{0}
+plw_commerce.24	<color=4>於這個貿易所無法販售的貿易品.</color>
+plw_commerce.25	貿易中斷
+plw_commerce.26	於貿易品當中有無法以杜卡特所獲得到的貿易品.\n確定放棄貿易嗎?
+plw_commerce.27	已超過時間.短時間無法進行貿易.
+plw_commerce.28	錯誤.短時間無法進行貿易.
+plw_condition.1	使用塔座鋼瓶的期間自動戰鬥模式暫時終止.
+plw_demigod.1	茉麗安
+plw_demigod.2	妮潘
+plw_demigod.3	沒有
+plw_discipletransform.1	{0} 點數重生成功.
+plw_dungeonguidecomponent.1	尋找地下城嚮導情報失敗.
+plw_dungeonguidecomponent.2	無法獲得地下城完成獎勵.
+plw_dungeonguidecomponent.3	在使用嘉年華會迷你遊戲或精彩活動中時無法移動.
+plw_dungeonguidecomponent.4	升段考試期間無法進行移動.
+plw_dungeonrankingmgr.1	未能讀取入圍名單.
+plw_dungeonrankingmgr.2	查看名次
+plw_dungeonrankingmgr.3	未能讀取入圍名單.
+plw_dungeonrankingmgr.4	查看名次
+plw_echostonecomponent.1	<color=5>{0} 等級</color>\n
+plw_echostonecomponent.2	固有能力\n<color=3>{0} {1} 增加</color>\n
+plw_echostonecomponent.3	提煉{0}階段的回音石.\n(增加能力值 +{1}~{2})
+plw_echostonecomponent.4	提煉回音石
+plw_equipmentcollectioncomponent.1	確認
+plw_equipmentcollectioncomponent.2	要是關閉的話於{0}日期間就無法把道具給領出.\n請問真的要關閉嗎?
+plw_equipmentcollectioncomponent.3	此地區無法使用.
+plw_equipmentcollectioncomponent.4	搭乘飛行物上的話就無法使用.
+plw_equipmentcollectioncomponent.5	戰鬥期間無法使用.
+plw_equipmentcollectioncomponent.6	裝死期間無法使用.
+plw_equipmentcollectioncomponent.7	貿易期間無法使用.
+plw_equipmentcollectioncomponent.8	對戰期間無法使用.
+plw_equipmentcollectioncomponent.9	使用技能期間無法使用.
+plw_equipmentcollectioncomponent.10	交易或和NPC對話期間無法使用.
+plw_equipmentcollectioncomponent.11	騎士競技大賽期間無法使用.
+plw_equipmentcollectioncomponent.12	服裝表演期間無法使用.
+plw_equipmentcollectioncomponent.13	變身中是無法使用喔.
+plw_equipmentcollectioncomponent.14	飛行中無法使用
+plw_equipmentcollectioncomponent.15	\n----------------\n[使用的序號]\n{0}
+plw_equipmentcollectioncomponent.16	已使用{0}美容幣.\n
+plw_erinnlandachievementmgr.1	{0}勝
+plw_erinnlandachievementmgr.2	{0}敗
+plw_erinnlandachievementmgr.3	{0}%
+plw_event.1	搶慢吞吞潘的旗子吧.
+plw_event.2	要帶來對方的藍隊旗子唷.
+plw_event.3	搶對方旗子帶到露娜旁邊的旗幟吧.
+plw_event.4	要快一點哦. 在南邊有藍色旗子.
+plw_event.5	搶潘的藍隊旗子帶來我們隊這裡.
+plw_event.6	搶旗~! 要帶來對方旗子才得到優勝哦.
+plw_event.7	往暴力少女露娜的旗幟衝阿~
+plw_event.8	有時候攻擊才是最好的防禦方法. 要搶對方的旗子.
+plw_event.9	沒有時間偷懶. 趕快帶來紅隊旗子吧.
+plw_event.10	搶露娜的紅色旗子帶到我們對的旗幟這裡.
+plw_event.11	我的分數 : {0}分
+plw_event.12	{0}位
+plw_event.13	紅隊
+plw_event.14	藍隊
+plw_event.15	外 {0}位
+plw_event.16	({0}分)
+plw_event.17	以紅隊參加丟水球活動
+plw_event.18	以藍隊參加丟水球活動
+plw_event.19	부엉이에게 {0}번째 먹이를 주었습니다.
+plw_event.20	餵食老虎寶寶 {0}次的食物.
+plw_event.21	해당 경기에 대해 이미 응모한 쿠폰이 있습니다.{0}\n재응모하시겠습니까?
+plw_event.22	월드컵 이벤트 응모
+plw_event.23	優惠活動
+plw_event.24	恭喜你成會優惠活動的主角了!\n想要公告讓所有分流玩家知道嗎?\n不想的話\n就會用匿名公告全分流.
+plw_event.25	是
+plw_event.26	否
+plw_event.27	無法找到.
+plw_event.28	不是自己的寵物,無法進行賽事的樣子.
+plw_event.29	不是自己的寵物,無法進行賽事的樣子.
+plw_event.30	好像脫離賽道的樣子.
+plw_event.31	對方隊伍的位置
+plw_event.32	在接取累積上線時間活動資訊的過程中失敗了.
+plw_event.33	在接收道具的過程中失敗了.
+plw_event.34	축적한 브리가 없어 아이템을 사용할 수 없습니다.
+plw_event.35	더 이상 추첨할 수 없습니다.
+plw_event.36	추첨에 필요한 코인이 부족합니다.
+plw_event.37	대결에 사용할 딱지를 선택해 주세요. 10초 이상 선택하지 않을 경우 대결이 취소됩니다.
+plw_event.38	딱지 선택 시간을 초과하여 대결이 취소되었습니다.
+plw_event.haberdasherevent	可獲得商人的硬幣
+plw_family.1	Family System\n同意加入家庭
+plw_family.2	在{0}邀請加入家庭. 要加入嗎?
+plw_family.3	Yes\n是
+plw_family.4	No\n不是
+plw_family.5	{0}的老婆
+plw_family.6	{0}的老公
+plw_family.7	{0}的媽媽
+plw_family.8	{0}的爸爸
+plw_family.9	{0}的姊姊
+plw_family.10	{0}的姊姊
+plw_family.11	{0}的哥哥
+plw_family.12	{0}的哥哥
+plw_family.13	{0}的女兒
+plw_family.14	{0}的兒子
+plw_family.15	{0}的妹妹
+plw_family.16	{0}的弟弟
+plw_family.17	名稱可以使用
+plw_family.18	是無法使用的名稱\n請使用其他名稱
+plw_family.19	{0}同意建立家庭
+plw_family.20	{0}不同意建立家庭
+plw_family.21	附近沒有配偶而無法取得同意
+plw_family.22	無法取得配偶的同意
+plw_family.23	Family System\n同意加入家庭
+plw_family.24	配偶 {0} 使用 {1} 建立家庭名稱.是否同意?
+plw_family.25	建立家庭失敗\n請確認家庭名稱
+plw_family.26	建立家庭失敗\n請取得配偶的同意
+plw_family.27	之前解散家庭的時間不到一個月的關係無法建立新的家庭\n {0}日後, 可以再新建立家庭
+plw_family.28	建立家庭失敗
+plw_family.29	{0} 家庭解散了. 一個月內將無法再建立新的家庭.
+plw_family.30	解散家庭失敗\n家庭不存在
+plw_family.31	解散家庭失敗\n家庭不存在
+plw_family.32	解散家庭失敗
+plw_family.33	家庭的成員增加了
+plw_family.34	家庭裡的家長, 可以增加家人
+plw_family.35	家庭裡的家長可以增加家人
+plw_family.36	該角色不存在
+plw_family.37	該角色已經屬於其他家庭
+plw_family.38	同帳號裡的角色無法增加為家人
+plw_family.39	是無法加入為家人的角色
+plw_family.40	家庭新增家人失敗
+plw_family.41	家庭裡的家人被刪除了
+plw_family.42	家庭的家長, 可以刪除家人
+plw_family.43	家庭的家長可以刪除家人
+plw_family.44	該角色不屬於我的家庭
+plw_family.45	家庭刪除家人失敗
+plw_family.46	退出家庭了
+plw_family.47	不屬於任何家庭
+plw_family.48	父母無法退出家庭
+plw_family.49	退出家庭失敗
+plw_family.50	取消家規了\n 請設定新的家規\n
+plw_family.51	設置了新的家規
+plw_family.52	家規設定現實一天後才能進行變更
+plw_family.53	設定家規失敗
+plw_family.54	提出召喚
+plw_family.55	以現實時間每日只能召喚一次
+plw_family.56	召喚失敗
+plw_family.57	Family System\n召喚
+plw_family.58	{0}家庭的 {1}召喚你. 要移動嗎?
+plw_family.59	家庭名稱最少中文 2個字 英文 4個字以上
+plw_family.60	家庭名稱最多中文 10個字 英文 20個字以內
+plw_family.61	包含著不允許使用的文字
+plw_family.62	Family System\n解散家庭
+plw_family.63	解散家庭後一個月內將無法建立新的家庭\n要解散{0}家庭嗎?
+plw_family.64	Family System\n家庭的家人退出
+plw_family.65	要把{0} 退出家庭嗎?
+plw_family.66	Family System\n退出家庭
+plw_family.67	要從{0}家庭退出嗎?
+plw_family.68	拒絕了加入家庭的邀請
+plw_family.69	30日之內有從家庭退出紀錄的角色就無法邀請成為成員.
+plw_family.70	家庭的家長可以刪除成員
+plw_family.71	家庭的家長可以新增成員
+plw_family.72	家庭成員刪除失敗
+plw_family.73	贈送給{0}家族禮物.
+plw_family.74	家庭點數不夠.
+plw_family.75	家族禮物贈送失敗.
+plw_family.76	因家庭秘藥的效果讓目前等級降到1!
+plw_family.77	家庭秘藥使用失敗.
+plw_family.78	家庭點數不足.
+plw_family.79	贈送家族禮物
+plw_family.80	請問要給{0}家族禮物嗎?\n會消耗掉5000家庭點數.
+plw_family.81	7日之內有從家庭退出紀錄的角色就無法邀請成為成員.
+plw_family.82	該角色不存在或者是在不同分流.
+plw_family.83	無法建立家庭.\n{0}日之後才可建立
+plw_family.84	進行新手教學中的角色無法創立家庭.
+plw_family.85	進行新手教學中的角色無法被招攬為家人.
+plw_farming.1	農場管理
+plw_farming.2	農作物生長需要時間.\n今天不能再工作了.
+plw_farming.3	現在 {0} 正在工作中.\n 大約 {1}分鐘以後可以再次工作.
+plw_farming.4	現在不是等待狀態.再給你一次等待表.
+plw_farming.5	物品欄中的金錢不夠了.
+plw_farming.6	銀行中的金錢不夠了.
+plw_farming.7	銀行帳戶被凍結了,不能使用.
+plw_farming.8	銀行帳戶被鎖,不能使用.
+plw_farming.9	在農場的管理中出現了問題.
+plw_farming.10	Farm\n農場
+plw_farming.11	農耕地成功出租.
+plw_farming.12	Farm\n農場
+plw_farming.13	取消農耕地出租等待.
+plw_farming.14	酸度{0}增加了.
+plw_farming.15	酸度{0}減少了.
+plw_farming.16	酸度沒有改變.
+plw_farming.17	純度{0}增加了.
+plw_farming.18	純度{0}減少了.
+plw_farming.19	純度沒有改變.
+plw_farming.20	橡木桶更換第{0}次後\n\n{1}\n{2}\n現在的新鮮度可維持24小時.
+plw_farming.21	橡木桶更換\nRacking
+plw_farming.22	橡木桶更換\nRacking
+plw_fashiongallery.1	無法切換成觀看模式
+plw_fashiongallery.2	在時尚大賽進行中是無法切換成觀看模式
+plw_fashionshowstatueprop.1	時尚大賽大賞受獎者 {0}
+plw_fashionshowstatueprop.2	時尚大賽人氣賞受獎者 {0}
+plw_fieldquestcomponent.1	要設定為最佳化屬性嗎?\n若性能上有許多問題,此設定可使遊戲更順暢.
+plw_fieldquestcomponent.2	要回復原設定嗎?
+plw_fieldquestcomponent.3	{0}分
+plw_fieldquestcomponent.4	地下城: {0}(現在)\n 總貢獻度 {1}\n
+plw_fieldquestcomponent.5	剩餘時間 : {0}:{1}\n
+plw_focuslistencomponent.1	開始集中觀賞模式失敗.\n請稍後再試.
+plw_focuslistencomponent.2	受到該隊伍的封鎖無法轉換為集中觀賞模式.
+plw_focuslistencomponent.3	因與隊伍距離太遠, 故集中觀賞模式被結束.
+plw_focuslistencomponent.4	結束集中觀賞模式失敗.\n請稍後再試.
+plw_focuslistencomponent.5	因合奏隊伍消失, 故集中觀賞模式被結束.
+plw_focuslistencomponent.6	因被封鎖, 故集中觀賞模式被結束.
+plw_focuslistencomponent.7	無法尋找到該角色.
+plw_focuslistencomponent.8	無法封鎖隊員.
+plw_focuslistencomponent.9	無法尋找到該角色.
+plw_freestylejam.1	在{0}: {1} 地區降下柯勒斐雷的祝福.
+plw_freestylejamprop.1	{0}的\n 即興演奏
+plw_gametipmgr.1	神秘商店會員 {0}正在進入世界中.
+plw_gardentreeprop.1	{0} 整理的庭園樹
+plw_gardentreeprop.2	骯髒的庭園樹
+plw_guildmgr.1	設計已被採用.\n所有公會成員都可在伊文商店裡購買長袍.
+plw_guildmgr.2	公會長袍已被重新設計.\n可在杜巴頓的議會廳購買公會長袍.
+plw_guildmgr.3	公會專用稱號 \變更為"{0}\".
+plw_hamletsswordprop.1	(下來再詳細查看..)
+plw_hamletsswordprop.2	被火勢捲進去的一把刀. 空手時有可能拿起它...
+plw_helpboardmgr.1	登錄失敗.
+plw_helpboardmgr.2	已完成求助的任務.\n再也無法募集小幫手.
+plw_helpboardmgr.3	該內容因與佈告欄屬性不符, 故已被申訴.
+plw_helpboardmgr.4	此為已被刪除且無法尋找的內容.
+plw_helpboardmgr.5	已有其他人正在協助.
+plw_helpboardmgr.6	為已進入對話視窗的狀態.\n無法再進入其他對話視窗.
+plw_helpboardmgr.7	待求助者不存在.
+plw_helpboardmgr.8	已成功結束求助.
+plw_helpboardmgr.9	因成功協助故獲得協助分數.
+plw_helpboardmgr.10	成功完成協助並獲得追加協助分數.
+plw_helpboardmgr.11	已成功給予協助.
+plw_helpboardmgr.12	精靈
+plw_housecomponentowner.0	不能販賣的物品.
+plw_housecomponentowner.1	판매 중인 옷장은 열 수 없습니다.
+plw_housecomponentowner.2	판매 중인 옷장은 열 수 없습니다.
+plw_houseguestbook.0	閱讀留言板中...
+plw_houseguestbook.1	商店訪客留言板
+plw_houseguestbook.2	閱讀訪客留言中...
+plw_houseguestbook.3	商店訪客留言板
+plw_houseguestbook.4	修改問候語...
+plw_houseguestbook.5	商店訪客留言板
+plw_houseguestbook.6	增加新文章中...
+plw_houseguestbook.7	商店訪客留言板
+plw_houseguestbook.8	增加新留言中...
+plw_houseguestbook.9	商店訪客留言板
+plw_houseguestbook.10	刪除文章中...
+plw_houseguestbook.11	商店訪客留言板
+plw_houseguestbook.12	商店訪客留言板
+plw_houseguestbook.13	暫時停止留言板的權限.
+plw_houseguestbook.14	商店訪客留言板
+plw_houseguestbook.15	閱讀留言板失敗.
+plw_houseguestbook.16	商店訪客留言板
+plw_houseguestbook.17	暫時停止留言板的權限.
+plw_houseguestbook.18	商店訪客留言板
+plw_houseguestbook.19	閱讀留言板失敗.
+plw_houseguestbook.20	商店訪客留言板
+plw_houseguestbook.21	暫時停止留言板的權限.
+plw_houseguestbook.22	商店訪客留言板
+plw_houseguestbook.23	閱讀留言板失敗.
+plw_houseguestbook.24	商店訪客留言板
+plw_houseguestbook.25	商店訪客留言板
+plw_houseguestbook.26	商店訪客留言板
+plw_houseguestbook.27	搜尋留言板視窗失敗.
+plw_houseguestbook.28	搜尋留言板視窗失敗.
+plw_houseguestbook.29	搜尋留言板視窗失敗.
+plw_housingmgrcache.0	\\商店
+plw_instantgiftcomponent.1	抽中了嘉年華會即時抽獎第 {0}名 !
+plw_instantgiftcomponent.2	感謝你參加嘉年華會及時贈獎活動.
+plw_instantgiftcomponent.3	已超過今日可進行金幣抽獎的次數.
+plw_instantgiftcomponent.4	抽獎所需的金幣不足.
+plw_instantgiftcomponent.5	抽獎所需硬幣數量不足.
+plw_instantgiftcomponent.6	道具生成失敗, 請洽詢營運團隊.
+plw_instantgiftcomponent.7	請稍後再次嘗試.
+plw_instantgiftcomponent.8	即席抽獎活動中獲得了第 {0} 等級的獎品!
+plw_instantgiftcomponent.9	感謝參加即席抽獎活動.
+plw_inventory.1	得到{0}美容專用硬幣.
+plw_inventoryaction.0	商店的位置標示在迷你地圖上
+plw_inventoryaction.1	不是這區域內的商店
+plw_inventoryaction.2	不能觀看裝備.
+plw_inventoryaction.3	解開背包, 不能放進物品欄的道具中最多有20個會移動到臨時物品欄中, 其他道具都會掉在地上.\n要把這背包裏的道具都拿出來嗎?
+plw_inventoryaction.4	到現在收集的蓋章會消失. 真的要把 {0}銷毀嗎?
+plw_inventoryaction.5	到現在收集的蓋章會消失. 真的要把 {0}銷毀嗎?
+plw_inventoryaction.6	現在好像無法使用.
+plw_inventoryaction.7	要把物品轉換成積分嗎?
+plw_inventoryaction.8	呼吸困難而無法吞下食物或藥水.
+plw_inventoryaction.9	因為沒有使用優質服務或新夢想生活VIP服務所以無法打開.
+plw_inventoryaction.10	復原失敗.
+plw_inventoryaction.11	要全部銷毀嗎?
+plw_inventoryaction.12	請選擇臨時解除專用狀態的道具.\n同樣的道具最多可以使用 {0}次專用解除藥水來解除.\n<color=2>不顯示裝備中的專用道具</color>
+plw_inventoryaction.13	沒有可以臨時解除專用狀態的道具.
+plw_inventoryaction.14	無法使用{0}的狀態.
+plw_inventoryaction.15	結婚才能登記家庭
+plw_inventoryaction.16	已經完成所有修練.
+plw_inventoryaction.17	技能等級1以上無法使用.
+plw_inventoryaction.18	沒有學習該技能而無法使用.
+plw_inventoryaction.19	Notice\n公告
+plw_inventoryaction.20	指定的技能修練值將進行補充\n真的要使用嗎?
+plw_inventoryaction.21	%s無法重複使用.
+plw_inventoryaction.22	寵物無法使用
+plw_inventoryaction.23	Notice\n告知
+plw_inventoryaction.24	完成影子任務時才會適用.\n真的要使用嗎?
+plw_inventoryaction.25	{0}道具無法重複使用.
+plw_inventoryaction.26	종이에 전하고 싶은 내용을 적어보자
+plw_inventoryaction.27	請選擇要解除時效的道具
+plw_inventoryaction.28	只能使用到技能等級1.
+plw_inventoryaction.29	雅芬的羽毛
+plw_inventoryaction.30	可以再次使用.
+plw_inventoryaction.31	移動至雅芬.
+plw_inventoryaction.32	沒有返還位置. 移動至雅芬開始位置.
+plw_inventoryaction.33	移動至之前位置.
+plw_inventoryaction.34	\n使用後,過5分鐘就可以再次使用.\n現在要移動嗎?
+plw_inventoryaction.35	告知
+plw_inventoryaction.36	小賣店上沒有可以整理的道具
+plw_inventoryaction.37	要整理小賣店上的道具嗎?\n現在營業中的小賣店會自動結束
+plw_inventoryaction.38	要整理小賣店上的道具嗎?\n小賣店上所收下的道具整理後\n營收會存進銀行裡
+plw_inventoryaction.39	請選擇要復原工匠改造的道具.
+plw_inventoryaction.40	沒有可以使用的道具.
+plw_inventoryaction.41	請選擇需要移除有效期限的魔力賦予卷軸.
+plw_inventoryaction.42	可以重新使用{0}雅芬的羽毛
+plw_inventoryaction.43	{0}使用中.\n{0} 使用時原本效果會消失.\n要使用嗎?
+plw_inventoryaction.44	一定時間的能力值上升.\n確定要使用嗎?
+plw_inventoryaction.45	要使用{0}道具嗎?
+plw_inventoryaction.46	Confirm\n確認
+plw_inventoryaction.47	請選擇解除專用化的夥伴道具
+plw_inventoryaction.48	請選擇要提升最大耐久度.
+plw_inventoryaction.49	沒有可以使用的道具.
+plw_inventoryaction.50	無法破壞裝有道具的背包.
+plw_inventoryaction.51	家庭的秘藥
+plw_inventoryaction.52	喝下這個的話, 等級就會降至1. 請問真的要喝嗎?
+plw_inventoryaction.53	完成話劇任務時會套用上獎勵.\n請問真的要使用嗎?
+plw_inventoryaction.54	請選擇可以增加最大耐久度的道具.
+plw_inventoryaction.55	沒有可以使用的道具.
+plw_inventoryaction.56	請選擇可以提升修練度的道具.
+plw_inventoryaction.57	沒有可以使用的道具.
+plw_inventoryaction.58	無法正常使用道具.請再試一次.
+plw_inventoryaction.59	要蒐集此外型嗎?
+plw_inventoryaction.60	通知
+plw_inventoryaction.61	無法正常使用道具.請再試一次.
+plw_inventoryaction.62	要用變身勳章兌換成交換券嗎?
+plw_inventoryaction.63	此外型已經蒐集了.\n已蒐集的外型,代替蒐集,可以換變身項鍊兌換卷.\n使用蒐集變身項鍊兌換卷3張的話,可以再次隨機獲得夏瑪拉的變身項鍊.請問要兌換嗎?
+plw_inventoryaction.64	此外型已經蒐集了.
+plw_inventoryaction.65	完成伊利亞突襲時會套用上獎勵.\n請問確實要使用嗎?
+plw_inventoryaction.66	只能於尊榮生活VVIP服務期間進行使用
+plw_inventoryaction.67	貢獻度獎勵套用期間限制使用.
+plw_inventoryaction.68	突擊開始時也會同時移動到該地區.\n請問確實要使用嗎?
+plw_inventoryaction.69	請選擇要修理的道具. 以{0}% 機率最大修理{1}點數.
+plw_inventoryaction.70	只能於個人農場內使用.
+plw_inventoryaction.71	與目前的主題並不符合的設施物無法設置.
+plw_inventoryaction.72	設置工具費用需要{0}金幣.請問要開始嗎?
+plw_inventoryaction.73	通知
+plw_inventoryaction.74	使用選擇獎勵道具時道具就會消失.\n請問要繼續進行嗎?
+plw_inventoryaction.75	只能於尊榮生活VVIP服務利用期間進行使用.
+plw_inventoryaction.76	確認
+plw_inventoryaction.77	飛行娃娃強化功能變成未發動了.
+plw_inventoryaction.78	飛行娃娃強化功能變成發動了.
+plw_inventoryaction.79	結束之後也無法變成發動.
+plw_inventoryaction.80	只有新手才可使用
+plw_inventoryaction.81	你要使用{0}嗎?
+plw_inventoryaction.82	이벤트 기간에만 영혼의 정수를 흡수할 수 있다.
+plw_inventoryaction.83	只有新手才可使用
+plw_inventoryaction.84	賓果轉蛋活動中,無法使用在物品欄裡的道具.
+plw_inventoryaction.85	이벤트 기간에만 영혼의 정수를 흡수할 수 있다.
+plw_inventoryaction.86	어드밴스드 플레이 이상의 서비스를 이용중에만 사용할 수 있습니다.
+plw_inventoryaction.87	沒有可兌換的道具.
+plw_inventoryaction.88	請選擇欲兌換的道具.
+plw_inventoryaction.89	不是可以染色的寵物喔.
+plw_inventoryaction.90	寵物與夥伴角色無法使用.
+plw_inventoryaction.91	已經有使用中的對話氣球視窗貼紙. 使用道具的話, 既有的效果會消失.\n真的確定要使用嗎?
+plw_inventoryaction.92	已發動的圖騰是無法合成的.
+plw_inventoryaction.93	이벤트 기간이 지나면 사용할 수 없습니다.
+plw_inventoryaction.94	我似乎無法使用.
+plw_inventoryaction.95	我似乎無法使用.
+plw_inventoryaction.96	我似乎無法使用.
+plw_inventoryaction.97	사용한 아이템은 사라지며 애완동물의 이전 능력치는 사라지고 새로운 능력치를 얻게 됩니다. 진행 하시겠습니까?
+plw_inventoryaction.98	進行RP中無法使飛行娃娃功能.
+plw_inventoryaction.99	沒有效期已到期的道具.
+plw_inventoryaction.100	支票簿無法設定價格.
+plw_inventoryaction.101	在拼圖轉蛋活動中無法使用背包中的拼圖轉蛋.
+plw_inventoryaction.102	請選擇欲放入音樂盒中的樂譜.
+plw_inventoryaction.103	在使用嘉年華會迷你遊戲或精彩活動中時無法進行剪刀石頭布.
+plw_inventoryaction.104	目前無法使用.
+plw_inventoryaction.105	교체할 수 있는 아이템이 없습니다.
+plw_inventoryaction.106	沒有可選擇的道具.
+plw_inventoryaction.107	봉인된 아이템은 파기할 수 없습니다.
+plw_inventoryaction.108	악보가 들어있는 오르골은 가격을 설정할 수 없습니다.
+plw_inventoryaction.109	已經有被染色為相同的顏色.
+plw_inventoryaction.110	目前使用中的髮型無法染色.
+plw_inventoryaction.111	장비 교체 키트를 넣을 인벤토리의 공간이 부족합니다.
+plw_inventoryaction.112	請選擇欲放入保管箱的娃娃包包.
+plw_inventoryaction.113	無法使用美容髮型回收票券的狀態.
+plw_inventoryaction.114	只可回收透過美容兌換券變更的髮型.
+plw_inventoryaction.115	使用票券後目前的髮型會被保管, 會被變更為基本髮型.\n透過髮型染色劑被染色的髮色會被變更為基本顏色.
+plw_inventoryaction.116	無法使用髮型回收券的狀態.
+plw_inventoryaction.117	目前套用中的髮色與髮型會被保管成票券, 並被變更為基本髮型.\n另外, 透過髮型染色劑被染色的髮色會被變更為基本髮色.\n\n真的確定要使用票券來變更目前的髮型嗎?
+plw_inventoryaction.119	沒有可使用提煉石的回音石.
+plw_inventoryaction.120	請選擇欲提煉的回音石.
+plw_inventoryaction.121	在指定的影子任務中打敗怪物時經驗值獎勵會被套用. 確定要使用嗎?
+plw_inventoryaction.122	以加入隊伍的狀態無法使用掃蕩券.
+plw_inventoryaction.123	背包中沒有菁英任務通行證.
+plw_inventoryaction.124	以加入隊伍的狀態無法使用掃蕩券.
+plw_inventoryaction.125	背包中沒有劇場劇本.
+plw_inventoryaction.126	{0}{} 要使用嗎?
+plw_inventoryaction.127	目前套用該藥水的效果中
+plw_inventoryaction.128	目前使用低等級的冥想的藥水中.\n使用{0}{ }的話原本的增益效果會消失.\n您要使用嗎?
+plw_inventoryaction.129	\n空稜鏡的經驗值收集量被刪除了.
+plw_inventoryaction.130	開啟稜鏡收集視窗的話無法破壞銷毀道具.
+plw_inventoryaction.131	\n保管時附著在背包中的小包包會被卸除.
+plw_inventoryaction.132	此地方無法使用.
+plw_inventoryaction.133	要使用道具設置 {0}{} 嗎?
+plw_inventoryaction.134	目前無法使用.
+plw_inventoryaction.135	請選擇要增加可專用解除次數的道具.\n只能在被專用化的道具上使用並且每個道具只能套用1次.\n<color=2>裝備中, 或是可專用解除次數為最大值的道具不會被標示.</color>
+plw_inventoryaction.136	沒有要增加可專用解除次數的道具.
+plw_inventoryaction.137	為不需要重生的狀態.
+plw_inventoryaction.138	加入隊伍的狀態下無法使用.
+plw_inventoryaction.139	現在為無法使用的狀態.
+plw_inventoryaction.140	騎乘寵物時無法使用.
+plw_inventoryaction.141	確認
+plw_inventoryaction.142	露娜的成長支援使用中.\n露娜的成長支援效果與星座氣球效果不會重疊,\n露娜的成長支援效果與星座氣球效果中會選擇最大值套用.\n要使用嗎?
+plw_inventoryaction.143	符咒已發動.
+plw_inventoryaction.144	確認
+plw_inventoryaction.145	雙魚座效果使用中.\n雙魚座效果與露娜的成長支援效果不會重疊,\n雙魚座效果與露娜的成長支援效果中會選擇最大值套用.\n要使用嗎?
+plw_inventoryaction.146	如果現在使用珠子,超過最大持有量的璞黎會消失.\n要使用道具嗎?
+plw_inventoryaction.147	一般, 專用, Plus 物品欄的橫向大小增加1行後\n<color=5>[{0}x{1}]</color> 大小中擴張為<color=5>[{2}x{3}]</color>的大小.\n\n確定要擴張物品欄嗎?\n
+plw_inventoryaction.148	物品欄的擴張 <color=5>{0}</color>次為止使用完畢.\n無法再進行物品欄的擴張了.
+plw_inventoryaction.149	結晶管理每60秒可進行一次.
+plw_inventoryaction.150	{0} 效果適用中.\n{1} 效果與露娜的商店支援效果不重複的話,\n{2} 效果套用露娜的商店支援效果中最高價效果.\n要使用嗎?
+plw_inventoryaction.151	無法進行物品欄的擴張.\n<color=5>請利用物品欄擴張券 PLUS</color>來擴張物品欄.
+plw_inventoryaction.152	無法進行物品欄的擴張.\n完成物品欄擴張{0}次後可以利用.\n請先利用物品欄擴張券進行物品欄的擴張.
+plw_inventoryaction.153	沒有要繼承記憶的精靈.
+plw_inventoryaction.155	\n精靈武器歸屬無法被解除.
+plw_inventoryaction.156	無法使用眼睛風格回收券的狀態.
+plw_inventoryaction.157	目前套用中的眼睛顏色跟風格將保管於票券, 將變更為基本眼睛風格.\n要將現在的眼睛變更為保管券嗎?
+plw_inventoryaction.158	寵物專用小包包僅能在寵物召喚下的狀態中使用.
+plw_inventoryaction.159	夥伴無法使用.
+plw_inventoryaction.160	已經為套用寵物專用小包包的寵物.\n僅能套用一個寵物專用小包包.
+plw_inventoryaction.161	{0}後可使用.
+plw_inventoryaction.162	已有設置的設施.\n解除後要再次設置嗎?
+plw_inventoryaction.163	貿易中無法使用.
+plw_inventoryaction.164	騎乘狀態無法使用.
+plw_inventoryaction.165	使用技能中無法使用
+plw_inventoryaction.166	坐著的狀態無法使用.
+plw_inventoryaction.167	召喚寵物的狀態下無法使用.\n請解除寵物召喚以後重新嘗試.
+plw_inventoryaction.171	해당 스킬이 없어 사용할 수 없습니다.
+plw_inventoryaction.172	請選擇要轉換為可交易的專用魔力賦予卷軸.
+plw_inventoryaction.173	[세트 효과 {0}] +[{1}] 업그레이드를 부여할 아이템을 선택하세요.
+plw_inventoryaction.174	세트 효과 업그레이드
+plw_inventoryaction.175	目前尚有剩餘未發送的營火邀請函.\n不寄送邀請函設置營火的話,邀請函也會消失.\n要設置嗎?
+plw_inventoryaction.176	非有效道具.
+plw_inventoryaction.177	非相關活動期間.
+plw_inventoryvmmessage.0	坐在椅子上的人們可以分享食物.\n和人數的多寡無關,都可以分享到所有食物的50%.\n請問要房屋分享嗎?
+plw_inventoryvmmessage.1	House Sharing\n房屋分享
+plw_inventoryvmmessage.2	無法接受的東西.
+plw_inventoryvmmessage.3	Send Rice Cake\n寄送年糕
+plw_inventoryvmmessage.4	新年的時候可以將自己的心意送給別人.\n要使用配送年糕服務嗎?\n(若要直接食用請按否)
+plw_inventoryvmmessage.5	Send White Chocolate\n寄送白色巧克力
+plw_inventoryvmmessage.6	白色情人節的時候使用白色巧克力可傳達自己的心意.\n你要使用白色巧克力的外送嗎?\n(想要自己吃的話請選擇"不要") 
+plw_inventoryvmmessage.7	Send Marshmallow\n寄送白色情人節棉花糖
+plw_inventoryvmmessage.8	白色情人節的時候使用白色情人節棉花糖可傳達自己的心意.\n你要使用白色情人節棉花糖的外送嗎?\n(想要自己吃的話請選擇"不要") 
+plw_inventoryvmmessage.9	要使用
+plw_inventoryvmmessage.10	不要使用
+plw_inventoryvmmessage.11	跟周圍的別人可以分享飲食.\n跟人數無關飲食的 50%可以分給別人.\n要飲食分享嗎?
+plw_inventoryvmmessage.12	Food Sharing\n飲食分享
+plw_inventoryvmmessage.13	使用高級寶箱鑰匙要打開普通寶箱.\n要打開普通寶箱嗎?
+plw_inventoryvmmessage.14	打開普通寶箱
+plw_inventoryvmmessage.15	Send Moon Cake\n送月餅
+plw_inventoryvmmessage.16	在中秋節可以使用月餅送給別人來表達自己的心意.\n要使用配送服務嗎?\n(若想要直接吃的話點選否)
+plw_inventoryvmmessage.17	{0}掉到地上.
+plw_inventoryvmmessage.18	道具掉到地上了.
+plw_inventoryvmmessage.19	全部銷毀失敗.
+plw_inventoryvmmessage.20	坐在營火旁的人可以分享食物.\n跟更多人一起享用就可以維持更久時間更好的效果\n是否要進行營火分享呢?
+plw_inventoryvmmessage.21	要復原工匠改造嗎?
+plw_inventoryvmmessage.22	從背包需要把沒有在使用的連續技卡片刪除.
+plw_inventoryvmmessage.23	拒絕一起釣魚享樂.
+plw_inventoryvmmessage.24	請選擇魚餌道具.
+plw_inventoryvmmessage.25	請選擇魚餌道具.
+plw_inventoryvmmessage.26	背包上標籤設定失敗.
+plw_inventoryvmmessage.27	道具升級只能套用一次.\n要升級嗎?
+plw_inventoryvmmessage.28	{0}的有效期限延長{1}日了.\n {2}美容專用幣剩餘.
+plw_inventoryvmmessage.29	圖騰發動了
+plw_inventoryvmmessage.30	相同種類的圖騰已經發動過所以無法再次發動
+plw_inventoryvmmessage.31	圖騰未發動了
+plw_inventoryvmmessage.32	處理途中發生問題了
+plw_inventoryvmmessage.33	相同種類的圖騰已經發動過,現在圖騰變成未發動了
+plw_inventoryvmmessage.34	於動物背包內無法讓圖騰發動.
+plw_inventoryvmmessage.35	戰鬥狀態之下無法變更圖騰的狀態
+plw_inventoryvmmessage.36	系統錯誤而刪除道具失敗.
+plw_inventoryvmmessage.37	物品欄的空間不足,無法取得所選擇的道具.
+plw_inventoryvmmessage.38	現在無法創建公會
+plw_inventoryvmmessage.39	{0}是無法刪除的道具.
+plw_inventoryvmmessage.40	無法使用道具.
+plw_inventoryvmmessage.41	해당 아이템 수량이 부족합니다.
+plw_inventoryvmmessage.42	10회 사용을 할 수 없습니다.\n가챠폰 인벤토리를 정리해주세요
+plw_inventoryvmmessage.43	好像不是正確的道具.
+plw_inventoryvmmessage.44	好像不是正確的道具.
+plw_inventoryvmmessage.45	好像已經有召喚的迷你寵物.
+plw_inventoryvmmessage.46	想要再次召喚的話必須稍等一下.
+plw_inventoryvmmessage.47	好像要在其他地方召喚才行.
+plw_inventoryvmmessage.48	因為不明原因而無法叫到愛爾琳世界.
+plw_inventoryvmmessage.49	這傢伙無法思考.
+plw_inventoryvmmessage.50	現在無法召喚.
+plw_inventoryvmmessage.51	這個道具好像沒有在運作的樣子.
+plw_inventoryvmmessage.52	動作已被啟動.
+plw_inventoryvmmessage.53	動作已被關閉
+plw_inventoryvmmessage.54	因道具的使用期限已到期, 故無法啟動.
+plw_inventoryvmmessage.55	因道具的使用期限已到期, 圖騰轉為關閉狀態.
+plw_inventoryvmmessage.56	{0}的{1} 點被提升 {2} .
+plw_inventoryvmmessage.57	{0} 等級變為 {1}.\n
+plw_inventoryvmmessage.58	{0}被完成.\n {1}
+plw_inventoryvmmessage.59	因沒有空位故無法增加道具.
+plw_inventoryvmmessage.60	圖騰合成成功.\n
+plw_inventoryvmmessage.61	{0} 等級變為 {1}.\n
+plw_inventoryvmmessage.62	徽章合成失敗.\n 徽章被破壞.
+plw_inventoryvmmessage.63	此為再也無法合成的徽章.
+plw_inventoryvmmessage.64	發動中的圖騰無法合成.
+plw_inventoryvmmessage.65	因為該道具是故障的, 因此無法啟動圖騰效果.
+plw_inventoryvmmessage.66	因為該道具的使用期限到期, 因此無法啟動圖騰效果.
+plw_inventoryvmmessage.67	無法啟動圖騰.\n請確認是否為種族專用道具.
+plw_inventoryvmmessage.68	無法啟動圖騰.\n請確認是否為有年齡限制的道具.
+plw_inventoryvmmessage.69	無法啟動圖騰.\n請確認是否為有技能限制的道具.
+plw_inventoryvmmessage.70	無法啟動圖騰.\n請確認是否為有才能限制的道具.
+plw_inventoryvmmessage.71	啟動圖騰失敗.
+plw_inventoryvmmessage.72	關閉圖騰失敗.
+plw_inventoryvmmessage.73	因為道具是故障的, 因此無法進行動作啟動.
+plw_inventoryvmmessage.74	因為道具的使用期限到期, 因此無法進行動作啟動.
+plw_inventoryvmmessage.75	無法啟動動作.\n請確認是否為種族專用道具.
+plw_inventoryvmmessage.76	無法啟動動作.\n請確認是否為有年齡限制的道具.
+plw_inventoryvmmessage.77	無法啟動動作.\n請確認是否為有技能限制的道具.
+plw_inventoryvmmessage.78	無法啟動動作.\n請確認是否為有才能限制的道具.
+plw_inventoryvmmessage.79	啟動動作失敗.
+plw_inventoryvmmessage.80	關閉動動作失敗.
+plw_inventoryvmmessage.81	只可選擇空包包.
+plw_inventoryvmmessage.82	[{0}]\n{1} exp 獲得 / {2} gold 獲得\n背包及金幣袋子不足的話有可能會掉落金幣.\n真的確定要使用掃蕩券嗎?
+plw_inventoryvmmessage.83	經驗值 {0}\n獎金 {1}
+plw_inventoryvmmessage.84	只有在寵物物品欄中才能開啟.
+plw_inventoryvmmessage.85	變換失敗了.
+plw_inventoryvmmessage.86	選擇的背包中有附著小包包.\n要卸除小包包並放在保管箱嗎?
+plw_inventoryvmmessage.87	一般強化成功 {0}{}{1} 增加.
+plw_inventoryvmmessage.88	一般強化大成功 {0}{}{1} 增加.
+plw_inventoryvmmessage.89	追加強化成功 {0}{}{1} 增加.
+plw_inventoryvmmessage.90	追加強化成功 {0}{} 最大數值增加.
+plw_inventoryvmmessage.91	追加失敗.
+plw_inventoryvmmessage.92	無法強化.
+plw_inventoryvmmessage.93	娃娃背包的道具拾取功能已開啟.
+plw_inventoryvmmessage.94	娃娃背包的道具拾取功能已關閉.
+plw_inventoryvmmessage.95	發生了未知的錯誤. Error:1
+plw_inventoryvmmessage.96	發生了未知的錯誤. Error:2
+plw_inventoryvmmessage.97	根據追加屬性石 {0} 的能力值追加上升.
+plw_inventoryvmmessage.98	追加屬性石的力量包含在護身符中.\n護身符強化成功時, {0} 的屬性效果追加上升.
+plw_inventoryvmmessage.99	物品欄擴張為<color=5>[{0}x{1}]</color> 的大小了.
+plw_inventoryvmmessage.100	使用物品欄擴張券1張後擴張物品欄.
+plw_inventoryvmmessage.101	徽章合成失敗.
+plw_inventoryvmmessage.102	所選擇的道具已套用魔力賦予.\n確定要保存目前道具的魔力賦予後進行交換嗎?
+plw_inventoryvmmessage.103	在該寵物持有物視窗中無法發動的圖騰.
+plw_inventoryvmmessage.104	召喚寵物的物品欄空間擴張失敗.
+plw_inventoryvmmessage.105	召喚寵物的物品欄空間已擴張.
+plw_inventoryvmmessage.106	要將此專用魔力賦予\n轉換為可交易嗎?
+plw_inventoryvmmessage.107	娃娃背包的金幣收集功能已發動.
+plw_inventoryvmmessage.108	娃娃背包的金幣收集功能已變為未發動.
+plw_item.0	範圍攻擊時,增加攻擊傷害值
+plw_item.1	範圍攻擊時,減少攻擊傷害值
+plw_item.2	範圍攻擊時,增加攻擊距離
+plw_item.3	範圍攻擊時,減少攻擊距離
+plw_item.4	範圍攻擊時,增加攻擊角度
+plw_item.5	範圍攻擊時,減少攻擊角度
+plw_item.9	精靈男性專用
+plw_item.10	精靈女性專用
+plw_item.11	精靈專用
+plw_item.12	人類男性專用
+plw_item.13	人類女性專用
+plw_item.14	人類
+plw_item.15	精靈
+plw_item.16	巨人
+plw_item.17	男性
+plw_item.18	女性
+plw_item.19	專用
+plw_item.20	發動連鎖反應 +{0}
+plw_item.21	魔法值消耗量 增加{0}%
+plw_item.22	魔法值消耗量 減少{0}%
+plw_item.23	魔法值蒸發量 減少{0}%
+plw_item.24	技能限制 : {0} {1} 級以上
+plw_item.25	技能限制 : {0} {1}級以上
+plw_item.26	升級 {0}/{1}\n寶石升級 {2}
+plw_item.27	施法速度減少 {0}%
+plw_item.28	施法速度增加 {0}%
+plw_item.29	魔法傷害值減少{0}
+plw_item.30	魔法傷害值增加{0}
+plw_item.31	\n\n<color=2> 召喚巨龍中(無法使用)</color>
+plw_item.32	\n\n<color=2>無法使用</color>
+plw_item.33	被祝福的
+plw_item.34	王城鍊金術師專用
+plw_item.35	\n{0} 專用道具 (專用臨時解除)
+plw_item.36	<color=0>可以解除專用的剩餘次數 : {0}</color>
+plw_item.37	<color=2>可以解除專用的剩餘次數 : 0</color>
+plw_item.38	神聖的
+plw_item.39	\n\n{0}次 / 5次
+plw_item.40	AP 增加 {0}
+plw_item.41	冰屬性魔法傷害值增加 15% 
+plw_item.42	下雨時攻擊力減少 50% 
+plw_item.43	最大耐久增加 {0} \n
+plw_item.44	最大耐久減少 {0} \n
+plw_item.45	把{0} 工匠改造\n變為{1}了.
+plw_item.46	<color=3>銳利等級 {0}\n(防禦 {1},  保護 {2} 差減)</color>
+plw_item.47	<color=3>銳利等級 {0}</color> <color=5>+{1}</color>\n<color=3>(防禦 {2},  保護 {3} 差減)</color>
+plw_item.48	防禦增加 {0} 
+plw_item.49	保護增加 {0} 
+plw_item.50	保護減少 {0} 
+plw_item.51	攻擊 <color=3>{0}</color><color=4>({1})~<color=3>{2}</color><color=4>({3})</color>
+plw_item.52	<color=4>[接頭] 有賦予魔力賦予. 可以使用 [魔力賦予卷軸]賦予.</color>
+plw_item.53	<color=4>[接尾] 有賦予魔力賦予.可以使用 [魔力賦予卷軸]賦予.</color>
+plw_item.54	一般改造
+plw_item.55	一般改造
+plw_item.56	<color=4>依照裝備屬性在村子的 [鐵匠鋪], [武器店], [服裝店] 等地方</color> <color=0>可以改造</color> <color=4>最多 {0}回.</color>
+plw_item.57	工匠改造
+plw_item.58	特殊改造
+plw_item.59	特殊改造
+plw_item.60	<color=4>在改造冶煉台可以使用[水藍改造石]或是[火紅改造石]進行改造.</color>
+plw_item.61	{0}{1} 等級</color>
+plw_item.62	<color=4>使用[裝備細緻工匠工具]可以進行裝備細緻工匠. 進行細緻工匠時可以獲得 [細緻工匠能力值]賦予.</color>
+plw_item.63	道具說明
+plw_item.64	道具屬性
+plw_item.65	魔力賦予
+plw_item.66	改造
+plw_item.67	細緻工匠
+plw_item.68	調味料效果
+plw_item.69	套裝道具
+plw_item.70	{0} 專用
+plw_item.71	魔力消耗量減少
+plw_item.72	施展速度
+plw_item.73	增加{0}%
+plw_item.74	魔法傷害值
+plw_item.75	增加{0}
+plw_item.76	暴擊傷害值
+plw_item.77	增加{0}%
+plw_item.78	暴擊傷害值減少{0}% 
+plw_item.79	火屬性鍊金術強化
+plw_item.80	增加{0}%
+plw_item.81	火屬性鍊金術強化減少{0}% 
+plw_item.82	土屬性鍊金術強化
+plw_item.83	增加{0}%
+plw_item.84	土屬性鍊金術強化減少{0}% 
+plw_item.85	風屬性鍊金術強化
+plw_item.86	增加{0}%
+plw_item.87	風屬性鍊金術強化減少{0}% 
+plw_item.88	水屬性鍊金術強化
+plw_item.89	增加{0}%
+plw_item.90	水屬性鍊金術強化減少{0}% 
+plw_item.91	才能限制:{0}以上
+plw_item.92	音樂技能效果{0}增加
+plw_item.93	音樂技能持續時間{0}增加
+plw_item.94	<color=4>[接頭]魔力賦予沒有賦予. 使用[魔力賦予卷軸]就可賦予上魔力賦予.可魔力賦予的[魔力賦予卷軸]</color>\n
+plw_item.95	<color=4>[接尾]魔力賦予沒有賦予.使用[魔力賦予卷軸]就可賦予上魔力賦予.可魔力賦予的[魔力賦予卷軸]</color>\n
+plw_item.96	<color=4>  - {0}</color>\n
+plw_item.98	{0} {1}
+plw_item.107	+{0}
+plw_item.108	子彈 {0}/{1}
+plw_item.109	杜卡特增加 : {0}
+plw_item.110	{0}個/30個
+plw_item.111	魔法防禦力 {0}\n
+plw_item.112	魔法保護 {0}\n
+plw_item.113	{0} 才能相關技能修練值增加{1}%
+plw_item.114	裝備中\n
+plw_item.115	{0} LV {1} (+{2})\n
+plw_item.116	訓練點數增加{0}
+plw_item.117	夥伴
+plw_item.118	移動速度增加 {0}%
+plw_item.119	\n銷毀的話蘊藏在武器上的精靈也將一起消失.
+plw_itemenhancemgr.1	<color=3>[特殊改造 : </color><color=7>{0}</color><color=3>階段]</color>\n
+plw_itemenhancemgr.2	沒有進行到特殊改造.
+plw_itemenhancemgr.3	告知
+plw_itemenhancemgr.4	現在要裝備嗎?
+plw_itemenhancemgr.5	<color=7>{0}</color><color=3>階段</color>\n
+plw_itemergenhancemgr.1	\n<color=5>注入經驗值 : {0}</color>
+plw_itemergenhancemgr.2	等級 {0}\n最大等級 {1}\n經驗值 {2}/{3}\n
+plw_itemergenhancemgr.3	\n基本效果\n<color=3>{0}</color>\n
+plw_itemergenhancemgr.4	\n追加效果\n<color=3>{0}</color>
+plw_itemmarket.1	유효하지 않은 사용자 입니다.
+plw_itemmarket.2	이미 인벤토리로 이동된 아이템입니다.
+plw_itemmarket.3	판매 금지된 아이템입니다.
+plw_itemmarket.4	아이템 오픈마캣 보관함이 가득 찼습니다.
+plw_itemmarket.5	유효하지 않은 판매자 입니다.
+plw_itemmarket.6	이미 판매된 아이템입니다.
+plw_itemmarket.7	판매 취소된 아이템입니다.
+plw_itemmarket.8	잔액이 부족합니다.
+plw_itemmarket.9	판매 금지된 아이템입니다.
+plw_itemmarket.10	아이템 오픈마캣 보관함 작업에 실패하였습니다.
+plw_itemmarket.11	아이템 오픈마캣 보관함 작업에 실패하였습니다.\n오류 코드 : %I64u
+plw_itemmarket.12	아이템 오픈마캣 작업에 실패하였습니다.
+plw_itemmarket.13	아이템 오픈마캣을 작업에 실패하였습니다.\n오류 코드 : %I64u
+plw_itemmarket.14	로딩 중입니다.
+plw_itemmarket.15	아이템 오픈 마켓
+plw_itemmarket.16	아이템 오픈마켓
+plw_itemmarket.17	수수료가 {0} Gold 부족합니다.
+plw_itemmarket.18	구매중 오류가 발생했습니다.
+plw_itemtooltip.0	發行處 :
+plw_itemtooltip.1	投標對象 :
+plw_itemtooltip.2	投標金額 :
+plw_itemtooltip.3	{0}月{1}日 {2}點{3}分 發表
+plw_itemtooltip.4	稍微提高採集速度
+plw_itemtooltip.5	提高採集速度
+plw_itemtooltip.6	增加採集機率
+plw_itemtooltip.7	採集時,有一定幾率可以同時採集到2個
+plw_itemtooltip.8	修理費增加
+plw_itemtooltip.9	'{0}'\n\n在浪漫的情人節裡\n{1} 為 {2} 所做的紀念戒指
+plw_itemtooltip.10	發光的{0}
+plw_itemtooltip.11	\n\n到 {0}月 {1}日 {2}點
+plw_itemtooltip.12	可以使用到 {0}月 {1}日
+plw_itemtooltip.13	可以使用到 {0}月 {1}日 {2}點
+plw_itemtooltip.14	料理大賽專用
+plw_itemtooltip.15	{0}的作品
+plw_itemtooltip.16	修理費{0}.{1}倍
+plw_itemtooltip.17	修理費 {0}倍
+plw_itemtooltip.18	총 물 준 횟수 %d번
+plw_itemtooltip.19	<color=3>{0} 封印</color>
+plw_itemtooltip.20	共澆水次數 {0}次
+plw_itemtooltip.21	品質 : {0}
+plw_itemtooltip.22	集氣次數 : {0}
+plw_itemtooltip.23	(修理失敗時道具保護)
+plw_itemtooltip.24	(魔力賦予失敗時道具保護)
+plw_itemtooltip.25	正在封印中
+plw_itemtooltip.26	封印解除時間剩下約{0}小時 {1}分鐘
+plw_itemtooltip.27	封印解除時間剩下未到5分鐘
+plw_itemtooltip.28	封印解除時間剩下約 {0}分鐘
+plw_itemtooltip.29	記錄的影像.
+plw_itemtooltip.30	標題:
+plw_itemtooltip.31	可以記錄影像.
+plw_itemtooltip.32	只可交易寵物
+plw_itemtooltip.33	\n製作者 : {0}\n熟成 : {1} 日\n依賴人 : {2}
+plw_itemtooltip.34	餵食的次數 : {0}次
+plw_itemtooltip.35	\n{0} {1} 以上
+plw_itemtooltip.36	\n\n幸運卷號碼 : <color=1>{0}</color>
+plw_itemtooltip.37	\n\n<color=2>不是適當的幸運卷.</color>
+plw_itemtooltip.38	{0}號斜坡
+plw_itemtooltip.39	\n\n<color=7>向研發塔座鋼瓶的鍊金術師學習使用方法會使用的更完美.</color>
+plw_itemtooltip.40	沒有
+plw_itemtooltip.41	\n목적지:[<color=3>{0}<color=0>]
+plw_itemtooltip.42	(無法進行魔力賦予)
+plw_itemtooltip.43	\n可以復活到 {0}
+plw_itemtooltip.44	無法復活
+plw_itemtooltip.45	[才能為 {0}時會適用]
+plw_itemtooltip.46	可以使用</color>
+plw_itemtooltip.47	\n\n<color=3>可以使用</color>
+plw_itemtooltip.48	\n<color=3>返回位置 : {0}</color>
+plw_itemtooltip.49	防禦
+plw_itemtooltip.50	保護
+plw_itemtooltip.51	最小傷害值
+plw_itemtooltip.52	最大傷害值
+plw_itemtooltip.53	暴擊率
+plw_itemtooltip.54	魔法攻擊力
+plw_itemtooltip.55	火屬性鍊金術技能效率
+plw_itemtooltip.56	風屬性鍊金術技能效率
+plw_itemtooltip.57	土屬性鍊金術技能效率
+plw_itemtooltip.58	水屬性鍊金術技能效率
+plw_itemtooltip.59	[未來希望為 {0}時會適用]
+plw_itemtooltip.60	{0} 增加
+plw_itemtooltip.61	{0} {1}
+plw_itemtooltip.62	<color=3>商品會包含\n以下一樣的道具.</color>
+plw_itemtooltip.63	({0}個)
+plw_itemtooltip.64	[工匠改造]
+plw_itemtooltip.65	最大耐久增加 {0}
+plw_itemtooltip.66	最大耐久減少 {0}
+plw_itemtooltip.67	寵物轉讓資訊\n轉讓次數 : {0} / {1}\n種族 : {2}\n年齡 : {3}\n等級 : {4} (累積等級 : {5})
+plw_itemtooltip.68	\n\n<color={0}>可以被交易的剩餘次數 : {1}</color>
+plw_itemtooltip.69	收集對象 :
+plw_itemtooltip.70	釣魚日誌
+plw_itemtooltip.71	料理日誌
+plw_itemtooltip.72	訓練日誌
+plw_itemtooltip.73	{0}最大傷害值增加 {1}
+plw_itemtooltip.74	{0}魔法攻擊力增加 {1} 
+plw_itemtooltip.75	{0}暴擊增加 {1}% 
+plw_itemtooltip.76	{0}裝備時
+plw_itemtooltip.77	\n魔法值消耗量減少 {0}% 
+plw_itemtooltip.78	\n最大魔力值增加 {0} 
+plw_itemtooltip.79	\n魔法值蒸發量減少 {0}%
+plw_itemtooltip.80	可以保管在任務道具視窗
+plw_itemtooltip.81	可以保管在專用物品視窗
+plw_itemtooltip.82	等待時間 : {0}
+plw_itemtooltip.83	領主
+plw_itemtooltip.84	封印解除約 {0}
+plw_itemtooltip.85	\n維持時間 : {0}
+plw_itemtooltip.86	(精靈移轉時能力值保護)
+plw_itemtooltip.87	這背包目前
+plw_itemtooltip.88	有標籤設定.
+plw_itemtooltip.89	此道具只能在指定地點可以使用.\n發送地區 : [<color=3>{0}<color=0>]
+plw_itemtooltip.90	\n魔法恢復量增加 {0}% 
+plw_itemtooltip.91	杜卡特 : {0} D
+plw_itemtooltip.92	<color=3>大小 : {0}cm</color>
+plw_itemtooltip.93	<color=3>傳達次數:{0}次</color>
+plw_itemtooltip.94	<color=3>{0}次成功</color>
+plw_itemtooltip.95	\n所剩餘的復活次數: {0}次
+plw_itemtooltip.96	購買價格 : {0:Pawn_Price} PON
+plw_itemtooltip.97	時間期限 : {0:Day_Limit} 天
+plw_itemtooltip.98	使用至{0:Year}年 {1:Month}月 {2:Day}日
+plw_itemtooltip.99	使用時效已滿
+plw_itemtooltip.100	蒐集變身機率增加 {0}%
+plw_itemtooltip.101	\n\n<color=3>NPC: {0}</color>
+plw_itemtooltip.102	\n\n<color=3>怪物: {0}</color>
+plw_itemtooltip.103	至{0}年 {1}月 {2}日 {3}時 {4}分為止
+plw_itemtooltip.104	名稱: {0}
+plw_itemtooltip.105	<請命名>
+plw_itemtooltip.106	無限制
+plw_itemtooltip.107	結束
+plw_itemtooltip.108	剩餘召喚時間: {0}
+plw_itemtooltip.109	<color=3>完成度 : {0}%</color>
+plw_itemtooltip.110	\n修理腓力特
+plw_itemtooltip.111	\n修理魔法學校
+plw_itemtooltip.112	\n修理雜貨店
+plw_itemtooltip.113	\n修理鐵匠
+plw_itemtooltip.114	\n修理貿易所
+plw_itemtooltip.115	\n修理工程師
+plw_itemtooltip.116	\n腓力特修理
+plw_itemtooltip.117	\n修理班克爾酒館 
+plw_itemtooltip.118	\n服飾店修理
+plw_itemtooltip.119	\n鍊金術師修理
+plw_itemtooltip.120	未發動
+plw_itemtooltip.121	結束
+plw_itemtooltip.122	剩餘發動時間: {0}
+plw_itemtooltip.123	\n腓力特修理
+plw_itemtooltip.124	\n交換對象外型\n
+plw_itemtooltip.125	人類
+plw_itemtooltip.126	精靈
+plw_itemtooltip.127	巨人
+plw_itemtooltip.128	夥伴
+plw_itemtooltip.129	\n可使用的種族\n
+plw_itemtooltip.130	無法套用效果期間
+plw_itemtooltip.131	召喚中
+plw_itemtooltip.132	使用期間 : {0} 小時
+plw_itemtooltip.133	外型變更道具 : {0}\n(無法交易)
+plw_itemtooltip.134	획득시 전용화
+plw_itemtooltip.135	\n획득시 전용화되는 아이템
+plw_itemtooltip.136	剩餘召喚數 :
+plw_itemtooltip.137	原版
+plw_itemtooltip.138	複本
+plw_itemtooltip.139	{0}版
+plw_itemtooltip.140	在支票簿中所持有的支票總額
+plw_itemtooltip.141	\n\n使用時獲得經驗值 : {0}
+plw_itemtooltip.142	(內有道具)
+plw_itemtooltip.143	(無法自動銷毀)
+plw_itemtooltip.144	剩餘水果 : {0}個
+plw_itemtooltip.145	可馬上使用
+plw_itemtooltip.146	{0} 後可使用
+plw_itemtooltip.147	覺醒能力
+plw_itemtooltip.148	<color=3>目前沒有覺醒能力</color>
+plw_itemtooltip.149	娃娃包包資訊\n種類 : {0}\n提供 : {1} * {2}\n
+plw_itemtooltip.150	{0}({1}用) 保管
+plw_itemtooltip.151	\n{0} 髮色保管
+plw_itemtooltip.152	\n可使用等級 : {0} ~ {1}\n
+plw_itemtooltip.153	情侶同步
+plw_itemtooltip.154	連結對象 \"{0}\"
+plw_itemtooltip.155	追加選項
+plw_itemtooltip.156	剩餘一般強化次數
+plw_itemtooltip.157	剩餘追加強化次數
+plw_itemtooltip.158	的浪漫農場
+plw_itemtooltip.159	聚能
+plw_itemtooltip.160	原始
+plw_itemtooltip.161	商店購買
+plw_itemtooltip.162	<color=2>無法使用專用解除交易保證書</color>
+plw_itemtooltip.163	商店販賣Bonus : 
+plw_itemtooltip.164	經驗值 {0}
+plw_itemtooltip.165	經驗值 {0}%
+plw_itemtooltip.166	探險經驗值 {0}
+plw_itemtooltip.167	探險經驗值 {0}%
+plw_itemtooltip.168	外型變更道具 : {0}
+plw_itemtooltip.169	修練的璞黎 {0}/{1}
+plw_itemtooltip.170	挑戰的璞黎 {0}/{1}
+plw_itemtooltip.171	交感的璞黎 {0}/{1}
+plw_itemtooltip.172	追加屬性石(一般強化用)效果套用中
+plw_itemtooltip.173	追加屬性石(追加強化用)效果套用中
+plw_itemtooltip.174	{0} LV {1} (+{2}{3})\n
+plw_itemtooltip.175	鎖鏈鋼瓶冷卻時間{0}秒減少
+plw_itemtooltip.176	人偶操控術 範圍{0}增加
+plw_itemtooltip.177	人偶死亡時 {0}%機率復活
+plw_itemtooltip.178	連續技傷害 {0}%增加
+plw_itemtooltip.179	連續技 : 飛踢擴散攻擊幅度 {0}%增加
+plw_itemtooltip.180	猛烈突擊傷害 {0}%增加
+plw_itemtooltip.181	意志 {0}增加
+plw_itemtooltip.182	煉金術結晶儲存功能
+plw_itemtooltip.183	已套用的互動 : {0}
+plw_itemtooltip.184	\n寵物點數 : {0}
+plw_itemtooltip.185	\n特化特技 : 
+plw_itemtooltip.186	\n保有特技 : 
+plw_itemtooltip.187	\n基本能力值 : 生命力 {0}, 魔法 {1}, 耐力 {2}, 力量 {3}, 智力 {4}, 敏捷 {5}, 意志 {6}, 幸運 {7}
+plw_itemtooltip.188	{0} {1}
+plw_itemtooltip.189	{0} {1}擊 {2}
+plw_itemtooltip.190	\n\n -借館日期 : {0}年 {1}月 {2}日\n -借館時間 : {3}點~ {4}點\n -借館費用 : {5} 金幣\n -招待券購買費用 : {6} 金幣
+plw_itemtooltip.191	\n\n - 主辦演唱會者 : {0}\n - 演唱會日期 : {1}年 {2}月 {3}日\n - 演唱會 開始時間 : {4}點
+plw_itemtooltip.192	\n\n - No.{0}\n - 主辦演唱會者 : {1}\n - 演唱會日期 : {2}年 {3}月 {4}日\n - 演唱會 開始時間 : {5}點
+plw_itemtooltip.193	精靈
+plw_itemtooltip.194	{0}的{1}
+plw_itemtooltip.195	等級{0}
+plw_itemtooltip.196	經驗值{0} ({1}%)
+plw_itemtooltip.197	互動度{0}/{1}
+plw_itemtooltip.198	EP {0}/{1}
+plw_itemtooltip.201	\n可繼承的經驗值: {0}
+plw_itemtooltip.202	\n左邊: {0}, 右邊: {1} 顏色保管
+plw_itemtooltip.203	\n{0} 顏色保管
+plw_itemtooltip.204	{0} 保管
+plw_itemtooltip.205	套用({0})
+plw_itemtooltip.206	右邊兩行
+plw_itemtooltip.207	下面兩行
+plw_itemtooltip.208	未套用
+plw_itemtooltip.209	\n寵物專用小包包: {0}
+plw_itemtooltip.210	精靈成長獎勵 : 精靈經驗值 {0} (經典精靈除外)
+plw_itemtooltip.211	\n寵物類型 : {0} / {1} / {2} / {3}
+plw_itemtooltip.214	\n寵物認養資訊\n種族 :
+plw_itemtooltip.215	<color=1>保管次數: {0}次</color>\n
+plw_itemtooltip.216	\n寵物飼料增益效果持續時間 : {0}
+plw_itemtooltip.217	等級 : {0}\n\n
+plw_itemtooltip.218	\n芬恩寶珠閃耀技能{0}以上可以閃耀.
+plw_itemtooltip.219	\n{0}技能{1}
+plw_itemtooltip.220	<color=1>沙漏 {0} : 剩餘時間 {1}</color>\n
+plw_itemtooltip.221	內部名稱 : 沙漏 {0}\n連結的道具 : {1}\n剩餘時間 : {2}\n
+plw_itemtooltip.222	無法找到連結的道具.
+plw_itemtooltip.223	\n最大召喚時間 : {0}時間{1}分鐘
+plw_itemtooltip.224	<color=3>可</color>
+plw_itemtooltip.225	<color=2>不可</color>
+plw_itemtooltip.226	屬性 : {0} {1}\n
+plw_itemtooltip.227	追加物品欄 : 
+plw_itemtooltip.228	無
+plw_itemtooltip.229	{0}個 ({1})
+plw_itemtooltip.230	\n朋友召喚欄位 : {0}個\n
+plw_itemtooltip.231	芬恩同步主 : <color=3>可</color>\n
+plw_itemtooltip.232	芬恩同步副 : {0}\n
+plw_itemtooltip.233	\n\n芬恩同步資訊\n
+plw_itemtooltip.234	{0}號欄位 : {1} {2}\n
+plw_itemtooltip.235	{0}號欄位 : 空\n
+plw_itemtooltip.236	{0}號欄位 : 空\n
+plw_itemtooltip.237	{0}號欄位 : <color=2>未開放</color>\n
+plw_itemtooltip.238	\n芬恩寶珠資訊\n
+plw_itemtooltip.239	<color=3>菲尼寵物</color>\n
+plw_itemtooltip.240	芬恩同步主 : <color=2>不可</color>\n
+plw_itemtooltip.241	芬恩同步副 : <color=3>可</color>\n
+plw_itemtooltip.242	\n\n芬恩同步資訊\n
+plw_itemtooltip.243	尚未成為芬恩寵物.\n
+plw_itemtooltip.244	芬恩同步主 : {0}\n
+plw_itemtooltip.245	芬恩同步副 : {0}\n
+plw_itemtooltip.246	\n\n芬恩同步資訊\n
+plw_itemtooltip.256	總排隊人數: {0} / 現在進行中的號碼: {1} [我的號碼: {2}]
+plw_itemtooltip.257	道具顏色
+plw_itemtooltip.258	(閃耀)
+plw_itemtooltip.259	(閃耀)
+plw_itemtooltip.260	菲尼捕捉成功時,菲尼寶石追加掉落機率{0}%\n
+plw_itemtooltip.261	芬恩的手工藝成功時,依照生產經驗值的{0}%獲得探險經驗值\n
+plw_itemtooltip.262	商店販售價 : 無法販賣
+plw_itemtooltip.263	保留所有權
+plw_itemtooltip.264	無法交易
+plw_itemtooltip.265	無法丟棄
+plw_itemtooltip.266	無法銀行
+plw_itemtooltip.267	無法共有銀行
+plw_itemtooltip.268	無法寵物保管
+plw_itemtooltip.269	無法送禮物給夥伴
+plw_itemtooltip.274	낭만 농장 데코 효과
+plw_itemtooltip.bagexpander	<color=3>\n附著小包包\n</color>
+plw_itemupgrademgr.1	[開發者用訊息] 改造方法消失.
+plw_itemupgrademgr.2	託王城鍊金術師 {0}的協助, 發現新的鋼瓶改造方式.
+plw_itemupgrademgr.3	發現新的鋼瓶改造方式!
+plw_joust.1	對方
+plw_joust.2	\n獲得了{0}分的騎士競技積分.
+plw_joust.3	{0}秒後比賽開始.\n請準備輸入命令.
+plw_joust.4	{和}{0}的比賽中失敗了.
+plw_joust.5	請輸入命令.
+plw_joust.6	在騎士競技大會比賽中被擊敗了.
+plw_joust.7	參加騎士競技大會的申請被取消了.
+plw_mafiacomponent.1	確定要對{0}{} 進行刑罰嗎?
+plw_mafiacomponent.2	{0}{} 已逃亡.
+plw_mafiacomponent.3	沒有要進行刑罰的對象.
+plw_mafiacomponent.4	淘汰者
+plw_mafiacomponent.5	無法投票
+plw_mailboxcomponent.1	手續費不滿{0}Gold . 請確認道具欄中的金額.
+plw_mailboxcomponent.2	角色確認成功.
+plw_mailboxcomponent.3	發送信件給{0}.
+plw_mailboxcomponent.4	角色不存在.\n請再確認一次人物的名字.
+plw_mailboxcomponent.5	不能發送給寵物角色.
+plw_mailboxcomponent.6	不能發送給相同帳號內的角色.
+plw_mailboxcomponent.7	角色確認失敗.
+plw_mailboxcomponent.8	不能發送信件給自己.
+plw_mailboxcomponent.9	收件匣已經滿了,不能再發送信件了. 請接收信件或刪除.
+plw_mailboxcomponent.10	寄件匣已經滿了,不能再發送信件了. 請等待收件人接收吧.
+plw_mailboxcomponent.11	已經給{0}發送了 {1}個信件. 請等{0}接收信件吧.
+plw_mailboxcomponent.12	收件人的收件匣已經滿了,無法再接收信件了. 請等收件人接收信件吧.
+plw_mailboxcomponent.13	手續費不足. 請確認道具欄內的金額.
+plw_mailboxcomponent.14	不能發送裝備中的道具.
+plw_mailboxcomponent.15	超過信件所能容納最大的訊息量.
+plw_mailboxcomponent.16	不能用信件寄出的道具.
+plw_mailboxcomponent.17	信件發送失敗.
+plw_mailboxcomponent.18	銀行存款不足.
+plw_mailboxcomponent.19	道具欄中金額不足.
+plw_mailboxcomponent.20	銀行戶頭金額已滿,不能再存了.
+plw_mailboxcomponent.21	已經被退回的信件.
+plw_mailboxcomponent.22	接收道具金幣的角色確認失敗.
+plw_mailboxcomponent.23	接收信件失敗.
+plw_mailboxcomponent.24	已經被退回的信件.
+plw_mailboxcomponent.25	接收退回信件的角色被刪除.
+plw_mailboxcomponent.26	接收退回信件的角色確認失敗.
+plw_mailboxcomponent.27	退回信件失敗.
+plw_mailboxcomponent.28	收件人已經收到道具.
+plw_mailboxcomponent.29	信件退回失敗.
+plw_mailboxcomponent.30	請{0}秒之後再次進行.
+plw_mailboxcomponent.31	無法發送 GM 信件.
+plw_marinagateprop.1	下船
+plw_marinagateprop.2	乘船
+plw_minigamecomponent.1	미니게임을 실행하는데 실패했습니다.
+plw_minigameprop.1	黑手黨遊戲中\n
+plw_minigameprop.2	隊名 : {0}\n
+plw_minigameprop.3	隊長 : {0}\n
+plw_minigameprop.4	參加者 : {0}名\n
+plw_minigameprop.5	觀戰者 : {0}名
+plw_minimapmgr.1	小幫手位置
+plw_minimapmgr.2	目前無法使用該功能.
+plw_myknights.1	等待中
+plw_myknights.2	任務中
+plw_myknights.3	任務完成
+plw_myknights.4	訓練中
+plw_myknights.5	訓練完成
+plw_myknights.6	休息中
+plw_myknights.7	外出中
+plw_myknights.8	受傷中
+plw_myknights.9	{0}執行 {1}任務.
+plw_myknights.10	提醒
+plw_myknights.11	{0}拒絕了任務指示.
+plw_myknights.14	好感度不足.
+plw_myknights.15	訓練點數不足.
+plw_myknights.16	{0}的訓練無法開始.\n{1}
+plw_myknights.18	{0}的訓練無法取消.
+plw_myknights.19	訓練完成
+plw_myknights.20	專長,
+plw_myknights.21	外出,
+plw_myknights.22	因為加成效果
+plw_myknights.23	{0}而訓練地相當順利!
+plw_myknights.25	{0}的訓練無法完成.
+plw_myknights.26	無法使用寵物移動.
+plw_myknights.27	如果有召喚物就無法移動.
+plw_myknights.28	交易過程中無法移動.
+plw_myknights.29	搭乘中無法移動.
+plw_myknights.30	和NPC交談時無法移動.
+plw_myknights.31	交易過程中無法移動.
+plw_myknights.32	戰鬥中無法移動.
+plw_myknights.33	進行PVP時無法移動.
+plw_myknights.34	技能使用途中無法移動.
+plw_myknights.35	目前無法移動.
+plw_myknights.36	無效的任務已經處理完成了
+plw_myknights.37	任務成功報告
+plw_myknights.38	任務失敗報告
+plw_myknights.39	\n在執行任務時受傷了.
+plw_myknights.40	任務取消了.
+plw_myknights.41	無法開始任務.\n
+plw_myknights.42	開始{0}的訓練.
+plw_myknights.43	取消{0}的訓練.
+plw_myknights.44	任務結束了.\n無法立即完成.
+plw_myknights.45	在使用嘉年華會迷你遊戲或精彩活動中時無法移動.
+plw_naorespawnservice.1	佛格斯的鐵匠鋪!! 大家可以放心委託的朋友~ 哇哈哈哈.
+plw_naorespawnservice.2	<npcportrait name=\"ferghus\"/><title name=\"佛格斯\"/>咳. 腳滑了...<p/><npcportrait name=\"ferghus\"/><title name=\"佛格斯\"/>嗯... 看來你惹來不少招怨<br/>人生要像我一樣過的善良啊.<br/>哇哈哈哈.<p/><npcportrait name=\"ferghus\"/><title name=\"佛格斯\"/>哦. 這是召喚我的聲音?!!<br/>要趕快回到鐵匠鋪.<br/>那, 你也路上小心~~
+plw_newegoweapon.1	{0}技能可使用.
+plw_newegoweapon.2	得到精靈之淚.
+plw_newegoweapon.3	因今天已獲得精靈之淚,故無法獲得
+plw_newegoweapon.4	物品欄額滿無法獲得精靈之淚.
+plw_newegoweapon.5	{0}的{1}
+plw_newegoweapon.6	今天已經收過精靈的眼淚了.
+plw_newegoweapon.7	<title name='NONE'/><face name='normal'/>(請選擇關鍵字,和精靈進行對話.)
+plw_newegoweapon.8	<title name='NONE'/><face name='normal'/>(請選擇關鍵字,和精靈進行對話.)
+plw_npcshop.1	已購買{0}個.
+plw_npcshop.2	\n僅購買{0}個.
+plw_partymgr.1	無法組隊的區域.
+plw_partymgr.2	無法打開組隊視窗的區域.
+plw_partymgr.3	[{0}組{1}] {2}
+plw_partymgr.4	成功創建騎士團.
+plw_partymgr.5	已退出騎士團.
+plw_partymgr.6	已從騎士團中被剔除.
+plw_partymgr.7	{0}加入了騎士團.
+plw_partymgr.8	{0}退出了騎士團.
+plw_partymgr.9	{0}成為了騎士團隊長.
+plw_partymgr.10	{0}已被任命為騎士團副團長.
+plw_partymgr.11	{0}已從副團長變更為普通團員.
+plw_partymgr.12	開始召集騎士團.
+plw_partymgr.13	停止召集騎士團.
+plw_partymgr.14	{0}已把騎士團的最後一擊的規則變更為[{1}]方式.
+plw_partymgr.15	{0}已把騎士團的經驗值分配規則變更為[{1}]方式.
+plw_partymgr.16	團員
+plw_partymgr.17	副團長
+plw_partymgr.18	團長
+plw_partymgr.19	{0}已把騎士團任務變更為[{1}].
+plw_partymgr.20	{0}已刪除騎士團任務.
+plw_partymgr.21	無法使用進行新手教學中的角色.\n(首次重生後可使用)
+plw_partymgr.22	在使用嘉年華會排隊隊伍中時無法創立隊伍.
+plw_partymgr.23	在使用嘉年華會中時無法創立隊伍.
+plw_partymgrmsg.1	無法讓隊員脫離的狀態.
+plw_partymgrmsg.2	已成功移動.
+plw_partymgrmsg.3	正在確認騎士團的目標出發準備.
+plw_partymgrmsg.4	騎士團正在準備移動到目的地.
+plw_partymgrmsg.5	還有尚未做好準備的團員.\n{0}
+plw_partymgrmsg.6	所有團員準備完畢.
+plw_partymgrmsg.7	正在確認騎士團的{0}移動.
+plw_partymgrmsg.8	騎士團將集體移動到{0}.
+plw_partymgrmsg.9	因為沒有符合條件的騎士團所以會自動創建騎士團.
+plw_partymgrmsg.10	未能成功加入並創建騎士團.
+plw_partymgrmsg.11	在已加入騎士團的狀態下無法進行配對.
+plw_partymgrmsg.12	還有尚未做好準備的團員.\n{0}
+plw_partymgrmsg.13	任命副團長
+plw_partymgrmsg.14	由於組隊資訊發生變更,加入失敗.
+plw_partymgrmsg.15	若想加入{0}({1})\n的組隊{2},\n需要先切換分流.\n是否要立即切換?
+plw_partymgrmsg.16	人數已滿,無法加入隊伍.
+plw_partymgrmsg.17	目前無法退出隊伍.
+plw_personalshop.1	無法關閉個人商店.
+plw_personalshop.2	沒有設置小賣店
+plw_personalshop.3	在 {0} 地區設置了小賣店
+plw_personalshop.4	設置了小賣店
+plw_personalshop.5	整理了小賣店上的道具
+plw_personalshop.6	施展技能中無法設定價格.
+plw_personalshopcustomer.1	{0}的{1}
+plw_personalshopcustomer.2	道具不存在
+plw_personalshopcustomer.3	該道具不存在
+plw_personalshopcustomer.4	該道具不存在
+plw_personalshopcustomer.5	無法購買自己的道具
+plw_petexpedition.1	當前進行中的調查太多了. \n請先讓完成調查的探險隊返回吧.
+plw_petexpedition.2	要派出的探險隊中存在當前無法行動的寵物.\n請先治療該寵物後再重新指示[探險隊出發]吧.
+plw_petexpedition.3	要派出的探險隊中包含當前召喚中的寵物.\n請先解除該寵物的召喚後再次指示[探險隊出發].
+plw_petexpedition.4	要派出的探險隊中包含等待刪除中的寵物. \n請先取消該寵物的刪除後再次指示[探險隊出發].
+plw_petexpedition.5	無法選擇在寵物小屋內休息中或是派去進行其他調查的寵物.
+plw_petexpedition.6	要派出的探險隊中包含疲勞度過高的寵物.
+plw_petexpedition.7	選擇的寵物無法執行探險隊調查.
+plw_petexpedition.8	目前探險隊調查尚在進行中,無法完成.
+plw_petexpedition.9	探險隊調查已結束,無法取消.請完成調查.
+plw_petexpedition.10	請在浪漫農場內嘗試.
+plw_petexpedition.11	發生不明錯誤.
+plw_petexpedition.12	結束{0}調查,探險隊回到浪漫農場了.
+plw_petexpedition.13	請先清空臨時物品欄後再完成調查.
+plw_petexpedition.14	準備出發的探險隊中包含從未召喚過的寵物.\n 召喚一次該寵物後,再次指示 [探險隊出發].
+plw_petmgr.1	{0} 才能的修練值效果套用於寵物.
+plw_petmgr.2	不支援的才能.
+plw_petmgr.3	寵物已解除召喚,回憶盛開效果不適用.
+plw_petmgr.4	該寵物的支援才能已設定.
+plw_petmgr.5	該寵物無法使用回憶盛開技能.
+plw_petmgr.6	不是我擁有的寵物,失敗處理.
+plw_petspecialtalentcomponent.1	確定要重生嗎?\n\n<color=6><outlinecolor=3>目前沒有習得的技能\n達成100等級重生時\n可以習得特技.</outlinecolor></color>\n
+plw_petspecialtalentcomponent.2	確定要重生嗎?\n\n<color=6><outlinecolor=3>該寵物為無法習得特技的寵物.</outlinecolor></color>\n
+plw_petspecialtalentcomponent.3	重生確認
+plw_petspecialtalentcomponent.4	欲重生的寵物未召喚.
+plw_petspecialtalentcomponent.5	重生失敗.\n請稍後再重新嘗試.
+plw_pfhousingcomponent.1	成功配置家具
+plw_pfhousingcomponent.2	配置家具失敗
+plw_pfhousingcomponent.3	成功刪除家具
+plw_pfhousingcomponent.4	刪除家具失敗
+plw_pfhousingcomponent.5	回收或移除了所有設置物.
+plw_pfhousingcomponent.6	留下了無法回收或移除的設置物.
+plw_pfhousingcomponent.7	農場房屋簽約成功
+plw_pfhousingcomponent.8	因夢想生活VIP與尊榮生活VVIP服務期間結束, 契約變更失敗了.
+plw_pfhousingcomponent.9	因金幣不足而簽約失敗了.
+plw_pfhousingcomponent.10	簽約失敗了.
+plw_pfhousingcomponent.11	為帳篷或圓屋頂的小屋時, 要擴張房屋才可使用.
+plw_pfhousingcomponent.12	無法利用銀行交易.
+plw_pfhousingcomponent.13	無法利用銀行交易.
+plw_pfhousingcomponent.14	成功延長契約了.
+plw_pfhousingcomponent.15	因夢想生活VIP與尊榮生活VVIP服務期間結束, 契約變更失敗了.
+plw_pfhousingcomponent.16	因金幣不足而契約延長失敗了.
+plw_pfhousingcomponent.17	簽約失敗了.
+plw_pfhousingcomponent.18	不是可延長契約的期間.
+plw_pfhousingcomponent.19	無法利用銀行交易.
+plw_pfhousingcomponent.20	無法利用銀行交易.
+plw_pfhousingcomponent.21	時間過太久了. 請再次嘗試.
+plw_pfhousingcomponent.22	為帳篷或圓屋頂的小屋時, 要擴張房屋才可進入.
+plw_pfhousingcomponent.23	在農場中有2棟以上房子時無法簽約.
+plw_pfhousingcomponent.24	房間完成了開放. 現在可以進行使用.
+plw_pfhousingcomponent.25	發生了不知名的錯誤.
+plw_pfhousingcomponent.26	已經開放完成的房間.
+plw_pfhousingcomponent.27	工程費用不足.\n若是想要開放房間需要以下的材料.\n\n{0}
+plw_pfhousingcomponent.28	工程費用不足.
+plw_pfhousingcomponent.29	目前還無法開啟.
+plw_pfhousingcomponent.30	{0} 研究開始了.
+plw_pfhousingcomponent.31	{0} 研究結束了.
+plw_pfhousingcomponent.32	{0} 研究取消了.
+plw_pfhousingcomponent.33	{0} 效果啟動了.
+plw_pfhousingcomponent.34	正在進行研究課程的研究台無法升級.\n請先中斷或是完成進行中的研究課程.
+plw_privatefarm.1	離開農場失敗.
+plw_privatefarm.2	無法移除.
+plw_privatefarm.3	材料不足.
+plw_privatefarm.4	沒有辦法種苗.
+plw_privatefarm.5	製作了農場. 透過農場選項(快捷鍵 A)可以移動到農場.
+plw_privatefarm.6	發生了不知名的錯誤.
+plw_privatefarm.7	農場已經存在.
+plw_privatefarm.8	選到錯誤的主題了.
+plw_privatefarm.9	名稱被重複了.
+plw_privatefarm.10	生產中發生了錯誤. 請再次進行.
+plw_privatefarm.11	錯誤
+plw_privatefarm.12	農場擴張失敗.\n請離開農場後再次進入.
+plw_privatefarm.13	進入農場了.
+plw_privatefarm.14	離開農場了.
+plw_privatefarm.15	農場的 {0} 完畢.
+plw_privatefarm.16	介紹
+plw_privatefarm.17	成功申請拜訪該當農場.
+plw_privatefarm.18	介紹
+plw_privatefarm.19	拜訪者申請失敗.\n請稍後再次確認.
+plw_privatefarm.20	介紹
+plw_privatefarm.21	沒有可以拜訪的權限.\n要登記申請拜訪者嗎?
+plw_privatefarm.22	錯誤
+plw_privatefarm.23	農場有變化而移動到外面.
+plw_privatefarm.24	從農場趕出去了.
+plw_privatefarm.25	NA
+plw_privatefarm.26	NA
+plw_privatefarm.27	chick
+plw_privatefarm.28	chick
+plw_privatefarm.29	製作了農場. 透過農場選項{0}可以移動到農場.
+plw_privatefarm.30	農場的分流固定功能解除.\n可以在所有分流中自由進入.
+plw_privatefarm.31	農場分流固定功能設定.\n只有在{0}可以進入.
+plw_privatefarm.32	農場分流固定設定變更失敗.
+plw_privatefarm.33	\n請在{0}後再次進行
+plw_privatefarm.34	{0}\n要移動{1}後進入嗎?\n\n
+plw_privatefarm.35	浪漫農場管理費以農場石{0}個進行支付.\n目前所剩餘的農場石為{1}個.
+plw_privatefarm.36	浪漫農場管理費不足遭受到浪漫農場懲罰.
+plw_privatefarm.37	因為道具不足所以無法避免需要受到懲罰.
+plw_privatefarm.38	懲罰移除了.
+plw_privatefarm.39	發生錯誤.請稍候再試試看.
+plw_privatefarm.40	美容室代幣不足.
+plw_privatefarm.41	發生錯誤.請稍候再試試看.
+plw_privatefarm.42	依據其他角色農場正在建立中. 請稍後再次確認.
+plw_privatefarm.43	農場石不夠.
+plw_privatefarm.44	已有重複的名稱.
+plw_privatefarm.45	真的確定要使{0}{} 成長嗎?
+plw_privatefarm.46	\n<color=5>[</color><color=2>所需材料</color><color=5>]</color>
+plw_privatefarm.47	因房屋內還留有家具而無法刪除.
+plw_privatefarm.48	{0}{} \n進入我的農場.
+plw_privatefarm.49	{0}{} \n從我的農場退場了.
+plw_privatefarm.50	已進入農場房屋.
+plw_privatefarm.51	因屋內有訪客而無法刪除房屋.
+plw_privatefarm.52	農場主人請求退場.
+plw_privatefarm.53	為無法一次回收的道具.\n
+plw_privatefarm.54	除了無法一次回收的下列設置物之外,一次回收成功.\n
+plw_privatefarm.55	一次性回收成功.
+plw_privatefarm.56	確定要回收該設施物嗎?
+plw_privatefarm.57	為無法多重選擇的設施物.
+plw_privatefarm.58	有農作物的田地無法多重選擇. 請先採收農作物.
+plw_privatefarm.59	無法回收超過{0} 個.
+plw_privatefarm.60	若想要移除,包含有消耗農場時的設施物.\n共 {0}個的農場時將消耗, 轉換成設施物道具.\n使用設施物道具時,可以重新設置該設施物.\n確定要移除嗎?
+plw_privatefarm.61	必須要清空臨時物品欄,才可進行一次回收.
+plw_privatefarm.62	寵物正在裡面休息中的小屋無法多重選擇.請先完成寵物休息或直接中斷.
+plw_privatefarm.63	無法休息的寵物類型.
+plw_privatefarm.64	寵物已經在休息中,或是正在調查中.
+plw_privatefarm.65	寵物非休息中.
+plw_privatefarm.66	寵物可以完成休息了.請完成休息.
+plw_privatefarm.67	休息所需時間尚未結束,目前還無法完成休息.
+plw_privatefarm.68	無法讓召喚中的寵物進行休息. \n請先解除該寵物的召喚,再次按下[休息開始]按鍵.
+plw_privatefarm.69	無法讓無法行動狀態的寵物進行休息. \n請先治療該寵物後,再次按下[休息開始]按鍵.
+plw_privatefarm.70	無法讓等待刪除狀態的寵物進行休息. \n請先取消該寵物的刪除後,再次按下[休息開始]按鍵.
+plw_privatefarm.71	發生不明錯誤.
+plw_privatefarm.72	{0}{}已經在浪漫農場寵物小屋內完成休息.
+plw_privatefarm.73	{0}的綻放
+plw_privatefarm.74	進行綻放中的綻放籠子，無法多重選擇.請綻放完成後再試.
+plw_privatefarm.75	一次都沒有召喚過的寵物無法進行休息. \n請召喚該寵物一次後,再次按下[休息開始]按鍵.
+plw_privatefarmrankingmgr.1	正在申請中. 請稍後再次嘗試.
+plw_privatefarmzone.1	可以在所有分流自由進入.
+plw_privatefarmzone.2	只有在目前分流可以進入.
+plw_propeffect.1	{0}\n({1}秒 , {2}m)
+plw_propeffect.2	{0}\n({1}秒 , {2}m)
+plw_propeffect.3	{0} - {1}分!!!
+plw_pvpdescmgr.1	無法接收順位目錄.
+plw_pvpdescmgr.2	觀看順位
+plw_pvpdescmgr.3	無法接收順位目錄.
+plw_pvpdescmgr.4	觀看順位
+plw_pvpmgr.1	精靈和巨人PVP允許選定3分鐘之內無法再變更.
+plw_pvpmgr.2	聖騎士和闇黑武士PVP允許選項是, 3分鐘之內無法再變更.
+plw_pvpmgr.3	同意PVP後3分鐘之內無法再變更.
+plw_quest.1	超過時間
+plw_quest.2	超過時間
+plw_questcomponent.1	坐在階梯的狀態下是無法終止任務的.
+plw_questcomponent.2	迷你遊戲中途無法離開.
+plw_relationmgr.1	文字登記完畢.
+plw_relationmgr.2	傳送時出現錯誤.
+plw_relationmgr.3	遊戲擷圖登記失敗.
+plw_relationmgr.4	遊戲擷圖登記失敗.\n沒有回應.
+plw_relationmgr.5	傳送時出現錯誤.
+plw_relationmgr.6	{0}年前
+plw_relationmgr.7	{0}個月前
+plw_relationmgr.8	{0}天前
+plw_relationmgr.9	{0}小時前
+plw_relationmgr.10	{0}分鐘前
+plw_relationmgr.11	就在剛剛
+plw_relationmgr.12	受到治療了
+plw_relationmgr.13	我 \n對別人進行包紮
+plw_relationmgr.14	我被 \n別人進行包紮
+plw_relationmgr.15	被別人進行復活了
+plw_relationmgr.16	對別人進行復活了
+plw_relationmgr.17	騎在寵物上
+plw_relationmgr.18	提出求救時 \n伸出了援手
+plw_relationmgr.19	提出求救時\n您過來了
+plw_relationmgr.20	進行了交易
+plw_relationmgr.21	進行了銀行配送\n兼職
+plw_relationmgr.22	收到銀行配送
+plw_relationmgr.23	一起完成了\n組隊任務
+plw_relationmgr.24	一起開始了\n地下城
+plw_relationmgr.25	一起完成了\n地下城
+plw_relationmgr.26	一起開始的\n影子任務
+plw_relationmgr.27	一起完成了\n影子任務.
+plw_relationmgr.28	一起進入\n勒內斯了
+plw_relationmgr.29	一起守護了\n勒內斯的蛋
+plw_relationmgr.30	一起搭乘了木筏
+plw_relationmgr.31	一起搭乘了熱氣球
+plw_relationmgr.32	一起打倒了\n平原首領
+plw_relationmgr.33	在營地裡\n跟其它人分享食物
+plw_relationmgr.34	一起合奏
+plw_relationmgr.35	一起參加\n時尚大賽
+plw_relationmgr.36	對我\n下起雨來
+plw_relationmgr.37	一起在營地裡
+plw_relationmgr.38	進行了競技騎士大賽
+plw_relationmgr.39	進行了PvP
+plw_relationmgr.40	進行了寵物對戰
+plw_relationmgr.41	一起參加\n升段考試
+plw_relationmgr.42	進行了悄悄話
+plw_relationmgr.43	\n({0}回)
+plw_relationmgr.44	請稍後再試.
+plw_reputationcomponent.1	從{0}{}
+plw_reputationcomponent.2	評價增加 %.1f .
+plw_reputationcomponent.3	從{0}的評價 
+plw_rockpaperscissorscomponent.1	對方拒絕進行剪刀石頭布.
+plw_rockpaperscissorscomponent.2	{0}申請參加剪刀石頭布.要回應嗎?
+plw_rockpaperscissorscomponent.3	沒有可使用的對決卷.
+plw_scrapbook.1	登記成功.
+plw_scrapbook.2	有其他廚師登記更好的料理.
+plw_scrapbook.3	輸入的文字中有包含不適用的語詞.
+plw_scrapbook.4	回應欄需要輸入.\n請輸入回應文字
+plw_scrapbook.5	儲存失敗.\n請再次進行
+plw_scrapbook.6	登記失敗.
+plw_senmagbattleground.1	山米爾公會戰
+plw_senmagbattleground.2	您的公會是已經登記公會戰的狀態.\n要移動到戰場上嗎?
+plw_senmagbattleground.3	前往戰場
+plw_senmagbattleground.4	前往山米爾
+plw_senmagbattleground.5	取消
+plw_servicemgr.1	由於沒有使用{0}而無法打啟背包.\n若要取出包包內的物品請使用'解除背包'指令.
+plw_servicemgr.2	{0}的期限到期而開啟中所有背包已關閉.\n若要取出背包內的物品請使用'解除背包'命令.
+plw_servicemgr.3	目前沒有在使用{0}.\n若想要拿出存放的物品請{1}此服務.
+plw_servicemgr.4	目前沒有在使用{0}.\n若想要放入物品請{1}此服務.
+plw_servicemgr.5	目前沒有在使用{0}.\n雖然可以購買背包, 但是無法使用.
+plw_servicemgr.6	公會是增加了公會網頁等的資源消費系統\n公會長必須使用 {0}中\n\n公會長沒有使用 {1}時\n與公會相關的服務將會暫時中止\n公會會員跟 {2}無關.\n
+plw_servicemgr.7	沒有在使用{0}而無法開啟各人商店.
+plw_servicemgr.8	沒有套用{0}{이}中時\n無法使用商店功能
+plw_servicemgr.9	今天你生日喔~ 要前去領取娜歐為你準備的禮物嗎?
+plw_shapeshift.1	<color=3>無法變身</color>
+plw_shapeshift.2	<color=3>無法變身</color>
+plw_shapeshift.3	<color=4>蒐集完成</color>
+plw_shapeshift.4	<color=2>現在無法蒐集</color>
+plw_shapeshift.5	危險逃脫中無法使用
+plw_showdown.1	對戰已取消.
+plw_showdown.2	開始對戰.
+plw_showdown.3	開始!
+plw_showdown.4	無法進行對戰.
+plw_showdown.5	現在無法申請對戰.
+plw_showdown.6	파티 리더가 파티 대전 신청을 했습니다.
+plw_showdown.7	파티 리더가 파티 대전 초대를 받았습니다.
+plw_showdown.8	파티 리더가 파티 대전 신청을 거절했습니다.
+plw_showdown.9	파티 대전에서 탈락하였습니다.
+plw_skiing.1	jump距離 : {0} meter\n藝術分數 : {1}分\n總分 : {2}分
+plw_skiing.2	{0}m\n{1}分\n{2}分
+plw_skiing.3	跳躍距離\n藝術分數\n總分
+plw_skillmgr.1	{0} {1} 以上無法使用.
+plw_skillmgr.2	無法使用.\n從{0}開始可以使用.
+plw_skillmgr.3	{0}以上無法使用.
+plw_skillmgrmsg.1	身體變小時無法做一部份的動作
+plw_skillmgrmsg.2	중독 방지 중에는 불가합니다.
+plw_soulmatecomponent.1	跳舞時間結果!\n\n
+plw_soulmatecomponent.2	[{0}] - {1}分\n
+plw_soulmatecomponent.3	[{0}] - {1}分\n
+plw_soulmatecomponent.4	\n總 {0}分!!
+plw_soulmatecomponent.5	開始進行跳舞時間喔!!\n開始同時行動會被限制.\n你要開始嗎?
+plw_soulmatecomponent.6	心靈伴侶
+plw_soulmatecomponent.7	我是無法配對心靈伴侶的狀態.
+plw_soulmatecomponent.8	跟對方的距離太遠.
+plw_soulmatecomponent.9	對方是無法配對心靈伴侶的狀態..
+plw_soulmatecomponent.10	{0}想要跟你成為心靈伴侶.\n你要接受嗎?
+plw_soulmatecomponent.11	心靈伴侶
+plw_soulmatecomponent.12	對方拒絕心靈伴侶.
+plw_soulmatecomponent.13	邀請跟{0}一起飛行.你要接受嗎?
+plw_soulmatecomponent.14	心靈伴侶
+plw_specialization.1	[{0}] 組合的內容已儲存.
+plw_specialization.2	[{0}] 組合的特性已啟動.
+plw_specialization.3	{0}增加了{1}.
+plw_specialization.4	已儲存所有組合的內容.
+plw_summonmaster.1	此寵物搭乘中無法召喚.
+plw_summonmaster.2	技能使用中無法將寵物解除召喚.
+plw_summonmaster.3	與夥伴對話中無法解除召喚.
+plw_summonmaster.4	無法召喚寵物及夥伴的地下城任務區.
+plw_summonmaster.5	此為現在所沒有提供的服務.
+plw_summonmaster.6	錯誤的道具.
+plw_summonmaster.7	已經召喚.
+plw_summonmaster.8	召喚欄位不夠.
+plw_summonmaster.9	無名稱.
+plw_summonmaster.10	要求進行召喚的Client無效.
+plw_summonmaster.11	無法找到適當的召喚位置.
+plw_summonmaster.12	自動飛行 建立失敗.
+plw_summonmaster.13	有無法一起召喚的自動飛行.
+plw_summonmaster.14	今日可召喚的限制時間全部消耗掉.
+plw_summonmaster.15	目前為無法進行召喚的狀態.
+plw_summonmaster.16	無法查明原因{0}.
+plw_summonmaster.17	自動飛行召喚失敗.\n{1}
+plw_summonmaster.18	
+plw_summonmaster.19	解除召喚失敗.
+plw_summonmaster.20	名稱設定失敗.
+plw_summonmaster.21	此為現在沒有提供的服務.
+plw_summonmaster.22	錯誤的道具.
+plw_summonmaster.23	已經有名稱了.
+plw_summonmaster.24	使用造型沙龍期間是無法招喚寵物或夥伴的.
+plw_summonmaster.25	使用技能中無法分流移動.
+plw_summonmaster.26	與夥伴對話中無法分流移動.
+plw_summonmaster.27	目前無法分流移動. 請稍後再試.
+plw_summonmaster.28	因遊魂怒吼無法召喚寵物, 夥伴.
+plw_summonmaster.30	目前為無法召喚寵物或夥伴的狀態.
+plw_summonmaster.31	沒有召喚技能的寵物,無法登錄在朋友召喚欄位.
+plw_summonmaster.32	超過芬恩寵物的最大快捷欄位.
+plw_summonmaster.33	因沒有寵物,所以不能登錄.
+plw_summonmaster.34	非芬恩寵物,所以不能登錄.
+plw_summonmaster.35	沒有召喚技能的寵物,無法登錄在朋友召喚欄位.
+plw_summonmaster.36	超過最大快捷欄位數量,無法登錄.
+plw_summonmaster.37	因沒有寵物,所以不能登錄.
+plw_summonmaster.38	非寵物的技能,無法登錄.
+plw_summonmaster.39	芬恩同步時,無法召喚其他寵物.
+plw_summonmaster.40	調查或是休息中的寵物,無法登錄到朋友召喚欄位.
+plw_summonmaster.41	朋友召喚變更依照各欄位,愛爾琳時間1天只可進行1次.\n(愛爾琳時間06點後可變更)
+plw_summonmaster.42	為已登錄在朋友召喚欄位的寵物.
+plw_summonmaster.43	被召喚的寵物,無法登錄在朋友召喚欄位.
+plw_summonmaster.44	朋友召喚變更依照各欄位,愛爾琳時間1天只可進行1次.\n(愛爾琳時間06點後可變更)
+plw_summonmaster.45	好像不能在這裡解除召喚寵物.
+plw_supportpuppetcomponent.1	外型已被變更, 有使用限制.
+plw_supportpuppetcomponent.2	魔法盾發動.
+plw_supportpuppetcomponent.3	魔法盾變為未發動.
+plw_tabletalkpanelprop.1	可變更主題.
+plw_tabletalkpanelprop.2	{0:n分m秒後}可變更.
+plw_tabletalkpanelprop.3	無法變更別人的主題
+plw_talent.1	現在沒有獲得的才能.\n技能升級的話,才可以獲得才能.
+plw_talent.2	{0} 可以使用才能稱號.
+plw_talent.3	該才能稱號無法使用.
+plw_talent.4	才能稱號一天能換一次.
+plw_talent.5	目前持有的 AP不足\n無法變更一代宗師效果.
+plw_tame.1	距離太遠,無法操縱巨魔像.
+plw_trademgrmsg.1	其他玩家的交易背包已擴充.
+plw_trademgrmsg.2	金錢不足.
+plw_trademgrmsg.3	金幣支付失敗.
+plw_trademgrmsg.4	金錢不足. 雖然銀行內有餘額但連線已被限制.
+plw_trademgrmsg.5	銀行密碼錯誤.
+plw_trademgrmsg.6	銀行存款支付失敗.
+plw_trademgrmsg.7	臨時背包中如果有道具的話便無法擴充.
+plw_transportcomponent.1	如果現在搭乘熱氣球,那你所擁有的星星就都會消失.\n去凱彼那裡的話,可以得到補償.\n\n要搭乘嗎?
+plw_transportcomponent.2	搭乘熱氣球嗎?
+plw_transporterpart_crossbow.1	可以攻擊遠距離敵人的弩炮技能. 想使用弩炮技能的話必須裝備弩炮專用弩箭.
+plw_transporterpart_crossbow.2	沒有弩炮專用弩箭,不能使用弩炮.
+plw_transporterpart_crossbow.3	手上拿著東西的話不能使用弩炮技能.
+plw_transporterpart_crossbow.4	可從遠距離攻擊敵人的弩炮技能.
+plw_transporterpart_engine.1	如果在熱氣球的燃燒器中放入發火石的話,會加強熱氣球的升力.
+plw_transporterpart_engine.2	沒有帶發火石.
+plw_transporterpart_engine.3	沒有帶發火石.
+plw_transporterpart_engine.4	點燃發火石的火力不足,無法使用.
+plw_transporterpart_engine.5	熱氣球因為升力不足在下降.\n應該把發火石放入燃燒器中,加強升力.
+plw_transporterpart_flycontroller.1	能夠操縱熱氣球的舵. 抓住舵打開專用視窗,可以控制起飛著陸還有飛行方向.
+plw_transporterpart_flycontroller.2	不能使用自動導航到無法去的地方.
+plw_transporterpart_flycontroller.3	這熱氣球不需操控!
+plw_treasureofgod.1	復原失敗.
+plw_treasureofgod.2	復原成功.
+plw_turret.1	手上有道具的狀是無法設定為瞄準模式.
+plw_turret.2	\n可以設置為游標模式.
+plw_turret.3	變更為游標模式.
+plw_turret.4	變更為瞄準模式.
+plw_vehicle.1	移動速度增加.
+plw_vehicle.2	夥伴無法獲得移動速度增加效果.
+plw_vehicle.3	移動速度增加效果消失.
+plw_vehicle.4	{0}邀請一起飛行.你要接受嗎?
+plw_vehicle.5	一起飛行
+plw_weathermgr.1	下雪了
+plw_weathermgr.2	下雪了
+plw_weathermgr.3	雪停了
+plw_weathermgr.4	下雪了.\t從大自然和動物身上可採集更多的物品.\t釣魚和生產技能的成功率上升.\t營火技能的持續時間縮短.
+plw_worldmsg.1	{0}在{2}召喚{1}了.
+plw_worldmsg.2	{0}召喚{1}了.
+plw_worldmsg.3	有曾經進行過遊戲的地下城.\n確定要再次進入嗎?\n(會移動至該地下城所在的分流)
+plw_worldmsg.4	地下城再次入場
+plw_worldmsg.5	已超過再次入場限制時間, 無法入場.
+plw_worldmsg.6	曾經進行過遊戲的地下城已結束.
+plw_worldmsg.7	因再次進入之前的隊伍失敗, 無法入場.
+plw_worldmsg.8	因分流移動失敗, 無法入場.
+plw_worldmsg.9	因使用非正常的方式接近地下城, 再次入場失敗.
+plw_worldmsg.10	可再次入場剩餘次數 : {0}
+plw_worldmsg.11	超過可再次入場次數, 無法再次進入曾經進行過遊戲的地下城.
+plw_worldmsg.12	{0} 從 {1}中獲得 {2}{} . ({3})
+plw_worldmsg.13	在{0}: {1} 地區中 {2} 的即興演奏獲得柯勒斐雷的祝福.
+plw_worldmsg.14	在{0}: {1} 地區中的柯勒斐雷的祝福已消失.
+plw_worldmsg.15	在{0}: {1} 地區中的柯勒斐雷的的祝福還剩下 {2}分鐘.
+rodeominigamehandler.1	制服暴動的凱倫!!
+rodeominigamehandler.2	注意看出現的標示,連按反方向移動鍵!!
+szconditiondurationuphandler.1	堅定意志
+szconditiondurationuphandler.2	快速
+szconditiondurationuphandler.3	超越:生命
+szconditiondurationuphandler.4	要害貫通
+szconditiondurationuphandler.5	{0}持續時間剩下10秒.
+szconditionhandler.1	堅定意志
+szconditionhandler.2	時間歪曲
+szconditionhandler.3	快速
+szconditionhandler.4	超越:生命
+szconditionhandler.5	要害貫通
+szconditionhandler.6	{0}持續時間剩下10秒.
+unlockweaponpower.1	凡赫辛吸收 {0}的生命甦醒.
+unlockweaponpower.2	沉睡凡赫辛的憤怒.
+web.avatar_file	/avatarupload_2.asp
+web.avatar_server	http://tavatar.mabinogi.com.tw
+web.livescr_file	/live/liveupload.asp
+web.livescr_server	http://tavatar.mabinogi.com.tw
+web.ui_url	http://tavatar.mabinogi.com.tw/ui/
+window.ask_burn_item_enchant	確定要將{0}燒毀嗎?\n可以得到少許的經驗值和物品,還有魔力賦予以及魔法粉作為補償.
+window.ask_burnup_item	確定要將{0}燒毀嗎?\n可以得到少許的經驗值和物品作為補償.
+window.ask_expensive_drop	高級物品.要繼續嗎?\n\n(可從視窗中的其他TAB中移過來.)
+window.ask_give_item	確定要將{1}送給{0}做為禮物嗎?\n禮物一但送出去就沒辦法再要回來了.
+window.ask_item_drop	確定要扔掉嗎?
+window.blacksmith.making_points	正在排置標示.
+window.burn_entrust_name	魔力賦予委託
+window.burnup_item_enchant_notenough_material	要消除掉{0}嗎?\n可以得到少量的經驗值和物品作為補償.\n 為了要取得魔力.需要得到魔法值藥草和祝福藥劑.
+window.burnup_item_enchant_title	魔力賦予燃燒
+window.burnup_item_title	一般消除
+window.chronicle_view.timesort_dsc	從久遠的開始
+window.friends_in_offline_state	離線好友
+window.friends_online_state	線上好友
+window.lobby_character_select_title	Select Your Character\n選擇角色
+window.msg_item_age0	該物品只能 {0}歲至{1}歲之間的角色可以裝備.
+window.msg_item_age1	該物品只能 {0}歲以上的角色可以裝備.
+window.msg_item_age2	該物品只能 {0}歲比下的角色能夠裝備.
+window.pet.rebirth	Rebirth Pet\n 重生寵物角色.
+window.pet.title.new	Create New Pet\n請創立新的寵物角色.
+window.production.essential_party_1	所需材料 (完成至<color=2>{0}</color><mini>({1})</mini>%. <color=2>(適用組隊獎勵)</color>) :
+window.production2.available_count	可生產數 : {0}個
+window.production2.essential_party	成功率 : <color=2>{0}</color><mini>({1})</mini>% <color=2>(適用組隊獎勵)</color>
+window.production2.skill_level	目前技能等級 : {0}
+window.production2.successrate	成功率 : {0}%
+window.title.rebirth	Rebirth Character\n重生角色
+window.weather.clear	天氣轉晴.
+window.weather.cloudy	佈滿雲的陰天.
+window.weather.rainy	下雨.
+window.weather.rainy2	下雨.
+window.weather.rainy_help_caption	下雨. \t可從自然與生物中採集更多的物品.\t釣魚與生產技能的成功率提高.\t營火的持續時間縮短.
+window.weather.stop_raining	雨停了.
+mabinogimain.3	취소
+mabinogimain.5	불편을 끼쳐드려 대단히 죄송합니다.
+mabinogimain.7	MabinogiKorea
+pleioneglobalconsole.3	테스트 스트링
+pleionelogin.47	게임이용이 차단됩니다. (코드 : {0})
+plw_item.100	{0} {1}
+plw_item.101	{0} {1}
+plw_item.102	{0} {1}
+plw_item.103	{0} {1}
+plw_item.104	{0} {1}
+plw_item.105	{0} {1}
+plw_item.106	{0} {1}
+plw_item.97	{0} {1}
+plw_item.99	{0} {1}
