@@ -1,0 +1,955 @@
+﻿autobotdescmgr.1	戰鬥經驗值獎勵 {0}%
+autobotdescmgr.2	移動速度 {0}%
+autobotdescmgr.3	{0} 增加
+autobotdescmgr.4	爆擊傷害值 {0}%
+autobotdescmgr.5	寵物戰鬥經驗值bonus {0}%
+booleanfunctionhandler.1	精靈或支持精靈時
+booleanfunctionhandler.2	巨人或支持巨人時
+booleanfunctionhandler.3	正在召喚巨魔像中
+booleanfunctionhandler.4	正在設置防護壁中
+booleanfunctionhandler.5	寵物召喚中
+campfirespiritmgr.1	[패널티 초기화] 동일 모닥불 반복 소각 패널티
+campfirespiritmgr.2	[패널티 초기화] 일일 반복 소각 패널티
+campfirespiritmgr.3	[패널티 정보] 패널티 총합: {0}%\n -> 동일 모닥불 반복 소각 패널티: {1}%, 소각횟수: {2}, 프랍ID: {3}\n -> 일일 반복 소각 패널티: {4}%
+camputil.1	在倉庫內沒有營火工具
+camputil.2	把營火工具放在個人商店
+chainskilldesc.1	使用第{0}階段連續技之後就可使用技能.
+commercedescmgr.1	個
+compareskilllevelhandler.1	{0}等級處於 {1}級時
+compareskilllevelhandler.2	{0}等級處於 {1}級以上時
+compareskilllevelhandler.3	{0}等級處於 {1}級以下時
+compareskilllevelhandler.4	{0} 等級 {1} 以上時貿易中
+compareskilllevelhandler.5	{0} 等級 {1}段以上時貿易中
+compareskilllevelhandler.6	{0} 特性 {1}等級以上時
+continentmgr.1	歐拉大陸
+continentmgr.2	伊利亞大陸
+continentmgr.3	貝爾法斯特島
+continentmgr.4	莫邪海
+divineknightdescmgr.1	防禦
+divineknightdescmgr.2	束縛
+divineknightdescmgr.3	懲戒
+dungeon.downstairs	<mini>DOWN</mini> 下一層
+erinnlandachievementdescmgr.1	一般
+erinnlandachievementdescmgr.2	限定
+erinnlandachievementdescmgr.3	迷你遊戲
+erinnlandachievementdescmgr.4	精彩活動
+etc.combat_power.strong1	看似非常弱強.
+etc.combat_power.strong2	看似稍強.
+etc.combat_power.strong3	看似強大.
+etc.combat_power.strong4	看似非常強大.
+etc.combat_power.weak1	看似非常微弱.
+etc.combat_power.weak2	看似稍弱.
+etc.combat_power.weak3	看似弱小.
+etc.combat_power.weak4	看似非常弱小.
+etc.daysafter	{0}日後
+etc.explo_level	探險等級
+etc.exploquest_result_desc_reward_exp	探險經驗值 {0}
+etc.gamemonth_albaneiler	春分(Alban Eiler)
+etc.gamemonth_albaneiler_desc	提高生產技能成功率.\t增加生活系列技能等級提升獎勵.\t比做衣服時顏色更漂亮.(未具體呈現)
+etc.gamemonth_albaneiler_desc_2	提高生產技能成功率.\n增加生活系列技能等級提升獎勵.
+etc.gamemonth_albanelved	秋收節(Alban Elved)
+etc.gamemonth_albanelved_desc	在商店能以便宜的價格購買東西.\t銀行的手續費降低.\t料理相關技能的成功率提高.(未具體呈現)\t增加料理相關技能等級提升獎勵.(未具體呈現)
+etc.gamemonth_albanelved_desc_2	在商店能以便宜的價格購買東西.\n銀行的手續費降低.
+etc.gamemonth_albanheruin	立夏(Alban Heruin)
+etc.gamemonth_albanheruin_desc	減少無法行動時的懲罰.\t增加魔法相關技能等級提升獎勵.\t提高所有藥水的效果.
+etc.gamemonth_albanheruin_desc_2	減少無法行動時的懲罰.\n增加魔法相關技能等級提升獎勵.\n提高所有藥水的效果.
+etc.gamemonth_baltane	入夏(Beltane)
+etc.gamemonth_baltane_desc	提高做完兼職時的報酬.\t丟出跟相同的物品,會更換地城形狀.\t提高地下城內出現較多物品數量的可能性.
+etc.gamemonth_baltane_desc_2	提高做完兼職時的報酬.\n丟出跟相同的物品,會更換地城形狀.\n提高地下城內出現較多物品數量的可能性.
+etc.gamemonth_friday	星期五
+etc.gamemonth_imbolic	立春(Imbolic)
+etc.gamemonth_imbolic_desc	提高暴擊的發生機率.\t提高幸運一擊的機率.\t增加戰鬥相關技能等級提升獎勵.\t增加音樂相關技能等級提升獎勵.
+etc.gamemonth_imbolic_desc_2	提高暴擊的發生機率.\n提高幸運一擊的機率.\n增加戰鬥相關技能等級提升獎勵.\n增加音樂相關技能等級提升獎勵.
+etc.gamemonth_lughnasadh	秋收(Lughnasadh)
+etc.gamemonth_lughnasadh_desc	提高魔力賦予的成功率.\t提高從自然界或動物中獲得物品的機率.\t減少因讀書而消耗的耐力.\t增加從具有魔法印章的讀書中獲得能力的可能性.
+etc.gamemonth_lughnasadh_desc_2	提高魔力賦予的成功率.\n提高從自然界或動物中獲得物品的機率.\n減少因讀書而消耗的耐力.\n增加從具有魔法印章的讀書中獲得能力的可能性.
+etc.gamemonth_monday	星期一
+etc.gamemonth_notice	今天愛爾琳是{0}.\t今天的效果如下....\t{1}
+etc.gamemonth_samhain	山夏(Samhain)
+etc.gamemonth_samhain_desc	年齡增加獲得 AP.\t提高飲食的基本效果.\t增加完成技能的完全修煉時所獲得的經驗值.
+etc.gamemonth_samhain_desc_2	年齡增加獲得 AP.\n提高飲食的基本效果.\n增加完成技能的完全修煉時所獲得的經驗值.
+etc.gamemonth_saturday	星期六
+etc.gamemonth_sunday	星期日
+etc.gamemonth_thursday	星期四
+etc.gamemonth_tuesday	星期二
+etc.gamemonth_wednesday	星期三
+etc.gameword.accessory	飾品
+etc.gameword.ceann_harbor	凱安港口
+etc.gameword_elemental_fire	火屬性
+etc.gameword_elemental_ice	冰屬性
+etc.gameword_elemental_lightning	雷屬性
+etc.gameword_etc_exp	經驗值
+etc.gameword_item.attack_max	最大攻擊力
+etc.gameword_item.attack_min	最小攻擊力
+etc.gameword_item.attack_speed	攻擊速度
+etc.gameword_item.balance	平衡性
+etc.gameword_item.critical	暴擊率
+etc.gameword_item.defense	防禦力
+etc.gameword_item.down_hit_count	連擊次數
+etc.gameword_item.durability	耐久度
+etc.gameword_item.durability_max	最大耐久度
+etc.gameword_item.protect	保護
+etc.gameword_item.range	有效射程距離
+etc.gameword_item.wound_max	最大負傷率
+etc.gameword_item.wound_min	最小負傷率
+etc.gameword_param_age	年齡
+etc.gameword_param_attackmax	最大傷害
+etc.gameword_param_attackmin	最小傷害
+etc.gameword_param_ciritcal	暴擊率
+etc.gameword_param_defense	防禦
+etc.gameword_param_dexterity	敏捷
+etc.gameword_param_food	飢餓度
+etc.gameword_param_intelligence	智力
+etc.gameword_param_level	等級
+etc.gameword_param_life	生命值
+etc.gameword_param_lifemax	最大生命值
+etc.gameword_param_luck	幸運
+etc.gameword_param_mana	魔法值
+etc.gameword_param_manamax	最大魔法值
+etc.gameword_param_protect	保護
+etc.gameword_param_rate	損害平衡性
+etc.gameword_param_stamina	耐力值
+etc.gameword_param_staminamax	最大耐力值
+etc.gameword_param_strength	力量
+etc.gameword_param_wattackmax	最大負傷率
+etc.gameword_param_wattackmin	最小負傷率
+etc.gameword_param_will	意志
+etc.gameword_param_wound	負傷
+etc.house_estate.bidding_due	{0}月{1}日  {2}點{3}分
+etc.house_form.site_address_num	號
+etc.house_form.site_address_street	路
+etc.interface_houseestate.0	{0}月{1}日  {2}點{3}分
+etc.invalid_material	在材料中有還未完成的物品
+etc.invalid_skill_trainingcondition	\n技能數據有誤.\n完成技能修煉經驗值100以下.\n技能名稱 : {0},技能等級 : {1}
+etc.journaltime	{0}月 {1}日 {2}點
+etc.option.in_arbeit	{0} 兼職 {1}次以上完成時
+etc.option.in_broken	斷掉的時候
+etc.option.in_condition	{0}的狀態
+etc.option.in_month	{0} 時
+etc.option.in_title	{0} 冠上稱號時
+etc.option.not_in_broken	沒有斷掉時
+etc.quest_of_who	{0}的 {1}
+etc.quest_result_desc_item_quantity	{0} {1} 個
+etc.quest_result_desc_reward_ap	AP{0}
+etc.quest_result_desc_reward_exp	{0:GW_EXP}{1:exp_value}
+etc.quest_result_desc_reward_gold	賞金 {0}
+etc.quest_result_desc_reward_questscroll	任務卷軸
+etc.quest_result_desc_reward_unit_of_ap	點
+etc.quest_result_desc_reward_writechronicle	記錄在探勘年表
+etc.ruin_discoverer	{0} 發現的 {1}
+etc.skill_training_string	練習
+interface_buffer.1	{0} 恢復速度 {1}%
+interface_buffer.2	{0}恢復 每{1}秒 {2}點
+interface_buffer.3	{0:param} {1:value} 增加
+interface_buffer.4	{0:param} {1:value} 減少
+interface_character.1	目前還無法進行大陸移動.
+interface_character.2	卡普港口
+interface_character.3	首先在卡普搭船訪問貝爾法斯特.
+interface_character.4	無法進行大陸移動.
+interface_character.5	目前還無法進行大陸移動.
+interface_character.6	參加搶旗子活動中無法進行大陸移動.
+interface_character.7	參加騎士競技大賽中無法進行大陸移動.
+interface_character.8	無法大陸移動狀態.
+interface_character.9	在農場無法進行大陸移動.
+interface_character.10	在美容室無法進行大陸移動.
+interface_character.11	耳朵
+interface_character.12	眼睛
+interface_character.13	嘴巴
+interface_character.14	 種類的道具無法一同穿戴.
+interface_character.15	{}
+interface_character.16	似乎沒辦法這樣穿.
+interface_character.17	在這個地方無法進行大陸移動.
+interface_character.18	目前無法進行.\n完成[大陸的情勢] 任務後可進行大陸移動.
+interface_characteretc.1	現在這個位置無法儲存下來.
+interface_characteretc.2	對戰中無法儲存.
+interface_characteretc.3	搭乘中無法儲存.
+interface_characteretc.4	騎士競技大會進行中無法進行儲存.
+interface_characteretc.5	時尚大賽中無法儲存.
+interface_characteretc.6	搭乘中無法移動.
+interface_characteretc.7	戰鬥中無法移動.
+interface_characteretc.8	木筏/熱氣球/船搭成狀態之下無法進行移動.
+interface_characteretc.9	騎士競技大會進行中無法進行移動.
+interface_characteretc.10	目前為無法移動的狀態.
+interface_characteretc.11	無法把該地區儲存起來.
+interface_characteretc.12	此角色無法收看.
+interface_characteretc.13	目前所在位置無法收看.
+interface_characteretc.14	死亡狀態下無法收看.
+interface_characteretc.15	搭乘中無法收看.
+interface_characteretc.16	騎士競技中無法收看.
+interface_characteretc.17	時尚大賽中無法收看.
+interface_characteretc.18	交易中無法收看.
+interface_characteretc.19	在熱氣球和木筏上無法收看.
+interface_characteretc.20	PVP中無法收看.
+interface_characteretc.21	此為無法移動的地區.
+interface_characteretc.22	為無法登錄的地區.
+interface_characteretc.23	貿易途中無法傳送.
+interface_condition.1	手已滿,無法進行其他行動.\n請更換裝備後再試.
+interface_dungeonguide.1	移動失敗.
+interface_dungeonguide.2	移動失敗.\n請確認入場條件.
+interface_dungeonguide.3	無法使用新手教學進行中的角色.
+interface_echostone.1	力量
+interface_echostone.2	智力
+interface_echostone.3	敏捷
+interface_echostone.4	意志
+interface_echostone.5	生命值, 魔力, 耐力
+interface_echostone.6	奇怪的道具
+interface_echostone.7	只有在{0} 難易度以上時才可使用.
+interface_event.1	沒有獲得特性,無法使用道具.
+interface_event.2	딱지치기 이벤트 중이 아닙니다.
+interface_event.3	이미 진행 중인 대결입니다
+interface_event.4	대결을 진행할 수 없는 지역입니다.
+interface_event.5	전투 불능상태에서는 진행할 수 없습니다.
+interface_event.6	대전 중에는 진행할 수 없습니다.
+interface_event.7	펫 대전 중에는 진행할 수 없습니다.
+interface_event.8	탑승 중에는 진행할 수 없습니다.
+interface_event.9	스키를 타는 도중에는 진행할 수 없습니다.
+interface_event.10	패션쇼 중에는 진행할 수 없습니다.
+interface_event.11	물풍선 대전 중에는 진행할 수 없습니다.
+interface_event.12	이벤트 홀에서는 진행할 수 없습니다.
+interface_event.13	이미 가위바위보 중입니다.
+interface_event.14	전투중에는 진행할 수 없습니다.
+interface_event.15	대전 중에는 진행할 수 없습니다.
+interface_event.16	스킬 사용중에는 진행할 수 없습니다.
+interface_event.17	마창대회 중에는 진행할 수 없습니다.
+interface_event.18	의자에 앉은 상태로 진행할 수 없습니다.
+interface_focuslisten.1	最多只可封鎖 50名.
+interface_fynnpetcomponent.1	在無法行動的狀態下,不能使用.
+interface_fynnpetcomponent.2	在浪漫農場中,無法使用.
+interface_houseform.1	{0}路 {1}號
+interface_inventory.1	與魔杖對應的魔法屬性消失了!!
+interface_inventory.2	雖然魔杖的耐久度為 0\n但會阻止{0}道具魔法蒸發.
+interface_inventory.3	雖然魔杖的耐久度為 0\n但會阻止{0}道具魔法部分蒸發.
+interface_inventory.4	魔杖的耐久度變為 0的同時\n和魔杖連結的魔法部分被蒸發了!!
+interface_inventory.5	魔杖的耐久度變為 0的同時\n和魔杖連結的魔法部分被蒸發了!!
+interface_inventory.6	會阻止{0}道具魔法蒸發.
+interface_inventory.7	會阻止{0}道具魔法部分蒸發.
+interface_inventory.8	已經在燃燒蠟燭,該營火無法再次燃燒蠟燭.
+interface_inventory.9	營火技巧等級低下 (目前等級 : {0})
+interface_inventory.10	營火等級不足,選擇的蠟燭無法燃燒.
+interface_item.1	神聖的
+interface_item.2	無法放入空樂譜.
+interface_item.3	無法放入沒有剩餘使用次數的樂譜.
+interface_item.4	(關閉)
+interface_personalrankingmgr.1	吉爾迦斯
+interface_personalshopcustomer.1	防禦工具
+interface_personalshopcustomer.2	武器
+interface_personalshopcustomer.3	飾品
+interface_personalshopcustomer.4	魔力賦予
+interface_personalshopcustomer.5	藥水和食物
+interface_personalshopcustomer.6	書籍
+interface_personalshopcustomer.7	其他
+interface_personalshopcustomer.8	全體
+interface_personalshopcustomer.9	沒有
+interface_personalshopcustomer.10	人類
+interface_personalshopcustomer.11	人類/男性
+interface_personalshopcustomer.12	人類/女性
+interface_personalshopcustomer.13	精靈
+interface_personalshopcustomer.14	精靈/男性
+interface_personalshopcustomer.15	精靈/女性
+interface_personalshopcustomer.16	巨人
+interface_personalshopcustomer.17	巨人/男性
+interface_personalshopcustomer.18	巨人/女性
+interface_personalshopcustomer.19	全體
+interface_personalshopcustomer.20	沒有
+interface_petmgr.1	如帶有惡魔貓稱號,吞下時會有限制.
+interface_petmgr.2	無法吞下此怪物.
+interface_petmgr.3	看來無法吞下此怪物.
+interface_petmgr.4	此怪物的生命力太強,無法吞下.
+interface_petmgr.5	此怪物的力量太強,無法吞下.
+interface_prop.1	被{0}破壞的{1}
+interface_prop.2	被{0}開啟的{1}
+interface_prop.3	{0}開啟的{1}
+interface_prop.4	{0}建立的{1}
+interface_prop.5	目前組隊成員數 : {0}名
+interface_prop.6	紅隊隊員數 : {0}個人
+interface_prop.7	藍隊隊員數 : {0}個人
+interface_quest.1	(今日任務)
+interface_quest.2	(今日任務)
+interface_quest.3	 (PC방 오늘의 미션)
+interface_quest.4	 (PC방 오늘의 미션)
+interface_quest.5	(VIP 今日任務)
+interface_quest.6	(VIP 今日任務)
+interface_quest.7	新手
+interface_quest.8	業餘
+interface_quest.9	首席
+interface_quest.10	達人
+interface_quest.11	一代
+interface_quest.12	大師
+interface_quest.13	新手
+interface_quest.14	簡單
+interface_quest.15	普通
+interface_quest.16	困難
+interface_quest.17	非常困難
+interface_quest.18	一代宗師
+interface_quest.19	 (評價獎勵)
+interface_quest.20	 (榮耀今日的任務)
+interface_quest.21	 (榮耀今日的任務)
+interface_quest.22	(特別的今日任務)
+interface_quest.23	(特別的今日任務)
+interface_quest.24	(天藍光稜鏡獎勵)
+interface_quest.25	(天藍光稜鏡獎勵)
+interface_quest.26	(成長支援符咒bonus)
+interface_quest.27	(成長支援符咒bonus)
+interface_rockpaperscissors.1	沒有對決卷的話就無法進行剪刀石頭布.
+interface_rockpaperscissors.2	對方沒有對決卷.
+interface_rockpaperscissors.3	進行剪刀石頭布途中移動到其他地方了.於剪刀石頭布內取消.
+interface_rockpaperscissors.4	進行剪刀石頭布途中對方移動到其他地方了.於剪刀石頭布內取消.
+interface_rockpaperscissors.5	處於無法戰鬥的狀態.剪刀石頭布取消了.
+interface_rockpaperscissors.6	對方處於無法進行戰鬥的狀態.剪刀石頭布取消了.
+interface_rockpaperscissors.7	無法進行剪刀石頭布的狀態.
+interface_rockpaperscissors.8	對方為無法進行剪刀石頭布的狀態.
+interface_servicemgr.1	背包PLUS服務
+interface_servicemgr.2	優質服務
+interface_servicemgr.3	新夢想生活VIP服務
+interface_servicemgr.4	尊榮生活VVIP服務
+interface_servicemgr.6	榮耀之尊
+interface_shapeshift.1	必須要使用捕夢者才可以變身.
+interface_shapeshift.2	現在無法變身.{0}秒後再試.
+interface_shapeshift.3	需解除變身,才可變身怪物.
+interface_shapeshift.4	乘騎中無法變身.
+interface_shapeshift.5	無法變身中.
+interface_shapeshift.6	使用雨傘中無法變身.
+interface_shapeshift.7	使用釣魚椅子中無法變身.
+interface_shapeshift.8	砲台設置中無法變身.
+interface_shapeshift.9	使用操縱術中無法變身.
+interface_shapeshift.10	此為無法變身的地區.
+interface_shapeshift.11	時尚大賽中無法變身.
+interface_shapeshift.12	變身精通等級低.
+interface_shapeshift.13	날개 사용 중에는 변신할 수 없습니다.
+interface_shapeshift.14	使用日光浴床期間無法進行變身.
+interface_shapeshift.15	服裝動作中無法變身.
+interface_shapeshift.16	想要使用相關技能，幣需穿上有服裝動作第2 技能的服裝才可以 
+interface_shapeshift.17	使用動作技能的變身時無法進行其他變身
+interface_shapeshift.18	現在是無法變身的狀態.
+interface_shapeshift.19	無法變身的狀態.
+interface_shapeshift.20	散步中無法變身.
+interface_skilldescmgr.1	Skill [{0}] Level[{1}] - invalid promotion count
+interface_skilldescmgr.2	Skill [{0}] Level[{1}] - invalid promotion exp
+interface_skilldescmgr.3	\n技能數據有錯誤.\n'necessary_crystal' 需要資訊.\n技能名稱 : {0}, 技能等級 : {1}
+interface_skilldescmgr.4	\n技能數據有錯誤.\n'alchemy_elemental_ratio' 需要資訊.\n技能名稱 : {0}, 技能等級 : {1}
+interface_skilldescmgr.5	\n技能數據有錯誤.\n'alchemy_elemental_point' 需要資訊.\n技能名稱 : {0}, 技能等級 : {1}
+interface_skilldescmgr.6	生命 {0}
+interface_skilldescmgr.7	魔力 {0}
+interface_skilldescmgr.8	耐力 {0}
+interface_skilldescmgr.9	力量 {0}
+interface_skilldescmgr.10	智力 {0}
+interface_skilldescmgr.11	敏捷 {0}
+interface_skilldescmgr.12	意志 {0}
+interface_skilldescmgr.13	幸運 {0}
+interface_skillhandler.1	穿上重盔甲就無法使用第三階段的連續技技能.
+interface_skillhandler.2	復原之後使用魔法或鍊金術\n生命力,魔法,耐力都會減少.
+interface_skillhandler.3	目前無法使用技能. {0}秒後請重新再試.
+interface_skillhandler.4	想要使用{0}{}的話需要 {1}{}.
+interface_skillhandler.5	想要使用{0}{}的話需要 {1}{}.
+interface_skillhandler.6	因為武器的耐久度為 0, 無法使用 {0}{}.
+interface_skillhandler.7	已經過了武器的使用期間,所以好像無法使用 {0}{}的樣子.
+interface_skillhandler.8	在這裡無法使用.
+interface_skillhandler.9	지금은 스킬을 사용할 수 없습니다.\n게임에 접속 중인 상태로, {0} 후에 다시 시도하세요.
+interface_skillhandler.10	現在無法使用特性技術.{0}秒後再重新嘗試.
+interface_skillhandlerparam.1	黑闇值不足, 無法使用技能.
+interface_skillmgr.1	所有屬性已滿
+interface_skillmgruse.1	此為無法操縱人偶的距離.\n人偶操縱術已解除.
+interface_skillmgruse.2	因為武器的耐久度為 0, 無法使用 {0}{}.
+interface_soulmate.1	只能在浪漫島內才可申請.
+interface_soulmate.2	已跟別的人進行心靈伴侶中.
+interface_soulmate.3	對方是別人的心靈伴侶.
+interface_specialization.1	無法滿足條件.
+interface_specialization.2	是尚未啟動的特性技術.
+interface_standardapi.1	일반
+interface_standardapi.2	브론즈
+interface_standardapi.3	실버
+interface_standardapi.4	골드
+interface_standardapi.5	플래티넘
+interface_standardapi_gamemonth.1	提高暴擊的發生機率.\t提高幸運一擊的機率.\t演奏成功率增加.\t提高暴擊的發生機率.\t提高幸運一擊的機率.\t演奏成功率增加.\t提高魔法音樂的成功率.\t提高用音樂魔法馴服的機率.
+interface_standardapi_gamemonth.2	生產技能的成功率提高.\t生活系列技能的升級獎勵已增加.\t提高生產品的品質.
+interface_standardapi_gamemonth.3	丟出相同的道具,也會變換地城形狀.\t提高地下城內出現較多道具數量的可能性.\t增加戰鬥相關技能等級提升獎勵.
+interface_standardapi_gamemonth.4	提高從自然界或動物中獲得物品的機率\t在商店能以便宜的價格購買東西.\t銀行的手續費降低.\t增加完成技能的完全修煉時所獲得的經驗值.
+interface_standardapi_gamemonth.5	提高魔力賦予的成功率.\t增加魔法相關技能等級提升獎勵.\t提高使用裝備取得的熟練度.
+interface_standardapi_gamemonth.6	減少無法行動時的懲罰.\t提高所有藥水的效果.\t提高做完兼職時的報酬.
+interface_standardapi_gamemonth.7	年齡增加獲得 AP.\t提高飲食的基本效果.\t提高探測器的效果.\t稍微動的動物也可以素描.
+interface_standardapi_gamemonth.8	提高暴擊的發生機率.\n提高幸運一擊的機率.\n演奏成功率增加.\n提高魔法音樂的成功率.\n提高用音樂魔法馴服的機率.
+interface_standardapi_gamemonth.9	生產技能的成功率提高.\n增加生活系列技能等級提升獎勵.\n提高生產品的品質.
+interface_standardapi_gamemonth.10	丟出相同的道具,也會變換地城形狀.\t提高地下城內出現較多道具數量的可能性.\t增加戰鬥相關技能等級提升獎勵.
+interface_standardapi_gamemonth.11	提高從自然界或動物中獲得物品的機率\n在商店能以便宜的價格購買東西.\n銀行的手續費降低.\n增加完成技能的完全修煉時所獲得的經驗值.
+interface_standardapi_gamemonth.12	提高魔力賦予的成功率.\n增加魔法相關技能等級提升獎勵.\n提高使用裝備取得的熟練度.
+interface_standardapi_gamemonth.13	減少無法行動時的懲罰.\n提高所有藥水的效果.\n提高做完兼職時的報酬.
+interface_standardapi_gamemonth.14	年齡增加獲得 AP.\n提高飲食的基本效果.\n提高探測器的效果.\n稍微動的動物也可以素描.
+interface_standardapi_gamemonth.15	나이를 먹고 성장에 따른 AP를 얻습니다.\t음식의 기본 효과가 높아집니다.
+interface_standardapi_gamemonth.16	나이를 먹고 성장에 따른 AP를 얻습니다.\n음식의 기본 효과가 높아집니다.
+interface_standardapi_gamemonth.17	{0}日 {1}時 {2}分{3}秒後 
+interface_standardapi_gamemonth.18	{0}日 {1}時 {2}秒後 
+interface_standardapi_gamemonth.19	{0}日 {1}分{2}秒後 
+interface_standardapi_gamemonth.20	{0}日 {1}秒後 
+interface_standardapi_gamemonth.21	{0}時 {1}分{2}秒後 
+interface_standardapi_gamemonth.22	{0}時 {1}秒後 
+interface_standardapi_gamemonth.23	{0}分{1}秒後 
+interface_standardapi_gamemonth.24	{0}秒後 
+interface_standardapi_gamemonth.25	{0}日 
+interface_standardapi_gamemonth.26	{0}小時 
+interface_standardapi_gamemonth.27	{0}分 
+interface_standardapi_gamemonth.28	{0}秒 
+interface_standardapi_gamemonth.29	未滿1分鐘 
+interface_standardapi_util.1	目前無法使用.
+interface_standardapi_util.2	進行新手教學中的角色無法使用.\n(初次重生後可以使用)
+interface_standardapi_util.3	等級未滿20的角色無法使用.
+interface_standardapi_util.4	搭乘飛行物上的話就無法使用.
+interface_standardapi_util.5	戰鬥期間無法使用.
+interface_standardapi_util.6	死亡期間無法使用.
+interface_standardapi_util.7	貿易期間無法使用.
+interface_standardapi_util.8	對戰期間無法使用.
+interface_standardapi_util.9	使用技能期間無法使用.
+interface_standardapi_util.10	飛行中無法使用.
+interface_standardapi_util.11	騎士競技大賽期間無法使用.
+interface_standardapi_util.12	服裝表演期間無法使用.
+interface_standardapi_util.13	變身中無法使用.
+interface_standardapi_util.14	半神化中無法使用.
+interface_standardapi_util.15	招喚寵物或夥伴期間無法使用.
+interface_standardapi_util.16	在此處無法使用.
+interface_standardapi_util.18	單手劍
+interface_standardapi_util.19	單手鈍器
+interface_standardapi_util.20	單手斧
+interface_standardapi_util.21	雙手劍
+interface_standardapi_util.22	雙手鈍器
+interface_standardapi_util.23	雙手斧
+interface_standardapi_util.24	騎槍
+interface_standardapi_util.25	擲矛器
+interface_standardapi_util.26	弓
+interface_standardapi_util.27	弩
+interface_standardapi_util.28	魔杖
+interface_standardapi_util.29	集魔杖
+interface_standardapi_util.30	鋼瓶
+interface_standardapi_util.31	拳套
+interface_standardapi_util.32	手把
+interface_standardapi_util.33	手裏劍
+interface_standardapi_util.34	雙槍
+interface_standardapi_util.35	鎖鏈鐮刃
+interface_standardapi_util.36	塔座鋼瓶
+interface_standardapi_util.37	\n<color=2><outlinecolor=3>(거래 및 경매장 이용이 가능해 질 때 까지 {0} 남았습니다.)</outlinecolor></color>
+itemenhancedescmgr.1	改造為 {0} {1}類型 {2}階段.\n
+itemenhancedescmgr.2	把 {0} {1}類型 {2}階段變換為 {3}類型 {4}階段.\n
+itemenhancedescmgr.3	改造為 {0} {1} 階段.\n
+itemoptiondeschelper.1	看起來變弱了一點點
+itemoptiondeschelper.2	魔法傷害值
+itemoptiondeschelper.3	冰風暴持續時間
+itemoptiondeschelper.4	冰風暴範圍
+itemoptiondeschelper.5	防護壁耐久度
+itemoptiondeschelper.6	耐力消耗量
+itemoptiondeschelper.7	銳利等級
+itemoptiondeschelper.8	鍍鐵比率
+itemoptiondeschelper.9	音樂效果技能效果
+itemoptiondeschelper.10	音樂增益持續時間
+itemoptiondeschelper.11	最小傷害值
+itemoptiondeschelper.12	最大傷害值
+itemoptiondeschelper.13	探險經驗值
+itemoptiondeschelper.14	貿易背包
+itemoptiondeschelper.15	貿易重量
+itemoptiondeschelper.16	隊伍戰鬥經驗值
+itemoptiondeschelper.17	寵物戰鬥經驗值
+itemoptiondeschelper.18	吃下自己所設置的辦桌料理的所有角色的效果維持時間
+itemoptiondeschelper.19	대장 제작 결과 최대 스탯 한계
+itemoptiondeschelper.20	목공 제작 결과 최대 스탯 한계
+itemoptiondeschelper.21	貿易物品購買折扣率
+itemoptiondeschelper.22	信用度上升率
+itemoptiondeschelper.23	商店販賣價
+itemoptiondeschelper.24	時空歪曲冷卻時間無視次數
+itemoptiondeschelper.25	發動衝擊相消時防禦
+itemoptiondeschelper.26	發動衝擊相消時魔法防禦
+itemoptiondeschelper.27	暴擊發動時連續技冷卻時間初始化機率
+itemoptiondeschelper.28	連續技傷害
+itemoptiondeschelper.29	人偶魔法保護
+itemoptiondeschelper.30	芬恩同步大成功機率
+itemoptionset.1	精靈
+itemqualitymgr.1	才能獎勵 :
+itemqualitymgr.2	一代宗師製作獎勵 : 
+itemupgradedesc.1	(未發現)
+mabiauctionmgr.1	販賣中
+mabiauctionmgr.2	販賣成功
+mabiauctionmgr.3	販賣失敗
+mabiauctionmgr.4	競標中
+mabiauctionmgr.5	需要再次競標
+mabiauctionmgr.6	購買失敗
+mabiauctionmgr.7	購買成功
+mabinogi_commerce.1	貿易物品交易失敗. (0)
+mabinogi_commerce.2	該貿易所的信用度不足.
+mabinogi_commerce.3	杜卡特不足.
+mabinogi_commerce.4	銷售價格變更.
+mabinogi_commerce.5	貿易物品交易失敗. (1)
+mabinogi_commerce.6	不是在該貿易所無法購買的貿易品.
+mabinogi_commerce.7	沒有擁有充分的貿易品.
+mabinogi_commerce.8	沒有充分的貿易品.
+mabinogi_commerce.9	價格資訊更新. 請再次確認後進行貿易.
+mabinogi_commerce.10	無法在該貿易所銷售.
+mabinogi_commerce.11	無法交易.
+mabinogi_commerce.12	沒有充足的重量空間.
+mabinogi_commerce.13	沒有運送工具.
+mabinogi_commerce.14	貿易物品交易失敗. (2)
+mabinogi_commerce.15	貿易物品離貿易所太遙遠.
+mabinogi_commerce.16	貿易物品交易失敗. (11)
+mabinogi_commerce.17	位置不足.
+mabinogi_commerce.18	無法正常讀取運送工具資訊.
+mabinogi_commerce.19	向運送小幫手付出杜卡特\n就可以使用該運送工具.
+mabinogi_commerce.20	該運送工具無法負荷\n目前貿易物品的重量.
+mabinogi_commerce.21	該運送工具要乘載目前貿易部品\n位置不足.
+mabinogi_commerce.22	貿易物品交易失敗. (12)
+mabinogi_commerce.23	暫時無法使用貿易功能.
+mabinogi_commerce.24	貿易物品交易失敗.(99)
+mabinogi_commerce.25	交換品不足.
+mabinogi_commerce.26	無法進行交換的貿易品.
+mabinogi_commerce.27	目前的運輸工具只能於召喚貿易夥伴之下才能使用.\n請變更運輸工具.
+mabinogi_commerce.28	目前運輸方式只能在召喚羊駝中使用.\n請變更運輸方式.
+mabinogi_commerce.29	현재 운송수단을 사용 할 수 있는 파트너가 없습니다.\n운송수단을 변경하세요.
+mabinogi_commerce.30	目前的運送工具只能在活動中使用.\n請變更運送工具.
+mabinogi_etcconstants.1	簡單
+mabinogi_etcconstants.2	普通
+mabinogi_etcconstants.3	困難
+mabinogi_fieldquest.1	已入場之任務區.
+mabinogi_fieldquest.2	無法找到角色.請再試一次.
+mabinogi_fieldquest.3	無效的位置.
+mabinogi_fieldquest.4	無法找到任務區.
+mabinogi_fieldquest.5	進入任務區失敗.
+mabinogi_fieldquest.6	不可選擇.
+mabinogi_gameword.1	毒免疫
+mabinogi_gameword.2	石化免疫
+mabinogi_gameword.3	減少魔法值消耗
+mabinogi_gameword.4	減少耐力值消耗
+mabinogi_gameword.5	暴發抵抗
+mabinogi_gameword.6	破碎踏擊抵抗
+mabinogi_gameword.7	火屬性鍊金術傷害
+mabinogi_gameword.8	土屬性鍊金術傷害
+mabinogi_gameword.9	風屬性鍊金術傷害
+mabinogi_gameword.10	水屬性鍊金術傷害
+mabinogi_gameword.11	合成成功率
+mabinogi_gameword.12	分解成功率
+mabinogi_gameword.13	製作結晶成功率
+mabinogi_gameword.14	魔法防禦
+mabinogi_gameword.15	魔法攻擊力
+mabinogi_gameword.16	攻擊速度增加
+mabinogi_gameword.17	累積等級
+mabinogi_gameword.18	近距離戰鬥自動防禦
+mabinogi_gameword.19	魔法攻擊自動防禦
+mabinogi_gameword.20	遠距離攻擊自動防禦
+mabinogi_gameword.21	採集速度
+mabinogi_gameword.22	採集機率
+mabinogi_gameword.23	採集數量
+mabinogi_gameword.24	瞄準速度
+mabinogi_gameword.25	移動速度
+mabinogi_gameword.26	貿易中移動速度
+mabinogi_gameword.27	第二幕: 激增的憤怒損害倍率
+mabinogi_gameword.28	人偶最小損害
+mabinogi_gameword.29	人偶最大損害
+mabinogi_gameword.30	人偶生命力
+mabinogi_gameword.31	人偶防禦
+mabinogi_gameword.32	人偶保護
+mabinogi_gameword.33	人偶魔法防禦
+mabinogi_gameword.34	增加人偶操縱術最小損害
+mabinogi_gameword.35	增加人偶操縱術最大損害 
+mabinogi_gameword.36	增加人偶操縱術暴擊率 
+mabinogi_gameword.37	增加人偶操縱術平衡度 
+mabinogi_gameword.38	增加偶然的衝突靜止時間 
+mabinogi_gameword.39	增加嫉妒的化身損害 
+mabinogi_gameword.40	增加誘惑的圈套功擊範圍
+mabinogi_gameword.41	增加狂亂的奔走損害 
+mabinogi_gameword.42	第二幕: 激增的憤怒3擊損害 
+mabinogi_gameword.43	生產物品質
+mabinogi_gameword.44	鍊金術成功率增加
+mabinogi_gameword.45	雙槍最小傷害
+mabinogi_gameword.46	雙槍最大傷害
+mabinogi_gameword.47	最大裝彈量增加
+mabinogi_gameword.48	魔法保護
+mabinogi_gameword.49	魔法防禦力
+mabinogi_gameword.50	魔法保護
+mabinogi_gameword.51	手裏劍最小殺傷力
+mabinogi_gameword.52	手裏劍最大殺傷力
+mabinogi_gameword.53	鎖鏈鐮刃最小傷害值
+mabinogi_gameword.54	鎖鏈鐮刃最大傷害值
+mabinogi_gameword.55	音樂技能持續時間
+mabinogi_gameword.56	拳套最小傷害
+mabinogi_gameword.57	拳套最大傷害
+mabinogi_gameword.58	모든 속성 연금술 대미지
+mabinogi_item.1	我真的是新手!
+mabinogi_itemforjob.1	變更為 {0}
+mabinogi_itemforjob.2	{0} 增加
+mabinogi_itemforjob.3	{0} 減少
+mabinogi_itemforjob.4	增加 {0}% 
+mabinogi_itemforjob.5	減少 {0}% 
+mabinogi_job.1	冒險家
+mabinogi_job.2	戰士
+mabinogi_job.3	魔法師
+mabinogi_job.4	弓箭手
+mabinogi_job.5	商人
+mabinogi_job.6	鍊金術師
+mabinogi_job.7	武鬥家
+mabinogi_job.8	吟遊詩人
+mabinogi_job.9	人偶師
+mabinogi_job.10	雙槍手
+mabinogi_minigame.1	黑手黨
+mabinogi_minigame.2	市民
+mabinogi_minigame.3	警察
+mabinogi_minigame.4	變態
+mabinogi_minigame.5	靈媒
+mabinogi_minigame.6	醫生
+mabinogi_minigame.7	觀戰者
+mabinogi_minigame.8	正常
+mabinogi_minigame.9	登出
+mabinogi_minigame.10	淘汰
+mabinogi_minigame.11	申請投票
+mabinogi_minigame.12	完成投票
+mabinogi_party.1	黑手黨
+mabinogi_party.2	未知
+mabinogi_pfhousing.1	- 金幣 : {0} Gold\n
+mabinogi_pfhousing.2	- {0} : {1} 個\n
+mabinogi_privatefarmdesc.1	{0} {1}個
+mabinogi_privatefarmdesc.2	農場石 {0}個
+mabinogi_privatefarmdesc.3	美容室代幣 {0}個
+mabinogi_privatefarmdesc.4	, 農場石碎片{0}個
+mabinogi_privatefarmdesc.5	體力
+mabinogi_privatefarmdesc.6	敏捷
+mabinogi_privatefarmdesc.7	智力
+mabinogi_privatefarmdesc.8	意志
+mabinogi_privatefarmdesc.9	幸運
+mabinogi_privatefarmdesc.10	生命力
+mabinogi_privatefarmdesc.11	魔力
+mabinogi_privatefarmdesc.12	耐力
+mabinogi_privatefarmdesc.13	最大攻擊力
+mabinogi_privatefarmdesc.14	爆擊傷害值
+mabinogi_privatefarmdesc.15	音樂增益技能效果
+mabinogi_privatefarmdesc.16	魔法攻擊力
+mabinogi_privatefarmdesc.17	額外傷害值
+mabinogi_privatefarmdesc.23	이동 속도
+mabinogi_propentity.1	프랍 ClassID를 바꾸려 합니다. objectID: %d 이전 ClassID: %d 바뀌는 ClassID: %d
+mabinogi_shadowmissiondesc.1	初級
+mabinogi_shadowmissiondesc.2	中級
+mabinogi_shadowmissiondesc.3	高級
+mabinogi_shadowmissiondesc.4	最高級
+mabinogi_shadowmissiondesc.5	{0}名
+mabinogi_shadowmissiondesc.6	{0} 以上
+mabinogi_shadowmissiondesc.7	{0}小時{1}分 {2}秒
+mabinogi_shadowmissiondesc.8	{0}小時 {1}分
+mabinogi_shadowmissiondesc.9	{0}小時 {1}秒
+mabinogi_shadowmissiondesc.10	{0}分 {1}秒
+mabinogi_shadowmissiondesc.11	{0}小時
+mabinogi_shadowmissiondesc.12	{0}分
+mabinogi_shadowmissiondesc.13	{0}秒
+mabinogi_shadowmissiondesc.14	沒有
+mabinogi_shadowmissiondesc.15	任務完成獎勵
+mabinogi_shadowmissiondesc.16	執行人員 :
+mabinogi_shadowmissiondesc.17	執行等級 :
+mabinogi_shadowmissiondesc.18	限制時間 :
+mabinogi_shadowmissiondesc.19	無限制
+mabinogi_shadowmissiondesc.20	{0}人
+mabinogi_shadowmissiondesc.21	{0}人~{1:無限}
+mabinogi_shadowmissiondesc.22	{0}~{1}人
+mabinogi_shadowmissiondesc.23	菁英
+mabinogi_shadowmissiondesc.24	首領
+mabinogi_shadowmissiondesc.25	執行才能等級 :
+mabinogi_talent.1	旅行
+mabinogi_talent.2	近距離戰鬥
+mabinogi_talent.3	魔法
+mabinogi_talent.4	弓術
+mabinogi_talent.5	貿易
+mabinogi_talent.6	戰鬥鍊金術
+mabinogi_talent.7	戰鬥技能
+mabinogi_talent.8	音樂
+mabinogi_talent.9	人偶術
+mabinogi_talent.10	騎槍
+mabinogi_talent.11	祝福
+mabinogi_talent.12	鍊成鍊金術
+mabinogi_talent.13	料理
+mabinogi_talent.14	鐵匠技術
+mabinogi_talent.15	裁剪
+mabinogi_talent.16	藥品研究
+mabinogi_talent.17	木工技術
+mabinogi_talent.18	雙槍手
+mabinogi_talent.19	忍者
+mabinogi_talent.20	梅林
+mabinogi_talent.21	Diva
+mabinogi_talent.22	教授J
+mabinogi_talent.23	總舖師
+mabinogi_talent.24	寶藏獵人
+mabinogi_talent.25	諾比斯
+mabinogi_talent.26	闇夜鎖鏈
+mabinogi_talent.27	寵物訓練 
+mabinovelmgr.1	可疑的名偵探
+mastersordereventdescmgr.1	不是活動期間.
+mastersordereventdescmgr.2	沒有要求道具.
+mastersordereventdescmgr.3	已經獲得了獎勵.
+mastersordereventdescmgr.4	該才能的資料不存在.
+mastersordereventdescmgr.5	才能等級低.
+mastersordereventdescmgr.6	以前才能等級的獎勵無法修練.
+mastersordereventdescmgr.7	該才能等級的資料不存在.
+mastersordereventdescmgr.8	不是活動期間.
+mastersordereventdescmgr.9	沒有要求道具.
+msg.afternoon_string	下午
+msg.camp.already_have	已經有其他帳篷,所以無法再建立新的帳篷.
+msg.camp.collide_with_char	在帳篷半徑內有角色.
+msg.camp.collide_with_guildstone	在帳篷半徑內有公會石.
+msg.camp.collide_with_item	在帳篷半徑內有物品.
+msg.camp.insufficient_campfire_skill	營火技能為練息等級時,將無法使用.
+msg.camp.invalid_position	此為無法使用帳篷的地點.
+msg.camp.invalid_position_msg	此為無法使用帳篷的地點.\n可在村莊外,或是不是道路的地方建立.
+msg.camp.near_other_camp	附近的帳篷與樹木太近.\n請在較遠的地點建立.
+msg.camp.not_have_campfire_skill	如果沒有營火技能,就無法使用.
+msg.camp.not_in_inner	在室內,地下城,戰鬥區無法建立帳篷.
+msg.camp.outter	<mini>TO</mini> 往外
+msg.camp.pet_cannot_use	寵物無法使用露營工具.
+msg.camp.too_narrow	在此處建立帳篷的空間太窄.
+msg.camp.unable_in_using_skill	在使用技能時,無法使用帳篷.
+msg.cannot_explore_now	需要稍後再試.
+msg.dawn_string	清晨
+msg.dayntime	{0:day}{1:time}
+msg.dungeon_exit_notice_msg	確定要離開地下城嗎?
+msg.dungeon_exit_notice_title	Warning\n警告
+msg.equal	{0}是 {1} 時
+msg.forenoon_string	上午
+msg.greater_or_equal	{0}是 {1} 以上時
+msg.greaterthan	{0}比 {1} 大時
+msg.insufficient_mana_to_useskill	魔法不足,無法使用技能.
+msg.insufficient_stamina_to_useskill	耐力不足,無法使用技能.
+msg.less	{0}比 {1} 小時
+msg.less_or_equal	{0}是 {1} 以下時
+msg.night_string	夜晚
+msg.ps_shop.too_close_another	跟其他人的個人商店相隔太近.
+msg.ruin_dungeon_exit_notice_msg	Return to the World\n確定要離開到遺跡入口處嗎?
+msg.ruin_dungeon_exit_notice_title	Warning\n警告
+msg.skill_rank_bonus	技能等級獎勵:
+msg.skilllevel_equal	{0} 等級 {1} 時
+msg.skilllevel_greather_or_equal	{0} 等級 {1} 以上時
+msg.skilllevel_less_or_equal	{0} 等級 {1} 以下時
+msg.thedayaftertomorrow_string	後天
+msg.time_after_1	{0}日 {1}個小時 {2}分鐘後
+msg.time_after_2	{0}日 {1}個小時後
+msg.time_after_3	{0}日 {1}分鐘後
+msg.time_after_4	{0}日後
+msg.time_after_5	{0}個小時 {1}分鐘後
+msg.time_after_6	{0}個小時後
+msg.time_after_7	{0}分鐘後
+msg.today_string	今天
+msg.tomorrow_string	明天
+msg.untrain_notice	{0} 技能降級\n
+msg.untrain_result_decrase	\n{0} {1} 減少
+msg.untrain_result_increase	\n{0} {1} 增加
+msg.untrain_result_notice	未經訓練效果如下\n
+msg.untrain_reward_ap	\n技能點數增加 {0} 點
+msg.useitemresurrection_remote_failed	角色的名稱輸入錯誤,或者該角色不是無法行動的狀態.
+msg.wand_mana_dried_out	與魔杖對應的魔法屬性消失了!!
+myknightsdescmgr.1	神聖之力
+myknightsdescmgr.2	力量
+myknightsdescmgr.3	智力
+myknightsdescmgr.4	敏捷
+myknightsdescmgr.5	意志
+myknightsdescmgr.6	幸運
+myknightsdescmgr.7	使徒
+myknightsdescmgr.8	一般怪物
+myknightsdescmgr.9	歷史
+myknightsdescmgr.10	物品
+myknightsdescmgr.11	先知
+myknightsdescmgr.12	人物
+myknightsdescmgr.13	完成
+myknightsdescmgr.14	{0}日
+myknightsdescmgr.15	{0}時間
+myknightsdescmgr.16	需要
+myknightsdescmgr.17	\n(現實 {0})
+myknightsdescmgr.18	這個見習騎士不存在.
+myknightsdescmgr.19	目前見習騎士無法執行任務.
+myknightsdescmgr.20	見習騎士因為壓力太大而拒絕了任務.
+myknightsdescmgr.21	這是無效的任務.
+myknightsdescmgr.22	領導力等級不夠,無法執行任務.
+myknightsdescmgr.23	已經有任務了.
+myknightsdescmgr.24	無法建立任務.
+myknightsdescmgr.25	無法追加任務.
+myknightsdescmgr.26	這是無法重複進行的任務.
+myknightsdescmgr.27	領導力等級不夠,無法執行任務.
+myknightsdescmgr.28	沒有能執行任務的關鍵字.
+myknightsdescmgr.29	並非能執行任務的見習騎士.
+myknightsdescmgr.30	沒有需要聘請的人員.
+myknightsdescmgr.31	好感度不足,無法執行任務.
+myknightsdescmgr.32	任務成功率太低,所以無法執行.
+object.bank_defaultname	銀行
+object.character_dump_server	豎琴
+object.item_blessed	受祝福的
+object.item_incompleted	(未完成)
+object.item_option_addcondition_onattack	在{0}%機率的攻擊賦予 {1}屬性
+object.item_option_decrease	{0} {1} 減少
+object.item_option_decrease_percent	{0} {1} % 減少
+object.item_option_increase	{0} {1} 增加
+object.item_option_increase_percent	{0} {1}% 增加
+object.item_option_set_permil	{0} 變為現在的 {1}%
+object.item_option_set_to	{0} 固定為 {1}
+object.manual_level	\n\n難易度 : {0}
+object.manual_level_training	\n\n難易度 : 練習等級
+object.moongate_desc	通往{0}的\n{1}星月門
+object.moongate_name	{0}星月門
+object.moongate_name_2	{0}星月門
+object.pet_name	{0}的{1}
+object.sealbreaker_and_sealname	{0} 解開了 {1}
+object.sealstone_bangor	班克爾的封印石
+object.sealstone_ciar	賽維爾地下城的封印石
+object.sealstone_dugald	杜加德走廊的封印石
+object.sealstone_fiodh	菲歐納的封印石
+object.sealstone_math	瑪斯地下城的封印石
+object.sealstone_rabbie	萊比地下城的封印石
+partyboarddescmgr.1	迷你遊戲
+partyboardmgr.1	練習等級
+partyboardmgr.2	沒有限制
+partyboardmgr.3	累計等級 {0} 以上
+partyboardmgr.4	{0} {1} 以上
+partyboardmgr.5	秘密
+partyboardmgr.6	公開
+partyboardmgr.7	普通
+partyboardmgr.8	地下城
+partyboardmgr.9	競技場
+partyboardmgr.10	合奏
+partyboardmgr.11	全看
+partyboardmgr.12	無限制
+partyboardmgr.13	無限制
+partyboardmgr.14	無限制
+partyboardmgr.15	無限制
+partyboardmgr.16	無限制
+partyboardmgr.17	無限制
+partyboardmgr.18	{0} 等級
+partyboardmgr.19	{0} 等級
+partyboardmgr.20	騎士團組隊
+pccarddescmgr.1	生命值
+pccarddescmgr.2	魔法值
+pccarddescmgr.3	耐力值
+pccarddescmgr.4	力量
+pccarddescmgr.5	智力
+pccarddescmgr.6	敏捷
+pccarddescmgr.7	意志
+pccarddescmgr.8	幸運
+pccarddescmgr.9	{0:能力值} -{1:數值}
+pccarddescmgr.10	{0:能力值} +{1:數值}
+pccarddescmgr.11	{0:能力值} x1/{1:數值}
+pccarddescmgr.12	{0:能力值} x{1:數值}
+pccarddescmgr.13	{0:角色卡名稱} 獎勵\n\n{1:獎勵數據清單}
+privatefarmdescmgr.1	<color={0}>{1} 세트 효과\n
+privatefarmdescmgr.2	<color=3>데코 세트</color>\n
+privatefarmdescmgr.3	증가\n
+questresult.1	王城鍊金術師活動點數 {0}
+questresult.2	杜卡特 {0}
+questresult.3	神聖經驗值 {0}
+questresult.4	統御經驗值 {0}
+questresult.5	訓練點數 {0}
+questresult.6	點數任務點數 {0}
+recommendflagtable.1	經驗值 +{0}
+recommendflagtable.2	{0} - 推薦者獲得推薦經驗值{1}.
+setitemmgr.1	增加
+setitemmgr.2	減少
+setitemmgr.3	增加
+setitemmgr.4	減少
+setitemmgr.5	세트 효과를 올릴 수 없는 아이템으로 사용할 수 없습니다.
+setitemmgr.6	세트 효과가 이미 {0}으로 아이템이 사용되지 않습니다.
+setparameter.1	{0}
+setparameter.2	{0}秒
+setparameter.3	{0} {1} 細緻工匠
+setparameter.4	突擊人類, 精靈時可以不需盾牌可以使用的細緻工匠
+setparameter.5	特定技能 {0} 細緻工匠
+setparameter.6	修練值
+setparameter.7	{0} {1} 等級
+setparameter.8	突擊 人類, 精靈時沒有盾牌也可使用
+setparameter.9	特定技能 {0} 等級
+setparameter.10	{0} {1} 等級 \n({2} {3})
+shapeshiftdescmgr.1	沒有獎勵
+shapeshiftdescmgr.2	生命力
+shapeshiftdescmgr.3	魔法
+shapeshiftdescmgr.4	耐力值
+shapeshiftdescmgr.5	力量
+shapeshiftdescmgr.6	智力
+shapeshiftdescmgr.7	敏捷
+shapeshiftdescmgr.8	意志
+shapeshiftdescmgr.9	幸運
+shapeshiftdescmgr.10	最小攻擊力
+shapeshiftdescmgr.11	最大攻擊力
+shapeshiftdescmgr.12	防禦
+shapeshiftdescmgr.13	保護
+shapeshiftdescmgr.14	<color=4>{0:獎勵種類}</color>  <color=5>+{1:獎勵值}</color>
+shapeshiftdescmgr.15	<color=4>{0:獎勵種類}</color>  <color=5>+{1:獎勵值}%</color>
+shapeshiftdescmgr.16	魔法防禦
+shapeshiftdescmgr.17	魔法保護
+skillpromotiondescmgr.1	參加費不足.
+skillpromotiondescmgr.2	今天再也無法應試.
+skillpromotiondescmgr.3	非可升段的技能.
+skillpromotiondescmgr.4	非可升段的等級.
+specializationdescmgr.1	修行的璞黎
+specializationdescmgr.2	挑戰的璞黎
+specializationdescmgr.3	交感的璞黎
+specializationrequirement.1	生命值
+specializationrequirement.2	魔法值
+specializationrequirement.3	耐力值
+specializationrequirement.4	體力
+specializationrequirement.5	智力
+specializationrequirement.6	敏捷
+specializationrequirement.7	意志
+specializationrequirement.8	幸運
+specializationrequirement.9	最大傷害值
+specializationrequirement.10	最小傷害值
+specializationrequirement.11	魔法攻擊力
+specializationrequirement.12	防禦
+specializationrequirement.13	保護
+specializationrequirement.14	魔法防禦
+specializationrequirement.15	魔法保護
+specializationrequirement.16	防禦貫通
+specializationrequirement.17	重盔甲
+specializationrequirement.18	輕盔甲
+specializationrequirement.19	{0}或是{1}
+specializationrequirement.20	{0}或是{1}
+specializationrequirement.21	{0}或是{1}
+synthesismgr.1	(dev) %s 隨機前 [ %f ]
+synthesismgr.2	隨機前 [ %f ]
+synthesismgr.3	(dev) {0} 隨機前 [ {1} ]
+synthesismgr.4	隨機後 [ {0} ]
+talentdescmgr.1	新手
+talentdescmgr.2	初級
+talentdescmgr.3	見習
+talentdescmgr.4	街頭
+talentdescmgr.5	業餘
+talentdescmgr.6	職業
+talentdescmgr.7	首席
+talentdescmgr.8	高級
+talentdescmgr.9	一流
+talentdescmgr.10	特級
+talentdescmgr.11	達人
+talentdescmgr.12	皇家
+talentdescmgr.13	冠軍
+talentdescmgr.14	一代
+talentdescmgr.15	大師
+talentdescmgr.16	一代宗師 
+usercreatedtotemdescmgr.1	力量
+usercreatedtotemdescmgr.2	防禦
+usercreatedtotemdescmgr.3	生命值
+usercreatedtotemdescmgr.4	意志
+usercreatedtotemdescmgr.5	耐力值
+usercreatedtotemdescmgr.6	幸運
+usercreatedtotemdescmgr.7	最大傷害值
+usercreatedtotemdescmgr.8	暴擊傷害值
+usercreatedtotemdescmgr.9	平衡性
+usercreatedtotemdescmgr.10	智力
+usercreatedtotemdescmgr.11	敏捷
+usercreatedtotemdescmgr.12	暴擊率
+usercreatedtotemdescmgr.13	魔法值
+usercreatedtotemdescmgr.14	魔法防禦
+usercreatedtotemdescmgr.15	魔法傷害值
+usercreatedtotemdescmgr.16	肉身之輪
+usercreatedtotemdescmgr.17	精神之輪
+usercreatedtotemdescmgr.18	敏銳力之輪
+usercreatedtotemdescmgr.19	精巧之輪
+usercreatedtotemdescmgr.20	魔力之輪
+usercreatedtotemdescmgr.21	最大生命值
+usercreatedtotemdescmgr.22	最大耐力值
+usercreatedtotemdescmgr.23	最大魔法值
+usercreatedtotemdescmgr.24	最大傷害值
+usercreatedtotemdescmgr.25	最小傷害值
+usercreatedtotemdescmgr.26	最大負傷率
+usercreatedtotemdescmgr.27	最小負傷率
+usercreatedtotemdescmgr.28	洞察之眼傷害
+usercreatedtotemdescmgr.29	狀態支援持續時間
+usercreatedtotemdescmgr.30	集中引誘持續時間
+usercreatedtotemdescmgr.31	再生之域效果範圍
+usercreatedtotemdescmgr.32	力量團聚傷害累積
+usercreatedtotemdescmgr.33	洞察之眼之輪
+usercreatedtotemdescmgr.34	狀態支援之輪
+usercreatedtotemdescmgr.35	集中引誘之輪
+usercreatedtotemdescmgr.36	再生之域之輪
+usercreatedtotemdescmgr.37	力量團聚之輪
+usercreatedtotemdescmgr.38	秒
+usercreatedtotemelement.1	{0}LV:{1} +{2}

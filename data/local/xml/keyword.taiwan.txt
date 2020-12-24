@@ -17650,10 +17650,14 @@
 21881	추석이벤트 대화 오브젝티브 분기용16
 21884	celtic_weapon_rental_char
 21885	凱爾特武器租賃活動分類代表角色確認關鍵字
-22154	아련3 제스처를 얻을 수 있는 키워드
-22155	꽃받침 제스처를 얻을 수 있는 키워드
-22156	안 본 눈 삽니다 제스처를 얻을 수 있는 키워드
-22157	장갑 제스처를 얻을 수 있는 키워드
+22154	可獲得可憐3姿勢的關鍵字
+22155	可獲得雙手托腮姿勢的關鍵字
+22156	可獲得真希望我沒看到姿勢的關鍵字
+22157	可獲得戴手套姿勢的關鍵字
+22158	academyquest_guide_complete_1
+22159	academyquest_guide_complete_2
+22160	학회 후원 퀘스트 가이드 1차 완료 : 생활 반복퀘 수주 가능
+22161	학회 후원 퀘스트 가이드 2차 완료 : 전투 반복퀘 수주 가능
 22162	slapmatch_event_char
 22163	slapmatch_event_daily
 22164	slapmatch_event_clear_1
@@ -17672,8 +17676,20 @@
 22177	딱지치기 이벤트 딱지 마스터 최초 만남 키워드
 22178	allow_ontact_channel
 22179	온택트 이벤트 npc 콘서트 채널 접근 제어용 키워드
+22180	show_melwyn
+22181	academyquest_etc_npc
+22182	학회 후원 퀘스트 NPC 멜윈 show 키워드
+22183	학회 후원 퀘스트 기타 NPC 배치
 22186	newrecordbook_event_char
 22187	블로니의 성장지원 업데이트 기념 이벤트 대표 캐릭터
+22188	academyquest_etc_npc2
+22189	academyquest_etc_npc3
+22190	academyquest_etc_npc4
+22191	academyquest_etc_npc5
+22192	학회 후원 퀘스트 기타 NPC 배치
+22193	학회 후원 퀘스트 기타 NPC 배치
+22194	학회 후원 퀘스트 기타 NPC 배치
+22195	학회 후원 퀘스트 기타 NPC 배치
 22290	2020_winter_freeseason_char
 22291	2020_winter_freeseason_week1
 22292	2020_winter_freeseason_week2

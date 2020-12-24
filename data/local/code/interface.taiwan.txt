@@ -6263,6 +6263,12 @@ pli_windowskill.17	角色等級效果\n {0} {1} 才能技能修練經驗值 {2}.
 pli_windowskill.18	角色等級每達到一定程度時\n 每次修練符合目前選擇中的\n 修練才能的技能時\n 會增加獲得的技能修練經驗值\n 此效果會與其他修練經驗值增加效果重疊.
 pli_windowskill.19	 相關
 pli_windowskill.20	 相關
+pli_windowskill.21	종합 전투 스킬 레벨 : {0}
+pli_windowskill.22	종합 생활 스킬 레벨 : {0}
+pli_windowskill.23	전투재능 및 전투 관련 히든 스킬을 1랭크 승급할 때마다 1씩 상승합니다.
+pli_windowskill.24	생활재능 및 생활 관련 히든 스킬을 1랭크 승급할 때마다 1씩 상승합니다.
+pli_windowskill.25	전투재능 및 전투 관련 히든 스킬을 1랭크 승급할 때마다 1씩 상승합니다.
+pli_windowskill.26	생활재능 및 생활 관련 히든 스킬을 1랭크 승급할 때마다 1씩 상승합니다.
 pli_windowskillbar.0	變更快捷鍵設定.快捷鍵 (Left Shift + Tab)
 pli_windowskillbar.1	變更快捷鍵位置.\n(快捷鍵 'Left Shift + Tab')
 pli_windowskillbar.2	沒有可以使用的 {0}
