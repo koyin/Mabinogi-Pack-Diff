@@ -535,6 +535,13 @@ magiccraftuse.1	生產技能物.
 magiccraftuse.2	{0} 是專用生產物.
 magiccraftuse.3	所需距離和目標太遠.
 magiccraftuse.4	要一次做出像這樣的生產品但魔法不足.
+magigraphdesign.1	瑪奇魔法陣圖設計所需道具不足.\n需要魔法的墨水瓶.
+magigraphdesign.2	瑪奇魔法陣圖設計所需道具不足.\n需要魔法的羽毛筆和魔法的羊皮紙.
+magigraphdesignuse.1	技能使用失敗.
+magigraphdesignuse.2	瑪奇魔法陣圖已設計完成.
+magigraphignitionuse.1	沒有儲存的瑪奇魔法陣套裝.\n請在管理頁面上瑪奇魔法陣登錄套裝.
+magigraphmaterializationuse.1	瑪奇魔法陣圖已形象化.
+magigraphmaterializationuse.2	\n使用的瑪奇魔法陣圖案使用次數已全部用完.
 makechocostatueuse.1	結束活動.
 makechocostatueuse.2	已經沒有耐久度無法使用.
 makechocostatueuse.3	一定要持有巧克力材料才可以製作怪物巧克力.
@@ -1174,6 +1181,9 @@ stageticketmakinguse.8	製作失敗
 stageticketmakinguse.9	{0} 專用生產品.
 stampedeuse.1	武器的耐久度為 0因此似乎無法使用蜂擁.
 stampedeuse.2	若想要使用蜂擁,需要近距離戰鬥才能武器.
+stationarycraftuse.1	{0} 是專用生產物.
+stationarycraftuse.2	{0}製造成功
+stationarycraftuse.3	製造失敗
 stopthereuse.1	只有套用聖誕槌之後才能使用該技能.
 stopthereuse.2	無法向已經為石化狀態的對象使用.
 sulienecology.1	附近沒有希里原結晶.

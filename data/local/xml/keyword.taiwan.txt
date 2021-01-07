@@ -2857,8 +2857,8 @@
 3193	祝福活動
 3194	參加祝福活動
 3195	顯露的秘密
-3196	與鮑依特會面
-3197	解決鮑依特的委託任務
+3196	與博伊特會面
+3197	解決博伊特的委託任務
 3198	去找姬琳
 3199	前往帕魯遺跡
 3200	給雅拉塔
@@ -17508,6 +17508,12 @@
 21537	2020年 G25 主要活動登入維持確認3
 21538	2020年 G25 主要活動登入維持確認4
 21539	2020年 G25 主要活動登入維持確認5
+21540	testserver_gfMagicCircleJob
+21541	瑪奇魔法陣才能測試伺服器初次登入確認
+21542	GrandMaster_Magigrapher
+21543	grandmastermission_magigrapher
+21544	一代宗師魔陣師達成
+21545	確認持有瑪奇魔法陣一代宗師任務的關鍵字
 21546	summer_vacation_char
 21547	summer_fishing1
 21548	summer_fishing2
@@ -17728,5 +17734,23 @@
 22325	2020_winter_freeseason_par
 22326	프리시즌 2020 겨울 메이즈 던전 클리어 체크 키워드
 22327	프리시즌 2020 겨울 파르 던전 클리어 체크 키워드
+22340	2021_help_designer_event_char
+22341	해외 2021 디자인 이벤트 키워드
+22342	academyquest_2990_manus
+22343	학회 후원 퀘스트 던바튼 마누스
+22344	academyquest_2990_aeira
+22345	학회 후원 퀘스트 아이라 물건 획득 체크
+22346	academyquest_bonus_01_clear
+22347	academyquest_bonus_02_clear
+22348	academyquest_bonus_03_clear
+22349	academyquest_bonus_04_clear
+22350	academyquest_bonus_05_clear
+22351	학회 후원 보너스 퀘스트 01 클리어
+22352	학회 후원 보너스 퀘스트 02 클리어
+22353	학회 후원 보너스 퀘스트 03 클리어
+22354	학회 후원 보너스 퀘스트 04 클리어
+22355	학회 후원 보너스 퀘스트 05 클리어
+22362	academyquest_dun_glitter
+22363	학회 후원 퀘스트 던바튼 반짝이 NPC
 8441	일본 닌자 스킬 1랭크씩 레벨업용 키워드
 8657	일본 c3,c4 리뉴얼 퀘스트 보상 못받는 유저 케어용 키워드

@@ -458,6 +458,8 @@ itemoptiondeschelper.27	暴擊發動時連續技冷卻時間初始化機率
 itemoptiondeschelper.28	連續技傷害
 itemoptiondeschelper.29	人偶魔法保護
 itemoptiondeschelper.30	芬恩同步大成功機率
+itemoptiondeschelper.31	瑪奇魔法陣設計時,可以配置的圖形個數
+itemoptiondeschelper.32	製作瑪奇魔法陣圖案的使用次數
 itemoptionset.1	精靈
 itemqualitymgr.1	才能獎勵 :
 itemqualitymgr.2	一代宗師製作獎勵 : 
@@ -669,6 +671,7 @@ mabinogi_talent.24	寶藏獵人
 mabinogi_talent.25	諾比斯
 mabinogi_talent.26	闇夜鎖鏈
 mabinogi_talent.27	寵物訓練 
+mabinogi_talent.28	瑪奇魔陣師
 mabinovelmgr.1	可疑的名偵探
 mastersordereventdescmgr.1	不是活動期間.
 mastersordereventdescmgr.2	沒有要求道具.

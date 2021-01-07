@@ -168,6 +168,7 @@ mabinogimain.2	보내기 버튼을 누르시면 개발사에 발생한 문제 �
 mabinogimain.4	.
 mabinogimain.6	[보내기]를 눌러 발생한 문제 상황에 대해 정보를 보내주시면 문제를 해결하는데 큰 도움이 됩니다. 보내시겠습니까? ([보내기]를 눌러 정보를 보내주실 때 이용하신 컴퓨터 사양 정보가 포함될 수 있습니다.)
 magicattackenhance.1	{0:potion}的好像快要消失了.
+magigraphignitionconditionhandler.1	瑪奇魔法陣效果剩餘10秒.
 maintitle.c1	瑪奇 Mabinogi C1
 maintitle.c2	瑪奇 Mabinogi C2
 maintitle.closebeta	瑪奇 mabinogi CB測試
@@ -2357,6 +2358,10 @@ plw_itemtooltip.266	無法銀行
 plw_itemtooltip.267	無法共有銀行
 plw_itemtooltip.268	無法寵物保管
 plw_itemtooltip.269	無法送禮物給夥伴
+plw_itemtooltip.270	{0:rank} 瑪奇魔法陣設計師 {1:name}的設計
+plw_itemtooltip.271	製作瑪奇魔法陣的人
+plw_itemtooltip.272	製作瑪奇魔法陣設計者
+plw_itemtooltip.273	\n\n瑪奇魔法陣效果\n
 plw_itemtooltip.274	낭만 농장 데코 효과
 plw_itemtooltip.bagexpander	<color=3>\n附著小包包\n</color>
 plw_itemupgrademgr.1	[開發者用訊息] 改造方法消失.

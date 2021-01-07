@@ -2916,6 +2916,46 @@ pli_magiccatpetframe.1	 可以獲得技能修練獎勵.
 pli_magiccatpetselecttalentview.1	技能修練經驗值 {0}.選擇獲得{1}倍獎勵生活才能
 pli_magiccatpetselecttalentview.2	回想起貓咪妖精村的記憶, 可以給主人有利的效果.\n召喚時 <color=2>可以獲得修練經驗2倍</color>的指定 <color=2>生活才能 1個</color>.
 pli_magiccatpetselecttalentview.3	選擇該才能時, 可以獲得技能修練經驗值 2倍獎勵的生活技能\n{0}\n\n以後召喚該寵物時,現在選擇的生活才能的修練經驗值可以獲得2倍效果.\n該選擇至轉讓寵物前為止無法變更. 確定要選擇這個生活才能嗎?
+pli_magiccircledesigncommon.1	要套用{0}嗎?\n預設套用的話,在設計中的內容會初始化.
+pli_magiccircledesigncommon.2	套用
+pli_magiccircledesignview.1	不儲存到目前設計的內容\n就要結束瑪奇魔法陣設計嗎?\n設計完的內容將無法找回.
+pli_magiccircledesignview.2	選擇
+pli_magiccircledesignview.3	圖形太多了.
+pli_magiccircledesignview.4	要將所有圖形以左右對稱複製嗎?
+pli_magiccircledesignview.5	要將所有圖形以上下對稱複製嗎??
+pli_magiccircledesignview.6	要將所有圖形90度旋轉後複製四次嗎?
+pli_magiccircledesignview.7	要將所有圖形60度旋轉後複製六次嗎?
+pli_magiccircledesignview.8	複製
+pli_magiccircledesignview.9	取消
+pli_magiccircledesignview.10	圖形太多了.
+pli_magiccircledesignview.11	發生錯誤. 請稍後再試
+pli_magiccircledesignview.12	儲存目前的風格\n要結束瑪奇魔法陣設計嗎?
+pli_magiccircledesignview.13	確認
+pli_magiccircledesignview.14	確認選擇的瑪奇魔法陣的圖片並沒有不適合.\n同意使用不適合圖片的情形將有可能會受到處罰.
+pli_magiccircledesignview.15	確定要刪除所有配置的圓形嗎?
+pli_magigraphignitionmanageview.1	僅可登錄瑪奇魔法陣物品.
+pli_magigraphignitionmanageview.2	只能設定與已經設定完成的瑪奇魔法陣同類型的瑪奇魔法陣.
+pli_magigraphignitionmanageview.3	無既有設定的瑪奇魔法陣.\n
+pli_magigraphignitionmanageview.4	可以在地面上設置的瑪奇魔法陣\n
+pli_magigraphignitionmanageview.5	可以給自己的瑪奇魔法陣\n
+pli_magigraphignitionmanageview.6	獲得技能
+pli_magigraphignitionmanageview.7	晉升
+pli_magigraphignitionmanageview.8	瑪奇魔法陣防護中時無法進行變更.
+pli_magigraphignitionmanageview.9	無法登陸耐久度用完的瑪奇魔法陣
+pli_magigraphignitionmanageview.10	已設定同樣效果的瑪奇魔法陣.
+pli_magigraphignitionmanageview.11	瑪奇魔法陣組合設定已儲存.
+pli_magigraphignitionview.1	並沒有持有瑪奇魔法陣套裝上設置完成的瑪奇魔法陣道具.\n請在管理頁面上重新設置瑪奇魔法陣.
+pli_magigraphmaterializationview.1	並無所選擇的瑪奇魔法陣圖案.
+pli_magigraphmaterializationview.2	剩餘使用次數: {0}
+pli_magigraphmaterializationview.3	製作師: {0}\n{1}\n{2}
+pli_magigraphmaterializationview.4	預設效果等級: {0} ~ {1}
+pli_magigraphmaterializationview.5	所選擇的瑪奇魔法陣圖案不存在.
+pli_magigraphmaterializationview.6	所選擇的瑪奇魔法陣圖案品質較高無法形象化.
+pli_magigraphmaterializationview.7	選擇的瑪奇魔法陣圖案的使用次數已全部用完無法進行形象化.
+pli_magigraphmaterializationview.8	要將選擇的瑪奇魔法陣形象化嗎?\n形象化進行時,瑪奇魔法陣圖案的使用次數會減少1次.
+pli_magigraphmaterializationview.9	確認
+pli_magigraphmaterializationview.10	確認選擇的瑪奇魔法陣圖片沒有不適合.\n同意使用不適合圖片時將有可能受到處罰.
+pli_magigraphmaterializationview.11	品質:
 pli_mailboxlistboxitem.1	(沒有道具)
 pli_makepotteryview.1	僅陶瓷材料道具可登錄.
 pli_makepotteryview.2	進行中的陶瓷製作完成後將結束.
@@ -3377,6 +3417,7 @@ pli_privatefarmfacilitypaintingview.3	開始刷部位{0}的油漆.
 pli_privatefarmfacilitypaintingview.4	移除部位{0}的油漆.
 pli_privatefarmfacilitypaintingview.5	沒有染料.
 pli_privatefarmfacilitypaintingview.6	部位 {0:partNumber}
+pli_privatefarmfavoriteframe.1	{0}\n將從快速尋找清單中刪除.\n要繼續進行嗎?
 pli_privatefarminstallview.1	點擊設施就可以移動或是刪除.
 pli_privatefarminstallview.2	可以設置新的設施或是收穫農作物.
 pli_privatefarminstallview.3	浪漫農場管理費支付
@@ -4756,6 +4797,9 @@ pli_windowgmcontroltabs.31	加速器
 pli_windowgmcontroltabs.32	소환불가모드
 pli_windowgmcontroltabs.33	破壞臨時物品欄內所有道具
 pli_windowgmcontroltabs.34	소울 스트림의 보관함 내 모든 아이템 파괴
+pli_windowgmcontroltabs.35	瑪奇預覽
+pli_windowgmcontroltabs.36	觀看
+pli_windowgmcontroltabs.37	銷毀背包轉蛋內所有道具銷毀
 pli_windowgolddeal.1	請輸入正確的數值.
 pli_windowgolddeal.2	優惠折扣
 pli_windowgrouplistview.1	請選擇要將好友移動的群組.

@@ -2675,6 +2675,158 @@ set("C4_human")
 
 	folder("char\chapter4\human\anim")
 	
+		"male_moonchair01_sit"
+			0:hideequip(true)	
+			0:lookat(off)	
+			0:hand (both, fist)			
+		
+		"female_moonchair01_sit"
+			0:hideequip(true)	
+			0:lookat(off)	
+			0:hand (both, fist)				
+		
+		"female_whalechair01_sit"
+			0:hideequip(true)	
+			0:lookat(off)	
+			0:hand (both, palm)	
+			//0:eyechange(default)			
+			1:eyechange(223,0)
+			
+		"male_whalechair01_sit"
+			0:hideequip(true)	
+			0:lookat(off)	
+			0:hand (both, palm)	
+			//0:eyechange(default)			
+			1:eyechange(223,0)
+		
+		"female_whalechair02_sit"
+			0:hideequip(true)	
+			0:lookat(off)	
+			0:hand (both, palm)	
+			//0:eyechange(default)			
+			1:eyechange(223,0)
+			
+		"male_whalechair02_sit"
+			0:hideequip(true)	
+			0:lookat(off)	
+			0:hand (both, palm)	
+			//0:eyechange(default)			
+			1:eyechange(223,0)
+		
+		"male_teacupchairfarm_sit"	
+			0:hideequip(true)	
+			0:lookat(off)	
+			0:hand (both, palm)	
+				
+		"female_teacupchairfarm_sit"
+			0:hideequip(true)	
+			0:lookat(off)	
+			0:hand (both, palm)	
+						
+	
+		"male_planetsit01"
+			0:hideequip(true)	
+			0:lookat(off)	
+			0:hand (both, palm)			
+			90:linkframework(1, "race:19222", "BodytoolR", "data/gfx/char/chapter4/monster/anim/propmineral/prop_npc_stand_09")
+			
+		"female_planetsit01"
+			0:hideequip(true)	
+			0:lookat(off)	
+			0:hand (both, palm)			
+			90:linkframework(1, "race:19222", "BodytoolR", "data/gfx/char/chapter4/monster/anim/propmineral/prop_npc_stand_09")	
+
+		"male_planetsit02"
+			0:hideequip(true)	
+			0:lookat(off)	
+			0:hand (both, palm)			
+			40:linkframework(1, "race:19221", "BodytoolR", "data/gfx/char/chapter4/monster/anim/propmineral/prop_npc_stand_09")		
+
+		"female_planetsit02"
+			0:hideequip(true)	
+			0:lookat(off)	
+			0:hand (both, palm)			
+			40:linkframework(1, "race:19221", "BodytoolR", "data/gfx/char/chapter4/monster/anim/propmineral/prop_npc_stand_09")	
+
+		"male_planetsit03"
+			0:hideequip(true)	
+			0:lookat(off)	
+			0:hand (both, palm)			
+			80:linkframework(1, "race:19223", "BodytoolR", "data/gfx/char/chapter4/monster/anim/propmineral/prop_npc_stand_09")				
+			
+		"female_planetsit03"
+			0:hideequip(true)	
+			0:lookat(off)	
+			0:hand (both, palm)			
+			80:linkframework(1, "race:19223", "BodytoolR", "data/gfx/char/chapter4/monster/anim/propmineral/prop_npc_stand_09")			
+		
+		"male_telescope02"
+			0:hideequip(true)	
+			0:lookat(off)	
+			0:hand (left, palm)
+			0:hand (right, fist)
+			//0:generic("custom_mesh(1:tool_underbox02)")					
+			0:generic("custom_equip(shield:tool_c4_book03_02)")
+			0:generic("custom_mesh(1:tool_c4_feather_pen02)")
+			
+			
+		"female_telescope02"
+			0:hideequip(true)	
+			0:lookat(off)	
+			0:hand (left, palm)
+			0:hand (right, fist)
+			//0:generic("custom_mesh(1:tool_underbox02)")		
+			0:generic("custom_equip(shield:tool_c4_book03_02)")
+			0:generic("custom_mesh(1:tool_c4_feather_pen02)")			
+	
+		"human_teacupchair01_sit"
+			0:hideequip(true)		
+			0:lookat(off)	
+			0:hand(both, palm)	
+			//0:eyechange(default)			
+			1:eyechange(223,0)
+			
+		"male_teacupchair02_sit"
+			0:hideequip(true)		
+			0:lookat(off)	
+			0:hand(both, palm)		
+			
+		"male_teacupchair03_sit"
+			0:hideequip(true)		
+			0:lookat(off)	
+			0:hand(both, palm)		
+			
+		"male_teacupchair04_sit"
+			0:hideequip(true)		
+			0:lookat(off)	
+			0:hand(both, palm)		
+			
+		"male_teacupchair05_sit"
+			0:hideequip(true)		
+			0:lookat(off)	
+			0:hand(both, palm)				
+		
+		"female_teacupchair02_sit"
+			0:hideequip(true)		
+			0:lookat(off)	
+			0:hand(both, palm)		
+			
+		"female_teacupchair03_sit"
+			0:hideequip(true)		
+			0:lookat(off)	
+			0:hand(both, palm)		
+			
+		"female_teacupchair04_sit"
+			0:hideequip(true)		
+			0:lookat(off)	
+			0:hand(both, palm)		
+			
+		"female_teacupchair05_sit"		
+			0:hideequip(true)		
+			0:lookat(off)	
+			0:hand(both, palm)		
+			
+	
 		"female_winterforest_sit02"
 			0:hideequip(true)		
 			0:lookat(off)	
@@ -8821,6 +8973,145 @@ set("riding_Welshcorgi")
 	endfolder	
 
 endset	
+
+set("whale_riding")
+
+	folder("char\chapter4\human\anim\riding\riding_Whale")	
+	
+		"man_whale_riding_stand"
+			0:lookat(off)
+			0:hand(both, palm)
+			0:hideequip(false)
+			
+		"man_whale_riding_offensive"
+			0:lookat(off)
+			0:hideequip(false)			
+			0:hand(both, palm)
+			
+		"man_whale_riding_dismount"
+			0:lookat(off)
+			0:hideequip(false)		
+			0:hand(both, palm)	
+			
+		"man_whale_riding_mount"
+			0:lookat(off)
+			0:hideequip(false)					
+			0:hand(both, palm)		
+			
+		"man_whale_riding_walk"
+			0:lookat(off)
+			0:hideequip(false)				
+			0:hand(both, palm)
+			
+		"man_whale_riding_run"
+			0:lookat(off)
+			0:hideequip(false)					
+			0:hand(both, palm)
+					
+		"man_whale_riding_attack"
+			0:lookat(off)
+			0:hideequip(false)					
+			0:hand(both, palm)
+			
+		"man_whale_riding_HitA"
+			0:lookat(off)
+			0:hideequip(false)
+			0:face(down)
+			0:hand(both, palm)
+			
+		"man_whale_riding_HitB"
+			0:hideequip(false)		
+			0:lookat(off)
+			0:face(down)	
+			0:hand(both, palm)
+			
+		"man_whale_riding_aimingpower"
+			0:lookat(off)			
+			154:jump(134)	
+			
+		"man_whale_riding_aimingRange"
+			0:lookat(off)
+			92:jump(72)				
+		
+		"man_whale_riding_aimingRange"
+			0:lookat(off)
+			120:jump(75)
+
+		"man_whale_riding_dashrun"
+			0:lookat(off)	
+			0:hand(both, palm)
+			
+		"man_whale_riding_dashattack"
+			0:lookat(off)
+			0:hit(down,normal)	
+			0:hand(left, palm)
+			0:hand(right, fist)
+			0:sound("data\sound\skill_assault_hit.wav")
+			0:effect("human_dash1_hit01")	
+			
+		"man_whale_riding_shootingpower"
+				0:lookat(off)
+					
+		"man_whale_riding_shootingrange"
+				0:lookat(off)
+					
+		"man_whale_riding_shootingsplinter"
+				0:lookat(off)
+
+		"man_whale_riding_g02_shootingpower"
+				0:lookat(off)
+					
+		"man_whale_riding_g02_shootingrange"
+				0:lookat(off)
+					
+		"man_whale_riding_g02_shootingsplinter"
+				0:lookat(off)
+	
+		"man_whale_riding_g02_aimingpower"
+				0:lookat(off)	
+				98:jump(58)
+			
+		"man_whale_riding_g02_aimingrange"
+				0:lookat(off)
+				63:jump(33)	
+		
+		"man_whale_riding_g02_aimingsplinter"
+				0:lookat(off)
+				120:jump(65)
+		
+		"man_whale_riding_fly_takeoff"
+				0:lookat(off)
+				0:hideequip(false)		
+				0:hand(both, palm)						
+
+		"man_whale_riding_fly_landing"
+				0:lookat(off)	
+				0:hideequip(false)		
+				0:hand(both, palm)							
+	
+		"man_whale_riding_fly_stand"
+				0:lookat(off)
+				0:hideequip(false)		
+				0:hand(both, palm)						
+	
+		"man_whale_riding_fly_run"
+				0:lookat(off)
+				0:hideequip(false)		
+				0:hand(both, palm)
+
+		"man_whale_riding_booster"
+				0:lookat(off)
+				0:hideequip(false)		
+				0:hand(both, palm)		
+
+		"man_whale_WhaleTrampoline"
+				0:lookat(off)
+				0:hideequip(false)		
+				0:hand(both, palm)
+				
+	endfolder	
+
+endset	
 	
 ///////////////////////////////////////////////////////////////////////////////
 
@@ -11229,8 +11520,132 @@ endset
 set("C4_giant")
 
 	folder("char\chapter4\giant\anim")
+		"giant_moonchair01_sit"
+			0:hideequip(true)	
+			0:lookat(off)	
+			0:hand (both, fist)			
+		
+		"giant_female_moonchair01_sit"
+			0:hideequip(true)	
+			0:lookat(off)	
+			0:hand (both, fist)			
 	
+		"giant_whalechair01_sit"
+			0:hideequip(true)	
+			0:lookat(off)
+			0:hand (both, palm)
+			0:eyechange(223, 0)
+			
+		"giant_female_whalechair01_sit"
+			0:hideequip(true)	
+			0:lookat(off)	
+			0:hand (both, palm)
+			0:eyechange(223, 0)
 
+		"giant_whalechair02_sit"
+			0:hideequip(true)
+			0:lookat(off)	
+			0:hand (both, palm)
+			0:eyechange(223, 0)
+			
+		"giant_female_whalechair02_sit"
+			0:hideequip(true)
+			0:lookat(off)	
+			0:hand (both, palm)
+			0:eyechange(223, 0)
+			
+		"giant_planetsit01"
+			0:hideequip(true)	
+			0:lookat(off)	
+			0:hand (both, palm)			
+			90:linkframework(1, "race:19222", "BodytoolR", "data/gfx/char/chapter4/monster/anim/propmineral/prop_npc_stand_09")
+			
+		"giant_female_planetsit01"
+			0:hideequip(true)	
+			0:lookat(off)	
+			0:hand (both, palm)			
+			90:linkframework(1, "race:19222", "BodytoolR", "data/gfx/char/chapter4/monster/anim/propmineral/prop_npc_stand_09")	
+
+		"giant_planetsit02"
+			0:hideequip(true)	
+			0:lookat(off)	
+			0:hand (both, palm)			
+			40:linkframework(1, "race:19221", "BodytoolR", "data/gfx/char/chapter4/monster/anim/propmineral/prop_npc_stand_09")		
+
+		"giant_female_planetsit02"
+			0:hideequip(true)	
+			0:lookat(off)	
+			0:hand (both, palm)			
+			40:linkframework(1, "race:19221", "BodytoolR", "data/gfx/char/chapter4/monster/anim/propmineral/prop_npc_stand_09")	
+
+		"giant_planetsit03"
+			0:hideequip(true)	
+			0:lookat(off)	
+			0:hand (both, palm)			
+			80:linkframework(1, "race:19223", "BodytoolR", "data/gfx/char/chapter4/monster/anim/propmineral/prop_npc_stand_09")				
+			
+		"giant_female_planetsit03"
+			0:hideequip(true)	
+			0:lookat(off)	
+			0:hand (both, palm)			
+			80:linkframework(1, "race:19223", "BodytoolR", "data/gfx/char/chapter4/monster/anim/propmineral/prop_npc_stand_09")	
+		
+		"giant_teacupchairfarm_sit"
+			0:hideequip(true)		
+			0:lookat(off)	
+			0:hand(both, palm)	
+
+		"giant_female_teacupchairfarm_sit"
+			0:hideequip(true)		
+			0:lookat(off)	
+			0:hand(both, palm)				
+	
+		"giant_teacupchair01_sit"
+			0:eyechange(223, 0)
+			0:hideequip(true)		
+			0:lookat(off)	
+			0:hand(both, palm)		
+			
+			
+		"giant_teacupchair02_sit"
+			0:hideequip(true)		
+			0:lookat(off)	
+			0:hand(both, palm)				
+			
+		"giant_teacupchair03_sit"
+			0:hideequip(true)		
+			0:lookat(off)	
+			0:hand(both, palm)			
+
+		"giant_teacupchair04_sit"
+			0:hideequip(true)		
+			0:lookat(off)	
+			0:hand(both, palm)				
+	
+		"giant_teacupchair05_sit"
+			0:hideequip(true)		
+			0:lookat(off)	
+			0:hand(both, palm)	
+			
+		"giant_female_teacupchair02_sit"
+			0:hideequip(true)		
+			0:lookat(off)	
+			0:hand(both, palm)		
+
+		"giant_female_teacupchair03_sit"
+			0:hideequip(true)		
+			0:lookat(off)	
+			0:hand(both, palm)		
+
+		"giant_female_teacupchair04_sit"
+			0:hideequip(true)		
+			0:lookat(off)	
+			0:hand(both, palm)			
+
+		"giant_female_teacupchair05_sit"
+			0:hideequip(true)		
+			0:lookat(off)	
+			0:hand(both, palm)				
 
 		"giant_female_winterforest_sit02"
 			0:hideequip(true)		
@@ -17202,6 +17617,91 @@ set("riding_Welshcorgi")
 
     
 endset
+
+set("whale_riding")
+
+	folder("char\chapter4\giant\anim\riding\riding_Whale")	
+	
+		"giant_whale_riding_stand"
+			0:lookat(off)
+			0:hand(both, palm)
+			0:hideequip(false)
+			
+		"giant_whale_riding_offensive"
+			0:lookat(off)
+			0:hideequip(false)			
+			0:hand(both, palm)
+			
+		"giant_whale_riding_dismount"
+			0:lookat(off)
+			0:hideequip(false)		
+			0:hand(both, palm)	
+			
+		"giant_whale_riding_mount"
+			0:lookat(off)
+			0:hideequip(false)					
+			0:hand(both, palm)		
+			
+		"giant_whale_riding_walk"
+			0:lookat(off)
+			0:hideequip(false)				
+			0:hand(both, palm)
+			
+		"giant_whale_riding_run"
+			0:lookat(off)
+			0:hideequip(false)					
+			0:hand(both, palm)
+					
+		"giant_whale_riding_attack"
+			0:lookat(off)
+			0:hideequip(false)					
+			0:hand(both, palm)
+			
+		"giant_whale_riding_HitA"
+			0:lookat(off)
+			0:hideequip(false)
+			0:face(down)
+			0:hand(both, palm)
+			
+		"giant_whale_riding_HitB"
+			0:hideequip(false)		
+			0:lookat(off)
+			0:face(down)	
+			0:hand(both, palm)
+		
+		"giant_whale_riding_fly_takeoff"
+				0:lookat(off)
+				0:hideequip(false)		
+				0:hand(both, palm)						
+
+		"giant_whale_riding_fly_landing"
+				0:lookat(off)	
+				0:hideequip(false)		
+				0:hand(both, palm)							
+	
+		"giant_whale_riding_fly_stand"
+				0:lookat(off)
+				0:hideequip(false)		
+				0:hand(both, palm)						
+	
+		"giant_whale_riding_fly_run"
+				0:lookat(off)
+				0:hideequip(false)		
+				0:hand(both, palm)
+
+		"giant_whale_riding_booster"
+				0:lookat(off)
+				0:hideequip(false)		
+				0:hand(both, palm)		
+
+		"giant_whale_riding_WhaleTrampoline"
+				0:lookat(off)
+				0:hideequip(false)		
+				0:hand(both, palm)	
+				
+	endfolder	
+
+endset	
 
 ////////////////////////////////////////////////////////////////////////
 
@@ -23235,6 +23735,37 @@ set("social motion")
 			0:lookat(off)		
 			0:hand(both, palm)		
 			0:hideequip(false)	
+			
+		"male_natural_gesture_s7_01"
+			0:lookat(off)		
+			0:hand(both, palm)		
+			0:hideequip(false)	
+			0:face(sad)
+			
+		"female_natural_gesture_s7_01"
+			0:lookat(off)		
+			0:hand(both, palm)		
+			0:hideequip(false)	
+			0:face(sad)
+			
+		"male_natural_gesture_s7_02"
+			0:lookat(off)		
+			0:hand(both, palm)		
+			0:hideequip(false)	
+			0:face(sad)
+			100:face(default)
+			
+		"female_natural_gesture_s7_02"
+			0:lookat(off)		
+			0:hand(both, palm)		
+			0:hideequip(false)	
+			0:face(sad)
+			100:face(default)
+			
+		"human_natural_gesture_s7_03"
+			0:lookat(off)		
+			0:hand(both, palm)		
+			0:hideequip(false)			
 		
 		"male_etainwear"
 			0:lookat(off)	
@@ -24030,7 +24561,39 @@ set("social motion")
 		0:hideequip(false)	
 		0:hand(both, palm)			
 		
+	"female_cutewear"
+		0:lookat(off)
+		0:hideequip(false)	
+		0:hand(both, palm)	
 		
+	"male_cutewear"
+		0:lookat(off)
+		0:hideequip(false)	
+		0:hand(both, palm)	
+	
+	"female_spacewear"
+		0:lookat(off)
+		0:hideequip(false)	
+		0:hand(both, palm)	
+		160:effect("spacewear01",0,1)	
+		160:effect("spacewear03",0,1)	
+		380:effectoff("spacewear03")	
+		425:effectoff("spacewear01")
+		420:effect("spacewear02",0,1)		
+		730:jump(432,true)
+
+	"male_spacewear"
+		0:lookat(off)
+		0:hideequip(false)	
+		0:hand(both, palm)	
+		160:effect("spacewear01",0,1)	
+		160:effect("spacewear03",0,1)	
+		380:effectoff("spacewear03")	
+		425:effectoff("spacewear01")
+		420:effect("spacewear02",0,1)		
+		730:jump(432,true)
+
+	
 	"female_winterroyalty"
 		0:lookat(off)
 		0:hideequip(false)	
@@ -25175,11 +25738,22 @@ set("social motion")
 	"male_bigfan"
 		0:lookat(off)
 		0:hand (both, fist)
-
 		
 	"female_bigfan"
 		0:lookat(off)
 		0:hand (both, fist)
+		
+	"male_bigstarfan"
+		0:lookat(off)
+		0:hand (both, fist)	
+        100:effect("star01_fan01",0,1)	
+		410:effectoff("star01_fan01")
+
+	"female_bigstarfan"
+		0:lookat(off)
+		0:hand (both, fist)	
+          100:effect("star01_fan01",0,1)	
+		410:effectoff("star01_fan01")		
 		
 	
 	"female_2017pointmission"
@@ -42834,6 +43408,128 @@ set("phoenix")
 	
 	endfolder
 
+	
+///////////////////////////////// 고래  ////////////////////////////////////
+
+	   folder("char\chapter4\pet\anim\whale")
+
+        "pet_whale_WhaleJump"
+			0:lookat(off)	   
+
+        "pet_whale_WaterPulse"
+			0:lookat(off)
+
+        "pet_whale_ProtectionWave"
+			0:lookat(off)
+			
+        "pet_whale_PurificationWave"
+			0:lookat(off)	   
+
+        "pet_whale_WhaleTrampoline"
+			0:lookat(off)
+			60:jump(0)
+	   
+        "pet_whale_stand"
+			0:lookat(off)
+			
+        "pet_whale_offensive"
+			0:lookat(off)   	
+	   
+		"pet_whale_run"
+			0:lookat(off)
+			
+        "pet_whale_walk"
+			0:lookat(off)   
+
+        "pet_whale_booster"
+			0:lookat(off)   
+			
+        "pet_whale_attack"
+			0:lookat(off)
+			12:hit(down,normal)
+			
+        "pet_whale_smash"
+			0:lookat(off)
+			30:hit(down,spin)			
+
+		"pet_whale_counter"
+			0:lookat(off)
+			15:hit(down,normal)
+ 
+		"pet_whale_defence"
+			0:lookat(off)
+ 
+		"pet_whale_down"
+			0:lookat(off)		
+
+		"pet_whale_down_to_stand"
+			0:lookat(off)
+			
+		"pet_whale_groggy"
+			0:lookat(off)
+			
+		"pet_whale_HitA"
+			0:lookat(off)
+
+		"pet_whale_HitB"
+			0:lookat(off)
+
+		"pet_whale_HitBlowAwayBackward"
+			0:lookat(off)
+
+		"pet_whale_HitBlowAwayForward"
+			0:lookat(off)
+
+		"pet_whale_HitBlowAwayBound"
+			0:lookat(off)
+
+		"pet_whale_HitBlowAwaySpin"
+			0:lookat(off)
+		
+		"pet_whale_HitEndurance"
+			0:lookat(off)
+		
+        "pet_whale_summon"
+            0:lookat(off)
+	   
+		"pet_whale_stand_to_sit"
+		    0:lookat(off)		
+			
+		"pet_whale_sit"
+		    0:lookat(off)			
+			
+		"pet_whale_sit_to_stand"
+		    0:lookat(off)		
+
+		"pet_whale_lovely_start"
+		    0:lookat(off)
+		
+		"pet_whale_lovely"
+		    0:lookat(off)	
+
+		"pet_whale_lovely_end"
+		    0:lookat(off)
+
+		"pet_whale_riding_fly_stand"
+		    0:lookat(off)
+			
+		"pet_whale_riding_fly_run"
+		    0:lookat(off)
+		
+		"pet_whale_riding_fly_landing"
+		    0:lookat(off)				
+	
+		"pet_whale_riding_fly_takeoff"
+		    0:lookat(off)		
+		
+		"pet_whale_riding_dashattack"
+			0:lookat(off)
+		
+		"pet_whale_riding_dashrun"
+			0:lookat(off)
+			
+    endfolder	
+	
 ///////////////////////////////// C4_pet_코기  ////////////////////////////////////
 	
 	   folder("char\chapter4\pet\anim\welshcorgi")
@@ -50052,7 +50748,18 @@ set("prop concerned - temporary")
 			0:linkframework(5, "race:990314, c1:F0F0F0 c2:222229 c3:F6BB60", "riding7", "data\gfx\char\pet\anim\horse\pet_horse_natural_stand_friendly03")
 		
 	endfolder	
+	
 
+	
+	folder("::farm_prop_spiritforest01")
+		"farm_prop_spiritforest01"	
+			0:linkframework(1, "race:990133, c1:7C413B c2:78E81D c3:FFC64E", "bone02", "data\gfx\char\human\acc\anim\acc_c4_ground_stand01")
+			0:linkframework(2, "race:990134, c1:FFD056 c2:C10036", "bone02", "data/gfx/char\human\acc\anim\acc_c4_fire_stand01")
+			0:linkframework(3, "race:990135, c1:51C43E c2:066944 c3:C9E6C9", "bone02", "data/gfx/char/human/acc/anim/acc_c4_wind_stand01")
+			0:linkframework(4, "race:990136, c1:2269DA c2:A0CAFD c3:8AC5FF", "bone02", "data/gfx/char/human/acc/anim/acc_watersoul_stand01")
+			0:linkframework(5, "race:990137, c1:FFFFFF", "bone02", "data\gfx\char\human\acc\anim\acc_lightsoul_stand01")
+			0:linkframework(6, "race:990138, c1:E7E8EC c2:323232 c3:29C5EA ", "bone02", "data/gfx/char/human/acc/anim/acc_darksoul_stand01")			
+	endfolder	
 	
 	folder("::scene_prop_princess_casket01")
 		"scene_prop_princess_casket01"
@@ -50129,7 +50836,29 @@ set("prop concerned - temporary")
 		"scene_prop_bigwelshcorgi02_sit"
 				600:jump(1)
 	endfolder
+
 	
+	folder("::scene_prop_whalechair01")
+		"scene_prop_whalechair01_sit"
+				150:jump(1)
+	endfolder	
+	
+	folder("::scene_prop_whalechair02")
+		"scene_prop_whalechair02_sit"
+				150:jump(1)
+	endfolder	
+	
+	
+	folder("::scene_prop_whalechair03")
+		"scene_prop_whalechair03_sit"
+				150:jump(1)
+	endfolder	
+	
+	folder("::scene_prop_whalechair04")
+		"scene_prop_whalechair04_sit"
+				150:jump(1)
+	endfolder	
+			
 	
 	folder("::scene_prop_dark_church_studio01")
 		"scene_prop_dark_church_studio01"
@@ -53598,12 +54327,27 @@ set("Dark Knight")
 
 	folder("char/human/acc/anim")
 	
-	"acc_c4_fire_stand"
-	
+	"acc_c4_fire_stand"	
 		0:lookat(off)
 		190:effect("fire_warawara01")
 		
 	"acc_darksoul_stand"
+		0:lookat(off)
+		0:effectoff("halloween04")
+		602:changealpha(0,1,1)
+		633:changealpha(255,1,1)
+		480:effect("halloween04")
+		600:effect("halloween04")
+		610:effectoff("halloween04")
+		628:effect("halloween04")
+		660:effect("halloween04")
+		675:effectoff("halloween04")		
+		
+	"acc_c4_fire_stand01"	
+		0:lookat(off)
+		190:effect("fire_warawara01")
+		
+	"acc_darksoul_stand01"
 		0:lookat(off)
 		0:effectoff("halloween04")
 		602:changealpha(0,1,1)
@@ -66443,6 +67187,26 @@ set("giant")
 	
 
 	folder("char\chapter4\giant\anim")
+
+		"giant_telescope02"
+			0:hideequip(true)	
+			0:lookat(off)	
+			0:hand (left, palm)
+			0:hand (right, fist)
+			//1:generic("custom_mesh(1:giant_tool_underbox02)")		
+			0:generic("custom_equip(weapon:giant_tool_c4_feather_pen02)")		
+			0:generic ("custom_equip(shield:giant_tool_c4_book03_02)")	
+			
+		"giant_female_telescope02"
+			0:hideequip(true)	
+			0:lookat(off)	
+			0:hand (left, palm)
+			0:hand (right, fist)
+			//1:generic("custom_mesh(1:giant_tool_underbox02)")		
+			0:generic("custom_equip(weapon:giant_tool_c4_feather_pen02)")		
+			0:generic ("custom_equip(shield:giant_tool_c4_book03_02)")			
+
+				
 		"giant_male_throne_sit"
 			0:lookat(off)		
 			0:hand(both, palm)	
@@ -76815,6 +77579,40 @@ set("social motion")
 			0:lookat(off)		
 			0:hand(both, palm)		
 			0:hideequip(false)
+			
+		"giant_female_natural_gesture_s7_01"
+			0:lookat(off)		
+			0:hand(both, palm)		
+			0:hideequip(false)
+			0:face(serious)
+			
+		"giant_male_natural_gesture_s7_01"
+			0:lookat(off)		
+			0:hand(both, palm)		
+			0:hideequip(false)
+			0:face(sad)
+			
+		"giant_female_natural_gesture_s7_02"
+			0:lookat(off)		
+			0:hand(both, palm)		
+			0:hideequip(false)
+			0:face(serious)
+			
+		"giant_male_natural_gesture_s7_02"
+			0:lookat(off)		
+			0:hand(both, palm)		
+			0:hideequip(false)
+			0:face(sad)
+			
+		"giant_natural_gesture_s7_03"
+			0:lookat(off)		
+			0:hand(both, palm)		
+			0:hideequip(false)		
+			
+		"giant_female_natural_gesture_s7_03"
+			0:lookat(off)		
+			0:hand(both, palm)		
+			0:hideequip(false)					
 				
 		"giant_enlightenment"
 			0:lookat(off)
@@ -77697,6 +78495,38 @@ set("social motion")
 		0:hideequip(false)	
 		0:hand(both, palm)	
 	
+	"giant_female_cutewear"
+		0:lookat(off)
+		0:hideequip(false)	
+		0:hand(both, palm)	
+		
+	"giant_cutewear"
+		0:lookat(off)
+		0:hideequip(false)	
+		0:hand(both, palm)	
+		0:generic("custom_equipmentmesh(1, giant_male_c4_cutewear_bls_ani)")	
+		
+	"giant_female_spacewear"
+		0:lookat(off)
+		0:hideequip(false)	
+		0:hand(both, palm)	
+		160:effect("spacewear01",0,1)	
+		160:effect("spacewear03_g",0,1)
+		430:effectoff("spacewear03_g")
+		430:effectoff("spacewear01")
+		420:effect("spacewear02_g",0,1)
+		730:jump(432,true)
+
+	"giant_spacewear"
+		0:lookat(off)
+		0:hideequip(false)	
+		0:hand(both, palm)	
+		170:effect("spacewear01",0,1)
+		170:effect("spacewear03_g",0,1)
+		430:effectoff("spacewear03_g")
+		430:effectoff("spacewear01")
+		420:effect("spacewear02_g",0,1)
+		730:jump(432,true)
 		
 	"giant_female_winterroyalty"
 		0:lookat(off)
@@ -79020,6 +79850,18 @@ set("social motion")
 		"giant_bigfan"
 			0:lookat(off)
 			0:hand(both, fist)
+			
+		"giant_bigstarfan"
+			0:lookat(off)
+			0:hand (both, fist)				
+			100:effect("star01_fan01G",0,1)	
+			410:effectoff("star01_fan01G")
+
+		"giant_female_bigstarfan"
+			0:lookat(off)
+			0:hand (both, fist)	
+			100:effect("star01_fan01G",0,1)	
+			410:effectoff("star01_fan01G")			
 					
 			
 	
@@ -91046,6 +91888,11 @@ set("C4_monster")
 	////////////////////////////////  광물 프랍 몬스터 //////////////////////////////////////////
 
   	    folder("char\chapter4\monster\anim\propmineral")
+
+		"prop_npc_stand_09"
+			0:changealpha(0,0,0)
+	        1:changealpha(255,30,0)
+			200:jump(100)	
 		
 				
 		"propcrystal_stand_friendly"
@@ -92661,6 +93508,8 @@ set("C4_monster")
 	"dv_attack"
 	 	0:lookat(off)
 		0:hand(both, fist)
+		9:sound("data\sound\Glasgavelen_attack1_1.wav")
+	    10:effect("sera_swing01")
 		
    	"dv_encroach"
  		0:lookat(off)
