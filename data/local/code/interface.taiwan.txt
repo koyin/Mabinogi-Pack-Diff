@@ -3770,8 +3770,8 @@ pli_skilluntrainview.2	下列技能全部降級.
 pli_skilluntrainview.3	{0}技能等級回溯為 F等級.\n並且會退還使用在各技能的AP點數.\n也會退還修練各技能所獲得的獎勵.\n使用此道具只能回朔 1次.\n\n想要再次升{0}技能的等級可以不需要修煉升等.\n若是沒有修練完全的技能的話, 該等級的修練值會消失.
 pli_skilluntrainview.4	'請選擇將要降級返還 AP的才能群.
 pli_skilluntrainview.5	所選技能群的所有技能回溯為 F等級.\n並且會退還使用在各技能的AP點數.\n也會退還修練各技能所獲得的獎勵.\n使用此道具只能回朔 1次.\n\n想要再次升級技能的等級可以不需要修練升等.\n若是沒有修練完全的技能的話, 該等級的修練經驗值會消失.
-pli_slapmatchview.1	대결이 진행중에 종료할 경우 대결에 사용한 딱지는 소모됩니다.\n정말 종료 하시겠습니까?
-pli_slapmatchview.2	{0}님의 선공입니다.
+pli_slapmatchview.1	對決進行中結束的情況,對決中使用的畫片將消耗.\n確定要結束嗎?
+pli_slapmatchview.2	{0}的先攻.
 pli_smartcontentboardview.1	兼職
 pli_smartcontentboardview.2	, 或是
 pli_smartcontentboardview.3	{0}{}預計會在{1}出現.

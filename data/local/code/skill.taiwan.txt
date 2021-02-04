@@ -512,6 +512,9 @@ intensiveprovocationuse.2	[邊境之痕]不足無法使用特性.
 intensiveprovocationuse.3	[{0}]的集中引誘效果,向 [{1}]發動了.\n套用了與嘲諷疊加的追加效果.\n暫時集中了所有怪物們的意識.
 intensiveprovocationuse.4	[{0}]的集中引誘效果,向 [{1}]發動了.\n暫時集中了所有怪物們的意識.
 interveneuse.1	無法使用攔截的狀態.
+kartridermissileattackuse.1	攻擊對象不在範圍內.
+kartriderracinguse.1	卡丁車競速模式開始.\n卡丁車操作指定鍵無法變更.
+kartriderracinguse.2	卡丁車競速模式已結束.
 lancecharge.1	在太靠近的地方無法使用騎槍相關技能.
 lancechargeuse.1	裝備騎槍才能使用該技能.
 lancechargeuse.2	是無法使用騎槍衝擊的騎寵.

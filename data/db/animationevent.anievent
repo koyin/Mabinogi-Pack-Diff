@@ -407,8 +407,8 @@ set("move")
 		
 		// 전투 스텐딩
 		"female_natural_stand_offensive"
-			0:hand(left, fist)
-			0:hand(right, fist)
+
+			
 			
 			
 			
@@ -2675,6 +2675,20 @@ set("C4_human")
 
 	folder("char\chapter4\human\anim")
 	
+		"male_flowersit"
+			0:hand(left, fist)
+			0:hand(right, palm)
+			50:effect("cherry_wind2",0,1)
+			40:hand(left,palm)
+			355:hand(left, fist)			
+
+		"female_flowersit"
+			0:hand(left, fist)
+			0:hand(right, palm)
+			50:effect("cherry_wind2",0,1)
+			40:hand(left,palm)
+			355:hand(left, fist)
+			
 		"male_moonchair01_sit"
 			0:hideequip(true)	
 			0:lookat(off)	
@@ -2689,29 +2703,26 @@ set("C4_human")
 			0:hideequip(true)	
 			0:lookat(off)	
 			0:hand (both, palm)	
-			//0:eyechange(default)			
-			1:eyechange(223,0)
+			0:eyechange(223,0)
 			
 		"male_whalechair01_sit"
 			0:hideequip(true)	
 			0:lookat(off)	
 			0:hand (both, palm)	
-			//0:eyechange(default)			
-			1:eyechange(223,0)
+			0:eyechange(223,0)
+			
 		
 		"female_whalechair02_sit"
 			0:hideequip(true)	
 			0:lookat(off)	
 			0:hand (both, palm)	
-			//0:eyechange(default)			
-			1:eyechange(223,0)
+			0:eyechange(223,0)
 			
 		"male_whalechair02_sit"
 			0:hideequip(true)	
 			0:lookat(off)	
 			0:hand (both, palm)	
-			//0:eyechange(default)			
-			1:eyechange(223,0)
+			0:eyechange(223,0)
 		
 		"male_teacupchairfarm_sit"	
 			0:hideequip(true)	
@@ -8982,66 +8993,80 @@ set("whale_riding")
 			0:lookat(off)
 			0:hand(both, palm)
 			0:hideequip(false)
+			0:effectoff("whale_riding01_h")
 			
 		"man_whale_riding_offensive"
 			0:lookat(off)
 			0:hideequip(false)			
 			0:hand(both, palm)
+			0:effectoff("whale_riding01_h")
 			
 		"man_whale_riding_dismount"
 			0:lookat(off)
 			0:hideequip(false)		
 			0:hand(both, palm)	
+			0:effectoff("whale_riding01_h")
 			
 		"man_whale_riding_mount"
 			0:lookat(off)
 			0:hideequip(false)					
-			0:hand(both, palm)		
+			0:hand(both, palm)	
+			0:effectoff("whale_riding01_h")			
 			
 		"man_whale_riding_walk"
 			0:lookat(off)
 			0:hideequip(false)				
 			0:hand(both, palm)
+			0:effectoff("whale_riding01_h")
 			
 		"man_whale_riding_run"
 			0:lookat(off)
 			0:hideequip(false)					
 			0:hand(both, palm)
+			0:effectoff("whale_riding01_h")
 					
 		"man_whale_riding_attack"
 			0:lookat(off)
 			0:hideequip(false)					
 			0:hand(both, palm)
+			0:effectoff("whale_riding01_h")
 			
 		"man_whale_riding_HitA"
 			0:lookat(off)
 			0:hideequip(false)
 			0:face(down)
 			0:hand(both, palm)
+			0:effectoff("whale_riding01_h")
 			
 		"man_whale_riding_HitB"
 			0:hideequip(false)		
 			0:lookat(off)
 			0:face(down)	
 			0:hand(both, palm)
+			0:effectoff("whale_riding01_h")
 			
 		"man_whale_riding_aimingpower"
 			0:lookat(off)			
 			154:jump(134)	
+			0:effectoff("whale_riding01_h")
 			
 		"man_whale_riding_aimingRange"
 			0:lookat(off)
-			92:jump(72)				
+			92:jump(72)	
+			0:effectoff("whale_riding01_h")			
 		
 		"man_whale_riding_aimingRange"
 			0:lookat(off)
 			120:jump(75)
+			0:effectoff("whale_riding01_h")
 
 		"man_whale_riding_dashrun"
 			0:lookat(off)	
 			0:hand(both, palm)
+			0:effectoff("whale_riding01_h")
 			
 		"man_whale_riding_dashattack"
+			0:effectoff("whale_riding01_h")
 			0:lookat(off)
 			0:hit(down,normal)	
 			0:hand(left, palm)
@@ -9051,63 +9076,84 @@ set("whale_riding")
 			
 		"man_whale_riding_shootingpower"
 				0:lookat(off)
+				0:effectoff("whale_riding01_h")
 					
 		"man_whale_riding_shootingrange"
 				0:lookat(off)
+				0:effectoff("whale_riding01_h")
 					
 		"man_whale_riding_shootingsplinter"
 				0:lookat(off)
+				0:effectoff("whale_riding01_h")
 
 		"man_whale_riding_g02_shootingpower"
 				0:lookat(off)
+				0:effectoff("whale_riding01_h")
 					
 		"man_whale_riding_g02_shootingrange"
 				0:lookat(off)
+				0:effectoff("whale_riding01_h")
 					
 		"man_whale_riding_g02_shootingsplinter"
 				0:lookat(off)
+				0:effectoff("whale_riding01_h")
 	
 		"man_whale_riding_g02_aimingpower"
 				0:lookat(off)	
 				98:jump(58)
+				0:effectoff("whale_riding01_h")
 			
 		"man_whale_riding_g02_aimingrange"
 				0:lookat(off)
 				63:jump(33)	
+				0:effectoff("whale_riding01_h")
 		
 		"man_whale_riding_g02_aimingsplinter"
 				0:lookat(off)
 				120:jump(65)
+				0:effectoff("whale_riding01_h")
 		
 		"man_whale_riding_fly_takeoff"
 				0:lookat(off)
 				0:hideequip(false)		
-				0:hand(both, palm)						
+				0:hand(both, palm)	
+				0:effect("whale_riding01_h",0,1)
 
 		"man_whale_riding_fly_landing"
 				0:lookat(off)	
 				0:hideequip(false)		
-				0:hand(both, palm)							
+				0:hand(both, palm)	
+				0:effect("whale_riding01_h",0,1)				
 	
 		"man_whale_riding_fly_stand"
 				0:lookat(off)
 				0:hideequip(false)		
-				0:hand(both, palm)						
+				0:hand(both, palm)		
+				0:effect("whale_riding01_h",0,1)				
 	
 		"man_whale_riding_fly_run"
 				0:lookat(off)
 				0:hideequip(false)		
 				0:hand(both, palm)
+				0:effect("whale_riding01_h",0,1)
 
 		"man_whale_riding_booster"
 				0:lookat(off)
 				0:hideequip(false)		
-				0:hand(both, palm)		
+				0:hand(both, palm)	
+				0:effectoff("whale_riding01_h")				
 
-		"man_whale_WhaleTrampoline"
+		"man_whale_WhaleTrampoline01"
 				0:lookat(off)
 				0:hideequip(false)		
 				0:hand(both, palm)
+				0:effectoff("whale_riding01_h")
+
+		"man_whale_WhaleTrampoline02"
+				0:lookat(off)
+				0:hideequip(false)		
+				0:hand(both, palm)
+				0:effectoff("whale_riding01_h")
 				
 	endfolder	
 
@@ -11520,6 +11566,30 @@ endset
 set("C4_giant")
 
 	folder("char\chapter4\giant\anim")
+	
+		"giant_flowersit"
+			0:hand(left, fist)
+			0:hand(right, palm)			
+			50:effect("cherry_wind2G",0,1)	
+			40:hand(left,palm)
+			355:hand(left, fist)	
+		
+		"giant_female_flowersit"
+			0:hand(left, fist)
+			0:hand(right, palm)			
+			50:effect("cherry_wind2G",0,1)	
+			40:hand(left,palm)
+			355:hand(left, fist)
+	
+		"giant_mannequin"
+			0:hand(both,fist)
+			0:generic("custom_mesh(0:giant_tool_tape_measure)")
+			240:generic("custom_mesh(0)") 
+			260:generic("custom_mesh(1:giant_tool_memo_ani)") 
+			343:generic("custom_mesh(1)") 
+			380:generic("custom_mesh(0:giant_tool_tape_measure)") 
+			0:lookat(off)
+	
 		"giant_moonchair01_sit"
 			0:hideequip(true)	
 			0:lookat(off)	
@@ -17626,78 +17696,99 @@ set("whale_riding")
 			0:lookat(off)
 			0:hand(both, palm)
 			0:hideequip(false)
+			0:effectoff("whale_riding01_gg")
 			
 		"giant_whale_riding_offensive"
 			0:lookat(off)
 			0:hideequip(false)			
 			0:hand(both, palm)
+			0:effectoff("whale_riding01_gg")
 			
 		"giant_whale_riding_dismount"
 			0:lookat(off)
 			0:hideequip(false)		
 			0:hand(both, palm)	
+			0:effectoff("whale_riding01_gg")
 			
 		"giant_whale_riding_mount"
 			0:lookat(off)
 			0:hideequip(false)					
-			0:hand(both, palm)		
+			0:hand(both, palm)	
+			0:effectoff("whale_riding01_gg")			
 			
 		"giant_whale_riding_walk"
 			0:lookat(off)
 			0:hideequip(false)				
 			0:hand(both, palm)
+			0:effectoff("whale_riding01_gg")
 			
 		"giant_whale_riding_run"
 			0:lookat(off)
 			0:hideequip(false)					
 			0:hand(both, palm)
+			0:effectoff("whale_riding01_gg")
 					
 		"giant_whale_riding_attack"
 			0:lookat(off)
 			0:hideequip(false)					
 			0:hand(both, palm)
+			0:effectoff("whale_riding01_gg")
 			
 		"giant_whale_riding_HitA"
 			0:lookat(off)
 			0:hideequip(false)
 			0:face(down)
 			0:hand(both, palm)
+			0:effectoff("whale_riding01_gg")
 			
 		"giant_whale_riding_HitB"
 			0:hideequip(false)		
 			0:lookat(off)
 			0:face(down)	
 			0:hand(both, palm)
+			0:effectoff("whale_riding01_gg")
 		
 		"giant_whale_riding_fly_takeoff"
 				0:lookat(off)
 				0:hideequip(false)		
-				0:hand(both, palm)						
+				0:hand(both, palm)	
+				0:effect("whale_riding01_gg",0,1)				
 
 		"giant_whale_riding_fly_landing"
 				0:lookat(off)	
 				0:hideequip(false)		
-				0:hand(both, palm)							
+				0:hand(both, palm)	
+				0:effect("whale_riding01_gg",0,1)					
 	
 		"giant_whale_riding_fly_stand"
 				0:lookat(off)
 				0:hideequip(false)		
-				0:hand(both, palm)						
+				0:hand(both, palm)	
+				0:effect("whale_riding01_gg",0,1)					
 	
 		"giant_whale_riding_fly_run"
 				0:lookat(off)
 				0:hideequip(false)		
 				0:hand(both, palm)
+				0:effect("whale_riding01_gg",0,1)	
 
 		"giant_whale_riding_booster"
 				0:lookat(off)
 				0:hideequip(false)		
-				0:hand(both, palm)		
+				0:hand(both, palm)	
+				0:effectoff("whale_riding01_gg")				
 
-		"giant_whale_riding_WhaleTrampoline"
+		"giant_whale_riding_WhaleTrampoline01"
 				0:lookat(off)
 				0:hideequip(false)		
 				0:hand(both, palm)	
+				0:effectoff("whale_riding01_gg")
+
+		"giant_whale_riding_WhaleTrampoline02"
+				0:lookat(off)
+				0:hideequip(false)		
+				0:hand(both, palm)
+				0:effectoff("whale_riding01_gg")
 				
 	endfolder	
 
@@ -19905,6 +19996,15 @@ endset
 set("C4_human")
 
         folder("char\chapter4\human\anim")
+		
+		"male_mannequin"
+			0:hand(both,fist)
+			0:generic("custom_mesh(0:tool_tape_measure)")
+			240:generic("custom_mesh(0)") 
+			260:generic("custom_mesh(1:tool_memo_ani)") 
+			343:generic("custom_mesh(1)") 
+			380:generic("custom_mesh(0:tool_tape_measure)") 
+			0:lookat(off)
 		
 		
 		"hunman_bigcorgi_sit"
@@ -23364,6 +23464,18 @@ set("social motion")
 	
 	folder("char\chapter4\human\anim\social_motion")
 	
+		"female_career"
+			0:lookat(off)	
+			0:hand(both, palm)	
+			0:hideequip(false)
+			466:generic("custom_equip(shield:human_mirror01_ani)")
+			625:generic("custom_equip(shield)")
+		
+		"male_career"
+			0:lookat(off)	
+			0:hand(both, palm)	
+			0:hideequip(false)		
+	
 		"uni_zombi_run"
 			0:face(confused)
 			0:hand(both, palm)			
@@ -23767,6 +23879,68 @@ set("social motion")
 			0:hand(both, palm)		
 			0:hideequip(false)			
 		
+		
+		"human_natural_gesture_s8_01"
+			0:lookat(off)
+			0:hideequip(false)
+			0:hand(both, palm)
+			16:hand(right, fist)
+			34:hand(left, fist)
+			290:jump(50)		
+
+		"human_natural_Gesture_S8_02"
+			0:lookat(off)
+			0:hideequip(false)
+			0:hand(both, palm)		
+			1:generic ("custom_equip(weapon:tool_c4_rock)")
+			350:jump(250)
+			
+		"human_natural_gesture_s8_03"
+			0:lookat(off)
+			0:hideequip(false)
+			0:hand(both, palm)
+			126:generic("custom_equip(weapon:tool_c4_mug01)")			
+			126:hand(right, fist)
+			230:eyechange(223, 0)
+			330:eyechange(default)
+			500:eyechange(223, 0)
+			600:eyechange(default)
+			700:jump(160)			
+
+		"female_natural_gesture_s8_03"
+            0:lookat(off)
+            0:hideequip(false)
+            0:hand(both, palm)
+            126:generic("custom_equip(weapon:tool_c4_mug01)")           
+            126:hand(right, fist)
+            230:eyechange(223, 0)
+            330:eyechange(default)
+            500:eyechange(223, 0)
+            600:eyechange(default)
+            700:jump(160)   			
+		
+		"human_natural_gesture_s8_04"
+			0:lookat(off)
+			0:hideequip(false)
+			0:hand(both, palm)
+			
+		"human_natural_gesture_s8_05"
+			0:lookat(off)
+			0:hideequip(false)
+			0:hand(both, palm)	
+			10:hand(right, fist)			
+			600:jump(150)
+			
+		"human_natural_emotion_snowsprinkle"
+			0:lookat(off)		
+			0:hand(both, palm)		
+			0:hideequip(false)		
+			12:effect("snowdrop01",0,1)	
+			10:face(happy)
+			95:face(default)
+
+			
+			
 		"male_etainwear"
 			0:lookat(off)	
 			0:hand(both, palm)		
@@ -43414,119 +43588,226 @@ set("phoenix")
 	   folder("char\chapter4\pet\anim\whale")
 
         "pet_whale_WhaleJump"
-			0:lookat(off)	   
+			0:lookat(off)
+			0:effectoff("pet_whale_sleep")
+			0:effectoff("pet_heart_whale")	
+		    0:effect("water_jump_001")			
+		    0:effect("water_jump_002")						
+			0:sound("data/sound/Whale_Jump_1.wav")
+			35:sound("data/sound/Whale_Jump_2.wav")
 
         "pet_whale_WaterPulse"
 			0:lookat(off)
-
+			0:effectoff("pet_whale_sleep")
+			0:effectoff("pet_heart_whale")
+			0:sound("data/sound/Water_Pulse.wav")
+		    46:effect("whale_jump_hit001",true)				
+			
         "pet_whale_ProtectionWave"
 			0:lookat(off)
+			0:effectoff("pet_whale_sleep")
+			0:effectoff("pet_heart_whale")
+			0:sound("data/sound/Protection_Wave.wav")
 			
         "pet_whale_PurificationWave"
 			0:lookat(off)	   
-
+			0:effectoff("pet_whale_sleep")
+			0:effectoff("pet_heart_whale")
+			0:sound("data/sound/Purification_Wave.wav")
+			
         "pet_whale_WhaleTrampoline"
 			0:lookat(off)
 			60:jump(0)
-	   
+			0:effectoff("pet_whale_sleep")
+			0:effectoff("pet_heart_whale")
+		    0:effect("water_breath_long001",0,1)			
+		    0:effect("water_breath_long002",0,1)
+			0:sound("data/sound/JumpingJumping.wav")			
+			
         "pet_whale_stand"
 			0:lookat(off)
+			0:effectoff("pet_whale_sleep")
+			0:effectoff("pet_heart_whale")
 			
         "pet_whale_offensive"
 			0:lookat(off)   	
-	   
+			0:effectoff("pet_whale_sleep")
+			0:effectoff("pet_heart_whale")
+		    6:effect("water_off_001",true)		
+			
 		"pet_whale_run"
 			0:lookat(off)
+			0:effectoff("pet_whale_sleep")
+			0:effectoff("pet_heart_whale")
+		    0:effect("whale_run001",true)
+		    26:effect("whale_run001",true)
+
+	"pet_whale_mini_run"
+			0:lookat(off)
+			0:effectoff("pet_whale_sleep")
+			0:effectoff("pet_heart_whale")
+		
 			
         "pet_whale_walk"
 			0:lookat(off)   
-
+			0:effectoff("pet_whale_sleep")
+			0:effectoff("pet_heart_whale")
+			
         "pet_whale_booster"
 			0:lookat(off)   
+			0:effectoff("pet_whale_sleep")
+			0:effectoff("pet_heart_whale")
+		0:effect("whale_trail",0,1)
+		0:effect("whale_trail01",0,1)
+		0:effect("whale_trail02",0,1)
+		0:effect("whale_trail03",0,1)
+		0:effect("whale_trail04",0,1)
+		0:effect("whale_trail05",0,1)
 			
         "pet_whale_attack"
 			0:lookat(off)
+			0:effectoff("pet_whale_sleep")
+			0:effectoff("pet_heart_whale")			
 			12:hit(down,normal)
+			8:effect("whale_headbutt001",true)			
 			
         "pet_whale_smash"
 			0:lookat(off)
+			0:effectoff("pet_whale_sleep")
+			0:effectoff("pet_heart_whale")
 			30:hit(down,spin)			
-
+		    20:effect("whale_swing01",true)		
+			
 		"pet_whale_counter"
 			0:lookat(off)
+			0:effectoff("pet_whale_sleep")
+			0:effectoff("pet_heart_whale")			
 			15:hit(down,normal)
  
 		"pet_whale_defence"
 			0:lookat(off)
+			0:effectoff("pet_whale_sleep")
+			0:effectoff("pet_heart_whale")			
  
 		"pet_whale_down"
-			0:lookat(off)		
+			0:lookat(off)
+			0:effectoff("pet_whale_sleep")
+			0:effectoff("pet_heart_whale")			
 
 		"pet_whale_down_to_stand"
 			0:lookat(off)
+			0:effectoff("pet_whale_sleep")
+			0:effectoff("pet_heart_whale")
 			
 		"pet_whale_groggy"
 			0:lookat(off)
+			0:effectoff("pet_whale_sleep")
+			0:effectoff("pet_heart_whale")			
 			
 		"pet_whale_HitA"
 			0:lookat(off)
-
+			0:effectoff("pet_whale_sleep")
+			0:effectoff("pet_heart_whale")
+			
 		"pet_whale_HitB"
 			0:lookat(off)
-
+			0:effectoff("pet_whale_sleep")
+			0:effectoff("pet_heart_whale")
+			
 		"pet_whale_HitBlowAwayBackward"
 			0:lookat(off)
+			0:effectoff("pet_whale_sleep")
+			0:effectoff("pet_heart_whale")
 
 		"pet_whale_HitBlowAwayForward"
 			0:lookat(off)
-
+			0:effectoff("pet_whale_sleep")
+			0:effectoff("pet_heart_whale")
+			
 		"pet_whale_HitBlowAwayBound"
 			0:lookat(off)
-
+			0:effectoff("pet_whale_sleep")
+			0:effectoff("pet_heart_whale")
+			
 		"pet_whale_HitBlowAwaySpin"
 			0:lookat(off)
-		
+			0:effectoff("pet_whale_sleep")
+			0:effectoff("pet_heart_whale")
+			
 		"pet_whale_HitEndurance"
 			0:lookat(off)
-		
+			0:effectoff("pet_whale_sleep")
+			0:effectoff("pet_heart_whale")
+			
         "pet_whale_summon"
             0:lookat(off)
-	   
+			0:effectoff("pet_whale_sleep")
+			0:effectoff("pet_heart_whale")
+			
 		"pet_whale_stand_to_sit"
 		    0:lookat(off)		
+			0:effectoff("pet_whale_sleep")
+			0:effectoff("pet_heart_whale")
 			
 		"pet_whale_sit"
-		    0:lookat(off)			
+		    0:lookat(off)
+			0:effectoff("pet_heart_whale")
+			0:effect("pet_whale_sleep")
+			80:effectoff("pet_whale_sleep")
+			
 			
 		"pet_whale_sit_to_stand"
 		    0:lookat(off)		
-
+			0:effectoff("pet_whale_sleep")
+			0:effectoff("pet_heart_whale")
+			
 		"pet_whale_lovely_start"
 		    0:lookat(off)
-		
+			0:effectoff("pet_whale_sleep")
+			0:effectoff("pet_heart_whale")
+			
 		"pet_whale_lovely"
-		    0:lookat(off)	
+		    0:lookat(off)
+			0:effectoff("pet_whale_sleep")
+			24:effect("pet_heart_whale")
+			90:effectoff("pet_heart_whale")
+			190:effect("pet_heart_whale")	
+			260:effectoff("pet_heart_whale")
 
 		"pet_whale_lovely_end"
 		    0:lookat(off)
+			0:effectoff("pet_whale_sleep")
+			0:effectoff("pet_heart_whale")			
 
 		"pet_whale_riding_fly_stand"
 		    0:lookat(off)
+			0:effectoff("pet_whale_sleep")
+			0:effectoff("pet_heart_whale")
 			
 		"pet_whale_riding_fly_run"
 		    0:lookat(off)
-		
+			0:effectoff("pet_whale_sleep")
+			0:effectoff("pet_heart_whale")
+			
 		"pet_whale_riding_fly_landing"
 		    0:lookat(off)				
-	
+			0:effectoff("pet_whale_sleep")
+			0:effectoff("pet_heart_whale")
+			
 		"pet_whale_riding_fly_takeoff"
 		    0:lookat(off)		
-		
+			0:effectoff("pet_whale_sleep")
+			0:effectoff("pet_heart_whale")
+			
 		"pet_whale_riding_dashattack"
 			0:lookat(off)
-		
+			0:effectoff("pet_whale_sleep")
+			0:effectoff("pet_heart_whale")
+			
 		"pet_whale_riding_dashrun"
 			0:lookat(off)
+			0:effectoff("pet_whale_sleep")
+			0:effectoff("pet_heart_whale")
 			
     endfolder	
 	
@@ -50739,6 +51020,18 @@ set("prop concerned - temporary")
 
 	// setting file 안의 animation을 정의할 때는 folder를 "::세팅파일 이름" 으로 지정해야 한다.
 	
+	folder("::scene_prop_snowcloud01")
+		"scene_prop_snowcloud01_state02"	
+			320:jump(160)
+		
+	endfolder		
+
+	folder("::farm_prop_snowcloud01")
+		"farm_prop_snowcloud01"	
+			320:jump(160)
+		
+	endfolder		
+	
 	folder("::farm_prop_aristocratic_carriage01")
 		"farm_prop_aristocratic_carriage01_sit"
 			0:linkframework(1, "race:990315", "riding8", "data\gfx\char\chapter4\human\anim\human_schoolhorse_horseman")
@@ -50748,6 +51041,15 @@ set("prop concerned - temporary")
 			0:linkframework(5, "race:990314, c1:F0F0F0 c2:222229 c3:F6BB60", "riding7", "data\gfx\char\pet\anim\horse\pet_horse_natural_stand_friendly03")
 		
 	endfolder	
+	
+	folder("::farm_prop_metronome01")
+		"farm_prop_metronome01_on"	
+		20:sound("data/sound/Prop/metronome_beep.wav")
+		60:sound("data/sound/Prop/metronome_beep.wav")
+		80:jump(0)
+	 
+		
+	endfolder		
 	
 
 	
@@ -77114,6 +77416,18 @@ set("social motion")
 	
 	folder("char\chapter4\giant\anim\social_motion")
 	
+		"giant_female_career"
+			0:lookat(off)	
+			0:hand(both, palm)	
+			0:hideequip(false)
+			466:generic("custom_equip(shield:giant_mirror01_ani)")
+			625:generic("custom_equip(shield)")
+		
+		"giant_career"
+			0:lookat(off)	
+			0:hand(both, palm)	
+			0:hideequip(false)			
+	
 		"giant_female_zombi_run"
 			0:face(confused)
 			0:hand(both, palm)			
@@ -77613,7 +77927,90 @@ set("social motion")
 			0:lookat(off)		
 			0:hand(both, palm)		
 			0:hideequip(false)					
-				
+	
+		"giant_female_natural_gesture_s8_01"
+			0:lookat(off)
+			0:hideequip(false)
+			0:hand(both, palm)
+			16:hand(right, fist)
+			34:hand(left, fist)
+			290:jump(50)
+		
+		"giant_natural_gesture_s8_01"
+			0:lookat(off)
+			0:hideequip(false)
+			0:hand(both, palm)
+			16:hand(right, fist)
+			34:hand(left, fist)
+			290:jump(50)			
+			
+		"giant_female_natural_gesture_s8_02"
+			0:lookat(off)
+			0:hideequip(false)
+			0:hand(both, palm)		
+			1:generic ("custom_equip(weapon:giant_tool_rock)")
+			350:jump(250)	
+			
+		
+		"giant_natural_gesture_s8_02"
+			0:lookat(off)
+			0:hideequip(false)
+			0:hand(both, palm)		
+			1:generic ("custom_equip(weapon:giant_tool_rock)")
+			350:jump(250)		
+			
+			
+			
+	
+		"giant_female_natural_gesture_s8_03"
+			0:lookat(off)
+			0:hideequip(false)
+			0:hand(both, palm)
+			120:generic("custom_equip(weapon:giant_tool_c4_mug01)")			
+			126:hand(right, fist)
+			230:eyechange(223, 0)
+			330:eyechange(default)
+			500:eyechange(223, 0)
+			600:eyechange(default)
+			700:jump(160)			
+		
+		"giant_natural_gesture_s8_03"
+			0:lookat(off)
+			0:hideequip(false)
+			0:hand(both, palm)
+			120:generic("custom_equip(weapon:giant_tool_c4_mug01)")			
+			120:hand(right, fist)
+			230:eyechange(223, 0)
+			330:eyechange(default)
+			500:eyechange(223, 0)
+			600:eyechange(default)
+			700:jump(160)			
+		
+
+		"giant_female_natural_gesture_s8_04"
+			0:lookat(off)
+			0:hideequip(false)
+			0:hand(both, palm)
+	
+		"giant_natural_gesture_s8_04"
+			0:lookat(off)
+			0:hideequip(false)
+			0:hand(both, palm)
+
+		"giant_natural_gesture_s8_05"
+			0:lookat(off)
+			0:hideequip(false)
+			0:hand(both, palm)	
+			10:hand(right, fist)			
+			1050:jump(150)			
+
+		"giant_female_natural_gesture_s8_05"
+			0:lookat(off)
+			0:hideequip(false)
+			0:hand(both, palm)	
+			10:hand(right, fist)			
+			600:jump(150)	
+			
 		"giant_enlightenment"
 			0:lookat(off)
 			0:hand(right, palm)
@@ -77662,8 +78059,25 @@ set("social motion")
 			620:effect("lightetan04",0,1)
 			950:jump(750,true)
 		
+		"giant_emotion_snowsprinkle"
+			0:lookat(off)		
+			0:hand(both, palm)		
+			0:hideequip(false)		
+			15:effect("snowdrop01",0,1)	
+			10:face(happy)
+			95:face(default)
 
+			
+			
+		"giant_female_emotion_snowsprinkle"
+			0:lookat(off)		
+			0:hand(both, palm)		
+			0:hideequip(false)		
+			15:effect("snowdrop01",0,1)	
+			10:face(happy)
+			95:face(default)
 
+			
 
 		"giant_marinelook"
 			0:lookat(off)

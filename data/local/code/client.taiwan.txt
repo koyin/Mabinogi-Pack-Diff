@@ -1490,8 +1490,8 @@ plw_event.33	在接收道具的過程中失敗了.
 plw_event.34	축적한 브리가 없어 아이템을 사용할 수 없습니다.
 plw_event.35	더 이상 추첨할 수 없습니다.
 plw_event.36	추첨에 필요한 코인이 부족합니다.
-plw_event.37	대결에 사용할 딱지를 선택해 주세요. 10초 이상 선택하지 않을 경우 대결이 취소됩니다.
-plw_event.38	딱지 선택 시간을 초과하여 대결이 취소되었습니다.
+plw_event.37	請選擇對決中要使用的畫片. 超過10秒以上不進行選擇,對決將取消.
+plw_event.38	超過畫片選擇時間,對決取消.
 plw_event.haberdasherevent	可獲得商人的硬幣
 plw_family.1	Family System\n同意加入家庭
 plw_family.2	在{0}邀請加入家庭. 要加入嗎?

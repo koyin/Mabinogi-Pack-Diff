@@ -195,23 +195,23 @@ interface_echostone.5	生命值, 魔力, 耐力
 interface_echostone.6	奇怪的道具
 interface_echostone.7	只有在{0} 難易度以上時才可使用.
 interface_event.1	沒有獲得特性,無法使用道具.
-interface_event.2	딱지치기 이벤트 중이 아닙니다.
-interface_event.3	이미 진행 중인 대결입니다
-interface_event.4	대결을 진행할 수 없는 지역입니다.
-interface_event.5	전투 불능상태에서는 진행할 수 없습니다.
-interface_event.6	대전 중에는 진행할 수 없습니다.
-interface_event.7	펫 대전 중에는 진행할 수 없습니다.
-interface_event.8	탑승 중에는 진행할 수 없습니다.
-interface_event.9	스키를 타는 도중에는 진행할 수 없습니다.
-interface_event.10	패션쇼 중에는 진행할 수 없습니다.
-interface_event.11	물풍선 대전 중에는 진행할 수 없습니다.
-interface_event.12	이벤트 홀에서는 진행할 수 없습니다.
-interface_event.13	이미 가위바위보 중입니다.
-interface_event.14	전투중에는 진행할 수 없습니다.
-interface_event.15	대전 중에는 진행할 수 없습니다.
-interface_event.16	스킬 사용중에는 진행할 수 없습니다.
-interface_event.17	마창대회 중에는 진행할 수 없습니다.
-interface_event.18	의자에 앉은 상태로 진행할 수 없습니다.
+interface_event.2	非畫片遊戲活動進行期間.
+interface_event.3	為已在進行中的對決
+interface_event.4	無法進行對決的地區.
+interface_event.5	於無法戰鬥狀態之下無法進行.
+interface_event.6	於對戰中無法進行.
+interface_event.7	於寵物對戰狀態之下無法進行.
+interface_event.8	於搭乘狀態之下無法進行.
+interface_event.9	於滑雪狀態之下無法進行.
+interface_event.10	於時尚秀狀態之下無法進行.
+interface_event.11	於水球對決之下無法進行.
+interface_event.12	於活動狀態之下無法進行.
+interface_event.13	已經在進行剪刀石頭布活動了.
+interface_event.14	於戰鬥中無法進行.
+interface_event.15	於對戰中無法進行.
+interface_event.16	於使用技能中無法進行.
+interface_event.17	於騎士競技大會中無法進行.
+interface_event.18	無法以坐在椅子上的狀態進行.
 interface_focuslisten.1	最多只可封鎖 50名.
 interface_fynnpetcomponent.1	在無法行動的狀態下,不能使用.
 interface_fynnpetcomponent.2	在浪漫農場中,無法使用.
