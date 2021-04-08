@@ -256,7 +256,6 @@
 //				클라이언트 명령어 >axis를 통해 확인할 수 있는 본 이름, 앞에 '_' 없이 사용합니다.
 //			- [모션] : race인 경우 모션, prop인 경우 state
 //				ex) 0:linkframework(1, "race:270601", "handl", "data/gfx/char/chapter4/pet/anim/lama/pet_lama_jump")
-					10:linkframework(1, "race:490033, c1:F0F0F0 c2:222229 c3:F6BB60", "bone05", "data/gfx/char/pet/anim/horse/pet_horse_natural_stand_offensive")
 //				ex) 0:linkframework(2, "prop:44400", "bone01", "single")
 //		제거
 //		[프레임 수]:linkframework([인덱스])
@@ -2675,6 +2674,65 @@ set("C4_human")
 
 	folder("char\chapter4\human\anim")
 	
+		"male_starvelvetchair01_sit"
+			0:hideequip(true)	
+			0:lookat(off)	
+			0:hand (both, palm)	
+			
+		"female_starvelvetchair01_sit"
+			0:hideequip(true)	
+			0:lookat(off)	
+			0:hand (both, palm)			
+		
+	
+		"male_graffitiwall01"
+			0:hand(both, palm)		
+			0:generic("custom_equip(weapon:tool_c4_stgraffiti_spray_ani)")
+			65:effect("spray01",0,1)
+			186:effectoff("spray01")
+			300:effect("spray01",0,1)
+			377:effectoff("spray01")			
+			
+		"female_graffitiwall01"
+			0:hand(both, palm)		
+			0:generic("custom_equip(weapon:tool_c4_stgraffiti_spray_ani)")	
+			65:effect("spray01",0,1)
+			186:effectoff("spray01")
+			300:effect("spray01",0,1)
+			377:effectoff("spray01")					
+
+		"male_graffitiwall02"
+			0:face(default)
+			0:hand(both, palm)		
+			0:generic("custom_equip(weapon:tool_c4_stgraffiti_spray_ani)")
+			0:effect("spray02",0,1)
+			78:effectoff("spray02")
+			78:face(happy)
+			
+		"female_graffitiwall02"
+			0:face(default)
+			0:hand(both, palm)		
+			0:generic("custom_equip(weapon:tool_c4_stgraffiti_spray_ani)")		
+			0:effect("spray02",0,1)	
+			78:effectoff("spray02")
+			78:face(happy)
+			
+		"male_graffitifloor"
+			0:hand(both, palm)		
+			0:generic("custom_equip(weapon:tool_c4_stgraffiti_spray_ani)")
+			20:effect("spray011",0,1)	
+			110:effectoff("spray011")			
+			170:effect("spray011",0,1)	
+			280:effectoff("spray011")			
+
+		"female_graffitifloor"
+			0:hand(both, palm)		
+			0:generic("custom_equip(weapon:tool_c4_stgraffiti_spray_ani)")
+			20:effect("spray011",0,1)	
+			110:effectoff("spray011")			
+			170:effect("spray011",0,1)	
+			280:effectoff("spray011")				
+			
 		"male_flowersit"
 			0:hand(left, fist)
 			0:hand(right, palm)
@@ -2879,58 +2937,104 @@ set("C4_human")
 			0:generic ("custom_mesh(0:tool_c4_mcup01)")				
 	
 
-	"human_couchsofa_sit01"
+		"human_couchsofa_sit01"
 			0:lookat(off)		
 			0:hand(both, palm)	
 			0:hideequip(true)
 			
-	"female_couchsofa_sit01"	
+		"female_couchsofa_sit01"	
 			0:lookat(off)		
 			0:hand(both, palm)	
 			0:hideequip(true)	
 	
-	"male_couchsofa_sit02"
+		"male_couchsofa_sit02"
 			0:lookat(off)		
 			0:hand(both, fist)	
 			0:hideequip(true)	
 			0:generic("custom_mesh(0:tool_memo_ani)") 			
 	
-	"female_couchsofa_sit02"
+		"female_couchsofa_sit02"
 			0:lookat(off)		
 			0:hand(both, fist)	
 			0:hideequip(true)	
 			0:generic("custom_mesh(0:tool_memo_ani)") 		
 			
-	"human_couchsofa_sit03"
+		"human_couchsofa_sit03"
 			0:lookat(off)		
 			0:hand(both, palm)	
 			0:hideequip(true)		
 
-	"female_couchsofa_sit03"
+		"female_couchsofa_sit03"
 			0:lookat(off)		
 			0:hand(both, palm)	
 			0:hideequip(true)		
 
-	"male_couchsofa_sit04"
+		"male_couchsofa_sit04"
 			0:lookat(off)		
 			0:hand(both, palm)	
 			0:hideequip(true)	
 			
-	"female_couchsofa_sit04"
+		"female_couchsofa_sit04"
 			0:lookat(off)		
 			0:hand(both, palm)	
 			0:hideequip(true)	
 
-	"male_couchsofa_sit05"
+		"male_couchsofa_sit05"
 			0:lookat(off)		
 			0:hand(both, palm)	
 			0:hideequip(true)	
 	
-	"female_couchsofa_sit05"	
+		"female_couchsofa_sit05"	
 			0:lookat(off)		
 			0:hand(both, palm)	
 			0:hideequip(true)	
 	
+		"female_water_flowerpot_sit"
+			0:hideequip(false)			
+			0:generic("custom_equip(weapon:tool_c3_wateringpot01)")
+			0:lookat(off)		
+			0:hand(left, palm)	
+			0:hand(right, fist)
+			65:effect("flower_waterpot",0,1)
+			148:effectoff("flower_waterpot")
+			215:effect("flower_waterpot",0,1)
+			308:effectoff("flower_waterpot")
+			350:effect("flower_waterpot",0,1)
+			418:effectoff("flower_waterpot")			
+			688:jump(56,true)
+
+		"male_water_flowerpot_sit"
+			0:hideequip(false)			
+			0:generic("custom_equip(weapon:tool_c3_wateringpot01)")
+			0:lookat(off)		
+			0:hand(left, palm)	
+			0:hand(right, fist)
+			65:effect("flower_waterpot",0,1)
+			148:effectoff("flower_waterpot")
+			215:effect("flower_waterpot",0,1)
+			308:effectoff("flower_waterpot")
+			350:effect("flower_waterpot",0,1)
+			418:effectoff("flower_waterpot")			
+			688:jump(56,true)
+
+		"female_glassdome_sit"
+			0:hideequip(false)			
+			0:lookat(off)		
+			0:hand(both, palm)
+			0:eyechange(223, 0)			
+			65:eyechange(default)
+			395:eyechange(223, 0)
+			690:jump(0,true)
+
+		"male_glassdome_sit"
+			0:hideequip(false)			
+			0:lookat(off)		
+			0:hand(both, palm)
+			0:eyechange(223, 0)			
+			65:eyechange(default)
+			395:eyechange(223, 0)
+			690:jump(0,true)			
+			
 	"human_snowfield"
 			21:effect("snow_ex",0,1)
 			21:effect("snow_ex1",0,1)
@@ -3831,6 +3935,18 @@ set("C4_human")
 			800:effectoff("flying04_fire02")
 			800:effectoff("flying04_fire03")			
 			800:effectoff("flying04_fire04")
+			
+		"male_flying05_run_R"
+			0:face(default)		
+			0:hideequip(false)				
+			0:lookat(off)
+			0:hand (both, palm)
+			
+		"male_flying05_run_L"
+			0:face(default)		
+			0:hideequip(false)				
+			0:lookat(off)
+			0:hand (both, palm)		
 			
 "male_couple_flying03_as_landing"
 			0:hideequip(false)				
@@ -9117,25 +9233,25 @@ set("whale_riding")
 				0:lookat(off)
 				0:hideequip(false)		
 				0:hand(both, palm)	
-				0:effect("whale_riding01_h",0,1)
+				0:effect("whale_riding01_h")
 
 		"man_whale_riding_fly_landing"
 				0:lookat(off)	
 				0:hideequip(false)		
 				0:hand(both, palm)	
-				0:effect("whale_riding01_h",0,1)				
+				0:effect("whale_riding01_h")				
 	
 		"man_whale_riding_fly_stand"
 				0:lookat(off)
 				0:hideequip(false)		
 				0:hand(both, palm)		
-				0:effect("whale_riding01_h",0,1)				
+				0:effect("whale_riding01_h")				
 	
 		"man_whale_riding_fly_run"
 				0:lookat(off)
 				0:hideequip(false)		
 				0:hand(both, palm)
-				0:effect("whale_riding01_h",0,1)
+				0:effect("whale_riding01_h")
 
 		"man_whale_riding_booster"
 				0:lookat(off)
@@ -11567,6 +11683,65 @@ set("C4_giant")
 
 	folder("char\chapter4\giant\anim")
 	
+		"giant_starvelvetchair01_sit"
+			0:hideequip(true)	
+			0:lookat(off)	
+			0:hand (both, palm)	
+			
+		"giant_female_starvelvetchair01_sit"
+			0:hideequip(true)	
+			0:lookat(off)	
+			0:hand (both, palm)			
+	
+		"giant_graffitiwall01"
+			0:hand(both, palm)		
+			0:generic("custom_equip(weapon:giant_tool_c4_stgraffiti_spray_ani)")
+			65:effect("spray01",0,1)
+			186:effectoff("spray01")
+			300:effect("spray01",0,1)
+			377:effectoff("spray01")			
+			
+		"giant_female_graffitiwall01"
+			0:hand(both, palm)		
+			0:generic("custom_equip(weapon:giant_tool_c4_stgraffiti_spray_ani)")	
+			65:effect("spray01",0,1)
+			186:effectoff("spray01")
+			300:effect("spray01",0,1)
+			377:effectoff("spray01")					
+
+		"giant_graffitiwall02"
+			0:face(default)
+			0:hand(both, palm)		
+			0:generic("custom_equip(weapon:giant_tool_c4_stgraffiti_spray_ani)")
+			0:effect("spray02",0,1)
+			78:effectoff("spray02")
+			78:face(happy)
+			
+		"giant_female_graffitiwall02"
+			0:face(default)
+			0:hand(both, palm)		
+			0:generic("custom_equip(weapon:giant_tool_c4_stgraffiti_spray_ani)")		
+			0:effect("spray02",0,1)	
+			78:effectoff("spray02")
+			78:face(happy)
+			
+		"giant_graffitifloor"
+			0:hand(both, palm)		
+			0:generic("custom_equip(weapon:giant_tool_c4_stgraffiti_spray_ani)")
+			20:effect("spray011",0,1)	
+			110:effectoff("spray011")			
+			170:effect("spray011",0,1)	
+			280:effectoff("spray011")		
+			
+		"giant_female_graffitifloor"
+			0:hand(both, palm)		
+			0:generic("custom_equip(weapon:giant_tool_c4_stgraffiti_spray_ani)")
+			20:effect("spray011",0,1)	
+			110:effectoff("spray011")			
+			170:effect("spray011",0,1)	
+			280:effectoff("spray011")				
+	
+	
 		"giant_flowersit"
 			0:hand(left, fist)
 			0:hand(right, palm)			
@@ -11812,7 +11987,54 @@ set("C4_giant")
 			0:lookat(off)		
 			0:hand(both, palm)	
 			0:hideequip(true)					
-	
+
+	"giant_female_water_flowerpot_sit"
+			0:hideequip(false)			
+			0:generic("custom_equip(weapon:giant_tool_c3_wateringpot01)")
+			0:lookat(off)		
+			0:hand(left, palm)	
+			0:hand(right, fist)
+			65:effect("flower_waterpot",0,1)
+			148:effectoff("flower_waterpot")
+			215:effect("flower_waterpot",0,1)
+			308:effectoff("flower_waterpot")
+			350:effect("flower_waterpot",0,1)
+			418:effectoff("flower_waterpot")			
+			688:jump(56,true)
+
+	"giant_water_flowerpot_sit"
+			0:hideequip(false)			
+			0:generic("custom_equip(weapon:giant_tool_c3_wateringpot01)")
+			0:lookat(off)		
+			0:hand(left, palm)	
+			0:hand(right, fist)
+			65:effect("flower_waterpot",0,1)
+			148:effectoff("flower_waterpot")
+			215:effect("flower_waterpot",0,1)
+			308:effectoff("flower_waterpot")
+			350:effect("flower_waterpot",0,1)
+			418:effectoff("flower_waterpot")			
+			688:jump(56,true)
+
+	"giant_female_glassdome_sit"
+			0:hideequip(false)			
+			0:lookat(off)		
+			0:hand(both, palm)
+			0:eyechange(223, 0)			
+			65:eyechange(default)
+			395:eyechange(223, 0)
+			690:jump(0,true)
+
+	"giant_glassdome_sit"
+			0:hideequip(false)			
+			0:lookat(off)		
+			0:hand(both, palm)
+			0:eyechange(223, 0)			
+			65:eyechange(default)
+			395:eyechange(223, 0)
+			690:jump(0,true)
+			
+			
 	"giant_snowfield"
 			21:effect("snow_exg",0,1)
 			21:effect("snow_exg1",0,1)
@@ -13207,6 +13429,18 @@ set("C4_giant")
 			800:effectoff("flying04_fire02")
 			800:effectoff("flying04_fire03")			
 			800:effectoff("flying04_fire04")
+			
+		"giant_flying05_run_R"
+			0:face(default)		
+			0:hideequip(false)				
+			0:lookat(off)
+			0:hand (both, palm)
+			
+		"giant_flying05_run_L"
+			0:face(default)		
+			0:hideequip(false)				
+			0:lookat(off)
+			0:hand (both, palm)				
 		
 "giant_female_couple_flying03_landing"
 			0:hideequip(false)									
@@ -17752,25 +17986,25 @@ set("whale_riding")
 				0:lookat(off)
 				0:hideequip(false)		
 				0:hand(both, palm)	
-				0:effect("whale_riding01_gg",0,1)				
+				0:effect("whale_riding01_gg")				
 
 		"giant_whale_riding_fly_landing"
 				0:lookat(off)	
 				0:hideequip(false)		
 				0:hand(both, palm)	
-				0:effect("whale_riding01_gg",0,1)					
+				0:effect("whale_riding01_gg")					
 	
 		"giant_whale_riding_fly_stand"
 				0:lookat(off)
 				0:hideequip(false)		
 				0:hand(both, palm)	
-				0:effect("whale_riding01_gg",0,1)					
+				0:effect("whale_riding01_gg")					
 	
 		"giant_whale_riding_fly_run"
 				0:lookat(off)
 				0:hideequip(false)		
 				0:hand(both, palm)
-				0:effect("whale_riding01_gg",0,1)	
+				0:effect("whale_riding01_gg")	
 
 		"giant_whale_riding_booster"
 				0:lookat(off)
@@ -23464,6 +23698,22 @@ set("social motion")
 	
 	folder("char\chapter4\human\anim\social_motion")
 	
+		"female_graffit"
+			0:hand(both,palm)
+			80:generic("custom_equip(weapon:tool_c4_stgraffiti_spray_ani02)")
+			377:jump(135)
+						
+			
+		"male_graffit"
+			0:hand(both,palm)
+			80:generic("custom_equip(weapon:tool_c4_stgraffiti_spray_ani02)")
+			377:jump(135)			
+	
+		"human_bech"
+			0:lookat(off)	
+			0:hand(both, palm)	
+			0:hideequip(false)		
+	
 		"female_career"
 			0:lookat(off)	
 			0:hand(both, palm)	
@@ -23888,12 +24138,12 @@ set("social motion")
 			34:hand(left, fist)
 			290:jump(50)		
 
-		"human_natural_Gesture_S8_02"
+		"human_natural_gesture_S8_02"
 			0:lookat(off)
 			0:hideequip(false)
 			0:hand(both, palm)		
 			1:generic ("custom_equip(weapon:tool_c4_rock)")
-			350:jump(250)
+			300:jump(200)
 			
 		"human_natural_gesture_s8_03"
 			0:lookat(off)
@@ -23908,16 +24158,16 @@ set("social motion")
 			700:jump(160)			
 
 		"female_natural_gesture_s8_03"
-            0:lookat(off)
-            0:hideequip(false)
-            0:hand(both, palm)
-            126:generic("custom_equip(weapon:tool_c4_mug01)")           
-            126:hand(right, fist)
-            230:eyechange(223, 0)
-            330:eyechange(default)
-            500:eyechange(223, 0)
-            600:eyechange(default)
-            700:jump(160)   			
+				0:lookat(off)
+				0:hideequip(false)
+				0:hand(both, palm)
+				126:generic("custom_equip(weapon:tool_c4_mug01)")           
+				126:hand(right, fist)
+				230:eyechange(223, 0)
+				330:eyechange(default)
+				500:eyechange(223, 0)
+				600:eyechange(default)
+				700:jump(160)   			
 		
 		"human_natural_gesture_s8_04"
 			0:lookat(off)
@@ -23930,6 +24180,113 @@ set("social motion")
 			0:hand(both, palm)	
 			10:hand(right, fist)			
 			600:jump(150)
+			
+		"human_natural_gesture_s9_01"
+			0:lookat(off)
+			0:hideequip(false)
+			0:hand(both, fist)	
+			10:generic ("custom_equip(weapon:tool_hoe)")		
+			286:generic ("custom_equip(weapon)")		
+		
+		
+		"human_natural_gesture_s9_02"
+			0:lookat(off)
+			0:hideequip(false)			
+			0:hand(both, fist)	
+			20:generic ("custom_equip(weapon:tool_scissors)")		
+			450:generic ("custom_equip(weapon)")				
+		
+		"human_natural_gesture_s9_03"
+			0:lookat(off)
+			0:hideequip(false)
+			0:hand(both, palm)
+			 10:generic ("custom_equip(weapon:tool_broom)")	
+			 288:generic ("custom_equip(weapon)")
+
+		"human_natural_gesture_s9_04"
+			0:lookat(off)
+			0:hideequip(false)	
+			0:hand(both, palm)
+			197:linkframework(1, "race:240303, c1:808080 c2:FFFFFF c3:C87B4E c4:080808 c5:080808", "BodytoolR", "data/gfx/char/pet/anim/bird/pet_bird_natural_stand_to_sit_01")
+			216:linkframework(2, "race:240304 , c1:808080 c2:FFFFFF c3:C87B4E c4:080808 c5:080808", "HandtoolL", "data/gfx/char/pet/anim/bird/pet_bird_natural_stand_to_sit_01")
+			262:linkframework(3, "race:240302, c1:808080 c2:FFFFFF c3:C87B4E c4:080808 c5:080808", "HandtoolR", "data/gfx/char/pet/anim/bird/pet_bird_natural_stand_to_sit_01")
+			267:linkframework(1)
+			267:linkframework(1, "race:240303, c1:808080 c2:FFFFFF c3:C87B4E c4:080808 c5:080808", "BodytoolR", "data\gfx\char\pet\anim\bird\pet_bird_natural_feed")
+			286:linkframework(2)
+			286:linkframework(2, "race:240304 , c1:808080 c2:FFFFFF c3:C87B4E c4:080808 c5:080808", "HandtoolL", "data\gfx\char\pet\anim\bird\pet_bird_natural_feed")
+			300:linkframework(4, "race:240305, c1:808080 c2:FFFFFF c3:C87B4E c4:080808 c5:080808", "BodytoolL", "data/gfx/char/pet/anim/bird/pet_bird_natural_stand_to_sit_01")
+			310:linkframework(3)
+			310:linkframework(3, "race:240302 , c1:808080 c2:FFFFFF c3:C87B4E c4:080808 c5:080808", "HandtoolR", "data\gfx\char\pet\anim\bird\pet_bird_natural_feed")				
+			320:linkframework(5, "race:240306, c1:808080 c2:FFFFFF c3:C87B4E c4:080808 c5:080808", "Arm2toolL", "data/gfx/char/pet/anim/bird/pet_bird_natural_stand_to_sit_01")
+			370:linkframework(4)
+			370:linkframework(4, "race:240305 , c1:808080 c2:FFFFFF c3:C87B4E c4:080808 c5:080808", "BodytoolL", "data\gfx\char\pet\anim\bird\pet_bird_natural_feed")			
+			390:linkframework(5)
+			390:linkframework(5, "race:240306 , c1:808080 c2:FFFFFF c3:C87B4E c4:080808 c5:080808", "Arm2toolL", "data\gfx\char\pet\anim\bird\pet_bird_natural_feed")
+			650:linkframework(5)
+			650:linkframework(5, "race:240306 , c1:808080 c2:FFFFFF c3:C87B4E c4:080808 c5:080808", "Arm2toolL", "data\gfx\char\pet/anim/bird/pet_bird_natural_sit_01_to_stand")
+			655:linkframework(2)
+			655:linkframework(2, "race:240304 , c1:808080 c2:FFFFFF c3:C87B4E c4:080808 c5:080808", "HandtoolL", "data\gfx\char\pet/anim/bird/pet_bird_natural_sit_01_to_stand")
+			657:linkframework(1)
+			657:linkframework(1, "race:240303 , c1:808080 c2:FFFFFF c3:C87B4E c4:080808 c5:080808", "BodytoolR", "data\gfx\char\pet/anim/bird/pet_bird_natural_sit_01_to_stand")
+			657:linkframework(3)
+			657:linkframework(3, "race:240302 , c1:808080 c2:FFFFFF c3:C87B4E c4:080808 c5:080808", "HandtoolR", "data\gfx\char\pet/anim/bird/pet_bird_natural_sit_01_to_stand")
+			660:linkframework(4)
+			660:linkframework(4, "race:240305 , c1:808080 c2:FFFFFF c3:C87B4E c4:080808 c5:080808", "BodytoolL", "data\gfx\char\pet/anim/bird/pet_bird_natural_sit_01_to_stand")			
+			700:linkframework(5)
+			700:linkframework(5, "race:240306 , c1:808080 c2:FFFFFF c3:C87B4E c4:080808 c5:080808", "Arm2toolL", "data\gfx\char\pet/anim/bird/pet_bird_natural_stand_friendly")
+			705:linkframework(2)
+			705:linkframework(2, "race:240304 , c1:808080 c2:FFFFFF c3:C87B4E c4:080808 c5:080808", "HandtoolL", "data\gfx\char\pet/anim/bird/pet_bird_natural_stand_friendly")
+			707:linkframework(1)
+			707:linkframework(1, "race:240303 , c1:808080 c2:FFFFFF c3:C87B4E c4:080808 c5:080808", "BodytoolR", "data\gfx\char\pet/anim/bird/pet_bird_natural_stand_friendly")
+			707:linkframework(3)
+			707:linkframework(3, "race:240302 , c1:808080 c2:FFFFFF c3:C87B4E c4:080808 c5:080808", "HandtoolR", "data\gfx\char\pet/anim/bird/pet_bird_natural_stand_friendly")
+			710:linkframework(4)
+			710:linkframework(4, "race:240305 , c1:808080 c2:FFFFFF c3:C87B4E c4:080808 c5:080808", "BodytoolL", "data\gfx\char\pet/anim/bird/pet_bird_natural_stand_friendly")
+			731:linkframework(5)
+			736:linkframework(2)
+			738:linkframework(1)
+			738:linkframework(3)
+			741:linkframework(4)
+			 
+		"human_natural_gesture_s9_05"
+			0:lookat(off)
+			0:hideequip(false)
+			0:hand(both, fist)
+			10:generic ("custom_mesh(1:tool_hose)")	
+			56: effect("flower_water_gesture",0,1)
+			338:effectoff("flower_water_gesture")
+			378:generic ("custom_mesh(1)")
+			
+		
+		"human_natural_gesture_s9_06"
+			 0:hand(both, fist)
+			 0:lookat(off)
+			 0:hideequip(true)			 
+			 16:generic ("custom_equip(weapon:tool_wateringpot02)")	
+			50: effect("flower_waterpot_gesture",0,1)
+			255:effectoff("flower_waterpot_gesture")
+			 280:generic("custom_equip(weapon)")	
+			 
+		"human_natural_gesture_s11_01"
+			 0:hand(both, palm)
+			 0:lookat(off)	
+			 0:hideequip(true)				 
+			 
+		"human_natural_gesture_s11_02"
+			 0:hand(both, palm)
+			 0:lookat(off)	
+			 0:hideequip(true)	
+
+		"human_natural_gesture_s11_03"
+			 0:hand(both, palm)
+			 0:lookat(off)	
+			 0:hideequip(true)	
+
+		"human_natural_gesture_s11_04"
+			 0:hand(both, palm)
+			 0:lookat(off)	
+			 0:hideequip(true)			 
+		
 			
 		"human_natural_emotion_snowsprinkle"
 			0:lookat(off)		
@@ -24147,6 +24504,13 @@ set("social motion")
 		0:hideequip(false)		
 		0:hand(both, palm)	
 		0:generic ("custom_equip(shield:tool_c4_book03_02)")		
+		
+	"human_bookread02"
+		0:lookat(off)
+		0:hideequip(false)		
+		0:hand(both, palm)	
+		0:generic ("custom_equip(shield:tool_c4_book03_02)")	
+		251:jump(0)
 	
 	"male_gladiator"
 		0:lookat(off)
@@ -27300,8 +27664,30 @@ set("social motion")
 		363:eyechange(223, 0)		
 		1069:jump(669,true)
 
+	"female_unicornwear"
+		0:lookat(off)
+		0:hideequip(false)					
+		0:hand(both, palm)
+		0:hand(both, palm)
+		70:effect("uniwind",0,1)		
+		100:effect("uniwind02",0,1)		
+		400:effect("uniwind01",0,1)
+		600:effectoff("uniwind01")
+		850:jump(274,true)
 
-	
+	"male_unicornwear"
+		0:lookat(off)
+		0:hideequip(false)					
+		0:hand(both, palm)
+		0:hand(both, palm)
+		70:effect("uniwind",0,1)		
+		100:effect("lingerie_whitewing2_e",0,1)		
+		400:effect("uniwind01",0,1)
+		600:effectoff("uniwind01")
+		850:jump(274,true)
+
+
+
 	"female_2020preseason"
 		0:lookat(off)
 		0:hand(both, palm)
@@ -27390,7 +27776,49 @@ set("social motion")
 		380:effectoff("teacupwear")
 		413:hand(both, palm)
 		843:jump(0,true)		
-			
+
+	"female_composewear"
+		0:lookat(off)
+		0:hand(both, palm)
+		0:hideequip(false)
+		796:jump(0,true)
+
+	"male_composewear"
+		0:lookat(off)
+		0:hand(both, palm)
+		0:hideequip(false)
+		796:jump(0,true)		
+
+	"female_jumpsuit"
+		0:lookat(off)
+		0:hideequip(false)
+		0:hand(left, fist)
+		0:hand(right, palm)
+		60:hand(left, palm)
+		170:hand(right, fist)
+		255:hand(right, palm)
+		324:hand(left, fist))
+
+	"male_jumpsuit"
+		0:lookat(off)
+		0:hideequip(false)
+		0:hand(left, fist)
+		0:hand(right, palm)
+		60:hand(left, palm)
+		170:hand(right, fist)
+		255:hand(right, palm)
+		324:hand(left, fist)		
+
+	"male_16thblouse"
+		0:lookat(off)
+		0:hand(both, palm)
+		0:hideequip(false)
+		
+	"female_16thblouse"
+		0:lookat(off)
+		0:hand(both, palm)
+		0:hideequip(false)		
+		
 	///세일러 수영복의상
 	
 	"male_sailorswim"
@@ -28996,6 +29424,14 @@ endset
 set("elf_Bhand_E01")
 
 	folder("char\elf\anim\tool\Bhand_E")
+	
+	"elf_uni_tool_bhand_knight_sword_walk_friendly"
+			6:effect("footstep_right")
+			18:effect("footstep_left")
+			
+	"elf_uni_tool_bhand_knight_sword_run_friendly"
+			15:effect("footstep_right")
+			6:effect("footstep_left")	
 
 	"elf_uni_tool_Bhand_E01_walk_friendly"
 		0:hand(right, fist)
@@ -51020,6 +51456,21 @@ set("prop concerned - temporary")
 
 	// setting file 안의 animation을 정의할 때는 folder를 "::세팅파일 이름" 으로 지정해야 한다.
 	
+	folder("::farm_prop_firework01")	
+	
+		"farm_prop_firework01_on"
+			50:linkframework(6, "prop:47570", "bone01", "stand")				
+			90:linkframework(2, "prop:47566", "bone01", "stand")			
+			140:linkframework(3, "prop:47567", "bone01", "stand")				
+			180:linkframework(5, "prop:47569", "bone01", "stand")			
+			240:linkframework(4, "prop:47566", "bone01", "stand")			
+			290:linkframework(7, "prop:47567", "bone01", "stand")			
+			340:linkframework(8, "prop:47568", "bone01", "stand")
+								
+			
+		endfolder				
+	
+	
 	folder("::scene_prop_snowcloud01")
 		"scene_prop_snowcloud01_state02"	
 			320:jump(160)
@@ -52130,6 +52581,15 @@ set("prop concerned - temporary")
 
 
 	endfolder
+	
+	folder("::prop_spraypipe")
+
+		"prop_spraypipe"
+
+			132:jump(131)
+
+
+	endfolder	
 	
 	folder("::scene_prop_Halloween_pumpkinchair01")
 		
@@ -54834,6 +55294,35 @@ set("Knight")
 
 	folder("char\chapter4\human\anim\tool\rhand_A")
 	
+		"human_spray_smash"
+			0:lookat(off)			
+			0:hand(both, palm)	
+			0:generic("custom_equip(weapon:tool_c4_stgraffiti_spray_ani)")
+			30:hit(up,normal)	
+			28:effect("spray03",0,1)
+			63:effectoff("spray03")
+
+		"human_spray_stand_friendly"
+			0:lookat(off)
+			0:hand(both, palm)	
+		
+	
+		"male_unihorn_stand_friendly"
+			1:eyechange(default)	
+			0:lookat(off)
+			0:hand(both, palm)		
+			310:effect("unihorn_light01",0,1)
+			310:eyechange(223,0)		
+			470:eyechange(default)				
+			
+		"female_unihorn_stand_friendly"
+			1:eyechange(default)	
+			0:lookat(off)
+			0:hand(both, palm)		
+			310:effect("unihorn_light01",0,1)			
+			310:eyechange(223,0)		
+			470:eyechange(default)				
+	
 		"male_tool_BR_a02_stand_friendly"
 			0:lookat(off)
 			0:hand(left, palm)		
@@ -56758,6 +57247,50 @@ set("Knight")
 	endfolder
 
 	folder("char\chapter4\giant\anim\tool\Rhand_A")
+	
+		"giant_spray_smash"
+			0:lookat(off)			
+			0:hand(both, palm)	
+			0:generic("custom_equip(weapon:giant_tool_c4_stgraffiti_spray_ani)")
+			30:hit(up,normal)	
+			28:effect("spray03",0,1)
+			63:effectoff("spray03")		
+			
+		"giant_female_spray_smash"
+			0:lookat(off)			
+			0:hand(both, palm)	
+			
+			0:generic("custom_equip(weapon:giant_tool_c4_stgraffiti_spray_ani)")
+			30:hit(up,normal)	
+			28:effect("spray03",0,1)
+			63:effectoff("spray03")					
+		
+		"giant_female_spray_stand_friendly"
+			0:lookat(off)
+			0:hand(both, palm)			
+			
+		"giant_spray_stand_friendly"
+			0:lookat(off)
+			0:hand(both, palm)					
+		
+	
+		"giant_unihorn_stand_friendly"
+			1:eyechange(default)	
+			0:lookat(off)
+			0:hand(both, palm)		
+			310:effect("unihorn_light01G",0,1)
+			310:eyechange(223,0)		
+			470:eyechange(default)				
+			
+			
+		"giant_female_unihorn_stand_friendly"
+			1:eyechange(default)			
+			0:lookat(off)
+			0:hand(both, palm)		
+			310:effect("unihorn_light01G",0,1)	
+			310:eyechange(223,0)		
+			470:eyechange(default)		
+			
 	
 		"giant_female_tool_BR_a02_stand_friendly"
 			0:lookat(off)
@@ -67676,12 +68209,19 @@ set("giant")
 			
 		"giant_female_devilchair_sit"
 			0:lookat(off)
-			//0:hand (left, fist)
 			0:hand (both, palm)
 			
 		"giant_devilchair_sit"
 			0:lookat(off)			
 			0:hand (both,palm)
+			
+		"giant_female_devilchair02_sit"
+			0:lookat(off)
+			0:hand (both, palm)
+			
+		"giant_devilchair02_sit"
+			0:lookat(off)			
+			0:hand (both,palm)			
 	
 		"giant_death_escape"
 			0:lookat(off)
@@ -77416,6 +77956,27 @@ set("social motion")
 	
 	folder("char\chapter4\giant\anim\social_motion")
 	
+		"giant_female_graffit"
+			0:hand(both,palm)
+			80:generic("custom_equip(weapon:giant_tool_c4_stgraffiti_spray_ani02)")
+			377:jump(135)
+						
+			
+		"giant_graffit"
+			0:hand(both,palm)
+			80:generic("custom_equip(weapon:giant_tool_c4_stgraffiti_spray_ani02)")
+			377:jump(135)		
+	
+		"giant_bech"
+			0:lookat(off)	
+			0:hand(both, palm)	
+			0:hideequip(false)		
+			
+		"giant_female_bech"
+			0:lookat(off)	
+			0:hand(both, palm)	
+			0:hideequip(false)				
+	
 		"giant_female_career"
 			0:lookat(off)	
 			0:hand(both, palm)	
@@ -77949,7 +78510,7 @@ set("social motion")
 			0:hideequip(false)
 			0:hand(both, palm)		
 			1:generic ("custom_equip(weapon:giant_tool_rock)")
-			350:jump(250)	
+			300:jump(200)	
 			
 		
 		"giant_natural_gesture_s8_02"
@@ -77957,7 +78518,7 @@ set("social motion")
 			0:hideequip(false)
 			0:hand(both, palm)		
 			1:generic ("custom_equip(weapon:giant_tool_rock)")
-			350:jump(250)		
+			300:jump(200)		
 			
 			
 			
@@ -78010,6 +78571,199 @@ set("social motion")
 			0:hand(both, palm)	
 			10:hand(right, fist)			
 			600:jump(150)	
+			
+		"giant_natural_gesture_s9_01"
+			0:lookat(off)
+			0:hideequip(false)
+			0:hand(both, fist)	
+			10:generic ("custom_equip(weapon:giant_tool_hoe)")		
+			286:generic ("custom_equip(weapon)")		
+			
+		"giant_natural_gesture_s9_02"
+			0:lookat(off)
+			0:hideequip(false)
+			0:hand(both, fist)	
+			20:generic ("custom_equip(weapon:giant_tool_scissors)")		
+			450:generic ("custom_equip(weapon)")		
+			
+		"giant_natural_gesture_s9_03"
+			0:lookat(off)
+			0:hideequip(false)
+			0:hand(both, fist)
+			 10:generic ("custom_equip(weapon:tool_broom)")	
+			 288:generic ("custom_equip(weapon)")
+
+		"giant_natural_gesture_s9_04"
+			0:lookat(off)
+			0:hideequip(false)	
+			0:hand(both, palm)
+			197:linkframework(1, "race:240303, c1:808080 c2:FFFFFF c3:C87B4E c4:080808 c5:080808", "BodytoolR", "data/gfx/char/pet/anim/bird/pet_bird_natural_stand_to_sit_01")
+			216:linkframework(2, "race:240304 , c1:808080 c2:FFFFFF c3:C87B4E c4:080808 c5:080808", "HandtoolL", "data/gfx/char/pet/anim/bird/pet_bird_natural_stand_to_sit_01")
+			262:linkframework(3, "race:240302, c1:808080 c2:FFFFFF c3:C87B4E c4:080808 c5:080808", "HandtoolR", "data/gfx/char/pet/anim/bird/pet_bird_natural_stand_to_sit_01")
+			267:linkframework(1)
+			267:linkframework(1, "race:240303, c1:808080 c2:FFFFFF c3:C87B4E c4:080808 c5:080808", "BodytoolR", "data\gfx\char\pet\anim\bird\pet_bird_natural_feed")
+			286:linkframework(2)
+			286:linkframework(2, "race:240304 , c1:808080 c2:FFFFFF c3:C87B4E c4:080808 c5:080808", "HandtoolL", "data\gfx\char\pet\anim\bird\pet_bird_natural_feed")
+			300:linkframework(4, "race:240305, c1:808080 c2:FFFFFF c3:C87B4E c4:080808 c5:080808", "BodytoolL", "data/gfx/char/pet/anim/bird/pet_bird_natural_stand_to_sit_01")
+			310:linkframework(3)
+			310:linkframework(3, "race:240302 , c1:808080 c2:FFFFFF c3:C87B4E c4:080808 c5:080808", "HandtoolR", "data\gfx\char\pet\anim\bird\pet_bird_natural_feed")				
+			320:linkframework(5, "race:240306, c1:808080 c2:FFFFFF c3:C87B4E c4:080808 c5:080808", "Arm2toolL", "data/gfx/char/pet/anim/bird/pet_bird_natural_stand_to_sit_01")
+			370:linkframework(4)
+			370:linkframework(4, "race:240305 , c1:808080 c2:FFFFFF c3:C87B4E c4:080808 c5:080808", "BodytoolL", "data\gfx\char\pet\anim\bird\pet_bird_natural_feed")			
+			390:linkframework(5)
+			390:linkframework(5, "race:240306 , c1:808080 c2:FFFFFF c3:C87B4E c4:080808 c5:080808", "Arm2toolL", "data\gfx\char\pet\anim\bird\pet_bird_natural_feed")
+			650:linkframework(5)
+			650:linkframework(5, "race:240306 , c1:808080 c2:FFFFFF c3:C87B4E c4:080808 c5:080808", "Arm2toolL", "data\gfx\char\pet/anim/bird/pet_bird_natural_sit_01_to_stand")
+			655:linkframework(2)
+			655:linkframework(2, "race:240304 , c1:808080 c2:FFFFFF c3:C87B4E c4:080808 c5:080808", "HandtoolL", "data\gfx\char\pet/anim/bird/pet_bird_natural_sit_01_to_stand")
+			657:linkframework(1)
+			657:linkframework(1, "race:240303 , c1:808080 c2:FFFFFF c3:C87B4E c4:080808 c5:080808", "BodytoolR", "data\gfx\char\pet/anim/bird/pet_bird_natural_sit_01_to_stand")
+			657:linkframework(3)
+			657:linkframework(3, "race:240302 , c1:808080 c2:FFFFFF c3:C87B4E c4:080808 c5:080808", "HandtoolR", "data\gfx\char\pet/anim/bird/pet_bird_natural_sit_01_to_stand")
+			660:linkframework(4)
+			660:linkframework(4, "race:240305 , c1:808080 c2:FFFFFF c3:C87B4E c4:080808 c5:080808", "BodytoolL", "data\gfx\char\pet/anim/bird/pet_bird_natural_sit_01_to_stand")			
+			700:linkframework(5)
+			700:linkframework(5, "race:240306 , c1:808080 c2:FFFFFF c3:C87B4E c4:080808 c5:080808", "Arm2toolL", "data\gfx\char\pet/anim/bird/pet_bird_natural_stand_friendly")
+			705:linkframework(2)
+			705:linkframework(2, "race:240304 , c1:808080 c2:FFFFFF c3:C87B4E c4:080808 c5:080808", "HandtoolL", "data\gfx\char\pet/anim/bird/pet_bird_natural_stand_friendly")
+			707:linkframework(1)
+			707:linkframework(1, "race:240303 , c1:808080 c2:FFFFFF c3:C87B4E c4:080808 c5:080808", "BodytoolR", "data\gfx\char\pet/anim/bird/pet_bird_natural_stand_friendly")
+			707:linkframework(3)
+			707:linkframework(3, "race:240302 , c1:808080 c2:FFFFFF c3:C87B4E c4:080808 c5:080808", "HandtoolR", "data\gfx\char\pet/anim/bird/pet_bird_natural_stand_friendly")
+			710:linkframework(4)
+			710:linkframework(4, "race:240305 , c1:808080 c2:FFFFFF c3:C87B4E c4:080808 c5:080808", "BodytoolL", "data\gfx\char\pet/anim/bird/pet_bird_natural_stand_friendly")
+			731:linkframework(5)
+			736:linkframework(2)
+			738:linkframework(1)
+			738:linkframework(3)
+			741:linkframework(4)			 
+			900:jump(0)
+			
+		"giant_natural_gesture_s9_05"
+			0:lookat(off)
+			0:hideequip(false)
+			0:hand(both, fist)
+			10:generic ("custom_mesh(1:giant_tool_hose)")	
+			56: effect("flower_water_gestureG",0,1)
+			338:effectoff("flower_water_gestureG")
+			378:generic ("custom_mesh(1)")
+			
+		
+		"giant_natural_gesture_s9_06"
+			 0:hand(both, fist)
+			 0:lookat(off)	
+			 0:hideequip(true)	
+			 16:generic ("custom_equip(weapon:giant_tool_wateringpot02)")	
+			 50: effect("flower_waterpot_gestureG",0,1)
+			 255:effectoff("flower_waterpot_gestureG")
+			 280:generic("custom_equip(weapon)")					
+		
+		
+		"giant_female_natural_gesture_s9_01"
+			0:lookat(off)
+			0:hideequip(false)
+			0:hand(both, fist)	
+			10:generic ("custom_equip(weapon:giant_tool_hoe)")		
+			286:generic ("custom_equip(weapon)")		
+			
+		"giant_female_natural_gesture_s9_02"
+			0:lookat(off)
+			0:hideequip(false)
+			0:hand(both, fist)	
+			20:generic ("custom_equip(weapon:giant_tool_scissors)")		
+			450:generic ("custom_equip(weapon)")		
+			
+		"giant_female_natural_gesture_s9_03"
+			0:lookat(off)
+			0:hideequip(false)
+			0:hand(both, fist)
+			 10:generic ("custom_equip(weapon:tool_broom)")	
+			 288:generic ("custom_equip(weapon)")
+
+		"giant_female_natural_gesture_s9_04"
+			0:lookat(off)
+			0:hideequip(false)	
+			0:hand(both, palm)
+			197:linkframework(1, "race:240303, c1:808080 c2:FFFFFF c3:C87B4E c4:080808 c5:080808", "BodytoolR", "data/gfx/char/pet/anim/bird/pet_bird_natural_stand_to_sit_01")
+			216:linkframework(2, "race:240304 , c1:808080 c2:FFFFFF c3:C87B4E c4:080808 c5:080808", "HandtoolL", "data/gfx/char/pet/anim/bird/pet_bird_natural_stand_to_sit_01")
+			262:linkframework(3, "race:240302, c1:808080 c2:FFFFFF c3:C87B4E c4:080808 c5:080808", "HandtoolR", "data/gfx/char/pet/anim/bird/pet_bird_natural_stand_to_sit_01")
+			267:linkframework(1)
+			267:linkframework(1, "race:240303, c1:808080 c2:FFFFFF c3:C87B4E c4:080808 c5:080808", "BodytoolR", "data\gfx\char\pet\anim\bird\pet_bird_natural_feed")
+			286:linkframework(2)
+			286:linkframework(2, "race:240304 , c1:808080 c2:FFFFFF c3:C87B4E c4:080808 c5:080808", "HandtoolL", "data\gfx\char\pet\anim\bird\pet_bird_natural_feed")
+			300:linkframework(4, "race:240305, c1:808080 c2:FFFFFF c3:C87B4E c4:080808 c5:080808", "BodytoolL", "data/gfx/char/pet/anim/bird/pet_bird_natural_stand_to_sit_01")
+			310:linkframework(3)
+			310:linkframework(3, "race:240302 , c1:808080 c2:FFFFFF c3:C87B4E c4:080808 c5:080808", "HandtoolR", "data\gfx\char\pet\anim\bird\pet_bird_natural_feed")				
+			320:linkframework(5, "race:240306, c1:808080 c2:FFFFFF c3:C87B4E c4:080808 c5:080808", "Arm2toolL", "data/gfx/char/pet/anim/bird/pet_bird_natural_stand_to_sit_01")
+			370:linkframework(4)
+			370:linkframework(4, "race:240305 , c1:808080 c2:FFFFFF c3:C87B4E c4:080808 c5:080808", "BodytoolL", "data\gfx\char\pet\anim\bird\pet_bird_natural_feed")			
+			390:linkframework(5)
+			390:linkframework(5, "race:240306 , c1:808080 c2:FFFFFF c3:C87B4E c4:080808 c5:080808", "Arm2toolL", "data\gfx\char\pet\anim\bird\pet_bird_natural_feed")
+			650:linkframework(5)
+			650:linkframework(5, "race:240306 , c1:808080 c2:FFFFFF c3:C87B4E c4:080808 c5:080808", "Arm2toolL", "data\gfx\char\pet/anim/bird/pet_bird_natural_sit_01_to_stand")
+			655:linkframework(2)
+			655:linkframework(2, "race:240304 , c1:808080 c2:FFFFFF c3:C87B4E c4:080808 c5:080808", "HandtoolL", "data\gfx\char\pet/anim/bird/pet_bird_natural_sit_01_to_stand")
+			657:linkframework(1)
+			657:linkframework(1, "race:240303 , c1:808080 c2:FFFFFF c3:C87B4E c4:080808 c5:080808", "BodytoolR", "data\gfx\char\pet/anim/bird/pet_bird_natural_sit_01_to_stand")
+			657:linkframework(3)
+			657:linkframework(3, "race:240302 , c1:808080 c2:FFFFFF c3:C87B4E c4:080808 c5:080808", "HandtoolR", "data\gfx\char\pet/anim/bird/pet_bird_natural_sit_01_to_stand")
+			660:linkframework(4)
+			660:linkframework(4, "race:240305 , c1:808080 c2:FFFFFF c3:C87B4E c4:080808 c5:080808", "BodytoolL", "data\gfx\char\pet/anim/bird/pet_bird_natural_sit_01_to_stand")			
+			700:linkframework(5)
+			700:linkframework(5, "race:240306 , c1:808080 c2:FFFFFF c3:C87B4E c4:080808 c5:080808", "Arm2toolL", "data\gfx\char\pet/anim/bird/pet_bird_natural_stand_friendly")
+			705:linkframework(2)
+			705:linkframework(2, "race:240304 , c1:808080 c2:FFFFFF c3:C87B4E c4:080808 c5:080808", "HandtoolL", "data\gfx\char\pet/anim/bird/pet_bird_natural_stand_friendly")
+			707:linkframework(1)
+			707:linkframework(1, "race:240303 , c1:808080 c2:FFFFFF c3:C87B4E c4:080808 c5:080808", "BodytoolR", "data\gfx\char\pet/anim/bird/pet_bird_natural_stand_friendly")
+			707:linkframework(3)
+			707:linkframework(3, "race:240302 , c1:808080 c2:FFFFFF c3:C87B4E c4:080808 c5:080808", "HandtoolR", "data\gfx\char\pet/anim/bird/pet_bird_natural_stand_friendly")
+			710:linkframework(4)
+			710:linkframework(4, "race:240305 , c1:808080 c2:FFFFFF c3:C87B4E c4:080808 c5:080808", "BodytoolL", "data\gfx\char\pet/anim/bird/pet_bird_natural_stand_friendly")
+			731:linkframework(5)
+			736:linkframework(2)
+			738:linkframework(1)
+			738:linkframework(3)
+			741:linkframework(4)
+			900:jump(0)			
+		
+		"giant_female_natural_gesture_s9_05"
+			0:lookat(off)
+			0:hideequip(false)
+			0:hand(both, fist)
+			10:generic ("custom_mesh(1:giant_tool_hose)")	
+			56: effect("flower_water_gestureG",0,1)
+			338:effectoff("flower_water_gestureG")
+			378:generic ("custom_mesh(1)")
+			
+		
+		"giant_female_natural_gesture_s9_06"
+			 0:hand(both, fist)
+			 0:lookat(off)	
+			 0:hideequip(true)	
+			 16:generic ("custom_equip(weapon:giant_tool_wateringpot02)")	
+			 50: effect("flower_waterpot_gestureG",0,1)
+			 255:effectoff("flower_waterpot_gestureG")
+			 280:generic("custom_equip(weapon)")		
+			 
+		"giant_natural_gesture_s11_01"
+			 0:hand(both, palm)
+			 0:lookat(off)	
+			 0:hideequip(true)		
+			 
+		"giant_natural_gesture_s11_02"
+			 0:hand(both, palm)
+			 0:lookat(off)	
+			 0:hideequip(true)		
+
+		"giant_natural_gesture_s11_03"
+			 0:hand(both, palm)
+			 0:lookat(off)	
+			 0:hideequip(true)		
+
+		"giant_natural_gesture_s11_03"
+			 0:hand(both, palm)
+			 0:lookat(off)	
+			 0:hideequip(true)				 
 			
 		"giant_enlightenment"
 			0:lookat(off)
@@ -78267,14 +79021,28 @@ set("social motion")
 		0:hideequip(false)		
 		0:hand(both, palm)	
 		0:generic ("custom_equip(shield:giant_tool_c4_book03_02)")		
-	
 
+
+	"giant_bookread02"
+		0:lookat(off)
+		0:hideequip(false)		
+		0:hand(both, palm)	
+		0:generic ("custom_equip(shield:giant_tool_c4_book03_02)")			
+		251:jump(0)
+		
 	"giant_female_bookread"
 		0:lookat(off)
 		0:hideequip(false)		
 		0:hand(both, palm)	
 		0:generic ("custom_equip(shield:giant_tool_c4_book03_02)")		
-	
+
+	"giant_female_bookread02"
+		0:lookat(off)
+		0:hideequip(false)		
+		0:hand(both, palm)	
+		0:generic ("custom_equip(shield:giant_tool_c4_book03_02)")	
+		251:jump(0)
+		
 	"giant_gladiator"
 		0:lookat(off)
 		0:hideequip(false)		
@@ -82014,6 +82782,30 @@ set("social motion")
 		776:generic("custom_equip(weapon)")
 		776:hand(right, palm)		
 
+
+	"giant_female_unicornwear"
+		0:lookat(off)
+		0:hideequip(false)					
+		0:hand(both, palm)
+		0:hand(both, palm)
+		70:effect("uniwind_g",0,1)		
+		100:effect("lingerie_whitewing2_g",0,1)		
+		400:effect("uniwind01",0,1)
+		600:effectoff("uniwind01")
+		850:jump(274,true)
+
+	"giant_unicornwear"
+		0:lookat(off)
+		0:hideequip(false)					
+		0:hand(both, palm)
+		0:hand(both, palm)
+		70:effect("uniwind_g",0,1)		
+		100:effect("lingerie_whitewing2_g",0,1)		
+		400:effect("uniwind01",0,1)
+		600:effectoff("uniwind01")
+		850:jump(274,true)
+
+
 	"giant_2020winter"
 		0:lookat(off)
 		0:hideequip(false)
@@ -82092,8 +82884,53 @@ set("social motion")
 		981:effect("snowfield_steam_breath_giant")			
 		982:effect("snowfield_steam_breath_giant")			
 		1100:jump(560,true)		
+
+	"giant_female_composewear"
+		0:lookat(off)
+		0:hand(both, palm)
+		0:hideequip(false)
+		796:jump(0,true)
+
+	"giant_composewear"
+		0:lookat(off)
+		0:hand(both, palm)
+		0:hideequip(false)
+		796:jump(0,true)
+
+	"giant_jumpsuit"
+		0:lookat(off)
+		0:hideequip(false)
+		0:hand(left, fist)
+		0:hand(right, palm)
+		60:hand(left, palm)
+		170:hand(right, fist)
+		255:hand(right, palm)
+		324:hand(left, fist))
+
+	"giant_female_jumpsuit"
+		0:lookat(off)
+		0:hideequip(false)
+		0:hand(left, fist)
+		0:hand(right, palm)
+		60:hand(left, palm)
+		170:hand(right, fist)
+		255:hand(right, palm)
+		324:hand(left, fist))
+
+	"giant_female_16thblouse"
+		0:lookat(off)
+		0:hand(both, palm)
+		0:hideequip(false)
+		255:hand(both, fist)
+		355:hand(both, palm)
 		
-					
+	"giant_16thblouse"
+		0:lookat(off)
+		0:hand(both, palm)
+		0:hideequip(false)
+		
+		
+	
 	"giant_2020preseason"
 		0:lookat(off)
 		0:hand(both, palm)
@@ -96642,6 +97479,27 @@ set("C4_monster")
 	
 	folder("char\chapter4\monster\anim\flesh")
 
+
+
+	"flesh_dead"
+		0:lookat(off)
+		
+	"flesh_dying"
+			0:lookat(off)	
+			
+	"flesh_rightstrike"
+			0:lookat(off)	
+			
+	"flesh_stun"
+			0:lookat(off)	
+			
+	"flesh_leftcasting_prepare"
+			0:lookat(off)	
+			85:jump(25)
+			
+	"flesh_leftcasting_process"
+			0:lookat(off)	
+	
 	"flesh_attack"
 			5:sound("data\\sound\\attack_heavy.wav")
 			14:hit(up,spin)

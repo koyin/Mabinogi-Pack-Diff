@@ -1112,6 +1112,7 @@ pli_commercetraceview.1	{0}名
 pli_commercewantedview.1	外掠奪{0}名的物品
 pli_commercewantedview.2	的物品掠奪
 pli_commercewantedview.3	{0}名
+pli_commonrouletteview.1	獎品轉盤硬幣不足.
 pli_composeview2016.1	真的確定要清除目前已寫入的所有內容嗎?
 pli_composeview2016.2	目前所選擇的樂器無法演奏該音符
 pli_composeview2016.3	請輸入標題
@@ -1393,6 +1394,8 @@ pli_egoweapondescframe.3	<ttflocal size=14><color=4>攻擊力強化\n</color><tt
 pli_egoweapondescframe.4	<ttflocal size=14><color=4>專用強化\n</color><ttflocal size=12>
 pli_egoweapondescframe.5	<ttflocal size=14><color=4>實體化技能強化\n</color><ttflocal size=12>
 pli_egoweapondescframe.6	可消耗Point強化精靈.
+pli_egoweapondescframe.7	已經套用的精靈形象變換無法刪除.\n請選擇其他精靈形象變換後進行刪除.
+pli_egoweapondescframe.8	確定要刪除選擇的精靈形象變換嗎?
 pli_egoweaponfeedframe.1	Lv. %d exp %.2f%%
 pli_egoweaponfeedframe.2	<color=5>{0}</color>\n為精靈喜歡的寶石.\n精靈攝取喜歡的寶石時,就可獲得經驗值獎勵.
 pli_egoweaponfeedframe.3	Lv. %d exp %.2f%%
@@ -5556,7 +5559,7 @@ pli_windowoptiontabsetcframe.40	會區分背包中所獲得的新道具並強調
 pli_windowoptiontabsetcframe.41	裝備比較工具欄顯示
 pli_windowoptiontabsetcframe.42	目前工具欄顯示中的裝備,在所裝備的位置上已套用其他裝備的話,會顯示裝備比較工具欄.
 pli_windowoptiontabsetcframe.43	使用快速套用裝備
-pli_windowoptiontabsetcframe.44	透過Ctrl + L使用自動快速套用/解除裝備道具的功能.
+pli_windowoptiontabsetcframe.44	透過Ctrl + 左鍵使用自動快速套用/解除裝備道具的功能.
 pli_windowoptiontabsetcframe.45	關閉黑闇值計量表
 pli_windowoptiontabsetcframe.46	固定黑闇值計量表的位置.
 pli_windowoptiontabsetcframe.47	追加可見上端技能欄位
@@ -6457,6 +6460,7 @@ pli_windowsystemmenu.3	前往伊利亞大陸的 {0}探險.
 pli_windowsystemmenu2.1	使用這動作可以大陸移動.\n使用動作後系統選項的大陸移動按鈕會移除.
 pli_windowsystemmenu2.2	變更夥伴外型中無法進行大陸移動.
 pli_windowsystemmenu2.3	進行新手教學中的角色無法使用.\n(首次重生後可使用)
+pli_windowsystemmenu3.1	活動中無法結束.
 pli_windowtalenttitleballoon.1	才能稱號
 pli_windowtaskbar.2	點選的話,就可以使用緊急逃離炸彈B.
 pli_windowtaskbar.3	已使用此炸彈.\n明天上午 7點後才可以再次使用.

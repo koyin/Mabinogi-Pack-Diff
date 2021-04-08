@@ -617,7 +617,7 @@ mabinogi_privatefarmdesc.14	爆擊傷害值
 mabinogi_privatefarmdesc.15	音樂增益技能效果
 mabinogi_privatefarmdesc.16	魔法攻擊力
 mabinogi_privatefarmdesc.17	額外傷害值
-mabinogi_privatefarmdesc.23	이동 속도
+mabinogi_privatefarmdesc.23	移動速度
 mabinogi_propentity.1	프랍 ClassID를 바꾸려 합니다. objectID: %d 이전 ClassID: %d 바뀌는 ClassID: %d
 mabinogi_shadowmissiondesc.1	初級
 mabinogi_shadowmissiondesc.2	中級
@@ -840,8 +840,8 @@ setitemmgr.1	增加
 setitemmgr.2	減少
 setitemmgr.3	增加
 setitemmgr.4	減少
-setitemmgr.5	세트 효과를 올릴 수 없는 아이템으로 사용할 수 없습니다.
-setitemmgr.6	세트 효과가 이미 {0}으로 아이템이 사용되지 않습니다.
+setitemmgr.5	以無法提升組合效果的道具將無法使用.
+setitemmgr.6	組合效果已經以 {0}道具將不會使用.
 setparameter.1	{0}
 setparameter.2	{0}秒
 setparameter.3	{0} {1} 細緻工匠

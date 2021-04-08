@@ -7221,7 +7221,7 @@
 7221	<title name='陌生的女子'/><autopass duration='3500'/>就正式向你自我介紹吧!<br/>
 7222	<title name='莫梨彼絲'/><autopass duration='3500'/>我是完美的!<br/>
 7223	<title name='莫梨彼絲'/><autopass duration='2500'/>我...<br/>
-7224	<title name='莫梨彼絲/><autopass duration='2500'/>嘗嘗我的厲害吧!<br/>嘻, 嘻嘻嘻!!!<br/>
+7224	<title name='莫梨彼絲'/><autopass duration='2500'/>嘗嘗我的厲害吧!<br/>嘻, 嘻嘻嘻!!!<br/>
 7225	<title name=/><autopass duration='5000'/>(剛才好像什麼掉下來了... 查看一下周圍.)<br/>
 7226	<title name='大嗓門的可疑男子'/>啊啊!<br/>等一下啊!<br/>
 7227	<title name='緊張狀態的可疑男子'/>可惡! 太可疑了.... <br/>剛才明明什麼都沒有啊!<br/>
