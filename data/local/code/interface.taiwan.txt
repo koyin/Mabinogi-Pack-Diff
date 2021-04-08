@@ -905,7 +905,7 @@ pli_charactercommerceframe.3	lv{0} exp {1}%
 pli_characterconditionremaintimeview.1	目錄中沒有要標示的內容.
 pli_characterentryview.1	角色情報 {0}
 pli_characterentryview.2	才能 {0}
-pli_characterentryview.3	回憶錄 {0}
+pli_characterentryview.3	布蘿妮的成長支援 {0}
 pli_characterentryview.4	完成`不陌生的聲音` 任務後可使用.
 pli_charactererinnlandachievementframe.1	退場
 pli_charactererinnlandachievementframe.2	入場
@@ -1143,6 +1143,7 @@ pli_cookingview.0	不是可以使用的狀態.\n請向房屋主人詢問.
 pli_cookingview.1	必須要支付使用費{0}個金幣.\n請問要使用嗎?
 pli_cookingview.2	料理種類
 pli_cookingview.3	請加入'{0}'
+pli_coupledanceview.1	{0} 점
 pli_createautobotview.1	自動飛行
 pli_createautobotview.2	確認
 pli_createautobotview.3	請輸入名稱.
@@ -3064,6 +3065,8 @@ pli_newattendance2017view.11	臨時保管箱中空間不足.
 pli_newmemberview.1	마비노기 계정 통합
 pli_newmemberview.2	마비노기 계정 통합
 pli_newrebirtheventview.1	剩餘時間 : 
+pli_newrecordbookmainview.1	似乎還尚未有特殊內容. \n先完成第三個回憶錄吧
+pli_newrecordbookmainview.2	* 目次\n
 pli_newyearfortune2015japan.1	想要查看運勢的話需要3個算命錢.
 pli_npcenchantentrustview.1	6等級以上的魔法賦予失敗的話對象道具將消失.
 pli_npcenchantentrustview.2	在6等級以上的魔力賦予失敗時,對象道具消失\n蘊藏在武器上的精靈也一起消失.
@@ -3586,9 +3589,9 @@ pli_rebirthrankupbonusview.1	點擊[Level UP!] 按鈕時,跟重生同時角色�
 pli_recordbookmainview.1	獲得貼紙 : {0}
 pli_recordbookmainview.2	現在好像還沒有什麼內容. \n請先完成第一個回憶錄吧
 pli_recordbookmainview.3	現在好像還沒有什麼內容. \n請先完成第二個回憶錄吧
-pli_recordbookpopupview.1	블로니의 성장지원으로 지금 바로 5000레벨 달성!!\n\n성장지원 퀘스트 완료할 때마다\n- 3천만 경험치 획득(최소 123레벨)\n- 환생 물약 지급\n바로 환생해서 누적레벨을 올릴 수 있어요.
-pli_recordbookpopupview.2	블로니의 성장지원으로 지금 바로 누적레벨을 올리세요!!\n\n성장지원 퀘스트 완료할 때마다\n- 6백만 경험치 획득\n- 수련치 2배 포션 등 다양한 성장 아이템\n초고속으로 누적레벨을 올릴 수 있어요.
-pli_recordbookpopupview.3	진행중인 [블로니의 성장지원]이 있습니다.\n블로니의 성장지원을 진행하면 성장에 도움이 됩니다.
+pli_recordbookpopupview.1	以布蘿妮的成長支援現在馬上達成 5000等級!!\n\n每當完成成長支援任務時\n- 獲得3千萬經驗值(最少 123等級)\n- 發放重生藥水\n馬上重生可以提升累積等級.
+pli_recordbookpopupview.2	以布蘿妮的成長支援現在馬上提升累積等級!!\n\n每當完成成長支援任務時\n- 獲得6百萬經驗值\n- 修練值 2倍藥水等多樣成長道具\n可用超高速提升累積等級.
+pli_recordbookpopupview.3	有進行中的 [布蘿妮的成長支援].\n進行布蘿妮的成長支援對於成長將所有幫助.
 pli_recordbookrecordview.1	{0}.{1}.{2} {3}:{4} 累積等級 {5}. {6} {7}.
 pli_relationcapturescreenshotview.1	拍遊戲擷圖
 pli_relationcapturescreenshotview.2	關閉
@@ -5426,7 +5429,9 @@ pli_windownewpet3.1	召喚時間 : {0}分 (共 {1}天)
 pli_windownewpetingame.1	將生成角色的伺服器.
 pli_windownewpetingame2.1	隨機外型
 pli_windownewpetingame2.2	召喚時間 : {0}分 (共 {1}天)
+pli_windownpcchat.1	보이스가 존재하는 NPC입니다.\n보이스 관련 설정은 환경설정-사운드에서 설정 가능합니다.
 pli_windownpcchatetc.1	<npcportrait name='NONE'/><title name='NONE'/>和精靈的對話結束了
+pli_windownpcchatetc.2	처음 대화로 돌아가기
 pli_windownpcshop.0	重新修改
 pli_windownpcshoptabframe.1	目前騎士競技積分: {0}分
 pli_windownpcshoptabframe.2	目前的星星: {0}個
@@ -5641,6 +5646,10 @@ pli_windowoptiontabssound.16	Korea Symphony Ochestra版本
 pli_windowoptiontabssound.17	選擇時,部分BGM將播放Korea Symphony Ochestra的公演實況版本.
 pli_windowoptiontabssound.18	背景聲音播放
 pli_windowoptiontabssound.19	即使遊戲畫面沒有開啟聲音也會播放.
+pli_windowoptiontabssound.20	聲音音量
+pli_windowoptiontabssound.21	보이스 언어
+pli_windowoptiontabssound.22	한국어
+pli_windowoptiontabssound.23	중국어
 pli_windowoptiontabssystem.1	效能 PERFORMANCE
 pli_windowoptiontabsvideo.1	使用Film Style Post Shader
 pli_windowoptiontabsvideo.2	視野比率{0}
@@ -5908,6 +5917,7 @@ pli_windowpopupcharacter.63	在公會戰途中無法變更夥伴外型.
 pli_windowpopupcharacter.64	特化特技 : {0}
 pli_windowpopupcharacter.65	散步
 pli_windowpopupcharacter.66	結束散步
+pli_windowpopupcharacter.67	對話
 pli_windowpopupitem.0	改變方向 Change Direction
 pli_windowpopupitem.1	使用費設定 Set Rental Fee
 pli_windowpopupitem.2	打開生產視窗Open Production View
@@ -6568,6 +6578,8 @@ pli_windowtaskbaraction.22	進行新手教學中的角色無法使用.\n(首次�
 pli_windowtaskbaraction.23	在進行嘉年華會迷你遊戲或精彩活動時無法使用.
 pli_windowtaskbaraction.24	現在為無法使用的狀態.
 pli_windowtaskbaraction.25	召喚寵物後可以看到技能.
+pli_windowtaskbaraction.26	為了進行布蘿妮的成長支援,必須先完成新手教學.
+pli_windowtaskbaraction.27	請先完成'[成長支援] 隨風而來的青草香' 任務.
 pli_windowtaskbarshadowmission.1	想要從劇場出去請按下按鈕.
 pli_windowtaskbarshadowmission.2	想要查看劇本時請點擊按鈕.
 pli_windowtaskbarshadowmission.3	要從劇場中出去嗎?

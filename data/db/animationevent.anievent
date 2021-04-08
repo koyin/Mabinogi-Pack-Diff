@@ -2674,6 +2674,52 @@ set("C4_human")
 
 	folder("char\chapter4\human\anim")
 	
+		"uni_sedanchairporter01"
+			0:lookat(off)
+			0:hand(both,fist)
+			
+		"uni_sedanchairporter02"
+			0:lookat(off)
+			0:hand(both,fist)			
+		
+	
+		"male_calligraphychair01_sit"
+			0:lookat(off)
+			0:hideequip(false)
+			0:hand(right,fist)
+			0:hand(left,palm)
+			0:generic ("custom_equip(weapon:tool_brush)")
+			
+		"female_calligraphychair01_sit"
+			0:lookat(off)
+			0:hideequip(false)
+			0:hideequip(false)
+			0:hand(right,fist)
+			0:generic ("custom_equip(weapon:tool_brush)")	
+
+			
+
+		"human_HorseStatue_Sit"
+			0:lookat(off)
+			0:hideequip(false)
+			0:hand(both,palm)
+			0:face(default)
+			25:face(happy)
+			68:face(upset)
+			140:face(default)				
+			25:hand(both,fist)
+			70:hand(both,palm)	
+
+		"male_swanchair01_sit"
+			0:lookat(off)
+			0:hideequip(false)
+			0:hand(both,palm)		
+		
+		"female_swanchair01_sit"
+			0:lookat(off)
+			0:hideequip(false)
+			0:hand(both,palm)		
+	
 		"male_starvelvetchair01_sit"
 			0:hideequip(true)	
 			0:lookat(off)	
@@ -3034,6 +3080,18 @@ set("C4_human")
 			65:eyechange(default)
 			395:eyechange(223, 0)
 			690:jump(0,true)			
+
+		"female_dressroom_sit"
+			0:hideequip(false)			
+			0:lookat(off)		
+			0:hand(both, palm)
+			431:jump(0,true)			
+
+		"male_dressroom_sit"
+			0:hideequip(false)			
+			0:lookat(off)		
+			0:hand(both, palm)
+			431:jump(0,true)
 			
 	"human_snowfield"
 			21:effect("snow_ex",0,1)
@@ -3621,78 +3679,136 @@ set("C4_human")
 			
 		"female_tree_stump_sit"
 			0:lookat(off)
-			0:hideequip(false)	
-			0:hand(both, palm)			
-	
+			0:hideequip(false)
+			0:hand(both, palm)
+		
+		"human_partydanceL"
+			0:lookat(off)
+			0:hideequip(false)
+			0:hand(both, palm)
+
+		"human_partydanceR"
+			0:lookat(off)
+			0:hideequip(false)
+			0:hand(both, palm)
+
+
+		"male_photowall_sit"
+			0:lookat(off)
+			0:hideequip(true)
+			0:hand(both, palm)
+			13:effect("flash01")
+			16:effect("flash03")
+			20:effect("flash02")
+			21:effect("flash04")
+			66:hand(left, fist)
+			69:effect("flash05")
+			72:effect("flash03")
+			75:effect("flash01")
+			80:effect("flash03")
+			92:effect("flash06")
+			98:effect("flash02")
+			120:effect("flash04")
+			177:effect("flash03")
+			197:effect("flash05")
+			200:effect("flash01")
+			204:hand(left, palm)
+			210:effect("flash03")
+			225:effect("flash06")
+			239:effect("flash02")
+
+		"female_photowall_sit"
+			0:lookat(off)
+			0:hideequip(true)
+			0:hand(both, palm)
+			13:effect("flash01")
+			16:effect("flash03")
+			20:effect("flash02")
+			21:effect("flash04")
+			69:effect("flash05")
+			72:effect("flash03")
+			75:effect("flash01")
+			80:effect("flash03")
+			92:effect("flash06")
+			98:effect("flash02")
+			120:effect("flash04")
+			177:effect("flash03")
+			197:effect("flash05")
+			200:effect("flash01")
+			210:effect("flash03")
+			225:effect("flash06")
+			239:effect("flash02")
+
+
 		"male_floralsuit_sit"		
-		0:lookat(off)
-		0:hideequip(true)	
-		0:hand(left, fist)
-		53:hand(left, palm)
-		185:hand(left, fist)
-		0:hand(right, palm)	
-		13:effect("flash01")
-		16:effect("flash03")
-		20:effect("flash02")
-		21:effect("flash04")
-		69:effect("flash05")
-		72:effect("flash03")
-		75:effect("flash01")
-		80:effect("flash03")
-		92:effect("flash06")
-		98:effect("flash02")
-		120:effect("flash04")
-		177:effect("flash03")
-		197:effect("flash05")
-		200:effect("flash01")
-		210:effect("flash03")
-		225:effect("flash06")
-		239:effect("flash02")
-		293:effect("flash01")
-		300:effect("flash04")
-		305:effect("flash03")
-		310:effect("flash06")
-		315:effect("flash02")
-		320:effect("flash04")
-				
+			0:lookat(off)
+			0:hideequip(true)	
+			0:hand(left, fist)
+			53:hand(left, palm)
+			185:hand(left, fist)
+			0:hand(right, palm)	
+			13:effect("flash01")
+			16:effect("flash03")
+			20:effect("flash02")
+			21:effect("flash04")
+			69:effect("flash05")
+			72:effect("flash03")
+			75:effect("flash01")
+			80:effect("flash03")
+			92:effect("flash06")
+			98:effect("flash02")
+			120:effect("flash04")
+			177:effect("flash03")
+			197:effect("flash05")
+			200:effect("flash01")
+			210:effect("flash03")
+			225:effect("flash06")
+			239:effect("flash02")
+			293:effect("flash01")
+			300:effect("flash04")
+			305:effect("flash03")
+			310:effect("flash06")
+			315:effect("flash02")
+			320:effect("flash04")
+					
 		
 		"female_floralsuit_sit"
-		0:lookat(off)
-		0:hideequip(true)	
-		0:hand(both, palm)	
-		8:effect("flash04_F")
-		13:effect("flash01_F")
-		16:effect("flash03_F")
-		20:effect("flash02_F")
-		30:effect("flash04_F")
-		39:effect("flash06_F")
-		49:effect("flash02_F")
-		80:effect("flash04_F")
-		89:effect("flash05_F")
-		92:effect("flash03_F")
-		95:effect("flash01_F")
-		100:effect("flash03_F")
-		112:effect("flash06_F")
-		118:effect("flash02_F")
-		140:effect("flash04_F")
-		165:effect("flash01_F")
-		170:effect("flash06_F")
-		172:effect("flash02_F")
-		184:effect("flash05_F")
-		189:effect("flash04_F")
-		194:effect("flash06_F")
-		197:effect("flash03_F")
-		217:effect("flash05_F")
-		220:effect("flash01_F")
-		230:effect("flash03_F")
-		245:effect("flash06_F")
-		259:effect("flash02_F")
-		313:effect("flash01_F")
-		320:effect("flash04_F")
-		325:effect("flash03_F")
-		330:effect("flash06_F")
-		335:effect("flash02_F")		
-	
+			0:lookat(off)
+			0:hideequip(true)	
+			0:hand(both, palm)	
+			8:effect("flash04_F")
+			13:effect("flash01_F")
+			16:effect("flash03_F")
+			20:effect("flash02_F")
+			30:effect("flash04_F")
+			39:effect("flash06_F")
+			49:effect("flash02_F")
+			80:effect("flash04_F")
+			89:effect("flash05_F")
+			92:effect("flash03_F")
+			95:effect("flash01_F")
+			100:effect("flash03_F")
+			112:effect("flash06_F")
+			118:effect("flash02_F")
+			140:effect("flash04_F")
+			165:effect("flash01_F")
+			170:effect("flash06_F")
+			172:effect("flash02_F")
+			184:effect("flash05_F")
+			189:effect("flash04_F")
+			194:effect("flash06_F")
+			197:effect("flash03_F")
+			217:effect("flash05_F")
+			220:effect("flash01_F")
+			230:effect("flash03_F")
+			245:effect("flash06_F")
+			259:effect("flash02_F")
+			313:effect("flash01_F")
+			320:effect("flash04_F")
+			325:effect("flash03_F")
+			330:effect("flash06_F")
+			335:effect("flash02_F")		
+		
 	
 		"male_tennis_judge_sit"
 			0:hideequip(true)	
@@ -3936,31 +4052,79 @@ set("C4_human")
 			800:effectoff("flying04_fire03")			
 			800:effectoff("flying04_fire04")
 			
-		"male_flying05_run_R"
+		"male_flying05_run_R"	
 			0:face(default)		
 			0:hideequip(false)				
 			0:lookat(off)
 			0:hand (both, palm)
+			1:effect("cherry_tail01",0,1)			
 			
 		"male_flying05_run_L"
 			0:face(default)		
 			0:hideequip(false)				
 			0:lookat(off)
 			0:hand (both, palm)		
+			0:hand (both, palm)
+			1:effect("cherry_tail01",0,1)				
 			
-"male_couple_flying03_as_landing"
+		"male_couple_flying05_run"
+			0:face(default)		
+			0:hideequip(false)				
+			0:lookat(off)
+			0:hand (both, palm)	
+			1:effect("heart_tail01",0,1)	
+			130:effect("flying05_heart02")
+			150:effect("flying05_heart01",0,1)
+			160:effect("flying05_heart03")
+			161:effect("flying05_heart04")
+			163:effect("flying05_heart05")
+			238:effect("flying05_heart06",0,1)
+			250:effect("flying05_heart02")
+			260:effect("flying05_heart01",0,1)
+			270:effect("flying05_heart03")
+			272:effect("flying05_heart04")
+			273:effect("flying05_heart05")
+			350:effect("flying05_heart02")
+			370:effect("flying05_heart01",0,1)
+			380:effect("flying05_heart03")
+			382:effect("flying05_heart04")
+			383:effect("flying05_heart05")
+		
+			
+		"female_flying05_run_L"
+			0:face(default)
+			0:hideequip(false)		
+			0:lookat(off)
+			0:hand (both, palm)
+			1:effect("cherry_tail01",0,1)	
+			
+		"female_flying05_run_R"
+			0:face(default)
+			0:hideequip(false)		
+			0:lookat(off)
+			0:hand (both, palm)	
+			1:effect("cherry_tail01",0,1)		
+			
+		"female_couple_flying05_run"
+			0:face(default)		
+			0:hideequip(false)				
+			0:lookat(off)
+			0:hand (both, palm)	
+			1:effect("heart_tail01",0,1)						
+
+		"male_couple_flying03_as_landing"
 			0:hideequip(false)				
 			0:lookat(off)
 			0:hand (both, palm)
             0:effect("fly_trail_001_B",0,1)
 
-"male_couple_flying03_as_rising"
+		"male_couple_flying03_as_rising"
 			0:hideequip(false)				
 			0:lookat(off)
 			0:hand (both, palm)
             0:effect("fly_trail_001_B",0,1)
 
-"male_couple_flying03_as_stand_friendly"
+		"male_couple_flying03_as_stand_friendly"
 			0:hideequip(false)				
 			0:lookat(off)
 			0:hand (both, palm)
@@ -11683,6 +11847,38 @@ set("C4_giant")
 
 	folder("char\chapter4\giant\anim")
 	
+		"giant_horsestatue_sit"
+			0:lookat(off)
+			0:hideequip(false)
+			0:hand(both,palm)
+			0:face(default)
+			25:face(happy)
+			68:face(upset)
+			140:face(default)				
+			25:hand(both,fist)
+			70:hand(both,palm)	
+			
+		"giant_female_horsestatue_sit"
+			0:lookat(off)
+			0:hideequip(false)
+			0:hand(both,palm)
+			0:face(default)
+			25:face(happy)
+			68:face(upset)
+			140:face(default)				
+			25:hand(both,fist)
+			70:hand(both,palm)				
+				
+		"giant_swanchair01_sit"
+			0:lookat(off)
+			0:hideequip(false)
+			0:hand(both,palm)		
+		
+		"giant_female_swanchair01_si"
+			0:lookat(off)
+			0:hideequip(false)
+			0:hand(both,palm)			
+	
 		"giant_starvelvetchair01_sit"
 			0:hideequip(true)	
 			0:lookat(off)	
@@ -12033,7 +12229,18 @@ set("C4_giant")
 			65:eyechange(default)
 			395:eyechange(223, 0)
 			690:jump(0,true)
-			
+
+	"giant_female_dressroom_sit"
+			0:hideequip(false)			
+			0:lookat(off)		
+			0:hand(both, palm)
+			431:jump(0,true)			
+
+	"giant_dressroom_sit"
+			0:hideequip(false)			
+			0:lookat(off)		
+			0:hand(both, palm)
+			431:jump(0,true)			
 			
 	"giant_snowfield"
 			21:effect("snow_exg",0,1)
@@ -12916,74 +13123,132 @@ set("C4_giant")
 			0:hideequip(false)	
 			0:hand(both, palm)		
 	
+
+		"giant_photowall_sit"
+			0:lookat(off)
+			0:hideequip(true)
+			0:hand(both, palm)
+			13:effect("flash01")
+			16:effect("flash03")
+			20:effect("flash02")
+			21:effect("flash04")
+			66:hand(left, fist)
+			69:effect("flash05")
+			72:effect("flash03")
+			75:effect("flash01")
+			80:effect("flash03")
+			92:effect("flash06")
+			98:effect("flash02")
+			120:effect("flash04")
+			177:effect("flash03")
+			197:effect("flash05")
+			200:effect("flash01")
+			204:hand(left, palm)
+			210:effect("flash03")
+			225:effect("flash06")
+			239:effect("flash02")
+
+		"giant_female_photowall_sit"
+			0:lookat(off)
+			0:hideequip(true)
+			0:hand(both, palm)
+			13:effect("flash01")
+			16:effect("flash03")
+			20:effect("flash02")
+			21:effect("flash04")
+			69:effect("flash05")
+			72:effect("flash03")
+			75:effect("flash01")
+			80:effect("flash03")
+			92:effect("flash06")
+			98:effect("flash02")
+			120:effect("flash04")
+			177:effect("flash03")
+			197:effect("flash05")
+			200:effect("flash01")
+			210:effect("flash03")
+			225:effect("flash06")
+			239:effect("flash02")
+
+
+		"giant_female_partydanceL"
+			0:lookat(off)
+			0:hideequip(false)	
+			0:hand(both, palm)
+
+		"giant_female_partydanceR"
+			0:lookat(off)
+			0:hideequip(false)	
+			0:hand(both, palm)
+
 		"giant_floralsuit_sit"		
-		0:lookat(off)
-		0:hideequip(true)	
-		0:hand(left, fist)
-		53:hand(left, palm)
-		185:hand(left, fist)
-		0:hand(both, palm)	
-		13:effect("flash01_G")
-		16:effect("flash03_G")
-		20:effect("flash02_G")
-		21:effect("flash04_G")
-		69:effect("flash05_G")
-		72:effect("flash03_G")
-		75:effect("flash01_G")
-		80:effect("flash03_G")
-		92:effect("flash06_G")
-		98:effect("flash02_G")
-		120:effect("flash04_G")
-		177:effect("flash03_G")
-		197:effect("flash05_G")
-		200:effect("flash01_G")
-		210:effect("flash03_G")
-		225:effect("flash06_G")
-		239:effect("flash02_G")
-		293:effect("flash01_G")
-		300:effect("flash04_G")
-		305:effect("flash03_G")
-		310:effect("flash06_G")
-		315:effect("flash02_G")
-		320:effect("flash04_G")
+			0:lookat(off)
+			0:hideequip(true)	
+			0:hand(left, fist)
+			53:hand(left, palm)
+			185:hand(left, fist)
+			0:hand(both, palm)	
+			13:effect("flash01_G")
+			16:effect("flash03_G")
+			20:effect("flash02_G")
+			21:effect("flash04_G")
+			69:effect("flash05_G")
+			72:effect("flash03_G")
+			75:effect("flash01_G")
+			80:effect("flash03_G")
+			92:effect("flash06_G")
+			98:effect("flash02_G")
+			120:effect("flash04_G")
+			177:effect("flash03_G")
+			197:effect("flash05_G")
+			200:effect("flash01_G")
+			210:effect("flash03_G")
+			225:effect("flash06_G")
+			239:effect("flash02_G")
+			293:effect("flash01_G")
+			300:effect("flash04_G")
+			305:effect("flash03_G")
+			310:effect("flash06_G")
+			315:effect("flash02_G")
+			320:effect("flash04_G")
 				
 		
 		"giant_female_floralsuit_sit"
-		0:lookat(off)
-		0:hideequip(true)	
-		0:hand(both, palm)	
-		8:effect("flash04_GF")
-		13:effect("flash01_GF")
-		16:effect("flash03_GF")
-		20:effect("flash02_GF")
-		30:effect("flash04_GF")
-		39:effect("flash06_GF")
-		49:effect("flash02_GF")
-		80:effect("flash04_GF")
-		89:effect("flash05_GF")
-		92:effect("flash03_GF")
-		95:effect("flash01_GF")
-		100:effect("flash03_GF")
-		112:effect("flash06_GF")
-		118:effect("flash02_GF")
-		140:effect("flash04_GF")
-		165:effect("flash01_GF")
-		170:effect("flash06_GF")
-		172:effect("flash02_GF")
-		184:effect("flash05_GF")
-		189:effect("flash04_GF")
-		194:effect("flash06_GF")
-		197:effect("flash03_GF")
-		217:effect("flash05_GF")
-		220:effect("flash01_GF")
-		230:effect("flash03_GF")
-		245:effect("flash06_GF")
-		259:effect("flash02_GF")
-		313:effect("flash01_GF")
-		320:effect("flash04_GF")
-		325:effect("flash03_GF")
-		330:effect("flash06_GF")
-		335:effect("flash02_GF")				
+			0:lookat(off)
+			0:hideequip(true)	
+			0:hand(both, palm)	
+			8:effect("flash04_GF")
+			13:effect("flash01_GF")
+			16:effect("flash03_GF")
+			20:effect("flash02_GF")
+			30:effect("flash04_GF")
+			39:effect("flash06_GF")
+			49:effect("flash02_GF")
+			80:effect("flash04_GF")
+			89:effect("flash05_GF")
+			92:effect("flash03_GF")
+			95:effect("flash01_GF")
+			100:effect("flash03_GF")
+			112:effect("flash06_GF")
+			118:effect("flash02_GF")
+			140:effect("flash04_GF")
+			165:effect("flash01_GF")
+			170:effect("flash06_GF")
+			172:effect("flash02_GF")
+			184:effect("flash05_GF")
+			189:effect("flash04_GF")
+			194:effect("flash06_GF")
+			197:effect("flash03_GF")
+			217:effect("flash05_GF")
+			220:effect("flash01_GF")
+			230:effect("flash03_GF")
+			245:effect("flash06_GF")
+			259:effect("flash02_GF")
+			313:effect("flash01_GF")
+			320:effect("flash04_GF")
+			325:effect("flash03_GF")
+			330:effect("flash06_GF")
+			335:effect("flash02_GF")				
 		
 		
 		"giant_tennis_judge_sit"
@@ -13435,13 +13700,60 @@ set("C4_giant")
 			0:hideequip(false)				
 			0:lookat(off)
 			0:hand (both, palm)
+			0:hand (both, palm)
+			1:effect("cherry_tail_G01",0,1)				
 			
 		"giant_flying05_run_L"
 			0:face(default)		
 			0:hideequip(false)				
 			0:lookat(off)
-			0:hand (both, palm)				
-		
+			0:hand (both, palm)		
+			1:effect("cherry_tail_G01",0,1)		
+	
+		"giant_couple_flying05_run"
+			0:face(default)		
+			0:hideequip(false)				
+			0:lookat(off)
+			0:hand (both, palm)
+			1:effect("heart_tail01",0,1)	
+			130:effect("flying05_heart02")
+			150:effect("flying05_heart01",0,1)
+			160:effect("flying05_heart03")
+			161:effect("flying05_heart04")
+			163:effect("flying05_heart05")
+			238:effect("flying05_heart06",0,1)
+			250:effect("flying05_heart02")
+			260:effect("flying05_heart01",0,1)
+			270:effect("flying05_heart03")
+			272:effect("flying05_heart04")
+			273:effect("flying05_heart05")
+			350:effect("flying05_heart02")
+			370:effect("flying05_heart01",0,1)
+			380:effect("flying05_heart03")
+			382:effect("flying05_heart04")
+			383:effect("flying05_heart05")
+			
+		"giant_female_flying05_run_L"
+			0:face(default)
+			0:hideequip(false)		
+			0:lookat(off)
+			0:hand (both, palm)
+			1:effect("cherry_tail_G01",0,1)	
+
+		"giant_female_flying05_run_R"
+			0:face(default)
+			0:hideequip(false)	
+			0:lookat(off)
+			0:hand (both, palm)
+			1:effect("cherry_tail_G01",0,1)	
+			
+		"giant_female_couple_flying05_run"
+			0:face(default)		
+			0:hideequip(false)				
+			0:lookat(off)
+			0:hand (both, palm)	
+			1:effect("heart_tail01",0,1)				
+
 "giant_female_couple_flying03_landing"
 			0:hideequip(false)									
 			0:lookat(off)
@@ -27687,6 +27999,33 @@ set("social motion")
 		850:jump(274,true)
 
 
+	"male_troubadour"
+		0:lookat(off)
+		0:hideequip(false)
+		0:hand(both, palm)
+		85:generic("custom_equip(weapon:tool_musicsheet)")
+		140:hand(left, fist)
+		180:hand(left, palm)
+		185:effect("sing01",0,1)
+		370:eyechange(223, 0)
+		460:eyechange(default)
+		600:jump(185,true)
+
+
+	"female_troubadour"
+		0:lookat(off)
+		0:hideequip(false)
+		0:hand(both, palm)
+		85:generic("custom_equip(weapon:tool_musicsheet)")
+		140:hand(left, fist)
+		180:hand(left, palm)
+		185:effect("sing01",0,1)
+		370:eyechange(223, 0)
+		460:eyechange(default)
+		600:jump(185,true)
+
+
+
 
 	"female_2020preseason"
 		0:lookat(off)
@@ -27817,7 +28156,45 @@ set("social motion")
 	"female_16thblouse"
 		0:lookat(off)
 		0:hand(both, palm)
-		0:hideequip(false)		
+		0:hideequip(false)
+
+	"male_guardknight"
+		0:lookat(off)
+		0:hand(both, palm)
+		0:hideequip(false)
+		1:generic("custom_equipmentmesh(1, male_c4_guardknight_bll_ani)")
+		850:jump(60,true)
+
+	"female_guardknight"
+		0:lookat(off)
+		0:hand(both, palm)
+		0:hideequip(false)
+		1:generic("custom_equipmentmesh(1, female_c4_guardknight_bls_ani)")   
+		849:jump(60)
+
+	"male_peacockwear"
+		0:lookat(off)
+		0:hand(both, palm)
+		0:hideequip(false)
+		70:effect("peacock_L",0,1)
+		220:effect("peacock_R",0,1)
+		350:effectoff("peacock_R")
+		280:effect("peacock_R",0,1)
+		340:effectoff("peacock_R")
+		430:effectoff("peacock_L")
+		
+	"female_peacockwear"
+		0:lookat(off)
+		0:hand(both, palm)
+		0:hideequip(false)
+		30:effect("peacock_L",0,1)
+		150:effectoff("peacock_L")
+		150:effect("peacock_R",0,1)
+		300:effectoff("peacock_R")
+		415:effect("peacock_L",0,1)
+		415:effect("peacock_R",0,1)
+		450:effectoff("peacock_R")		
+		470:effectoff("peacock_L")		
 		
 	///세일러 수영복의상
 	
@@ -51468,7 +51845,32 @@ set("prop concerned - temporary")
 			340:linkframework(8, "prop:47568", "bone01", "stand")
 								
 			
-		endfolder				
+		endfolder		
+		
+		folder("::scene_prop_flower_sedanchair01")	
+		
+			"scene_prop_flower_sedanchair01_sit"			
+				0:linkframework(1, "race:990322", "bone01", "data/gfx/char/chapter4/human/anim/uni_sedanchairporter01")				
+				0:linkframework(2, "race:990322", "bone01", "data/gfx/char/chapter4/human/anim/uni_sedanchairporter02")									
+				
+		endfolder			
+		
+
+		folder("::scene_prop_flower_sedanchair02")	
+		
+			"scene_prop_flower_sedanchair02_sit"			
+				0:linkframework(1, "race:990323", "bone01", "data/gfx\char\chapter4\giant\anim\giant_sedanchairporter01")				
+				0:linkframework(2, "race:990323", "bone01", "data/gfx\char\chapter4\giant\anim\giant_sedanchairporter02")									
+				
+		endfolder			
+		
+
+	folder("::scene_prop_dragon_store")
+		"scene_prop_dragon_store"
+		
+			0:linkframework(1, "race:490337, c1:522B1B  c2:B27234 c3:9B0E07", "Bone01", "data/gfx/char/chapter4/pet/anim/dragon/pet_bonedragon_sit02")	
+
+		endfolder			
 	
 	
 	folder("::scene_prop_snowcloud01")
@@ -61759,6 +62161,12 @@ set("magician")
 ///////////////////////////////////////// trunk - 인간 ////////////////////////////////////////////
 
 	folder("char\chapter4\human\anim\tool\trunk")
+	
+	"male_secretbasket_stand_friendly"
+		0:hand (both, fist)	
+		
+	"female_secretbasket_stand_friendly"
+		0:hand (both, fist)		
 
 	"female_trunk_stand_friendly"
 		0:hand (both, fist)
@@ -64908,6 +65316,12 @@ set("elf_Bhand_M10")
 //////////////////////////////자이언트 - trunk //////////////////////////////////////////////
 
 	folder("char\chapter4\giant\anim\tool\trunk")
+	
+	"giant_secretbasket_stand_friendly"
+		0:hand (both, fist)	
+		
+	"giant_female_secretbasket_stand_friendly"
+		0:hand (both, fist)		
 
 	"giant_female_trunk_stand_friendly"
 		0:hand (both, fist)
@@ -68022,6 +68436,29 @@ set("giant")
 	
 
 	folder("char\chapter4\giant\anim")
+	
+		"giant_calligraphychair01_sit"
+			0:lookat(off)
+			0:hideequip(false)
+			0:hand(right,fist)
+			0:hand(left,palm)
+			0:generic ("custom_equip(weapon:giant_tool_brush)")
+			
+		"giant_female_calligraphychair01_sit"
+			0:lookat(off)
+			0:hideequip(false)
+			0:hideequip(false)
+			0:hand(right,fist)
+			0:generic ("custom_equip(weapon:giant_tool_brush)")	
+	
+	
+		"giant_sedanchairporter01"
+			0:lookat(off)	
+			0:hand (both, fist)		
+			
+		"giant_sedanchairporter02"
+			0:lookat(off)	
+			0:hand (both, fist)				
 
 		"giant_telescope02"
 			0:hideequip(true)	
@@ -73279,6 +73716,10 @@ endset
 set("zombie")
 
 	folder("char\chapter4\giant\anim")
+	
+		"giant_bambooforest_sit"
+			0:hand(both, palm)
+			
 
 		"giant_zombie_friendly_walk"
 			0:hand(both, palm)
@@ -78760,7 +79201,29 @@ set("social motion")
 			 0:lookat(off)	
 			 0:hideequip(true)		
 
-		"giant_natural_gesture_s11_03"
+		"giant_natural_gesture_s11_04"
+			 0:hand(both, palm)
+			 0:lookat(off)	
+			 0:hideequip(true)			
+
+
+
+		"giant_female_natural_gesture_s11_01"
+			 0:hand(both, palm)
+			 0:lookat(off)	
+			 0:hideequip(true)		
+			 
+		"giant_female_natural_gesture_s11_02"
+			 0:hand(both, palm)
+			 0:lookat(off)	
+			 0:hideequip(true)		
+
+		"giant_female_natural_gesture_s11_03"
+			 0:hand(both, palm)
+			 0:lookat(off)	
+			 0:hideequip(true)		
+
+		"giant_female_natural_gesture_s11_04"
 			 0:hand(both, palm)
 			 0:lookat(off)	
 			 0:hideequip(true)				 
@@ -82929,6 +83392,71 @@ set("social motion")
 		0:hand(both, palm)
 		0:hideequip(false)
 		
+	"giant_guardknight"
+		0:lookat(off)
+		0:hand(both, palm)
+		0:hideequip(false)
+		1:generic("custom_equipmentmesh(1, giant_male_c4_guardknight_bll_ani)")
+		850:jump(60,true)		
+		
+	"giant_female_guardknight"
+		0:lookat(off)
+		0:hand(both, palm)
+		0:hideequip(false)
+		1:generic("custom_equipmentmesh(1, giant_female_c4_guardknight_bls_ani)")  
+		849:jump(60)		
+
+	"giant_peacockwear"
+		0:lookat(off)
+		0:hand(both, palm)
+		0:hideequip(false)
+		70:effect("peacock_L",0,1)
+		220:effect("peacock_R",0,1)
+		350:effectoff("peacock_R")
+		280:effect("peacock_R",0,1)
+		340:effectoff("peacock_R")
+		430:effectoff("peacock_L")
+		
+	"giant_female_peacockwear"
+		0:lookat(off)
+		0:hand(both, palm)
+		0:hideequip(false)
+		30:effect("peacock_L",0,1)
+		150:effectoff("peacock_L")
+		150:effect("peacock_R",0,1)
+		305:effectoff("peacock_R")
+		415:effect("peacock_L",0,1)
+		415:effect("peacock_R",0,1)
+		450:effectoff("peacock_R")		
+		470:effectoff("peacock_L")	
+		
+	"giant_troubadour"
+		0:lookat(off)
+		0:hideequip(false)
+		0:hand(both, palm)
+		80:hand(right, fist)
+		85:generic("custom_equip(weapon:giant_tool_musicsheet)")
+		140:hand(left, fist)
+		180:hand(left, palm)
+		185:effect("sing01",0,1)
+		370:eyechange(223, 0)
+		460:eyechange(default)
+		600:jump(185,true)
+
+
+	"giant_female_troubadour"
+		0:lookat(off)
+		0:hideequip(false)
+		0:hand(both, palm)
+		85:generic("custom_equip(weapon:giant_tool_musicsheet)")
+		140:hand(left, fist)
+		180:hand(left, palm)
+		185:effect("sing01",0,1)
+		370:eyechange(223, 0)
+		460:eyechange(default)
+		600:jump(185,true)
+
+	
 		
 	
 	"giant_2020preseason"

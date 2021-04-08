@@ -1,0 +1,73 @@
+﻿<portraitAnimation image="NPCportrait_Blaanid.dds">
+
+<clipInformations number='9'>
+    <clipInformation x1="0" y1="21" x2=" 300" y2="323" originX="0" originY="221" />
+
+<clipInformation x1=" 413" y1="   0" x2=" 511" y2="  57" originX="  112" originY=" 309" />
+
+<clipInformation x1=" 413" y1="  174" x2=" 511" y2="  231" originX="  112" originY=" 309" />
+    <clipInformation x1=" 0" y1="  0" x2=" 35" y2="  21" originX="  139" originY=" 369" />
+
+<clipInformation x1=" 312" y1="  58" x2=" 412" y2="  116" originX="  111" originY=" 309" />
+    <clipInformation x1=" 79" y1="  0" x2=" 114" y2="  21" originX="  139" originY=" 369" />
+
+<clipInformation x1=" 413" y1="  348" x2=" 511" y2="  406" originX="  112" originY=" 309" />
+    <clipInformation x1=" 117" y1="  0" x2=" 152" y2="  21" originX="  139" originY=" 369" />
+
+<clipInformation x1=" 195" y1="  0" x2=" 230" y2="  21" originX="  139" originY=" 369" />
+</clipInformations>
+<animations number='6'>
+    <animation index='0' name='base'>
+        <background>
+            <clips number='1'>
+                <clip value=" 0 " />
+            </clips>
+        </background>
+    </animation>
+
+    <animation index='1' name='normal'>
+        <background>
+            <clips number='1'>
+                <clip value=" 1 " />
+            </clips>
+        </background>
+    </animation>
+
+    <animation index='2' name='smile'>
+        <background>
+            <clips number='1'>
+                <clip value=" 2 " />
+                <clip value=" 3 " />
+            </clips>
+        </background>
+    </animation>
+
+    <animation index='3' name='cry'>
+        <background>
+            <clips number='1'>
+                <clip value=" 4 " />
+                <clip value=" 5 " />
+            </clips>
+        </background>
+    </animation>
+
+    <animation index='4' name='angry'>
+        <background>
+            <clips number='1'>
+                <clip value=" 6 " />
+                <clip value=" 7 " />
+            </clips>
+        </background>
+    </animation>
+
+    <animation index='5' name='normal2'>
+        <background>
+            <clips number='1'>
+                <clip value=" 1 " />
+                <clip value=" 8 " />
+            </clips>
+        </background>
+    </animation>
+
+</animations>
+</portraitAnimation>

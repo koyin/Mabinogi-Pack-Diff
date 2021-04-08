@@ -8141,3 +8141,101 @@
 8308	<title name='???'/><npcportrait name=NONE'/><face name=''/>千萬要銘記在心!發誓在靈魂枯竭為止會遵守潔淨的人<br/>最後都無法完成使命且變心.
 8309	<title name='???'/><npcportrait name=NONE'/><face name=''/>期待這次能夠長結出不同的果實.
 8310	凱倫\nKerron
+8311	<title name='布蘿妮'/><npcportrait name='Blaanid'/><face name='normal'/><npcvoice name='NewRecordBook/quest_45012_3_7.mp3'/>杜巴頓是愛爾琳之中旅行者們最常停留, 休息的地方.<br/>
+8312	<title name='布蘿妮'/><npcportrait name='Blaanid'/><face name='normal'/><npcvoice name='NewRecordBook/quest_45012_3_8.mp3'/>雜貨店, 醫療所, 武器店, 銀行, 教堂, 學校 , 書店, 還有議會廳<br/>旅行中需要的所有東西這裡都有.<br/>
+8313	<title name='布蘿妮'/><npcportrait name='Blaanid'/><face name='normal'/><npcvoice name='NewRecordBook/quest_45012_3_9.mp3'/>在廣大的廣場中, 米列希安們之間也會買賣物品...<br/>
+8314	<title name='布蘿妮'/><npcportrait name='Blaanid'/><face name='normal'/><npcvoice name='NewRecordBook/quest_45012_3_10.mp3'/>透過各種工具還可以做出美味的料理...<br/>
+8315	<title name='布蘿妮'/><npcportrait name='Blaanid'/><face name='normal'/><npcvoice name='NewRecordBook/quest_45012_3_11.mp3'/>也會聚在一起合奏...<br/>
+8316	<title name='布蘿妮'/><npcportrait name='Blaanid'/><face name='normal'/><npcvoice name='NewRecordBook/quest_45012_3_12.mp3'/>還會升起營火, 聊聊關於冒險的故事...<br/>
+8317	<title name='布蘿妮'/><npcportrait name='Blaanid'/><face name='smile'/><npcvoice name='NewRecordBook/quest_45012_3_13.mp3'/>怎麼樣, 很帥氣的地方吧?<br/>在這裡 <username/>還可以迅速學習愛爾琳所需的資訊!
+8318	<title name='布蘿妮'/><npcportrait name='Blaanid'/><face name='normal'/><npcvoice name='NewRecordBook/quest_45012_3_14.mp3'/>雖然我記得的事情不多...<br/>但接受這邊居民的幫助的話, 可以更快學習許多事物的!<br/>
+8319	<title name='布蘿妮'/><npcportrait name='Blaanid'/><face name='sad'/><npcvoice name='NewRecordBook/quest_45012_3_15.mp3'/>嗯... 這種時候有一個很適合的俗諺...<br/>
+8320	<title name='布蘿妮'/><npcportrait name='Blaanid'/><face name='sad'/><npcvoice name='NewRecordBook/quest_45012_3_16.mp3'/>就是那個, 嗯... <br/>
+8321	<title name='布蘿妮'/><npcportrait name='Blaanid'/><face name='smile'/><npcvoice name='NewRecordBook/quest_45012_3_18.mp3'/>沒錯! 百聞不如一見!<br/>嘿嘿, 趕快去杜巴頓看看吧 <username/>!
+8322	<title name='布蘿妮'/><npcportrait name='Blaanid'/><face name='normal'/><npcvoice name='NewRecordBook/quest_45012_3_7.mp3'/>杜巴頓是愛爾琳之中旅行者們最常停留, 休息的地方.<br/>
+8323	<title name='布蘿妮'/><npcportrait name='Blaanid'/><face name='normal'/><npcvoice name='NewRecordBook/quest_45012_3_8.mp3'/>雜貨店, 醫療所, 武器店, 銀行, 教堂, 學校 , 書店, 還有議會廳<br/>旅行中需要的所有東西這裡都有.<br/>
+8324	<title name='布蘿妮'/><npcportrait name='Blaanid'/><face name='normal'/><npcvoice name='NewRecordBook/quest_45012_3_9.mp3'/>在廣大的廣場中, 米列希安們之間也會買賣物品...<br/>
+8325	<title name='布蘿妮'/><npcportrait name='Blaanid'/><face name='normal'/><npcvoice name='NewRecordBook/quest_45012_3_10.mp3'/>透過各種工具還可以做出美味的料理...<br/>
+8326	<title name='布蘿妮'/><npcportrait name='Blaanid'/><face name='normal'/><npcvoice name='NewRecordBook/quest_45012_3_11.mp3'/>也會聚在一起合奏...<br/>
+8327	<title name='布蘿妮'/><npcportrait name='Blaanid'/><face name='normal'/><npcvoice name='NewRecordBook/quest_45012_3_12.mp3'/>還會升起營火, 聊聊關於冒險的故事...<br/>
+8328	<title name='布蘿妮'/><npcportrait name='Blaanid'/><face name='smile'/><npcvoice name='NewRecordBook/quest_45012_3_13.mp3'/>怎麼樣, 很帥氣的地方吧?<br/>在這裡 <username/>還可以迅速學習愛爾琳所需的資訊!
+8329	<title name='布蘿妮'/><npcportrait name='Blaanid'/><face name='normal'/><npcvoice name='NewRecordBook/quest_45012_3_14.mp3'/>雖然我記得的事情不多...<br/>但接受這邊居民的幫助的話, 可以更快學習許多事物的!<br/>
+8330	<title name='布蘿妮'/><npcportrait name='Blaanid'/><face name='sad'/><npcvoice name='NewRecordBook/quest_45012_3_15.mp3'/>嗯... 這種時候有一個很適合的俗諺...<br/>
+8331	<title name='布蘿妮'/><npcportrait name='Blaanid'/><face name='sad'/><npcvoice name='NewRecordBook/quest_45012_3_16.mp3'/>就是那個, 嗯... <br/>
+8332	<title name='布蘿妮'/><npcportrait name='Blaanid'/><face name='smile'/><npcvoice name='NewRecordBook/quest_45012_3_18.mp3'/>沒錯! 百聞不如一見!<br/>嘿嘿, 趕快去杜巴頓看看吧 <username/>!
+8333	醬醬-! 之後也拜託了~?
+8334	醬醬-! 之後也拜託了~?
+8335	空曠的空間孤獨地留下的聲音
+8336	蔚藍的蒼穹之上
+8337	只有兩抹月光是我的朋友吧
+8338	獨自停留在
+8339	曾經存在的時間之中
+8340	悄悄地乘著微風
+8341	跟隨青草香氣走向我的你
+8342	一起冒險的那些記憶
+8343	成為了名為緣分的禮物
+8344	致描繪命運的你
+8345	想要吶喊
+8346	這些瞬間
+8347	不要忘記
+8348	曾經共同經歷的許多
+8349	陽光,月亮與星星的旅程
+8350	因為有你在我的身邊
+8351	才成為了閃亮的回憶
+8352	即將升起的太陽,
+8353	往後也將寫下嶄新的
+8354	屬於我們的日子
+8355	都會成為朝向幸福明日的一步
+8356	都會成為朝向幸福明日的一步
+8357	空曠的空間孤獨地留下的聲音
+8358	蔚藍的蒼穹之上
+8359	只有兩抹月光是我的朋友吧
+8360	獨自停留在
+8361	曾經存在的時間之中
+8362	悄悄地乘著微風
+8363	跟隨青草香氣走向我的你
+8364	一起冒險的那些記憶
+8365	成為了名為緣分的禮物
+8366	致描繪命運的你
+8367	想要吶喊
+8368	這些瞬間
+8369	不要忘記
+8370	曾經共同經歷的許多
+8371	陽光,月亮與星星的旅程
+8372	因為有你在我的身邊
+8373	才成為了閃亮的回憶
+8374	即將升起的太陽,
+8375	往後也將寫下嶄新的
+8376	屬於我們的日子
+8377	都會成為朝向幸福明日的一步
+8378	都會成為朝向幸福明日的一步
+8379	<title name='布蘿妮'/><npcportrait name='Blaanid'/><face name='normal'/><npcvoice name='NewRecordBook/quest_45144_8_3-2.mp3'/>這邊這邊! 我覺得在這裡的話煙火應該會看得最清楚, 嘿嘿.<br/>
+8380	<title name='布蘿妮'/><npcportrait name='Blaanid'/><face name='normal'/><npcvoice name='NewRecordBook/quest_45144_8_4.mp3'/>哇阿...<br/>
+8381	<title name='布蘿妮'/><npcportrait name='Blaanid'/><face name='normal'/><npcvoice name='NewRecordBook/quest_45144_8_5.mp3'/>屋哇阿...<br/>
+8382	<title name='布蘿妮'/><npcportrait name='Blaanid'/><face name='sad'/><npcvoice name='NewRecordBook/quest_45144_8_6.mp3'/>.. ... ..<br/>
+8383	<title name='布蘿妮'/><npcportrait name='Blaanid'/><face name='sad'/><npcvoice name='NewRecordBook/quest_45144_8_7.mp3'/>...那個,<br/>
+8384	<title name='布蘿妮'/><npcportrait name='Blaanid'/><face name='sad'/><npcvoice name='NewRecordBook/quest_45144_8_6.mp3'/>.. ... ..<br/>
+8385	<title name='布蘿妮'/><npcportrait name='Blaanid'/><face name='sad'/><npcvoice name='NewRecordBook/quest_45144_8_9.mp3'/>...你還記得我們第一次見面的時候嗎? <br/>
+8386	<title name='布蘿妮'/><npcportrait name='Blaanid'/><face name='sad'/><npcvoice name='NewRecordBook/quest_45144_8_10.mp3'/>其實, 我那個時候... 是隔天馬上消失也不奇怪的狀態.<br/>獨自度過的時間太長的關係, 剎那間覺得再也沒辦法撐下去了...<br/>
+8387	<title name='布蘿妮'/><npcportrait name='Blaanid'/><face name='sad'/><npcvoice name='NewRecordBook/quest_45144_8_11.mp3'/>你出現了呀. 帶著我的髮帶.<br/>嘿嘿, 布蘿妮永遠都不會忘記那天的.<br/>
+8388	<title name='布蘿妮'/><npcportrait name='Blaanid'/><face name='sad'/><npcvoice name='NewRecordBook/quest_45144_8_12-2.mp3'/>那之後也發生了好多事情, 對吧?<br/>現在我大概可以記得我的名字, 你的名字也是......<br/>我們一起發生的事情都沒有忘記,鮮明的留在腦海中.<br/>
+8389	<title name='布蘿妮'/><npcportrait name='Blaanid'/><face name='happycry'/><npcvoice name='NewRecordBook/quest_45144_8_14.mp3'/>嘿嘿... 還跟你一起看了那麼帥氣的煙火, 真是太開心了...<br/>為什麼... 會流眼淚呢? 不想讓你看到這個樣子的...<br/>
+8390	<title name='布蘿妮'/><npcportrait name='Blaanid'/><face name='happycry'/><npcvoice name='NewRecordBook/quest_45144_8_15.mp3'/>從在堤爾克那相遇的那天<br/>到今天在琵音演唱會場中看的帥氣煙火, 全部都是珍貴的瞬間啊.<br/>
+8391	<title name='布蘿妮'/><npcportrait name='Blaanid'/><face name='happycry'/><npcvoice name='NewRecordBook/quest_45144_8_16.mp3'/>絕對不會忘記我們一起度過的時間<br/>往後也不會忘掉的. 我答應你.<br/>
+8392	<title name='布蘿妮'/><npcportrait name='Blaanid'/><face name='happycry'/><npcvoice name='NewRecordBook/quest_45144_8_18.mp3'/>所以, <username/>也不要忘記布蘿妮, 要記得我喔. 知道吧?<br/>
+8393	<title name='布蘿妮'/><npcportrait name='Blaanid'/><face name='happycry'/><npcvoice name='NewRecordBook/quest_45144_8_19.mp3'/>雖然好像說了很多次, 真的真的很謝謝你.<br/>絕對不會忘記的, 真的...<br/>
+8394	<title name='布蘿妮'/><npcportrait name='Blaanid'/><face name='normal'/><npcvoice name='NewRecordBook/quest_45144_8_3-2.mp3'/>這邊這邊! 我覺得坐在這邊的話, 煙火好像會看得最清楚, 嘿嘿.<br/>
+8395	<title name='布蘿妮'/><npcportrait name='Blaanid'/><face name='normal'/><npcvoice name='NewRecordBook/quest_45144_8_4.mp3'/>哇阿...<br/>
+8396	<title name='布蘿妮'/><npcportrait name='Blaanid'/><face name='normal'/><npcvoice name='NewRecordBook/quest_45144_8_5.mp3'/>屋哇阿...<br/>
+8397	<title name='布蘿妮'/><npcportrait name='Blaanid'/><face name='sad'/><npcvoice name='NewRecordBook/quest_45144_8_6.mp3'/>.. ... ..<br/>
+8398	<title name='布蘿妮'/><npcportrait name='Blaanid'/><face name='sad'/><npcvoice name='NewRecordBook/quest_45144_8_7.mp3'/>...那個,<br/>
+8399	<title name='布蘿妮'/><npcportrait name='Blaanid'/><face name='sad'/><npcvoice name='NewRecordBook/quest_45144_8_6.mp3'/>.. ... ..<br/>
+8400	<title name='布蘿妮'/><npcportrait name='Blaanid'/><face name='sad'/><npcvoice name='NewRecordBook/quest_45144_8_9.mp3'/>...你還記得我們初次見面的時候嗎? <br/>
+8401	<title name='布蘿妮'/><npcportrait name='Blaanid'/><face name='sad'/><npcvoice name='NewRecordBook/quest_45144_8_10.mp3'/>其實, 我那個時候... 是隔天馬上消失也不奇怪的狀態.<br/>獨自度過的時間太長的關係, 剎那間覺得再也沒辦法撐下去了...<br/>
+8402	<title name='布蘿妮'/><npcportrait name='Blaanid'/><face name='sad'/><npcvoice name='NewRecordBook/quest_45144_8_11.mp3'/>你出現了呀. 帶著我的髮帶.<br/>嘿嘿, 布蘿妮永遠都不會忘記那天的.<br/>
+8403	<title name='布蘿妮'/><npcportrait name='Blaanid'/><face name='sad'/><npcvoice name='NewRecordBook/quest_45144_8_12-2.mp3'/>那之後也發生了好多事情, 對吧?<br/>現在我大概可以記得我的名字, 你的名字也是......<br/>我們一起發生的事情都沒有忘記,鮮明的留在腦海中.<br/>
+8404	<title name='布蘿妮'/><npcportrait name='Blaanid'/><face name='happycry'/><npcvoice name='NewRecordBook/quest_45144_8_14.mp3'/>嘿嘿... 還跟你一起看了那麼帥氣的煙火, 真是太開心了...<br/>為什麼... 會流眼淚呢? 不想讓你看到這個樣子的...<br/>
+8405	<title name='布蘿妮'/><npcportrait name='Blaanid'/><face name='happycry'/><npcvoice name='NewRecordBook/quest_45144_8_15.mp3'/>從在堤爾克那相遇的那天<br/>到今天在琵音演唱會場中看的帥氣煙火, 全部都是珍貴的瞬間啊.<br/>
+8406	<title name='布蘿妮'/><npcportrait name='Blaanid'/><face name='happycry'/><npcvoice name='NewRecordBook/quest_45144_8_16.mp3'/>絕對不會忘記我們一起度過的時間<br/>往後也不會忘掉的. 我答應你.<br/>
+8407	<title name='布蘿妮'/><npcportrait name='Blaanid'/><face name='happycry'/><npcvoice name='NewRecordBook/quest_45144_8_18.mp3'/>所以, <username/>也不要忘記布蘿妮, 要記得我喔. 知道吧?<br/>
+8408	<title name='布蘿妮'/><npcportrait name='Blaanid'/><face name='happycry'/><npcvoice name='NewRecordBook/quest_45144_8_19.mp3'/>雖然好像說了很多次, 真的真的很謝謝你.<br/>絕對不會忘記的, 真的...<br/>

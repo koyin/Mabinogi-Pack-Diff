@@ -1,0 +1,102 @@
+<portraitAnimation image="NPCportrait_Blaanid_1.dds">
+
+<clipInformations number='17'>
+    <clipInformation x1="   0" y1="  22" x2=" 307" y2=" 511" originX="   0" originY="  22" />
+    <clipInformation x1=" 307" y1=" 132" x2=" 360" y2=" 511" originX=" 307" originY=" 132" />
+    <clipInformation x1=" 412" y1="   0" x2=" 511" y2="  57" originX=" 111" originY=" 109" />
+    <clipInformation x1=" 412" y1="  58" x2=" 511" y2=" 115" originX=" 111" originY=" 109" />
+    <clipInformation x1=" 412" y1=" 116" x2=" 511" y2=" 173" originX=" 111" originY=" 109" />
+    <clipInformation x1=" 412" y1=" 174" x2=" 511" y2=" 231" originX=" 111" originY=" 109" />
+    <clipInformation x1=" 412" y1=" 232" x2=" 511" y2=" 289" originX=" 111" originY=" 109" />
+    <clipInformation x1=" 412" y1=" 290" x2=" 511" y2=" 347" originX=" 111" originY=" 109" />
+    <clipInformation x1=" 412" y1=" 348" x2=" 511" y2=" 405" originX=" 111" originY=" 108" />
+    <clipInformation x1=" 312" y1="   0" x2=" 411" y2="  57" originX=" 111" originY=" 109" />
+    <clipInformation x1=" 312" y1="  58" x2=" 411" y2=" 115" originX=" 111" originY=" 109" />
+    <clipInformation x1="   0" y1="   0" x2="  34" y2="  20" originX=" 138" originY=" 168" />
+    <clipInformation x1="  39" y1="   0" x2="  73" y2="  20" originX=" 138" originY=" 168" />
+    <clipInformation x1="  78" y1="   0" x2=" 112" y2="  20" originX=" 138" originY=" 168" />
+    <clipInformation x1=" 117" y1="   0" x2=" 151" y2="  20" originX=" 138" originY=" 168" />
+    <clipInformation x1=" 156" y1="   0" x2=" 190" y2="  20" originX=" 138" originY=" 168" />
+    <clipInformation x1=" 195" y1="   0" x2=" 229" y2="  20" originX=" 138" originY=" 168" />
+</clipInformations>
+<animations number='8'>
+    <animation index='0' name='base'>
+        <background>
+            <clips number='2'>
+                <clip value=" 0 " />
+                <clip value=" 1 " />
+            </clips>
+        </background>
+    </animation>
+    <animation index='1' name='normal'>
+        <background>
+            <clips number='1'>
+                <clip value=" 2 " />
+            </clips>
+        </background>
+        <frame index='0' duration='0.06'>
+            <clips number='1'>
+                <clip value=" 3 " />
+            </clips>
+        </frame>
+        <frame index='1' duration='0.15'>
+            <clips number='1'>
+                <clip value=" 4 " />
+            </clips>
+        </frame>
+        <frame index='2' duration='0.06'>
+            <clips number='1'>
+                <clip value=" 2 " />
+            </clips>
+        </frame>
+    </animation>
+    <animation index='2' name='smile'>
+        <background>
+            <clips number='2'>
+                <clip value=" 11 " />
+                <clip value=" 5 " />
+            </clips>
+        </background>
+    </animation>
+    <animation index='3' name='sad'>
+        <background>
+            <clips number='2'>
+                <clip value=" 12 " />
+                <clip value=" 6 " />
+            </clips>
+        </background>
+    </animation>
+    <animation index='4' name='embarrassed'>
+        <background>
+            <clips number='2'>
+                <clip value=" 13 " />
+                <clip value=" 7 " />
+            </clips>
+        </background>
+    </animation>
+    <animation index='5' name='angry'>
+        <background>
+            <clips number='2'>
+                <clip value=" 14 " />
+                <clip value=" 8 " />
+            </clips>
+        </background>
+    </animation>
+    <animation index='6' name='serious'>
+        <background>
+            <clips number='2'>
+                <clip value=" 15 " />
+                <clip value=" 9 " />
+            </clips>
+        </background>
+    </animation>
+    <animation index='7' name='happycry'>
+        <background>
+            <clips number='2'>
+                <clip value=" 16 " />
+                <clip value=" 10 " />
+            </clips>
+        </background>
+    </animation>
+</animations>
+</portraitAnimation>

@@ -460,6 +460,8 @@ itemoptiondeschelper.29	人偶魔法保護
 itemoptiondeschelper.30	芬恩同步大成功機率
 itemoptiondeschelper.31	瑪奇魔法陣設計時,可以配置的圖形個數
 itemoptiondeschelper.32	製作瑪奇魔法陣圖案的使用次數
+itemoptiondeschelper.33	3大屬性精通傷害
+itemoptiondeschelper.34	瞄準率矯正
 itemoptionset.1	精靈
 itemqualitymgr.1	才能獎勵 :
 itemqualitymgr.2	一代宗師製作獎勵 : 
@@ -852,6 +854,7 @@ setparameter.7	{0} {1} 等級
 setparameter.8	突擊 人類, 精靈時沒有盾牌也可使用
 setparameter.9	特定技能 {0} 等級
 setparameter.10	{0} {1} 等級 \n({2} {3})
+setparameter.11	冷卻時間
 shapeshiftdescmgr.1	沒有獎勵
 shapeshiftdescmgr.2	生命力
 shapeshiftdescmgr.3	魔法

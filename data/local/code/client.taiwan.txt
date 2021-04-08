@@ -917,7 +917,7 @@ pleionehotkeytext.141	轉換為5號裝備欄位
 pleionehotkeytext.142	轉換為6號裝備欄位
 pleionehotkeytext.143	轉換為7號裝備欄位
 pleionehotkeytext.144	轉換為8號裝備欄位
-pleionehotkeytext.145	回憶錄
+pleionehotkeytext.145	布蘿妮的成長支援
 pleionehotkeytext.146	特性
 pleionehotkeytext.147	追加上端技能欄位轉換
 pleionehotkeytext.148	互動養成
@@ -2364,7 +2364,13 @@ plw_itemtooltip.271	製作瑪奇魔法陣的人
 plw_itemtooltip.272	製作瑪奇魔法陣設計者
 plw_itemtooltip.273	\n\n瑪奇魔法陣效果\n
 plw_itemtooltip.274	낭만 농장 데코 효과
+plw_itemtooltip.275	額外傷害值 {0}%
 plw_itemtooltip.276	<color=3>피어싱 부여 가능</color>
+plw_itemtooltip.277	爆裂箭碎片傷害 {0}% 增加
+plw_itemtooltip.278	爆裂箭碎片範圍 {0}m 增加
+plw_itemtooltip.279	穿心箭傷害 {0}% 增加
+plw_itemtooltip.280	雷氣鎖鏈冷卻時間 {0}秒減少
+plw_itemtooltip.281	火石狂熱冷卻時間 {0}秒減少
 plw_itemtooltip.bagexpander	<color=3>\n附著小包包\n</color>
 plw_itemupgrademgr.1	[開發者用訊息] 改造方法消失.
 plw_itemupgrademgr.2	託王城鍊金術師 {0}的協助, 發現新的鋼瓶改造方式.
@@ -2831,6 +2837,8 @@ plw_summonmaster.42	為已登錄在朋友召喚欄位的寵物.
 plw_summonmaster.43	被召喚的寵物,無法登錄在朋友召喚欄位.
 plw_summonmaster.44	朋友召喚變更依照各欄位,愛爾琳時間1天只可進行1次.\n(愛爾琳時間06點後可變更)
 plw_summonmaster.45	好像不能在這裡解除召喚寵物.
+plw_summonmaster.46	和寵物對話時,無法移動頻道
+plw_summonmaster.47	和寵物對話時,無法解除召喚.
 plw_supportpuppetcomponent.1	外型已被變更, 有使用限制.
 plw_supportpuppetcomponent.2	魔法盾發動.
 plw_supportpuppetcomponent.3	魔法盾變為未發動.
