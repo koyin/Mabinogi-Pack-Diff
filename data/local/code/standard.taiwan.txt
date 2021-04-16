@@ -3,6 +3,8 @@ autobotdescmgr.2	移動速度 {0}%
 autobotdescmgr.3	{0} 增加
 autobotdescmgr.4	爆擊傷害值 {0}%
 autobotdescmgr.5	寵物戰鬥經驗值bonus {0}%
+autobotdescmgr.6	음악 버프 스킬 지속시간 {0}
+autobotdescmgr.7	공격 속도 {0}%
 booleanfunctionhandler.1	精靈或支持精靈時
 booleanfunctionhandler.2	巨人或支持巨人時
 booleanfunctionhandler.3	正在召喚巨魔像中
