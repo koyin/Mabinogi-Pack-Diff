@@ -117,6 +117,7 @@ collectinguse.5	距離太遠無法採集.
 collectinguse.6	今天無法再這羊身上採集到羊毛了.
 collectinguse.7	無法再從這隻動物上進行採集.
 collectinguse.8	無法再從這隻動物上進行採集.
+condensedforceuse.1	變異的實驗體的攻擊力增加了!\n目前追加攻擊力 {0}%
 conditionsupportuse.1	{0} 狀態無法支援.
 conditionsupportuse.2	再繼續隱身似乎沒有意義.
 conditionsupportuse.3	隱身的耐性似乎更多了.
@@ -141,6 +142,7 @@ cookinguse.9	看似非常美味的料理完成!
 cookinguse.10	看似有夠味的料理完成.
 cookinguse.11	料理完成.
 cookinguse.12	擔心味道的料理完成.
+corruptgrudgeuse.1	給予{0}腐敗的仇恨!!
 counterattackuse.1	裝備騎槍時無法使用該當技能.
 crossbusteruse.1	現在好像不能使用.
 crossbusteruse.2	目前無法使用技能. {0}秒之後再次使用.

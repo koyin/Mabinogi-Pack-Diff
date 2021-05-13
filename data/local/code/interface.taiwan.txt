@@ -478,9 +478,9 @@ pli_bagtagview.1	標籤設定
 pli_bagtagview.2	設定標籤時, 會優先把這道具放進背包裡.
 pli_bagtagview.3	確認
 pli_bagtagview.4	取消
-pli_balloonpopminigameresultview.1	보유 기록 시간 : {0}
-pli_balloonpopminigameresultview.2	{0}\n{1}개*10초\n{2}등
-pli_balloonpopminigameview.1	풍선 터트리기 미니게임을 종료 하시겠습니까?\n지금 종료하면, 미니게임 기록은 저장되지 않습니다.
+pli_balloonpopminigameresultview.1	持有紀錄時間 : {0}
+pli_balloonpopminigameresultview.2	{0}\n{1}個*10秒\n第{2}名
+pli_balloonpopminigameview.1	要結束氣球消消樂迷你遊戲嗎?\n現在結束的話, 將不會儲存迷你遊戲紀錄.
 pli_banquetchangetabletalkthemeview.1	餐點主題變更
 pli_banquetchangetabletalkthemeview.2	現在主題 : {0}\
 pli_banquetchangetabletalkthemeview.3	目前沒有餐點的主題.
@@ -3070,6 +3070,7 @@ pli_newrecordbookmainview.2	* 目次\n
 pli_newyearfortune2015japan.1	想要查看運勢的話需要3個算命錢.
 pli_npcenchantentrustview.1	6等級以上的魔法賦予失敗的話對象道具將消失.
 pli_npcenchantentrustview.2	在6等級以上的魔力賦予失敗時,對象道具消失\n蘊藏在武器上的精靈也一起消失.
+pli_npcenchantentrustview.3	소각할 수 없는 아이템입니다
 pli_onlineconcertview.1	%02d:%02d:%02d
 pli_onlineconcertview.2	콘서트까지 {0}시간 {1}분 {2}초 남았습니다.
 pli_onlineconcertview.3	이미 시청 중입니다.
@@ -6450,6 +6451,9 @@ pli_windowspecialization.27	關閉
 pli_windowspecialization.28	超過璞黎持有限制,無法投入AP.
 pli_windowspecialization.29	要啟動所選擇的特性組合嗎?\n變更組合時,現在發動中的特性技術之效果將會結束.
 pli_windowspecialization.30	C7的 G22 主線[闔上雙眼的人]任務等\n特性習得任務完成後可以使用.
+pli_windowspecialization.31	{0}\n\n{1}\n\n\n特性發動條件\n\n{2}
+pli_windowspecialization.32	因為目前使用中的突襲專用特性, 無法移除.
+pli_windowspecialization.33	每個組合僅能包含一個突襲專用特性.
 pli_windowspecializationlevelup.1	{0}特性已學習.
 pli_windowspecializationlevelup.2	Lv.{0}
 pli_windowspecializationpopupview.1	邊境之痕 : {0}個 \n邊境石 : {1}個
