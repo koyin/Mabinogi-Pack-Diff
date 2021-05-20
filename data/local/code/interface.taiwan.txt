@@ -811,15 +811,15 @@ pli_castletaxrateview.0	稅率調整
 pli_castletaxrateview.1	稅率是乘上公會在建造房屋時所使用的金額來決定稅金的比率.此數據是由擁有城堡的公會所決定的.房屋得標簽訂契約以後,不管擁有城堡的公會調漲稅率或是降低稅率,還是按照簽約當時所規定的稅率來徵收稅金,就算以後變更稅率也是一樣.
 pli_castletaxrateview.2	Tax Rate\n稅率
 pli_castletaxrateview.3	稅率的範圍從 {0}%開始到{1}%為止.\n請輸入適當的稅率.
-pli_challengemissionrewardview.1	챌린지 마스터 상품
-pli_challengemissionrewardview.2	챌린지 특급 상품
-pli_challengemissionrewardview.3	챌린지 베테랑 상품
-pli_challengemissionrewardview.4	챌린지 초보자 상품
-pli_challengemissionview.1	* 챌린지 특급 이상은 추첨 {0} 회차부터 당첨 가능합니다.\n* 한번 당첨된 상품은 재당첨되지 않으며 전체 확률에서 제외됩니다.\n* 필요 코인은 다양한 챌린지 미션을 수행하여 획득할 수 있습니다.
-pli_challengemissionview.2	필요        x {0}
-pli_challengemissionview.3	보유 : {0}
-pli_challengemissionview.4	현재 추첨 회차 : {0}
-pli_challengemissionview.5	기간이 지나서 보상 리스트가 변경되었습니다.
+pli_challengemissionrewardview.1	VIP 大師商品
+pli_challengemissionrewardview.2	VIP 特級商品
+pli_challengemissionrewardview.3	VIP 老手商品
+pli_challengemissionrewardview.4	VIP 新手商品
+pli_challengemissionview.1	* 抽中過一次的商品不會再次中獎, 將從整體機率中排除.
+pli_challengemissionview.2	需要        x {0}
+pli_challengemissionview.3	持有 : {0}
+pli_challengemissionview.4	目前抽獎回次 : {0}
+pli_challengemissionview.5	超過期限獎勵清單已變更.
 pli_changehumanpetpurchaselistview.1	臉型
 pli_changehumanpetpurchaselistview.2	膚色
 pli_changehumanpetpurchaselistview.3	髮型
@@ -6321,12 +6321,12 @@ pli_windowskill.17	角色等級效果\n {0} {1} 才能技能修練經驗值 {2}.
 pli_windowskill.18	角色等級每達到一定程度時\n 每次修練符合目前選擇中的\n 修練才能的技能時\n 會增加獲得的技能修練經驗值\n 此效果會與其他修練經驗值增加效果重疊.
 pli_windowskill.19	 相關
 pli_windowskill.20	 相關
-pli_windowskill.21	종합 전투 스킬 레벨 : {0}
-pli_windowskill.22	종합 생활 스킬 레벨 : {0}
-pli_windowskill.23	전투재능 및 전투 관련 히든 스킬을 1랭크 승급할 때마다 1씩 상승합니다.
-pli_windowskill.24	생활재능 및 생활 관련 히든 스킬을 1랭크 승급할 때마다 1씩 상승합니다.
-pli_windowskill.25	전투재능 및 전투 관련 히든 스킬을 1랭크 승급할 때마다 1씩 상승합니다.
-pli_windowskill.26	생활재능 및 생활 관련 히든 스킬을 1랭크 승급할 때마다 1씩 상승합니다.
+pli_windowskill.21	綜合戰鬥技能等級:{0}
+pli_windowskill.22	綜合生活技能等級:{0}
+pli_windowskill.23	戰鬥才能及戰鬥相關隱藏技能每升1級上升1.
+pli_windowskill.24	生活才能及生活相關隱藏技能每升1級上升1.
+pli_windowskill.25	戰鬥才能及戰鬥相關隱藏技能每升1級上升1.
+pli_windowskill.26	生活才能及生活相關隱藏技能每升1級上升1.
 pli_windowskillbar.0	變更快捷鍵設定.快捷鍵 (Left Shift + Tab)
 pli_windowskillbar.1	變更快捷鍵位置.\n(快捷鍵 'Left Shift + Tab')
 pli_windowskillbar.2	沒有可以使用的 {0}

@@ -17466,8 +17466,8 @@
 21493	G25 主要活動角色關鍵字
 21494	rebirth_rankupbonus_char
 21495	rebirth_rankupbonus_check
-21496	환생만 해도 레벨업 이벤트 대표 캐릭터 키워드
-21497	환생만 해도 레벨업 이벤트 환생 여부 체크 키워드
+21496	只重生也會升級活動代表角色關鍵字
+21497	只重生也會升級活動重生與否確認關鍵字
 21498	2020_summerfree_char
 21499	2020_summer_week_1
 21500	2020년 한국 여름 프리시즌 대표 캐릭터 키워드
@@ -17922,8 +17922,8 @@
 22157	可獲得戴手套姿勢的關鍵字
 22158	academyquest_guide_complete_1
 22159	academyquest_guide_complete_2
-22160	학회 후원 퀘스트 가이드 1차 완료 : 생활 반복퀘 수주 가능
-22161	학회 후원 퀘스트 가이드 2차 완료 : 전투 반복퀘 수주 가능
+22160	學會支援任務嚮導第1波完成 : 可接受生活反覆任務
+22161	學會支援任務嚮導第2波完成 : 可接受戰鬥反覆任務
 22162	slapmatch_event_char
 22163	slapmatch_event_daily
 22164	slapmatch_event_clear_1
@@ -17944,8 +17944,8 @@
 22179	온택트 이벤트 npc 콘서트 채널 접근 제어용 키워드
 22180	show_melwyn
 22181	academyquest_etc_npc
-22182	학회 후원 퀘스트 NPC 멜윈 show 키워드
-22183	학회 후원 퀘스트 기타 NPC 배치
+22182	學會支援任務 NPC 梅溫 show 關鍵字
+22183	學會支援任務其他 NPC 配置
 22184	newrecordbook_45017_3
 22185	45017 任務第三個目標(任務) 完成關鍵字
 22186	newrecordbook_event_char
@@ -17954,10 +17954,10 @@
 22189	academyquest_etc_npc3
 22190	academyquest_etc_npc4
 22191	academyquest_etc_npc5
-22192	학회 후원 퀘스트 기타 NPC 배치
-22193	학회 후원 퀘스트 기타 NPC 배치
-22194	학회 후원 퀘스트 기타 NPC 배치
-22195	학회 후원 퀘스트 기타 NPC 배치
+22192	學會支援任務其他 NPC 配置
+22193	學會支援任務其他 NPC 配置
+22194	學會支援任務其他 NPC 配置
+22195	學會支援任務其他 NPC 配置
 22196	newrecordbook_45140_2
 22197	45140 任務與布蘿妮對話進行關鍵字
 22198	newrecordbook_45140_8
@@ -18055,19 +18055,19 @@
 22340	2021_help_designer_event_char
 22341	海外 2021 設計師活動關鍵字
 22342	academyquest_2990_manus
-22343	학회 후원 퀘스트 던바튼 마누스
+22343	學會支援任務杜巴頓馬努斯
 22344	academyquest_2990_aeira
-22345	학회 후원 퀘스트 아이라 물건 획득 체크
+22345	學會支援任務蕾拉物件獲得確認
 22346	academyquest_bonus_01_clear
 22347	academyquest_bonus_02_clear
 22348	academyquest_bonus_03_clear
 22349	academyquest_bonus_04_clear
 22350	academyquest_bonus_05_clear
-22351	학회 후원 보너스 퀘스트 01 클리어
-22352	학회 후원 보너스 퀘스트 02 클리어
-22353	학회 후원 보너스 퀘스트 03 클리어
-22354	학회 후원 보너스 퀘스트 04 클리어
-22355	학회 후원 보너스 퀘스트 05 클리어
+22351	學會支援獎勵任務 01 完成
+22352	學會支援獎勵任務 02 完成
+22353	學會支援獎勵任務 03 完成
+22354	學會支援獎勵任務 04 完成
+22355	學會支援獎勵任務 05 完成
 22356	gesture_observe
 22357	gesture_Itisnot
 22358	gesture_nineteen
@@ -18075,7 +18075,7 @@
 22360	可獲得不是這樣姿勢的關鍵字
 22361	可獲得1990 姿勢的關鍵字
 22362	academyquest_dun_glitter
-22363	학회 후원 퀘스트 던바튼 반짝이 NPC
+22363	學會支援任務杜巴頓閃亮 NPC
 22368	gesture_s8_01
 22369	gesture_s8_02
 22370	gesture_s8_03
@@ -18150,15 +18150,15 @@
 22699	2021_overseas_summerfree_daily_coin
 22700	2021_overseas_summerfree_week_char
 22701	2021_overseas_summerfree_week_coin
-22702	2021 해외 프리시즌 이벤트 폴리싱 일일 퀘스트 대표 캐릭터 키워드
-22703	2021 해외 프리시즌 이벤트 폴리싱 일일 퀘스트
-22704	2021 해외 프리시즌 이벤트 폴리싱 주간 퀘스트 대표 캐릭터 키워드
-22705	2021 해외 프리시즌 이벤트 폴리싱 주간 퀘스트
+22702	2021 海外FREE SEASON活動調整每日任務代表角色關鍵字
+22703	2021 海外FREE SEASON活動調整每日任務
+22704	2021 海外FREE SEASON活動調整每周任務代表角色關鍵字
+22705	2021 海外FREE SEASON活動調整每周任務
 22706	2021_overseas_summer_gold_vip
 22707	2021_overseas_summer_silver_vip
 22708	2021_overseas_summer_bronze_vip
-22709	2021 해외 프리시즌 이벤트 폴리싱 골드 vip
-22710	2021 해외 프리시즌 이벤트 폴리싱 실버 vip
-22711	2021 해외 프리시즌 이벤트 폴리싱 브론즈 vip
+22709	2021 海外FREE SEASON活動調整金等 vip
+22710	2021 海外FREE SEASON活動調整銀等 vip
+22711	2021 海外FREE SEASON活動調整銅等 vip
 8441	일본 닌자 스킬 1랭크씩 레벨업용 키워드
 8657	일본 c3,c4 리뉴얼 퀘스트 보상 못받는 유저 케어용 키워드

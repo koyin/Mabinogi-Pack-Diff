@@ -1490,8 +1490,8 @@ plw_event.31	對方隊伍的位置
 plw_event.32	在接取累積上線時間活動資訊的過程中失敗了.
 plw_event.33	在接收道具的過程中失敗了.
 plw_event.34	축적한 브리가 없어 아이템을 사용할 수 없습니다.
-plw_event.35	더 이상 추첨할 수 없습니다.
-plw_event.36	추첨에 필요한 코인이 부족합니다.
+plw_event.35	無法再抽獎.
+plw_event.36	抽獎所需的硬幣不足.
 plw_event.37	請選擇對決中要使用的畫片. 超過10秒以上不進行選擇,對決將取消.
 plw_event.38	超過畫片選擇時間,對決取消.
 plw_event.haberdasherevent	可獲得商人的硬幣

@@ -3,8 +3,8 @@ autobotdescmgr.2	移動速度 {0}%
 autobotdescmgr.3	{0} 增加
 autobotdescmgr.4	爆擊傷害值 {0}%
 autobotdescmgr.5	寵物戰鬥經驗值bonus {0}%
-autobotdescmgr.6	음악 버프 스킬 지속시간 {0}
-autobotdescmgr.7	공격 속도 {0}%
+autobotdescmgr.6	音樂效果技能持續時間 {0}
+autobotdescmgr.7	攻擊速度 {0}%
 booleanfunctionhandler.1	精靈或支持精靈時
 booleanfunctionhandler.2	巨人或支持巨人時
 booleanfunctionhandler.3	正在召喚巨魔像中
@@ -571,7 +571,7 @@ mabinogi_gameword.54	鎖鏈鐮刃最大傷害值
 mabinogi_gameword.55	音樂技能持續時間
 mabinogi_gameword.56	拳套最小傷害
 mabinogi_gameword.57	拳套最大傷害
-mabinogi_gameword.58	모든 속성 연금술 대미지
+mabinogi_gameword.58	所有屬性鍊金術傷害
 mabinogi_item.1	我真的是新手!
 mabinogi_itemforjob.1	變更為 {0}
 mabinogi_itemforjob.2	{0} 增加
