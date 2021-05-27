@@ -3076,6 +3076,8 @@ pli_onlineconcertview.2	콘서트까지 {0}시간 {1}분 {2}초 남았습니다.
 pli_onlineconcertview.3	이미 시청 중입니다.
 pli_onlineconcertview.4	아직 콘서트 시간이 아닙니다.
 pli_onlineconcertview.5	별이 빛나는 에린 콘서트를 시청합니다.
+pli_ontimerewardconfirmview.1	{0} {1}個
+pli_ontimerewardconfirmview.2	<color={0}><outlinecolor=4>{1}年 {2}月 {3}日 {4}時 {5}分</outlinecolor></color>為止 <color={0}><outlinecolor=4>{6}</outlinecolor></color>進行中.
 pli_oxquizquestionview.1	\n\n{0}秒
 pli_oxquizquestionview.2	\n\n{0}秒
 pli_oxquizquestionview.3	\n\n<color=4>{0}秒</color>
@@ -6323,10 +6325,6 @@ pli_windowskill.19	 相關
 pli_windowskill.20	 相關
 pli_windowskill.21	綜合戰鬥技能等級:{0}
 pli_windowskill.22	綜合生活技能等級:{0}
-pli_windowskill.23	戰鬥才能及戰鬥相關隱藏技能每升1級上升1.
-pli_windowskill.24	生活才能及生活相關隱藏技能每升1級上升1.
-pli_windowskill.25	戰鬥才能及戰鬥相關隱藏技能每升1級上升1.
-pli_windowskill.26	生活才能及生活相關隱藏技能每升1級上升1.
 pli_windowskillbar.0	變更快捷鍵設定.快捷鍵 (Left Shift + Tab)
 pli_windowskillbar.1	變更快捷鍵位置.\n(快捷鍵 'Left Shift + Tab')
 pli_windowskillbar.2	沒有可以使用的 {0}
