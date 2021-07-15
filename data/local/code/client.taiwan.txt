@@ -688,6 +688,8 @@ pleioneaccountmsg.16	마비노기 프리미엄 플러스 팩 이용이 종료되
 pleioneaccountmsg.17	獲得{0} 美容室代幣了.\n剩下{1} 美容室代幣. 
 pleioneaccountmsg.18	使用{0} 美容室代幣了.\n剩下{1} 美容室代幣. 
 pleionechina2018authsystem.3	청소년 건강 보호를 위해 해당 시간에는 접속이 불가능 합니다.
+pleionechina2018authsystem.4	인증 실패：미성년자 건강보호를 위해 유저님 오늘 게임 플레이 시간이 1.5시간 도달되어 재로그인이 불가합니다. 충분히 휴식하시기 바랍니다.
+pleionechina2018authsystem.5	인증 실패：미성년자 건강보호를 위해 유저님 오늘 게임 플레이 시간이 3시간 도달되어 재로그인이 불가합니다. 충분히 휴식하시기 바랍니다.
 pleionecontrollercharactercmd.1	請問要給演奏者物品嗎?
 pleionecontrollercharactercmd.2	寵物角色不存在.
 pleionecontrollercharactercmd.3	這讓我騎有點太小了吧.
@@ -943,6 +945,7 @@ pleionehotkeytext.171	特性組合2 發動
 pleionehotkeytext.172	特性組合3 發動
 pleionehotkeytext.173	特性組合4 發動
 pleionehotkeytext.174	特性組合5 發動
+pleionehotkeytext.175	星塵資訊窗
 pleionelobby_msg.1	要召喚新生成的寵物角色嗎?
 pleionelobby_msg.2	新生成的寵物角色讀取失敗.
 pleionelobby_msg.3	要以購買的卡片生成新寵物角色嗎?
@@ -1860,6 +1863,9 @@ plw_inventoryaction.175	目前尚有剩餘未發送的營火邀請函.\n不寄�
 plw_inventoryaction.176	非有效道具.
 plw_inventoryaction.177	非相關活動期間.
 plw_inventoryaction.178	沒有可以使用的精靈.
+plw_inventoryaction.179	僅在持有星塵時可以使用.
+plw_inventoryaction.180	已經持有 {0}.
+plw_inventoryaction.181	要在可使用的星塵外型中增加 {0}嗎?
 plw_inventoryaction.182	이곳은 좁아서 사용하기 어렵습니다.\n다른 곳으로 이동 후 사용하세요.
 plw_inventoryvmmessage.0	坐在椅子上的人們可以分享食物.\n和人數的多寡無關,都可以分享到所有食物的50%.\n請問要房屋分享嗎?
 plw_inventoryvmmessage.1	House Sharing\n房屋分享
@@ -2482,6 +2488,8 @@ plw_newegoweapon.5	{0}的{1}
 plw_newegoweapon.6	今天已經收過精靈的眼淚了.
 plw_newegoweapon.7	<title name='NONE'/><face name='normal'/>(請選擇關鍵字,和精靈進行對話.)
 plw_newegoweapon.8	<title name='NONE'/><face name='normal'/>(請選擇關鍵字,和精靈進行對話.)
+plw_newegoweapon.9	정령 형상변환 슬롯을 확장할 정령 무기를 선택해 주세요.
+plw_newegoweapon.10	정령 무기 선택
 plw_npcshop.1	已購買{0}個.
 plw_npcshop.2	\n僅購買{0}個.
 plw_partymgr.1	無法組隊的區域.
@@ -2776,6 +2784,7 @@ plw_skiing.3	跳躍距離\n藝術分數\n總分
 plw_skillmgr.1	{0} {1} 以上無法使用.
 plw_skillmgr.2	無法使用.\n從{0}開始可以使用.
 plw_skillmgr.3	{0}以上無法使用.
+plw_skillmgr.4	已獲得{0}支援效果.
 plw_skillmgrmsg.1	身體變小時無法做一部份的動作
 plw_skillmgrmsg.2	중독 방지 중에는 불가합니다.
 plw_soulmatecomponent.1	跳舞時間結果!\n\n

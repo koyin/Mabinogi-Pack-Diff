@@ -3656,7 +3656,7 @@
 3847	可提升芬恩寶珠的欄位個數.\n如果有勇氣的琉璃苣香水,可點擊芬恩同步視窗最上方的芬恩寶珠欄位來增加欄位數量.
 3848	召喚時可叫出其他寵物的好友召喚欄位個數.\n如果有友誼的紫羅蘭香水,可點擊芬恩同步視窗最上方的好友召喚欄位來增加欄位數量.
 3849	芬恩同步結果
-3850	승단 방법 선택
+3850	升段魔法選擇
 3851	[PromotionSkillTrainView $skillLocalName]
 3852	 以菲尼等級順序整列
 3853	A
@@ -3897,9 +3897,55 @@
 4100	可使用'含有神奇氣息的精靈石'成長精靈.該成長不會影響精靈的互動度Bonus與每週經驗值獲得上限,根據互動度產生的EGO POINT可獲得最大值.
 4101	精靈形象變換
 4102	相關技能
+4103	升級
+4104	下個研究\n升級獎勵
 4105	綜合戰鬥技能等級
 4106	綜合生活技能等級
+4107	每當戰鬥才能跟戰鬥相關隱藏技能提升 1等級時上升 1.
+4108	每當生活才能跟生活相關隱藏技能提升 1等級時上升 1.
+4109	我的夢想是天文學者!
+4110	倫理學
+4111	天體力學
+4112	天體物理學
+4113	天文觀測學
+4114	行星科學
 4115	全部刪除
+4116	等級上升
+4117	星塵提醒
+4118	<星塵的等級>\n- 星塵最大可以成長至 <color=2><outlinecolor=3>15等級</outlinecolor></color>.\n- 每當等級上升時將開放新的支援效果.\n- <color=2><outlinecolor=3>6, 11, 15等級</outlinecolor></color>中登場的星塵個數增加且樣貌變化,\n 發動支援效果時, 給予敵人的傷害也會增加.\n\n<等級上升>\n- 為了提升星塵等級, 根據等級需要星塵材料跟一定量的金幣.\n- 星塵材料可以從 <color=2><outlinecolor=3>皇家學會支援</outlinecolor></color> 獎勵獲得, \n 持有的材料按下右下端的 <color=2><outlinecolor=3>觀看材料</outlinecolor></color> 按鈕可以確認.\n- <color=2><outlinecolor=3>銀行直接交易</outlinecolor></color>勾選時, 金幣費用將從銀行餘額中直接支付, 手續費為 5%.\n- 持有所有需要的材料跟金幣狀態下, 按下右下端的<color=2><outlinecolor=3>等級上升</outlinecolor></color> 按鈕時將提升到下一等級.\n 此時新的支援效果將開放到 1等級.\n\n<支援效果>\n- 星塵透過等級上升時開放的支援效果支援玩家的戰鬥.\n- 按下下端的 <color=2><outlinecolor=3>所有效果</outlinecolor></color> 按鈕時將轉換為可以看見整體支援效果一覽的 <color=2><outlinecolor=3>所有效果模式</outlinecolor></color>,\n  再次按下 <color=2><outlinecolor=3>開放效果</outlinecolor></color> 按鈕時,  將轉換為僅標示已開放支援效果圖示的 <color=2><outlinecolor=3>開放效果模式</outlinecolor></color>.\n- <color=2><outlinecolor=3>爆破</outlinecolor></color>, <color=2><outlinecolor=3>閃焰</outlinecolor></color>, <color=2><outlinecolor=3>籠罩</outlinecolor></color>支援效果將根據戰鬥中的狀況自動發動.\n- <color=2><outlinecolor=3>疾風</outlinecolor></color>, <color=2><outlinecolor=3>追逐者</outlinecolor></color>支援效果開放時, 將增加至技能窗的 <color=2><outlinecolor=3>隱藏才能</outlinecolor></color> 項目中,\n 和其他技能一起登錄至快捷見視窗中,可以在任意時機發動.\n\n<支援效果的等級>\n- 各支援效果一開始以 1等級開放.\n- <color=2><outlinecolor=3>在所有效果模式</outlinecolor></color>中點擊已開放的支援效果圖示或在,\n  <color=2><outlinecolor=3>開放效果模式中按下</outlinecolor></color>各支援效果的 <color=2><outlinecolor=3>等級上升</outlinecolor></color> 按鈕時, 可以提升支援效果的等級.\n-支援效果的等級上升根據目前的支援效果等級, 將會需要星塵材料跟一定量的金幣.\n- 持有所有需要的材料跟金幣狀態下, 按下右下端的<color=2><outlinecolor=3>等級上升</outlinecolor></color> 按鈕時將提升到下一等級.\n-支援效果等級提升狀態下按下右下端的 <color=2><outlinecolor=3>返回</outlinecolor></color> 按鈕時, 可以回到等級提升狀態.\n\n<星塵外型的變更>\n- 按下右下端的 <color=2><outlinecolor=3>外型圖示</outlinecolor></color>時, 星塵外型一覽將標示.\n- 在一覽中點擊持有的外型時可以變更星塵外型.\n- 即使變更外型, 星塵的等級跟已開放的支援效果等級將不會改變.\n- 就算變更為其他外型, 現在的外型也不會消失, 隨時可以再變更.
+4119	星塵資訊
+4120	?
+4121	所有效果
+4122	支援效果傷害 {0}倍
+4123	等級上升
+4124	返回
+4125	等級上升
+4126	觀看材料
+4127	需要金幣 : {0} Gold
+4128	銀行直接交易
+4129	0/0
+4130	0/0
+4131	0/0
+4132	0/0
+4133	星塵材料
+4134	0
+4135	0
+4136	0
+4137	0
+4138	0
+4139	0
+4140	0
+4141	0
+4142	0
+4143	0
+4144	0
+4145	0
+4146	關閉
+4147	名稱
+4148	星塵外型變更
+4149	目前外型
+4150	名稱
+4151	欲變更外型
 4152	이벤트 시계
 4172	布蘿妮的成長支援 TIP
 4173	任務目標說明

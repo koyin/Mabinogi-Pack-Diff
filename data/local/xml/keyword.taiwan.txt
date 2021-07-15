@@ -17716,6 +17716,8 @@
 21945	2020冬季旺季事前活動才能任務木工技術
 21946	2020冬季旺季事前活動才能任務寵物訓練
 21947	2020冬季旺季事前活動才能任務瑪奇魔法陣
+21948	option_weapon_slot
+21949	配件武器欄位顯現觸發器
 21950	newrecordbook_2_start
 21951	newrecordbook_2_end
 21952	newrecordbook_3_start
@@ -17920,6 +17922,10 @@
 22155	可獲得雙手托腮姿勢的關鍵字
 22156	可獲得真希望我沒看到姿勢的關鍵字
 22157	可獲得戴手套姿勢的關鍵字
+22158	academyquest_guide_complete_1
+22159	academyquest_guide_complete_2
+22160	學會支援任務嚮導第1波完成 : 可接受生活反覆任務
+22161	學會支援任務嚮導第2波完成 : 可接受戰鬥反覆任務
 22162	slapmatch_event_char
 22163	slapmatch_event_daily
 22164	slapmatch_event_clear_1
@@ -17938,10 +17944,22 @@
 22177	畫片遊戲活動畫片大師初次相遇關鍵字
 22178	allow_ontact_channel
 22179	온택트 이벤트 npc 콘서트 채널 접근 제어용 키워드
+22180	show_melwyn
+22181	academyquest_etc_npc
+22182	學會支援任務 NPC 梅溫 show 關鍵字
+22183	學會支援任務其他 NPC 配置
 22184	newrecordbook_45017_3
 22185	45017 任務第三個目標(任務) 完成關鍵字
 22186	newrecordbook_event_char
 22187	布蘿妮的成長支援更新紀念活動代表角色
+22188	academyquest_etc_npc2
+22189	academyquest_etc_npc3
+22190	academyquest_etc_npc4
+22191	academyquest_etc_npc5
+22192	學會支援任務其他 NPC 配置
+22193	學會支援任務其他 NPC 配置
+22194	學會支援任務其他 NPC 配置
+22195	學會支援任務其他 NPC 配置
 22196	newrecordbook_45140_2
 22197	45140 任務與布蘿妮對話進行關鍵字
 22198	newrecordbook_45140_8
@@ -17996,8 +18014,28 @@
 22247	45141 第三個目標完成
 22248	newrecordbook_45011_start
 22249	布蘿妮的成長支援第一任務發放時, 一起發放的標記關鍵字
+22254	2020_winter_update_event_char
+22255	2020_winter_update_clear
+22256	2020_winter_event_1_complete
+22257	2020_winter_event_2_complete
+22258	2020_winter_event_3_complete
+22259	2020_winter_event_4_complete
+22260	2020_winter_event_5_complete
+22261	2020冬季旺季更新活動代表角色
+22262	2020冬季旺季更新活動達成任務完成
+22263	2020冬季旺季更新活動研究1完成
+22264	2020冬季旺季更新活動研究2完成
+22265	2020冬季旺季更新活動研究3完成
+22266	2020冬季旺季更新活動研究4完成
+22267	2020冬季旺季更新活動研究5完成
 22268	newrecordbook_change_lute
 22269	錯誤魯特琴交換發放標記關鍵字
+22277	2021_17thanniversary_event_char
+22278	2021_17thanniversary_event_daily
+22279	2021_17thanniversary_event_landmark
+22287	2021 17주년 이벤트 대표 캐릭터
+22288	2021 17주년 이벤트 일일 퀘스트 완료
+22289	2021 17주년 이벤트 랜드마크 휴식 체크 키워드
 22290	2020_winter_freeseason_char
 22291	2020_winter_freeseason_week1
 22292	2020_winter_freeseason_week2
@@ -18038,12 +18076,28 @@
 22327	프리시즌 2020 겨울 파르 던전 클리어 체크 키워드
 22340	2021_help_designer_event_char
 22341	海外 2021 設計師活動關鍵字
+22342	academyquest_2990_manus
+22343	學會支援任務杜巴頓馬努斯
+22344	academyquest_2990_aeira
+22345	學會支援任務蕾拉物件獲得確認
+22346	academyquest_bonus_01_clear
+22347	academyquest_bonus_02_clear
+22348	academyquest_bonus_03_clear
+22349	academyquest_bonus_04_clear
+22350	academyquest_bonus_05_clear
+22351	學會支援獎勵任務 01 完成
+22352	學會支援獎勵任務 02 完成
+22353	學會支援獎勵任務 03 完成
+22354	學會支援獎勵任務 04 完成
+22355	學會支援獎勵任務 05 完成
 22356	gesture_observe
 22357	gesture_Itisnot
 22358	gesture_nineteen
 22359	可獲得正在關注你姿勢的關鍵字
 22360	可獲得不是這樣姿勢的關鍵字
 22361	可獲得1990 姿勢的關鍵字
+22362	academyquest_dun_glitter
+22363	學會支援任務杜巴頓閃亮 NPC
 22368	gesture_s8_01
 22369	gesture_s8_02
 22370	gesture_s8_03
@@ -18128,5 +18182,31 @@
 22709	2021 海外FREE SEASON活動調整金等 vip
 22710	2021 海外FREE SEASON活動調整銀等 vip
 22711	2021 海外FREE SEASON活動調整銅等 vip
+22714	2021_17thanniversary_event_clear_1
+22715	2021_17thanniversary_event_clear_2
+22716	2021_17thanniversary_event_clear_3
+22717	2021 17주년 이벤트 달성 퀘스트 오브젝티브 1 클리어 키워드
+22718	2021 17주년 이벤트 달성 퀘스트 오브젝티브 2 클리어 키워드
+22719	2021 17주년 이벤트 달성 퀘스트 오브젝티브 3 클리어 키워드
+22720	2021_17thanniversary_event_daily_2
+22721	2021_17thanniversary_event_showprop_1
+22722	2021_17thanniversary_event_showprop_2
+22723	2021 17주년 이벤트 솜사탕 수령 체크 키워드
+22724	2021 17주년 이벤트 보글보글 탄산수 보이기 키워드
+22725	2021 17주년 이벤트 버려진 컵 보이기 키워드
+22726	2021_17thanniversary_event_showprop_3
+22727	2021_17thanniversary_event_helpowner
+22728	2021 17주년 이벤트 취향이 담긴 쪽지 보이기 키워드
+22729	2021 17주년 이벤트 가게 주인 도와주기 체크 키워드
+22782	2021_17thanniversary_event_showprop_4
+22783	2021 17주년 이벤트 발레스산 개암버섯 보이기 키워드
+22784	2021_17thanniversary_event_cave
+22785	2021 17주년 이벤트 시험의 동굴 입장 체크 키워드
+22786	touch_prop_17th_cow
+22787	touch_prop_17th_sheep
+22788	2021 17주년 이벤트 소 프랍 터치 가능 키워드
+22789	2021 17주년 이벤트 양 프랍 터치 가능 키워드
+22806	2021_17thanniversary_moveforce
+22807	2021 17주년 이벤트 최초 접속 시 강제 이동 키워드
 8441	일본 닌자 스킬 1랭크씩 레벨업용 키워드
 8657	일본 c3,c4 리뉴얼 퀘스트 보상 못받는 유저 케어용 키워드

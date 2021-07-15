@@ -268,6 +268,17 @@ pli_10thopenboxrewardview.1	해당 아이템이 존재하지 않습니다.\n아�
 pli_10thopenboxrewardview.2	가챠폰 보상 인벤토리를 정리하고 다시 시도해주세요.
 pli_10thopenboxrewardview.3	가챠폰 보상 인벤토리를 정리하고 다시 시도해주세요.
 pli_2014newyearrouletteview.1	需要算命錢 2個.
+pli_2020winterupdateeventmainview.1	{0}\n持有研究點數
+pli_2020winterupdateeventmainview.2	需要{0}研究點數100P.
+pli_2020winterupdateeventmainview.3	[每日] 出席{0}/1\n獎勵:研究點數+30
+pli_2020winterupdateeventmainview.4	\n\n[每日] 維持登入10分鐘{0}/10\n獎勵:研究點數+3
+pli_2020winterupdateeventmainview.5	[每日] 完成學會支援生活任務{0}/3\n獎勵:研究點數+20
+pli_2020winterupdateeventmainview.6	[每日] 完成今日任務{0}/2\n獎勵:研究點數+20
+pli_2020winterupdateeventmainview.7	\n\n[每日] 消滅100隻怪物{0}/1\n獎勵:研究點數+20
+pli_2020winterupdateeventmainview.8	[每日] 完成學會支援戰鬥任務{0}/3\n獎勵:研究點數+45
+pli_2020winterupdateeventmainview.9	[每日] 在瑪斯/萊比/巴里3種中級地下城當中完成1種{0}/1\n獎勵:研究點數+40
+pli_2020winterupdateeventmainview.10	\n\n[每日] 完成以下4種任務的其中1個:塔拉任務 - 影子世界的冠軍,參戰的狙擊手和塔爾汀任務 - 全面開戰,以夷制夷{0}/1\n獎勵:研究點數+40
+pli_2020winterupdateeventmainview.11	\n\n[特別] 首次完成7種新地下城及任務\n*完成瑪斯中級地下城{0}/1\n獎勵:研究點數+100\n\n*完成萊比中級地下城{1}/1\n獎勵:研究點數+100\n\n*完成巴里中級地下城{2}/1\n獎勵:研究點數+100\n\n*[塔拉] 完成影子世界的冠軍任務{3}/1\n獎勵:研究點數+100\n\n*[塔拉] 完成參戰的狙擊手任務{4}/1\n獎勵:研究點數+100\n\n*[塔爾汀] 完成全面開戰任務{5}/1\n獎勵:研究點數+100\n\n*[塔爾汀] 完成以夷制夷任務{6}/1\n獎勵:研究點數+100\n
 pli_additionalequipmentpocketview.1	단축키 슬롯에 등록 후 적용할 수 있습니다.
 pli_additionalequipmentpocketview.2	아이템 설정이 적용되었습니다.
 pli_additionalequipsystemview.1	需購買額外裝備欄位使用券.
@@ -481,6 +492,9 @@ pli_bagtagview.4	取消
 pli_balloonpopminigameresultview.1	持有紀錄時間 : {0}
 pli_balloonpopminigameresultview.2	{0}\n{1}個*10秒\n第{2}名
 pli_balloonpopminigameview.1	要結束氣球消消樂迷你遊戲嗎?\n現在結束的話, 將不會儲存迷你遊戲紀錄.
+pli_balloonpopminigameview.2	경과시간
+pli_balloonpopminigameview.3	제한시간
+pli_balloonpopnorankminigameresultview.1	{0}\n{1}개
 pli_banquetchangetabletalkthemeview.1	餐點主題變更
 pli_banquetchangetabletalkthemeview.2	現在主題 : {0}\
 pli_banquetchangetabletalkthemeview.3	目前沒有餐點的主題.
@@ -3078,6 +3092,25 @@ pli_onlineconcertview.4	아직 콘서트 시간이 아닙니다.
 pli_onlineconcertview.5	별이 빛나는 에린 콘서트를 시청합니다.
 pli_ontimerewardconfirmview.1	{0} {1}個
 pli_ontimerewardconfirmview.2	<color={0}><outlinecolor=4>{1}年 {2}月 {3}日 {4}時 {5}分</outlinecolor></color>為止 <color={0}><outlinecolor=4>{6}</outlinecolor></color>進行中.
+pli_optionweaponmainview.1	開放效果
+pli_optionweaponmainview.2	所有效果
+pli_optionweaponmainview.3	確定要消耗材料提升 {1}等級 {0}的等級嗎?
+pli_optionweaponmainview.4	確定要消耗材料將星塵提升至 {0}等級嗎?
+pli_optionweaponmainview.5	確認
+pli_optionweaponmainview.6	{0} 等級
+pli_optionweaponmainview.7	星塵等級上升
+pli_optionweaponmainview.8	支援效果等級上升
+pli_optionweaponmainview.9	需要金幣 : {0} Gold
+pli_optionweaponmainview.10	下一等級 : {0}等級\n將開放效果 : {1}\n{2}
+pli_optionweaponmainview.11	{0}/{1}
+pli_optionweaponmainview.12	0/0
+pli_optionweaponmainview.13	僅在持有星塵時可以開啟.
+pli_optionweaponmainview.14	支援效果傷害 %g倍
+pli_optionweaponmainview.15	等級上升
+pli_optionweaponmainview.16	等級上升
+pli_optionweaponmainview.17	成功率 : {0}%
+pli_optionweaponshapeview.1	確定要將星塵外型變更為 {0}嗎?
+pli_optionweaponshapeview.2	確認
 pli_oxquizquestionview.1	\n\n{0}秒
 pli_oxquizquestionview.2	\n\n{0}秒
 pli_oxquizquestionview.3	\n\n<color=4>{0}秒</color>
@@ -3509,10 +3542,10 @@ pli_promotionresultview.17	合格
 pli_promotionresultview.18	成功
 pli_promotionresultview.19	失敗
 pli_promotionresultview.20	升段考試結果
-pli_promotionskilltrainview.1	아이템을 사용할 수 없습니다.
-pli_promotionskilltrainview.2	확인된 승단 조건이 없습니다.
-pli_promotionskilltrainview.3	아직 모르는 수련 방법
-pli_promotionskilltrainview.4	수련할 수 없습니다.
+pli_promotionskilltrainview.1	無法使用物品.
+pli_promotionskilltrainview.2	沒有確認的升段條件.
+pli_promotionskilltrainview.3	未知的修煉方法
+pli_promotionskilltrainview.4	無法修練.
 pli_promotionsuccessview.1	\n{2} 通過\n{0} {1} 升段考試!\n通過後\n可累積修練值來提升\n段位.
 pli_promotionwarpview.1	距離升段考試開始還有 {0}.\n前往升段考試等候室嗎?
 pli_promotionwarpview.2	升段考試通知
@@ -4926,6 +4959,7 @@ pli_windowhinventory.43	裝有使用賓果與點數道具後獲得的道具的�
 pli_windowhinventory.44	賓果及點數道具與卡拉希克的冒險箱子使用後,獲得道具中包含的背包.
 pli_windowhinventory.46	有效期限已過的道具統一銷毀及確認即將過期的道具.
 pli_windowhinventory.47	有效期限已過的道具統一銷毀及確認即將過期的道具.
+pli_windowhinventory.49	可以裝備星塵.
 pli_windowhousebiddinglistboard.1	地址
 pli_windowhousebiddinglistboard.2	房屋種類
 pli_windowhousebiddinglistboard.3	在小地圖上表示為選擇的房屋位置.
@@ -5102,6 +5136,7 @@ pli_windowlogin.50	在NGS中發現資安問題因此結束連線.
 pli_windowlogin.51	마비노기ID는 영문/숫자만 입력할 수 있습니다.
 pli_windowlogin.54	일일 이용 가능한 게임 시간대를 초과했습니다. 휴식과 공부에 주의하시길 바랍니다.
 pli_windowlogin.56	관리자에 의해 로그아웃 되었습니다. 021-34144567 고객센터로 연락 바랍니다.
+pli_windowlogin.57	인증하러 가기
 pli_windowlostandfound.1	結束
 pli_windowlostnfoundpocket.1	價格資訊
 pli_windowmailboxframes.1	寄件者
@@ -5984,6 +6019,7 @@ pli_windowpopupitem.59	魔法盾發動
 pli_windowpopupitem.60	金幣收集功能未發動
 pli_windowpopupitem.61	金幣收集功能發動
 pli_windowpopupitem.62	預覽
+pli_windowpopupitem.63	星塵資訊
 pli_windowpopupprop.0	使用費設定
 pli_windowpopupprop.1	改變方向
 pli_windowpopupprop.2	打開背包
@@ -6325,6 +6361,10 @@ pli_windowskill.19	 相關
 pli_windowskill.20	 相關
 pli_windowskill.21	綜合戰鬥技能等級:{0}
 pli_windowskill.22	綜合生活技能等級:{0}
+pli_windowskill.23	戰鬥才能及戰鬥相關隱藏技能每升1級上升1.
+pli_windowskill.24	生活才能及生活相關隱藏技能每升1級上升1.
+pli_windowskill.25	戰鬥才能及戰鬥相關隱藏技能每升1級上升1.
+pli_windowskill.26	生活才能及生活相關隱藏技能每升1級上升1.
 pli_windowskillbar.0	變更快捷鍵設定.快捷鍵 (Left Shift + Tab)
 pli_windowskillbar.1	變更快捷鍵位置.\n(快捷鍵 'Left Shift + Tab')
 pli_windowskillbar.2	沒有可以使用的 {0}
@@ -6366,6 +6406,7 @@ pli_windowskillframe2.11	AP 修練
 pli_windowskillframe2.12	管理
 pli_windowskillframe2.13	此為達成1等級時可升段的技能.
 pli_windowskillframe2.14	此為可升段的技能.
+pli_windowskillframe2.15	{0} 等級
 pli_windowskillframes.1	修練\nTrain
 pli_windowskillframes.2	最高等級 : {0}
 pli_windowskillframes.3	修練獎勵 (2倍)
