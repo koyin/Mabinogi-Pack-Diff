@@ -923,6 +923,10 @@ pleionehotkeytext.145	布蘿妮的成長支援
 pleionehotkeytext.146	特性
 pleionehotkeytext.147	追加上端技能欄位轉換
 pleionehotkeytext.148	互動養成
+pleionehotkeytext.149	轉換為9號裝備欄位
+pleionehotkeytext.150	轉換為10號裝備欄位
+pleionehotkeytext.151	轉換為11號裝備欄位
+pleionehotkeytext.152	轉換為12號裝備欄位
 pleionehotkeytext.153	精靈視窗
 pleionehotkeytext.154	寵物/夥伴狀態查看
 pleionehotkeytext.155	寵物朋友召喚1號欄位
@@ -2741,6 +2745,7 @@ plw_relationmgr.44	請稍後再試.
 plw_reputationcomponent.1	從{0}{}
 plw_reputationcomponent.2	評價增加 %.1f .
 plw_reputationcomponent.3	從{0}的評價 
+plw_reputationcomponent.4	(평판 경험치 {0}배)
 plw_rockpaperscissorscomponent.1	對方拒絕進行剪刀石頭布.
 plw_rockpaperscissorscomponent.2	{0}申請參加剪刀石頭布.要回應嗎?
 plw_rockpaperscissorscomponent.3	沒有可使用的對決卷.
@@ -2805,6 +2810,7 @@ plw_specialization.1	[{0}] 組合的內容已儲存.
 plw_specialization.2	[{0}] 組合的特性已啟動.
 plw_specialization.3	{0}增加了{1}.
 plw_specialization.4	已儲存所有組合的內容.
+plw_specialization.5	(브리 획득 {0}배)
 plw_summonmaster.1	此寵物搭乘中無法召喚.
 plw_summonmaster.2	技能使用中無法將寵物解除召喚.
 plw_summonmaster.3	與夥伴對話中無法解除召喚.

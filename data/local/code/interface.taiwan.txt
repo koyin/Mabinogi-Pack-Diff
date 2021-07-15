@@ -1429,6 +1429,7 @@ pli_egoweaponfeedframe.15	持有的道具可依照種類來選擇瀏覽.
 pli_egoweaponfeedframe.16	目前互動度Bonus Point : {0}\n<color=5>最大互動度Bonus Point : {1}</color>
 pli_egoweaponfeedframe.17	<color=5>(沒有可獲得的經驗值.)</color>
 pli_egoweaponfeedframe.18	喜好寶石
+pli_egoweaponfeedframe.28	(경험치 %d배)
 pli_egoweaponfoodframe.1	提醒
 pli_egoweaponfoodframe.2	道具最多可選擇{0}個.
 pli_egoweaponfoodframe.3	提醒
@@ -4369,6 +4370,7 @@ pli_usercreateddungeonview.36	遠距離武器瞄準速度
 pli_usercreateddungeonview.37	採集能力
 pli_usercreateddungeonview.38	出血
 pli_usercreateddungeonview.39	{0} {1} {2} {3}
+pli_usercreateddungeonview.40	騎士團之場
 pli_usercreatedtotemcomposeview.1	請放上要作為材料的徽章.
 pli_usercreatedtotemcomposeview.2	{0} LV{1} -> {2} LV{3}\n
 pli_usercreatedtotemcomposeview.3	{0} LV1 增加\n
@@ -6623,6 +6625,7 @@ pli_windowtaskbaraction.24	現在為無法使用的狀態.
 pli_windowtaskbaraction.25	召喚寵物後可以看到技能.
 pli_windowtaskbaraction.26	為了進行布蘿妮的成長支援,必須先完成新手教學.
 pli_windowtaskbaraction.27	請先完成'[成長支援] 隨風而來的青草香' 任務.
+pli_windowtaskbaraction.28	현재 접속한 국가에서는 경매장을 이용할 수 없습니다.
 pli_windowtaskbarshadowmission.1	想要從劇場出去請按下按鈕.
 pli_windowtaskbarshadowmission.2	想要查看劇本時請點擊按鈕.
 pli_windowtaskbarshadowmission.3	要從劇場中出去嗎?

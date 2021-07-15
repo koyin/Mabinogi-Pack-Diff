@@ -547,14 +547,14 @@ mabinogi_gameword.30	人偶生命力
 mabinogi_gameword.31	人偶防禦
 mabinogi_gameword.32	人偶保護
 mabinogi_gameword.33	人偶魔法防禦
-mabinogi_gameword.34	增加人偶操縱術最小損害
-mabinogi_gameword.35	增加人偶操縱術最大損害 
-mabinogi_gameword.36	增加人偶操縱術暴擊率 
-mabinogi_gameword.37	增加人偶操縱術平衡度 
-mabinogi_gameword.38	增加偶然的衝突靜止時間 
-mabinogi_gameword.39	增加嫉妒的化身損害 
-mabinogi_gameword.40	增加誘惑的圈套功擊範圍
-mabinogi_gameword.41	增加狂亂的奔走損害 
+mabinogi_gameword.34	人偶操縱術最小損害
+mabinogi_gameword.35	人偶操縱術最大損害 
+mabinogi_gameword.36	人偶操縱術暴擊率 
+mabinogi_gameword.37	人偶操縱術平衡度 
+mabinogi_gameword.38	偶然的衝突靜止時間 
+mabinogi_gameword.39	嫉妒的化身損害 
+mabinogi_gameword.40	誘惑的圈套功擊範圍
+mabinogi_gameword.41	狂亂的奔走損害 
 mabinogi_gameword.42	第二幕: 激增的憤怒3擊損害 
 mabinogi_gameword.43	生產物品質
 mabinogi_gameword.44	鍊金術成功率增加
